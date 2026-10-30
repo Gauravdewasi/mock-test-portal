@@ -1,0 +1,1195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mock Test Portal</title>
+  <style>
+    :root {
+      --red: #d32f2f;
+      --red-dark: #b71c1c;
+      --red-light: #fdecea;
+      --border: #e0e0e0;
+      --bg: #f9fafb;
+      --text: #1f2937;
+      --muted: #6b7280;
+      --green: #16a34a;
+      --neutral: #262626;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', Roboto, Arial, sans-serif; }
+    body { background: var(--bg); color: var(--text); min-height: 100vh; display: flex; flex-direction: column; }
+
+    /* Header */
+    header {
+      background: #ffffff;
+      border-bottom: 2px solid var(--red);
+      padding: 12px 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      position: sticky;
+      top: 0;
+      z-index: 50;
+    }
+    .brand { font-size: 20px; font-weight: 800; color: var(--red); letter-spacing: 0.5px; }
+    .btn {
+      padding: 9px 18px;
+      border-radius: 6px;
+      font-weight: 600;
+      font-size: 14px;
+      cursor: pointer;
+      border: 1px solid transparent;
+      transition: 0.15s;
+    }
+    .btn-red { background: var(--red); color: #fff; }
+    .btn-red:hover { background: var(--red-dark); }
+    .btn-outline { background: #fff; color: var(--red); border-color: var(--red); }
+    .btn-outline:hover { background: var(--red-light); }
+    .btn-gray { background: #f3f4f6; color: #374151; border-color: #d1d5db; }
+    .btn-gray:hover { background: #e5e7eb; }
+
+    .container { max-width: 1100px; margin: 24px auto; padding: 0 16px; width: 100%; flex: 1; }
+    .hidden { display: none !important; }
+
+    /* Lockout Screen */
+    #lockoutScreen {
+      position: fixed; inset: 0; background: #fff; z-index: 9999;
+      display: flex; flex-direction: column; align-items: center; justify-content: center;
+      padding: 24px; text-align: center;
+    }
+    .lock-box {
+      max-width: 460px; border: 2px solid var(--red); background: var(--red-light);
+      padding: 32px; border-radius: 12px;
+    }
+    .lock-box h1 { color: var(--red-dark); font-size: 24px; margin-bottom: 12px; }
+    .lock-box p { color: #374151; font-size: 15px; line-height: 1.5; margin-bottom: 16px; }
+    .lock-timer { font-size: 22px; font-weight: 800; color: var(--red); background: #fff; padding: 10px 18px; border-radius: 8px; display: inline-block; border: 1px solid var(--red); }
+
+    /* Dashboard Books & Topics */
+    .card {
+      background: #fff; border: 1px solid var(--border); border-radius: 8px;
+      padding: 20px; margin-bottom: 16px;
+    }
+    .book-item {
+      border: 1px solid var(--border); border-radius: 8px; margin-bottom: 12px; overflow: hidden;
+    }
+    .book-header {
+      padding: 14px 18px; background: #fff; display: flex; justify-content: space-between;
+      align-items: center; cursor: pointer; font-weight: 700; font-size: 16px;
+      border-left: 4px solid var(--red);
+    }
+    .book-header:hover { background: var(--red-light); }
+    .subject-tag {
+      background: var(--red-light); color: var(--red-dark); font-size: 12px;
+      padding: 3px 10px; border-radius: 99px; font-weight: 700; margin-left: 10px;
+    }
+    .topic-list {
+      padding: 14px 18px; background: #fafafa; border-top: 1px solid var(--border);
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 10px;
+    }
+    .topic-label {
+      display: flex; align-items: center; gap: 8px; padding: 10px 12px;
+      background: #fff; border: 1px solid var(--border); border-radius: 6px;
+      cursor: pointer; font-size: 14px; font-weight: 500;
+    }
+    .topic-label:hover { border-color: var(--red); }
+    .topic-label input { accent-color: var(--red); width: 16px; height: 16px; }
+
+    /* Bottom Start Bar */
+    .start-bar {
+      background: #fff; border: 1px solid var(--border); border-top: 3px solid var(--red);
+      border-radius: 8px; padding: 18px 20px; margin-top: 20px;
+      display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 16px;
+    }
+    .timer-toggle-area { display: flex; flex-direction: column; gap: 10px; }
+    .timer-inputs { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 6px; }
+    .timer-chip {
+      display: flex; align-items: center; gap: 6px; background: var(--red-light);
+      padding: 6px 12px; border-radius: 6px; font-size: 13px; font-weight: 600; color: var(--red-dark);
+    }
+    .timer-chip input {
+      width: 60px; padding: 4px 6px; border: 1px solid var(--red); border-radius: 4px; font-weight: 700;
+    }
+
+    /* Modals */
+    .modal-backdrop {
+      position: fixed; inset: 0; background: rgba(0,0,0,0.55); z-index: 100;
+      display: flex; align-items: center; justify-content: center; padding: 16px;
+    }
+    .modal {
+      background: #fff; border-radius: 8px; max-width: 820px; width: 100%;
+      max-height: 90vh; overflow-y: auto; padding: 24px; border-top: 4px solid var(--red);
+    }
+    .modal h2 { font-size: 18px; color: var(--red-dark); margin-bottom: 14px; }
+    .symbol-table, .review-table { width: 100%; border-collapse: collapse; font-size: 14px; margin-bottom: 18px; }
+    .symbol-table th, .symbol-table td, .review-table th, .review-table td {
+      border: 1px solid var(--border); padding: 10px 12px; text-align: left;
+    }
+    .symbol-table th, .review-table th { background: var(--red-light); color: var(--red-dark); font-weight: 700; }
+
+    /* Exam Screen Layout */
+    #examScreen { display: flex; flex-direction: column; height: calc(100vh - 55px); }
+    .exam-topbar {
+      background: #fff; border-bottom: 1px solid var(--border); padding: 10px 20px;
+      display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;
+    }
+    .sec-tabs { display: flex; gap: 8px; flex-wrap: wrap; }
+    .sec-tab {
+      padding: 7px 16px; border-radius: 6px; border: 1px solid var(--border);
+      background: #fff; font-weight: 700; font-size: 13px; cursor: pointer;
+    }
+    .sec-tab.active { background: var(--red); color: #fff; border-color: var(--red); }
+    .timer-badge {
+      background: var(--red-light); color: var(--red-dark); border: 1px solid var(--red);
+      padding: 6px 14px; border-radius: 6px; font-weight: 800; font-size: 15px;
+    }
+
+    .exam-body { display: flex; flex: 1; overflow: hidden; }
+    /* Left Question Area */
+    .q-area {
+      flex: 1; background: #fff; display: flex; flex-direction: column;
+      justify-content: space-between; border-right: 1px solid var(--border); overflow-y: auto;
+    }
+    .q-content { padding: 24px; }
+    .q-header {
+      display: flex; justify-content: space-between; align-items: center;
+      padding-bottom: 12px; border-bottom: 1px solid var(--border); margin-bottom: 18px;
+    }
+    .q-num { font-size: 16px; font-weight: 800; color: var(--red); }
+    .q-topic-pill {
+      font-size: 12px; font-weight: 700; background: #f3f4f6; color: #374151;
+      padding: 4px 10px; border-radius: 4px;
+    }
+    .q-text { font-size: 17px; line-height: 1.6; margin-bottom: 22px; font-weight: 500; white-space: pre-line; }
+    .opt-list { display: flex; flex-direction: column; gap: 12px; max-width: 680px; }
+    .opt-item {
+      display: flex; align-items: center; gap: 12px; padding: 12px 16px;
+      border: 1px solid var(--border); border-radius: 6px; cursor: pointer; transition: 0.12s;
+    }
+    .opt-item:hover { background: #fafafa; border-color: var(--red); }
+    .opt-item.selected { background: var(--red-light); border-color: var(--red); font-weight: 600; }
+    .opt-radio {
+      width: 18px; height: 18px; border-radius: 50%; border: 2px solid #9ca3af;
+      display: flex; align-items: center; justify-content: center; flex-shrink: 0;
+    }
+    .opt-item.selected .opt-radio { border-color: var(--red); }
+    .opt-item.selected .opt-radio::after {
+      content: ''; width: 10px; height: 10px; background: var(--red); border-radius: 50%;
+    }
+
+    /* Bottom Action Bar inside Left Area */
+    .q-footer {
+      padding: 14px 24px; background: #fff; border-top: 1px solid var(--border);
+      display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;
+      position: sticky; bottom: 0;
+    }
+
+    /* Right Question Palette */
+    .palette-area {
+      width: 310px; background: #fafafa; display: flex; flex-direction: column;
+      justify-content: space-between; padding: 16px; overflow-y: auto; flex-shrink: 0;
+    }
+    .palette-stats {
+      display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-bottom: 14px;
+      padding-bottom: 12px; border-bottom: 1px solid var(--border); font-size: 12px; font-weight: 600;
+    }
+    .stat-row { display: flex; align-items: center; gap: 8px; }
+    .dot {
+      width: 24px; height: 24px; border-radius: 50%; display: inline-flex;
+      align-items: center; justify-content: center; color: #fff; font-weight: 700; font-size: 11px;
+    }
+    .dot-green { background: var(--green); }
+    .dot-red { background: var(--red); }
+    .dot-black { background: var(--neutral); }
+    .dot-review { background: #eab308; color: #000; }
+
+    .circle-grid {
+      display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px;
+      max-height: 360px; overflow-y: auto; padding: 4px;
+    }
+    .q-circle {
+      width: 40px; height: 40px; border-radius: 50%; border: none;
+      font-weight: 700; font-size: 13px; cursor: pointer; color: #fff;
+      background: var(--neutral); display: flex; align-items: center; justify-content: center;
+    }
+    .q-circle.current { outline: 3px solid var(--red); outline-offset: 2px; }
+    .q-circle.st-answered { background: var(--green); }
+    .q-circle.st-not-answered { background: var(--red); }
+    .q-circle.st-review { background: var(--red); position: relative; }
+    .q-circle.st-review::after { content: '▲'; position: absolute; bottom: -7px; color: #000; font-size: 9px; }
+    .q-circle.st-ans-review { background: #eab308; color: #000; position: relative; }
+    .q-circle.st-ans-review::after { content: '▲'; position: absolute; bottom: -7px; color: #000; font-size: 9px; }
+
+    /* Standalone Result Boxes */
+    .box-grid {
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+      gap: 16px; margin-bottom: 28px;
+    }
+    .stat-box {
+      background: #fff; border: 1px solid var(--border); border-top: 4px solid var(--red);
+      border-radius: 8px; padding: 18px; text-align: center; box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+    }
+    .stat-box .lbl { font-size: 13px; color: var(--muted); font-weight: 600; margin-bottom: 8px; text-transform: uppercase; }
+    .stat-box .val { font-size: 26px; font-weight: 800; color: var(--text); }
+    .stat-box.highlight { background: var(--red-light); border-color: var(--red); }
+    .stat-box.highlight .val { color: var(--red-dark); }
+
+    /* Subject-wise Standalone Boxes */
+    .subject-box-grid {
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 18px; margin-bottom: 32px;
+    }
+    .subject-card-box {
+      background: #fff; border: 1px solid var(--border); border-left: 5px solid var(--red);
+      border-radius: 8px; padding: 18px; box-shadow: 0 2px 4px rgba(0,0,0,0.04);
+    }
+    .subject-card-box h4 { color: var(--red-dark); font-size: 16px; margin-bottom: 4px; }
+    .subject-card-box .sub-meta { font-size: 12px; color: var(--muted); margin-bottom: 14px; font-weight: 600; }
+    .sub-mini-stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; text-align: center; }
+    .sub-mini-item { background: #f9fafb; border: 1px solid var(--border); border-radius: 6px; padding: 8px; }
+    .sub-mini-item span { display: block; font-size: 11px; color: var(--muted); font-weight: 600; }
+    .sub-mini-item strong { font-size: 16px; color: var(--text); }
+
+    /* Solutions */
+    .sol-card {
+      background: #fff; border: 1px solid var(--border); border-radius: 8px;
+      padding: 18px; margin-bottom: 14px;
+    }
+    .hinglish-box {
+      margin-top: 12px; background: var(--red-light); border-left: 4px solid var(--red);
+      padding: 12px 14px; border-radius: 4px; font-size: 14.5px; line-height: 1.5;
+    }
+
+    /* Form Inputs */
+    .form-group { margin-bottom: 14px; }
+    .form-group label { display: block; font-size: 13px; font-weight: 700; margin-bottom: 6px; }
+    .form-group input, .form-group textarea {
+      width: 100%; padding: 10px; border: 1px solid var(--border); border-radius: 6px; font-size: 14px;
+    }
+    @media (max-width: 768px) {
+      .exam-body { flex-direction: column; overflow-y: auto; }
+      .palette-area { width: 100%; border-top: 2px solid var(--red); }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- 24-HOUR LOCKOUT SCREEN -->
+  <div id="lockoutScreen" class="hidden">
+    <div class="lock-box">
+      <h1>Website Blocked for 24 Hours</h1>
+      <p>You have entered the wrong Admin Password 3 times. Your session is locked for security reasons.</p>
+      <div class="lock-timer" id="lockoutCountdown">24:00:00</div>
+    </div>
+  </div>
+
+  <!-- TOP HEADER -->
+  <header>
+    <div class="brand">MOCK TEST PORTAL</div>
+    <div style="display:flex; gap:10px;">
+      <button class="btn btn-outline" id="homeNavBtn" onclick="goHome()">Home</button>
+      <button class="btn btn-red" id="adminNavBtn" onclick="openAdminLogin()">Admin Panel</button>
+    </div>
+  </header>
+
+  <!-- 1. HOME / DASHBOARD SCREEN -->
+  <div class="container" id="homeScreen">
+    <div class="card">
+      <h2 style="color:var(--red-dark); margin-bottom:6px;">Select Book & Topics for Test</h2>
+      <p style="font-size:13px; color:var(--muted); margin-bottom:16px;">
+        Ek hi book ke multiple topics tick karne par woh ek hi combined section mein aayenge. Jab doosri book tick karoge tab naya section banega. (Default Negative Marking: 1/4)
+      </p>
+      <div id="booksContainer">Loading tests...</div>
+
+      <!-- Simple Bottom Controls -->
+      <div class="start-bar">
+        <div class="timer-toggle-area">
+          <label style="display:flex; align-items:center; gap:8px; font-weight:700; cursor:pointer;">
+            <input type="checkbox" id="customTimerToggle" style="accent-color:var(--red); width:17px; height:17px;" onchange="renderTimerInputs()" />
+            Set Sectional / Custom Timer (Minutes)
+          </label>
+          <span style="font-size:12px; color:var(--muted);">Unchecked = No time limit (Apne hisab se bina timer ke attempt karein)</span>
+          <div id="sectionalTimerInputs" class="timer-inputs hidden"></div>
+        </div>
+        <button class="btn btn-red" style="padding:12px 26px; font-size:15px;" onclick="openSymbolsPopup()">Start Mock Test</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- 2. SYMBOLS INSTRUCTION POPUP (symbo.jpg) -->
+  <div id="symbolsModal" class="modal-backdrop hidden">
+    <div class="modal">
+      <h2>The different symbols used in the next pages are shown below. Please go through them and understand their meaning before you start the test.</h2>
+      <table class="symbol-table">
+        <thead>
+          <tr><th style="width:150px;">Symbol</th><th>Description</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>⚪</td><td>Option Not chosen</td></tr>
+          <tr><td>🔘</td><td>Option chosen as correct (By clicking on it again you can delete your option and choose another option if desired.)</td></tr>
+          <tr><td><span class="dot dot-black">12</span></td><td>Question number shown in black/neutral color indicates that you have not yet visited/attempted the question.</td></tr>
+          <tr><td><span class="dot dot-green">13</span></td><td>Question number shown in green color indicates that you have answered the question.</td></tr>
+          <tr><td><span class="dot dot-red">14</span> ▲</td><td>You have not yet answered the question (or marked it for review later).</td></tr>
+          <tr><td><span class="dot dot-review">15</span> ▲</td><td>You have answered the question, but marked it for review later, if time permits.</td></tr>
+          <tr><td><span class="btn btn-red" style="padding:4px 10px; font-size:12px;">Save & Next</span></td><td>Clicking on this will save your answer and take you to the next question.</td></tr>
+          <tr><td><span class="btn btn-gray" style="padding:4px 10px; font-size:12px;">Previous</span></td><td>Clicking on this will take you to the previous question.</td></tr>
+          <tr><td><span class="btn btn-outline" style="padding:4px 10px; font-size:12px;">Mark for Review</span></td><td>By clicking on this button, you can mark the question for review later.</td></tr>
+        </tbody>
+      </table>
+      <div style="display:flex; justify-content:space-between; align-items:center;">
+        <button class="btn btn-gray" onclick="closeSymbolsPopup()">Cancel</button>
+        <button class="btn btn-red" style="padding:10px 24px; font-size:15px;" onclick="beginMockTest()">I am ready to begin</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- 3. EXAM INTERFACE -->
+  <div id="examScreen" class="hidden">
+    <div class="exam-topbar">
+      <div class="sec-tabs" id="sectionTabs"></div>
+      <div class="timer-badge" id="timerDisplay">Time: 00:00</div>
+    </div>
+
+    <div class="exam-body">
+      <!-- Left: Question Display + Bottom Buttons -->
+      <div class="q-area">
+        <div class="q-content">
+          <div class="q-header">
+            <span class="q-num" id="qNumberLabel">Question 1</span>
+            <span class="q-topic-pill" id="qTopicBadge">Topic</span>
+          </div>
+          <div class="q-text" id="qTextDisplay"></div>
+          <div class="opt-list" id="optionsContainer"></div>
+        </div>
+
+        <div class="q-footer">
+          <div style="display:flex; gap:10px;">
+            <button class="btn btn-gray" onclick="prevQuestion()">Previous</button>
+            <button class="btn btn-outline" id="reviewBtn" onclick="toggleReview()">Mark for Review</button>
+          </div>
+          <button class="btn btn-red" style="padding:10px 24px;" onclick="saveAndNext()">Save & Next</button>
+        </div>
+      </div>
+
+      <!-- Right: Circle Question Palette -->
+      <div class="palette-area">
+        <div>
+          <div style="font-weight:800; font-size:14px; margin-bottom:10px; color:var(--red-dark);">Question Palette</div>
+          <div class="palette-stats">
+            <div class="stat-row"><span class="dot dot-green" id="cntAnswered">0</span> Answered</div>
+            <div class="stat-row"><span class="dot dot-red" id="cntNotAnswered">0</span> Not Answered</div>
+            <div class="stat-row"><span class="dot dot-black" id="cntNotVisited">0</span> Not Visited</div>
+            <div class="stat-row"><span class="dot dot-review" id="cntReview">0</span> Marked Review</div>
+          </div>
+          <div class="circle-grid" id="paletteGrid"></div>
+        </div>
+        <button class="btn btn-red" style="width:100%; padding:12px; font-size:15px; margin-top:16px;" onclick="openSubmitModal()">Submit Test</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- 4. REVIEW BEFORE SUBMITTING POPUP (submit.png) -->
+  <div id="submitModal" class="modal-backdrop hidden">
+    <div class="modal">
+      <h2>Review Test Before Submitting</h2>
+      <table class="review-table">
+        <thead>
+          <tr>
+            <th>Section / Topic</th>
+            <th>Total Questions</th>
+            <th>Answered</th>
+            <th>Not Answered</th>
+            <th>Marked Review</th>
+            <th>Not Visited</th>
+          </tr>
+        </thead>
+        <tbody id="submitSummaryBody"></tbody>
+      </table>
+      <div style="display:flex; justify-content:flex-end; gap:12px;">
+        <button class="btn btn-gray" onclick="closeSubmitModal()">Back to Test</button>
+        <button class="btn btn-red" onclick="finalizeResult()">Submit Test</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- 5. RESULT & HINGLISH SOLUTIONS SCREEN -->
+  <div class="container hidden" id="resultScreen">
+    <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:16px;">
+      <h2 style="color:var(--red-dark);">Final Test Result Summary (Combined)</h2>
+      <button class="btn btn-outline" onclick="goHome()">Back to Home</button>
+    </div>
+
+    <!-- Standalone Overall Summary Boxes -->
+    <div class="box-grid" id="overallResultBoxes"></div>
+
+    <!-- Subject-Wise Standalone Boxes -->
+    <h3 style="color:var(--red-dark); margin:24px 0 12px;">Subject / Book-Wise Score Breakdown</h3>
+    <div class="subject-box-grid" id="subjectResultBoxes"></div>
+
+    <!-- Hinglish Solutions Panel -->
+    <div class="card">
+      <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:16px;">
+        <h3 style="color:var(--red-dark);">Detailed Solutions (Hinglish Explanation)</h3>
+        <div style="display:flex; gap:8px;">
+          <button class="btn btn-red" id="fltWrong" onclick="renderSolutions('wrong')">Wrong Questions</button>
+          <button class="btn btn-outline" id="fltUnattempted" onclick="renderSolutions('unattempted')">Unattempted</button>
+          <button class="btn btn-outline" id="fltAll" onclick="renderSolutions('all')">All Questions</button>
+        </div>
+      </div>
+      <div id="solutionsList"></div>
+    </div>
+  </div>
+
+  <!-- 6. ADMIN LOGIN MODAL -->
+  <div id="adminLoginModal" class="modal-backdrop hidden">
+    <div class="modal" style="max-width:420px;">
+      <h2>Admin Access</h2>
+      <p style="font-size:13px; color:var(--muted); margin-bottom:12px;">
+        Warning: 3 wrong password attempts will block your device for 24 hours.
+      </p>
+      <div class="form-group">
+        <label>Enter Admin Password</label>
+        <input type="password" id="adminPassInput" placeholder="Enter password..." />
+      </div>
+      <div id="loginErrorMsg" style="color:var(--red); font-size:13px; font-weight:700; margin-bottom:10px;"></div>
+      <div style="display:flex; justify-content:flex-end; gap:10px;">
+        <button class="btn btn-gray" onclick="closeAdminLogin()">Cancel</button>
+        <button class="btn btn-red" onclick="verifyAdmin()">Login</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- 7. ADMIN UPLOAD PANEL -->
+  <div class="container hidden" id="adminPanelScreen">
+    <div class="card">
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:16px;">
+        <h2 style="color:var(--red-dark);">Admin Panel - Direct Test Upload to GitHub</h2>
+        <button class="btn btn-outline" onclick="goHome()">Close Admin</button>
+      </div>
+
+      <div style="background:var(--red-light); padding:14px; border-radius:6px; margin-bottom:18px; font-size:13px;">
+        <strong>One-Time GitHub Setup:</strong> Apna GitHub Username, Repository Name (`mock-test-portal`), aur Secret Token (`ghp_...`) niche save kar do. Iske baad jab bhi koi JSON file upload ya paste karoge, woh seedha GitHub repository mein live add ho jayegi!
+      </div>
+
+      <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap:12px;">
+        <div class="form-group">
+          <label>GitHub Username</label>
+          <input type="text" id="ghOwner" placeholder="e.g. gauravdewasi" />
+        </div>
+        <div class="form-group">
+          <label>Repository Name</label>
+          <input type="text" id="ghRepo" value="mock-test-portal" />
+        </div>
+        <div class="form-group">
+          <label>GitHub Token (ghp_...)</label>
+          <input type="password" id="ghToken" placeholder="Paste ghp_ token here" />
+        </div>
+      </div>
+      <button class="btn btn-gray" style="margin-bottom:20px;" onclick="saveGhConfig()">Save GitHub Connection</button>
+
+      <hr style="border:none; border-top:1px solid var(--border); margin:16px 0;" />
+
+      <h3 style="color:var(--red-dark); margin-bottom:12px;">Upload New Test (JSON File or Paste JSON)</h3>
+      <div class="form-group">
+        <label>Option 1: Select .json File</label>
+        <input type="file" id="jsonFileInput" accept=".json" onchange="handleFileSelect(event)" />
+      </div>
+      <div class="form-group">
+        <label>Option 2: Or Paste JSON Code directly from Gemini</label>
+        <textarea id="jsonPasteInput" rows="8" placeholder='{"book": "Error Pro - Aman Sir", "subject": "English", "topic": "Noun", "questions": [...]}'></textarea>
+      </div>
+      <button class="btn btn-red" id="uploadBtn" onclick="uploadTestToGitHub()">Add Test to Website</button>
+      <div id="uploadStatus" style="margin-top:12px; font-weight:700; font-size:14px;"></div>
+    </div>
+  </div>
+
+  <script>
+    // ================= SECURITY & 24-HOUR LOCKOUT =================
+    const ADMIN_PASS = "@Sugnaram77";
+    const LOCK_DURATION = 24 * 60 * 60 * 1000; // 24 Hours
+
+    function checkLockout() {
+      const lockUntil = parseInt(localStorage.getItem("mtp_lock_until") || "0", 10);
+      if (Date.now() < lockUntil) {
+        document.getElementById("lockoutScreen").classList.remove("hidden");
+        updateLockCountdown(lockUntil);
+        return true;
+      } else {
+        if (lockUntil > 0) {
+          localStorage.removeItem("mtp_lock_until");
+          localStorage.setItem("mtp_failed_attempts", "0");
+        }
+        document.getElementById("lockoutScreen").classList.add("hidden");
+        return false;
+      }
+    }
+
+    function updateLockCountdown(lockUntil) {
+      const timerEl = document.getElementById("lockoutCountdown");
+      const interval = setInterval(() => {
+        const diff = lockUntil - Date.now();
+        if (diff <= 0) {
+          clearInterval(interval);
+          location.reload();
+          return;
+        }
+        const h = String(Math.floor(diff / 3600000)).padStart(2, '0');
+        const m = String(Math.floor((diff % 3600000) / 60000)).padStart(2, '0');
+        const s = String(Math.floor((diff % 60000) / 1000)).padStart(2, '0');
+        timerEl.textContent = `${h}:${m}:${s}`;
+      }, 1000);
+    }
+
+    function openAdminLogin() {
+      if (checkLockout()) return;
+      document.getElementById("adminPassInput").value = "";
+      document.getElementById("loginErrorMsg").textContent = "";
+      document.getElementById("adminLoginModal").classList.remove("hidden");
+    }
+
+    function closeAdminLogin() {
+      document.getElementById("adminLoginModal").classList.add("hidden");
+    }
+
+    function verifyAdmin() {
+      if (checkLockout()) return;
+      const val = document.getElementById("adminPassInput").value;
+      if (val === ADMIN_PASS) {
+        localStorage.setItem("mtp_failed_attempts", "0");
+        closeAdminLogin();
+        showScreen("adminPanelScreen");
+        loadGhConfig();
+      } else {
+        let fails = parseInt(localStorage.getItem("mtp_failed_attempts") || "0", 10) + 1;
+        localStorage.setItem("mtp_failed_attempts", String(fails));
+        if (fails >= 3) {
+          const until = Date.now() + LOCK_DURATION;
+          localStorage.setItem("mtp_lock_until", String(until));
+          closeAdminLogin();
+          checkLockout();
+        } else {
+          document.getElementById("loginErrorMsg").textContent = `Wrong password! (${3 - fails} attempts left before 24-hour block)`;
+        }
+      }
+    }
+
+    // ================= DATA & CATALOG LOADING =================
+    let catalog = { books: [] };
+
+    async function loadCatalog() {
+      if (checkLockout()) return;
+      try {
+        const res = await fetch(`./catalog.json?t=${Date.now()}`);
+        if (res.ok) {
+          catalog = await res.json();
+          localStorage.setItem("mtp_catalog_cache", JSON.stringify(catalog));
+        }
+      } catch (e) {
+        const cached = localStorage.getItem("mtp_catalog_cache");
+        if (cached) catalog = JSON.parse(cached);
+      }
+      renderBooks();
+    }
+
+    function renderBooks() {
+      const container = document.getElementById("booksContainer");
+      if (!catalog.books || catalog.books.length === 0) {
+        container.innerHTML = `<div style="padding:20px; text-align:center; color:var(--muted); border:1px dashed var(--border); border-radius:8px;">
+          Abhi koi test upload nahi hua hai. Upar <strong>Admin Panel</strong> mein jakar apna pehla test upload karein!
+        </div>`;
+        return;
+      }
+
+      container.innerHTML = catalog.books.map((book, bIdx) => `
+        <div class="book-item">
+          <div class="book-header" onclick="toggleBookTopics(${bIdx})">
+            <div>
+              <span>📘 ${book.title}</span>
+              <span class="subject-tag">${book.subject}</span>
+            </div>
+            <span style="font-size:13px; color:var(--muted);">${book.topics.length} Topics ▼</span>
+          </div>
+          <div class="topic-list" id="bookTopics_${bIdx}">
+            ${book.topics.map((t, tIdx) => `
+              <label class="topic-label">
+                <input type="checkbox" class="topic-cb" data-bidx="${bIdx}" data-tidx="${tIdx}" onchange="renderTimerInputs()" />
+                <span>${t.name} (${t.questions.length} Qs)</span>
+              </label>
+            `).join("")}
+          </div>
+        </div>
+      `).join("");
+    }
+
+    function toggleBookTopics(bIdx) {
+      const el = document.getElementById(`bookTopics_${bIdx}`);
+      el.classList.toggle("hidden");
+    }
+
+    // ================= MERGED BOOK SECTIONS & TIMER SETUP =================
+    function getSelectedBookSections() {
+      const checked = Array.from(document.querySelectorAll(".topic-cb:checked"));
+      const bookMap = new Map();
+
+      checked.forEach(cb => {
+        const bIdx = parseInt(cb.dataset.bidx, 10);
+        const tIdx = parseInt(cb.dataset.tidx, 10);
+        const book = catalog.books[bIdx];
+        const topic = book.topics[tIdx];
+
+        if (!bookMap.has(bIdx)) {
+          bookMap.set(bIdx, {
+            bookIndex: bIdx,
+            sectionName: `${book.title} (${book.subject})`,
+            subject: book.subject,
+            bookTitle: book.title,
+            topicsIncluded: [],
+            questions: []
+          });
+        }
+        const sec = bookMap.get(bIdx);
+        sec.topicsIncluded.push(topic.name);
+        topic.questions.forEach(q => {
+          sec.questions.push({
+            ...q,
+            topicName: topic.name,
+            selectedOption: null,
+            status: "not_visited" // not_visited | answered | not_answered | review | ans_review
+          });
+        });
+      });
+
+      return Array.from(bookMap.values());
+    }
+
+    function renderTimerInputs() {
+      const useTimer = document.getElementById("customTimerToggle").checked;
+      const box = document.getElementById("sectionalTimerInputs");
+      if (!useTimer) {
+        box.classList.add("hidden");
+        return;
+      }
+      const sections = getSelectedBookSections();
+      if (sections.length === 0) {
+        box.innerHTML = `<span style="font-size:12px; color:var(--red);">Pehle upar se koi topic tick karein.</span>`;
+        box.classList.remove("hidden");
+        return;
+      }
+      box.innerHTML = sections.map((sec, idx) => `
+        <div class="timer-chip">
+          <span>${sec.sectionName}:</span>
+          <input type="number" id="secTime_${idx}" value="15" min="1" max="180" /> mins
+        </div>
+      `).join("");
+      box.classList.remove("hidden");
+    }
+
+    function openSymbolsPopup() {
+      const sections = getSelectedBookSections();
+      if (sections.length === 0) {
+        alert("Kripya test shuru karne ke liye kam se kam ek topic par tick lagayein!");
+        return;
+      }
+      document.getElementById("symbolsModal").classList.remove("hidden");
+    }
+
+    function closeSymbolsPopup() {
+      document.getElementById("symbolsModal").classList.add("hidden");
+    }
+
+    // ================= EXAM ENGINE =================
+    let activeSections = [];
+    let currentSecIdx = 0;
+    let currentQIdx = 0;
+    let hasCustomTimer = false;
+    let timerInterval = null;
+
+    function beginMockTest() {
+      closeSymbolsPopup();
+      activeSections = getSelectedBookSections();
+      hasCustomTimer = document.getElementById("customTimerToggle").checked;
+
+      activeSections.forEach((sec, idx) => {
+        const inputEl = document.getElementById(`secTime_${idx}`);
+        const mins = (hasCustomTimer && inputEl) ? Math.max(1, parseInt(inputEl.value || "15", 10)) : 0;
+        sec.remainingSeconds = mins * 60;
+        sec.elapsedSeconds = 0;
+      });
+
+      currentSecIdx = 0;
+      currentQIdx = 0;
+      showScreen("examScreen");
+      visitQuestion(0, 0);
+      startExamTimer();
+    }
+
+    function startExamTimer() {
+      if (timerInterval) clearInterval(timerInterval);
+      timerInterval = setInterval(() => {
+        const sec = activeSections[currentSecIdx];
+        if (!sec) return;
+        sec.elapsedSeconds++;
+
+        if (hasCustomTimer) {
+          sec.remainingSeconds--;
+          if (sec.remainingSeconds <= 0) {
+            if (currentSecIdx < activeSections.length - 1) {
+              alert(`Time up for ${sec.sectionName}! Moving to next section.`);
+              switchSection(currentSecIdx + 1);
+            } else {
+              clearInterval(timerInterval);
+              alert("Time is up! Submitting your test automatically.");
+              finalizeResult();
+            }
+            return;
+          }
+          document.getElementById("timerDisplay").textContent = `Time Left: ${formatTime(sec.remainingSeconds)}`;
+        } else {
+          document.getElementById("timerDisplay").textContent = `Time: ${formatTime(sec.elapsedSeconds)}`;
+        }
+      }, 1000);
+    }
+
+    function formatTime(totalSec) {
+      const m = String(Math.floor(totalSec / 60)).padStart(2, '0');
+      const s = String(totalSec % 60).padStart(2, '0');
+      return `${m}:${s}`;
+    }
+
+    function switchSection(sIdx) {
+      currentSecIdx = sIdx;
+      currentQIdx = 0;
+      visitQuestion(currentSecIdx, currentQIdx);
+    }
+
+    function visitQuestion(sIdx, qIdx) {
+      currentSecIdx = sIdx;
+      currentQIdx = qIdx;
+      const sec = activeSections[sIdx];
+      const q = sec.questions[qIdx];
+
+      if (q.status === "not_visited") {
+        q.status = "not_answered";
+      }
+
+      renderSectionTabs();
+      renderQuestionArea();
+      renderPalette();
+    }
+
+    function renderSectionTabs() {
+      const tabsEl = document.getElementById("sectionTabs");
+      tabsEl.innerHTML = activeSections.map((sec, idx) => `
+        <button class="sec-tab ${idx === currentSecIdx ? 'active' : ''}" onclick="switchSection(${idx})">
+          ${sec.sectionName} (${sec.questions.length})
+        </button>
+      `).join("");
+    }
+
+    function renderQuestionArea() {
+      const sec = activeSections[currentSecIdx];
+      const q = sec.questions[currentQIdx];
+
+      document.getElementById("qNumberLabel").textContent = `Question ${currentQIdx + 1} of ${sec.questions.length}`;
+      document.getElementById("qTopicBadge").textContent = `Topic: ${q.topicName}`;
+      document.getElementById("qTextDisplay").textContent = q.question;
+
+      const isRev = (q.status === "review" || q.status === "ans_review");
+      document.getElementById("reviewBtn").textContent = isRev ? "Unmark Review" : "Mark for Review";
+
+      const optsEl = document.getElementById("optionsContainer");
+      optsEl.innerHTML = q.options.map((opt, oIdx) => `
+        <div class="opt-item ${q.selectedOption === oIdx ? 'selected' : ''}" onclick="selectOption(${oIdx})">
+          <div class="opt-radio"></div>
+          <div>${opt}</div>
+        </div>
+      `).join("");
+    }
+
+    // Clicking selected option again deletes it (as per symbo.jpg)
+    function selectOption(oIdx) {
+      const q = activeSections[currentSecIdx].questions[currentQIdx];
+      if (q.selectedOption === oIdx) {
+        q.selectedOption = null;
+        q.status = (q.status === "ans_review") ? "review" : "not_answered";
+      } else {
+        q.selectedOption = oIdx;
+        q.status = (q.status === "review" || q.status === "ans_review") ? "ans_review" : "answered";
+      }
+      renderQuestionArea();
+      renderPalette();
+    }
+
+    function toggleReview() {
+      const q = activeSections[currentSecIdx].questions[currentQIdx];
+      if (q.status === "review") {
+        q.status = "not_answered";
+      } else if (q.status === "ans_review") {
+        q.status = "answered";
+      } else {
+        q.status = (q.selectedOption !== null) ? "ans_review" : "review";
+      }
+      renderQuestionArea();
+      renderPalette();
+    }
+
+    function saveAndNext() {
+      const sec = activeSections[currentSecIdx];
+      const q = sec.questions[currentQIdx];
+      if (q.selectedOption !== null && q.status !== "ans_review") {
+        q.status = "answered";
+      } else if (q.selectedOption === null && q.status !== "review") {
+        q.status = "not_answered";
+      }
+
+      if (currentQIdx < sec.questions.length - 1) {
+        visitQuestion(currentSecIdx, currentQIdx + 1);
+      } else if (currentSecIdx < activeSections.length - 1) {
+        switchSection(currentSecIdx + 1);
+      } else {
+        renderPalette();
+      }
+    }
+
+    function prevQuestion() {
+      if (currentQIdx > 0) {
+        visitQuestion(currentSecIdx, currentQIdx - 1);
+      }
+    }
+
+    function renderPalette() {
+      const sec = activeSections[currentSecIdx];
+      let ans = 0, notAns = 0, notVis = 0, rev = 0;
+
+      const gridEl = document.getElementById("paletteGrid");
+      gridEl.innerHTML = sec.questions.map((q, idx) => {
+        let cls = "";
+        if (q.status === "answered") { cls = "st-answered"; ans++; }
+        else if (q.status === "not_answered") { cls = "st-not-answered"; notAns++; }
+        else if (q.status === "review") { cls = "st-review"; rev++; }
+        else if (q.status === "ans_review") { cls = "st-ans-review"; ans++; rev++; }
+        else { notVis++; }
+
+        return `<button class="q-circle ${cls} ${idx === currentQIdx ? 'current' : ''}" onclick="visitQuestion(${currentSecIdx}, ${idx})">${idx + 1}</button>`;
+      }).join("");
+
+      document.getElementById("cntAnswered").textContent = ans;
+      document.getElementById("cntNotAnswered").textContent = notAns;
+      document.getElementById("cntNotVisited").textContent = notVis;
+      document.getElementById("cntReview").textContent = rev;
+    }
+
+    // ================= SUBMIT SUMMARY & FINAL RESULT =================
+    function openSubmitModal() {
+      const tbody = document.getElementById("submitSummaryBody");
+      let rowsHtml = "";
+      let grandTotal = 0, grandAns = 0, grandNotAns = 0, grandRev = 0, grandNotVis = 0;
+
+      activeSections.forEach(sec => {
+        // Group by topic inside the section so user sees Noun, Pronoun counts clearly
+        const topicStats = {};
+        sec.questions.forEach(q => {
+          if (!topicStats[q.topicName]) {
+            topicStats[q.topicName] = { total: 0, ans: 0, notAns: 0, rev: 0, notVis: 0 };
+          }
+          const st = topicStats[q.topicName];
+          st.total++;
+          grandTotal++;
+          if (q.status === "answered" || q.status === "ans_review") { st.ans++; grandAns++; }
+          else if (q.status === "not_answered") { st.notAns++; grandNotAns++; }
+          else if (q.status === "review") { st.notAns++; grandNotAns++; }
+          else { st.notVis++; grandNotVis++; }
+
+          if (q.status === "review" || q.status === "ans_review") { st.rev++; grandRev++; }
+        });
+
+        Object.keys(topicStats).forEach(tName => {
+          const st = topicStats[tName];
+          rowsHtml += `
+            <tr>
+              <td><strong>${sec.bookTitle}</strong> - ${tName}</td>
+              <td>${st.total}</td>
+              <td style="color:var(--green); font-weight:700;">${st.ans}</td>
+              <td style="color:var(--red); font-weight:700;">${st.notAns}</td>
+              <td>${st.rev}</td>
+              <td>${st.notVis}</td>
+            </tr>
+          `;
+        });
+      });
+
+      rowsHtml += `
+        <tr style="background:var(--red-light); font-weight:800;">
+          <td>TOTAL</td>
+          <td>${grandTotal}</td>
+          <td>${grandAns}</td>
+          <td>${grandNotAns}</td>
+          <td>${grandRev}</td>
+          <td>${grandNotVis}</td>
+        </tr>
+      `;
+      tbody.innerHTML = rowsHtml;
+      document.getElementById("submitModal").classList.remove("hidden");
+    }
+
+    function closeSubmitModal() {
+      document.getElementById("submitModal").classList.add("hidden");
+    }
+
+    function finalizeResult() {
+      closeSubmitModal();
+      if (timerInterval) clearInterval(timerInterval);
+
+      let totalQ = 0, attempted = 0, correct = 0, wrong = 0, unattempted = 0;
+      const subjectCardsHtml = [];
+
+      activeSections.forEach(sec => {
+        let sTotal = sec.questions.length, sAtt = 0, sCorr = 0, sWrong = 0, sUnatt = 0;
+        sec.questions.forEach(q => {
+          totalQ++;
+          if (q.selectedOption !== null) {
+            attempted++; sAtt++;
+            if (q.selectedOption === q.correctAnswer) {
+              correct++; sCorr++;
+            } else {
+              wrong++; sWrong++;
+            }
+          } else {
+            unattempted++; sUnatt++;
+          }
+        });
+
+        const sMinus = sWrong * 0.25;
+        const sNetScore = (sCorr - sMinus).toFixed(2);
+        const sAcc = sAtt > 0 ? ((sCorr / sAtt) * 100).toFixed(1) : "0.0";
+
+        subjectCardsHtml.push(`
+          <div class="subject-card-box">
+            <h4>${sec.subject} (${sec.bookTitle})</h4>
+            <div class="sub-meta">Topics: ${sec.topicsIncluded.join(", ")} | Time: ${formatTime(sec.elapsedSeconds)}</div>
+            <div class="sub-mini-stats">
+              <div class="sub-mini-item"><span>Net Score</span><strong style="color:var(--red-dark);">${sNetScore} / ${sTotal}</strong></div>
+              <div class="sub-mini-item"><span>Correct</span><strong style="color:var(--green);">${sCorr}</strong></div>
+              <div class="sub-mini-item"><span>Wrong (-1/4)</span><strong style="color:var(--red);">${sWrong} (-${sMinus.toFixed(2)})</strong></div>
+              <div class="sub-mini-item"><span>Attempted</span><strong>${sAtt} / ${sTotal}</strong></div>
+              <div class="sub-mini-item"><span>Unattempted</span><strong>${sUnatt}</strong></div>
+              <div class="sub-mini-item"><span>Accuracy</span><strong>${sAcc}%</strong></div>
+            </div>
+          </div>
+        `);
+      });
+
+      const minusMarks = wrong * 0.25;
+      const finalScore = (correct - minusMarks).toFixed(2);
+      const accuracy = attempted > 0 ? ((correct / attempted) * 100).toFixed(1) : "0.0";
+
+      // Render Standalone Overall Result Boxes
+      document.getElementById("overallResultBoxes").innerHTML = `
+        <div class="stat-box highlight"><div class="lbl">Final Score (After 1/4 Minus)</div><div class="val">${finalScore} / ${totalQ}</div></div>
+        <div class="stat-box"><div class="lbl">Total Questions</div><div class="val">${totalQ}</div></div>
+        <div class="stat-box"><div class="lbl">Attempted</div><div class="val">${attempted}</div></div>
+        <div class="stat-box"><div class="lbl">Correct (+1)</div><div class="val" style="color:var(--green);">${correct}</div></div>
+        <div class="stat-box"><div class="lbl">Wrong (-0.25)</div><div class="val" style="color:var(--red);">${wrong} (-${minusMarks.toFixed(2)})</div></div>
+        <div class="stat-box"><div class="lbl">Not Attempted</div><div class="val">${unattempted}</div></div>
+        <div class="stat-box"><div class="lbl">Accuracy</div><div class="val">${accuracy}%</div></div>
+      `;
+
+      // Render Subject-Wise Boxes
+      document.getElementById("subjectResultBoxes").innerHTML = subjectCardsHtml.join("");
+
+      showScreen("resultScreen");
+      renderSolutions("wrong");
+    }
+
+    function renderSolutions(filter) {
+      ["fltWrong", "fltUnattempted", "fltAll"].forEach(id => {
+        document.getElementById(id).className = "btn btn-outline";
+      });
+      if (filter === "wrong") document.getElementById("fltWrong").className = "btn btn-red";
+      if (filter === "unattempted") document.getElementById("fltUnattempted").className = "btn btn-red";
+      if (filter === "all") document.getElementById("fltAll").className = "btn btn-red";
+
+      const listEl = document.getElementById("solutionsList");
+      const items = [];
+      let qCounter = 0;
+
+      activeSections.forEach(sec => {
+        sec.questions.forEach(q => {
+          qCounter++;
+          const isWrong = q.selectedOption !== null && q.selectedOption !== q.correctAnswer;
+          const isUnattempted = q.selectedOption === null;
+
+          if (filter === "wrong" && !isWrong) return;
+          if (filter === "unattempted" && !isUnattempted) return;
+
+          const userAnsText = q.selectedOption !== null ? q.options[q.selectedOption] : "Not Attempted";
+          const corrAnsText = q.options[q.correctAnswer];
+
+          items.push(`
+            <div class="sol-card">
+              <div style="display:flex; justify-content:space-between; margin-bottom:8px; font-size:13px; font-weight:700;">
+                <span style="color:var(--red-dark);">Q.${qCounter} (${sec.subject} - ${q.topicName})</span>
+                <span style="color:${isWrong ? 'var(--red)' : (isUnattempted ? 'var(--muted)' : 'var(--green)')}">
+                  ${isWrong ? '❌ Wrong (-0.25)' : (isUnattempted ? '⚪ Unattempted' : '✅ Correct (+1.00)')}
+                </span>
+              </div>
+              <div style="font-weight:600; margin-bottom:10px; white-space:pre-line;">${q.question}</div>
+              <div style="font-size:13.5px; margin-bottom:6px;">
+                <strong>Your Answer:</strong> <span style="color:${isWrong ? 'var(--red)' : 'var(--text)'}">${userAnsText}</span> |
+                <strong style="color:var(--green);">Correct Answer: ${corrAnsText}</strong>
+              </div>
+              <div class="hinglish-box">
+                <strong>💡 Hinglish Solution:</strong> ${q.solutionHinglish || "Solution provided in key."}
+              </div>
+            </div>
+          `);
+        });
+      });
+
+      listEl.innerHTML = items.length > 0 ? items.join("") : `<div style="padding:16px; color:var(--muted);">Is category mein koi question nahi hai.</div>`;
+    }
+
+    // ================= GITHUB DIRECT AUTO-UPLOAD (ADMIN) =================
+    function loadGhConfig() {
+      const host = window.location.hostname;
+      const defaultOwner = host.endsWith(".github.io") ? host.split(".")[0] : "";
+      document.getElementById("ghOwner").value = localStorage.getItem("mtp_gh_owner") || defaultOwner;
+      document.getElementById("ghRepo").value = localStorage.getItem("mtp_gh_repo") || "mock-test-portal";
+      document.getElementById("ghToken").value = localStorage.getItem("mtp_gh_token") || "";
+    }
+
+    function saveGhConfig() {
+      localStorage.setItem("mtp_gh_owner", document.getElementById("ghOwner").value.trim());
+      localStorage.setItem("mtp_gh_repo", document.getElementById("ghRepo").value.trim());
+      localStorage.setItem("mtp_gh_token", document.getElementById("ghToken").value.trim());
+      alert("GitHub details saved on your browser!");
+    }
+
+    function handleFileSelect(e) {
+      const file = e.target.files[0];
+      if (!file) return;
+      const reader = new FileReader();
+      reader.onload = (ev) => {
+        document.getElementById("jsonPasteInput").value = ev.target.result;
+      };
+      reader.readAsText(file);
+    }
+
+    async function uploadTestToGitHub() {
+      const statusEl = document.getElementById("uploadStatus");
+      const rawJson = document.getElementById("jsonPasteInput").value.trim();
+      if (!rawJson) {
+        statusEl.style.color = "var(--red)";
+        statusEl.textContent = "Pehle JSON file select karein ya JSON paste karein!";
+        return;
+      }
+
+      let payload;
+      try {
+        payload = JSON.parse(rawJson);
+      } catch (err) {
+        statusEl.style.color = "var(--red)";
+        statusEl.textContent = "Invalid JSON format! Check syntax.";
+        return;
+      }
+
+      // Merge new test into catalog object
+      mergeTestIntoCatalog(payload);
+      localStorage.setItem("mtp_catalog_cache", JSON.stringify(catalog));
+      renderBooks();
+
+      const owner = document.getElementById("ghOwner").value.trim();
+      const repo = document.getElementById("ghRepo").value.trim();
+      const token = document.getElementById("ghToken").value.trim();
+
+      if (!owner || !repo || !token) {
+        statusEl.style.color = "var(--green)";
+        statusEl.textContent = "Added locally! (GitHub par permanent save karne ke liye upar Username, Repo aur Token daal kar Save karein).";
+        return;
+      }
+
+      statusEl.style.color = "var(--text)";
+      statusEl.textContent = "Uploading to GitHub repository...";
+
+      try {
+        const apiUrl = `https://api.github.com/repos/${owner}/${repo}/contents/catalog.json`;
+        const getRes = await fetch(apiUrl, {
+          headers: { "Authorization": `token ${token}`, "Accept": "application/vnd.github.v3+json" }
+        });
+
+        let sha = undefined;
+        if (getRes.ok) {
+          const fileData = await getRes.json();
+          sha = fileData.sha;
+        }
+
+        const contentBase64 = btoa(unescape(encodeURIComponent(JSON.stringify(catalog, null, 2))));
+        const putRes = await fetch(apiUrl, {
+          method: "PUT",
+          headers: {
+            "Authorization": `token ${token}`,
+            "Accept": "application/vnd.github.v3+json",
+            "Content-Type": "application/json"
+          },
+          body: JSON.stringify({
+            message: `Add/Update test: ${payload.book || 'Book'} - ${payload.topic || 'Topic'}`,
+            content: contentBase64,
+            sha: sha
+          })
+        });
+
+        if (putRes.ok) {
+          statusEl.style.color = "var(--green)";
+          statusEl.textContent = "✅ Successfully uploaded to GitHub! Website updated automatically.";
+          document.getElementById("jsonPasteInput").value = "";
+        } else {
+          const errData = await putRes.json();
+          statusEl.style.color = "var(--red)";
+          statusEl.textContent = `GitHub Error: ${errData.message}`;
+        }
+      } catch (err) {
+        statusEl.style.color = "var(--red)";
+        statusEl.textContent = `Network Error: ${err.message}`;
+      }
+    }
+
+    function mergeTestIntoCatalog(data) {
+      if (!catalog.books) catalog.books = [];
+      const bookTitle = data.book || "General Mock Book";
+      const subject = data.subject || "General";
+      const topicName = data.topic || "Practice Set";
+      const questions = data.questions || [];
+
+      let book = catalog.books.find(b => b.title.toLowerCase() === bookTitle.toLowerCase());
+      if (!book) {
+        book = { id: "b_" + Date.now(), title: bookTitle, subject: subject, topics: [] };
+        catalog.books.push(book);
+      }
+
+      let topic = book.topics.find(t => t.name.toLowerCase() === topicName.toLowerCase());
+      if (!topic) {
+        topic = { id: "t_" + Date.now(), name: topicName, questions: questions };
+        book.topics.push(topic);
+      } else {
+        topic.questions = questions;
+      }
+    }
+
+    // ================= NAVIGATION HELPERS =================
+    function showScreen(screenId) {
+      ["homeScreen", "examScreen", "resultScreen", "adminPanelScreen"].forEach(id => {
+        document.getElementById(id).classList.add("hidden");
+      });
+      document.getElementById(screenId).classList.remove("hidden");
+    }
+
+    function goHome() {
+      if (timerInterval) clearInterval(timerInterval);
+      showScreen("homeScreen");
+      renderBooks();
+    }
+
+    window.onload = loadCatalog;
+  </script>
+</body>
+</html>
