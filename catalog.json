@@ -970,6 +970,612 @@
               "solutionHinglish": "Ans (a)\nExplanation:- Jab aap jis cheez ke liye maafi mangte ho toh uss case mein 'sorry for' ka use hota hai.\nEg. I am sorry for my bad behaviour.\nyahan meaning yeh dena hai ki mai maafi chahunga jo meri maa ne kaha tha uske liye. yani yahan koi antecedent nahi hai isliye 'what' relative pronoun ka use hoga.\nNote:- 'what my mother said' ye pura noun clause 'for' preposition ka object banega."
             }
           ]
+        },
+        {
+          "id": "t_1793418274288",
+          "name": "Pronoun Level-02",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Each of the researchers who were assigned to the international climate project were asked to submit his findings by the end of the quarter.",
+              "options": [
+                "(a) Each of the researchers",
+                "(b) who were assigned to the international climate project",
+                "(c) were asked to submit",
+                "(d) his findings by the end of the quarter"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'were' with 'was'\nExplanation:- Sentence mein 'were asked' verb ka subject 'each' hai. 'each' ek distributive pronoun hota hai joki singular verb leta hai, isliye yahan 'were asked' ki jagah 'was asked' aayega. Note: Sentence mein 'who were assigned......project' wala clause researchers ke liye aaya hai, isliye whan plural verb 'were assigned' sahi hai."
+            },
+            {
+              "id": 2,
+              "question": "I am indebted to my friends for the large sum of money what they gave me during my days of need.",
+              "options": [
+                "(a) what they gave me",
+                "(b) during my days of need",
+                "(c) indebted to my friends",
+                "(d) for the large sum"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'what' with 'that'\nExplanation:- Sentence mein 'what they.......days of need' yeh ek noun clause hai aur 'money' noun hai, lekin noun ko qualify karne ke liye adjectival clause ki jarurat hai jiske liye 'what' ki jagah par 'that' relative pronoun sahi hoga jo 'money' noun ke liye 'adjectival clause' banayega. 'what' relative pronoun se 'noun clause' banta hai aur 'that' relative pronoun se 'adjectival clause' banta hai."
+            },
+            {
+              "id": 3,
+              "question": "He is among those rare individuals who not only dedicates himself but also inspire others to excel.",
+              "options": [
+                "(a) He is among those",
+                "(b) rare individuals who",
+                "(c) not only dedicates himself",
+                "(d) but also inspire others to excel"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'dedicates himself' with 'dedicate themselves'\nExplanation:- Sentence mein dedicates verb aur 'himself' reflexive pronoun ka subject 'individuals' plural hai jiske according plural verb aur plural reflexive pronoun ayega, isliye 'dedicates himself' ki jagah par 'dedicate themselves' sahi hoga. sentence mein 'who not only.....other to excel' yeh clause 'rare individuals' ke liye likha hai, isliye subject ke according verb aur reflexive pronoun ayega."
+            },
+            {
+              "id": 4,
+              "question": "He has never disobeyed (a)/his master that is (b)/a mark of a great disciple. (c)/ no error(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'that' with 'which'\nExplanation:- Sentence mein 'he has never disobeyed his master' ke aage wale poore clause ko refer karna hai aur poore clause ko refer karne ke liye 'which' relative pronoun ka use hota hai, isliye yahan 'that' ki jagah 'which' relative pronoun sahi hoga. sentence ka matlab hai 'wo apne master ki har baat maanta hai, yeh poori baat ek great disciple ki nishaani hai', isliye yahan poore clause ko refer karna hai."
+            },
+            {
+              "id": 5,
+              "question": "It's wise to be conscious of time and it's ripple effect on money.",
+              "options": [
+                "(a) It's wise to be conscious",
+                "(b) of time and it's ripple",
+                "(c) effect on money",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'it's ripple' with 'its ripple'\nExplanation:- Sentence mein 'ripple effect' ek noun hai aur noun se pehle adjective ki jarurat hoti hai, 'it's' ek 'pronoun + verb' ka structure aur 'its' possessive adjective hai, isliye 'ripple effect' noun se pehle 'its' possessive adjective sabse sahi hoga."
+            },
+            {
+              "id": 6,
+              "question": "Children can injure himself (a)/in the blink of an eye so the parents (b)/should always be cautious. (c) /No error.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'himself' with 'themselves'\nExplanation:- Sentence mein 'himself' reflexive pronoun 'children' ke liye likha hai, kyunki 'children' ek plural noun hai jiske liye yahan plural reflexive pronoun ayega, isliye yahan 'himself' ki jagah 'themselves' reflexive pronoun sahi hoga. Reflexive pronoun ka use tab hota hai jab sentence mein doer aur receiver same ho."
+            },
+            {
+              "id": 7,
+              "question": "The 63rd edition of the Grammys was historic for Beyonce, which is now the female artist with the most trophies.",
+              "options": [
+                "(a) which is now the female",
+                "(b) historic for Beyonce",
+                "(c) The 63rd edition of the Grammys was",
+                "(d) artist with the most trophies"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'which' with 'who'\nExplanation:- Sentence mein 'Beyonce' noun hai jiske liye 'which' relative pronoun lagake clause likha hai, lekin human being ke liye 'who', 'whom' relative pronoun ka use hota, isliye yahan 'which' ki jagah par 'who' relative pronoun sahi hoga. jab agle clause mein subject ki jarurat ho toh 'who', aur object ki jarurat ho toh 'whom' relative pronoun ka use hota hai."
+            },
+            {
+              "id": 8,
+              "question": "Neither of the two candidates who were interviewed extensively by the board have submitted his verification documents.",
+              "options": [
+                "(a) Neither of the two candidates",
+                "(b) who were interviewed extensively by the board",
+                "(c) have submitted",
+                "(d) his verification documents"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'have' with 'has'\nExplanation:- Sentence mein 'have submitted' verb ka subject 'neither' hai, kyunki 'each, either, neither' distributive pronoun hote aur apne sath singular verb lete hai, isliye yahan 'have submitted' ki jagah par 'has submitted' sahi hoga. sentence mein 'who were......by the board' yeh clause 'two candidates' ke liye likha hai."
+            },
+            {
+              "id": 9,
+              "question": "Now its referring to the same big lug who met his fate thanks to David's slingshot.",
+              "options": [
+                "(a) No error",
+                "(b) thanks to David's slingshot",
+                "(c) big lug who met his fate",
+                "(d) Now its referring to the same"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) replace 'its' with 'it's'\nExplanation:- Sentence mein 'its' possessive adjective ke baad noun ki jarurat hai, lekin 'referring' pehle se hee adjective (present participle) hai, toh yahan 'referring' se pehle (subject or verb) ki jarurat hai, isliye yahan 'its' adjective nahi, 'it's' (pronoun + H.V.) sahi hoga, isliye 'it's referring' sabse sahi hoga. sentence mein doubt hoga ki 'who' relative pronoun ki jagah par 'that' aana chaiye kyunki 'the same, the few, the little, superlative degree etc.' ke sath 'that' relative pronoun ka use hota hai, lekin sentence mein agar (subject, verb) ki error hai, toh baaki errors ko humesha weak error samajh kar ignore kar denge."
+            },
+            {
+              "id": 10,
+              "question": "She is the professor (a)/ whom research students often admire her (b)/ because all her publications have been internationally recognized. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'whom' with 'whose'\nExplanation:- Yahan par galti yeh hai ki 'whom' object banane ka kaam krega aur clause ke last me 'her' likha hai joki object hai. Ab iss sentence ko sahi krne ke do tareeke hai ya to hum 'whom' ki jagah par 'whose' likh de uss se bhi sentence theek ho jayega aur uska matlab ye niklega ki 'unke research students admire krte hai unhe' aur dusra tareeka ye ho sakta hai ki hum 'her' ko hata de lekin isko hatane ke baad 'research students' se pahle 'the' bhi lagana hoga kyunki particular students ki bat ho rhi jo uss teacher ke hai. Toh iss sentence ko theek krne ke do tareeke hue ek to 'whom' ki jagah par 'whose' krke aur dusra her ko hatakar research students se pahle 'the' article ka use krna. Dono se meaning alag alag aayega lekin grammatically dono options allowed hai."
+            },
+            {
+              "id": 11,
+              "question": "A man who has been accused of fraud in an earlier job, he will never be welcomed in any other organisation.",
+              "options": [
+                "(a) No error",
+                "(b) welcomed in any other organisation",
+                "(c) A man who has been accused of fraud",
+                "(d) in an earlier job, he will never be"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) remove 'he'\nExplanation:- Sentence mein 'man' noun hai jisko verb ki jarurat hai aur iski verb 'he' pronoun ke sath likhi hai joki galat hai. subject ki verb 'will never be welcomed' hogi aur 'he' yahan superfluous hai, isliye yahan 'he' nahi ayega. sentence mein 'who has been.....earlier job' ek adjectival clause hai jo noun ka description de raha hai."
+            },
+            {
+              "id": 12,
+              "question": "He is (a)/the same man (b)/which I saw with your sister (c)/yesterday at the gate.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'which' with 'that'\nExplanation:- Sentence mein 'which' ki jagah par 'that' ayega kyunki 'the same/the few/the little/the only/superlative degree' jab kisi noun ke sath lage ho toh uske sath 'that' relative pronoun ka use hota hai, isliye yahan 'which' ki jagah par 'that' sahi hoga."
+            },
+            {
+              "id": 13,
+              "question": "She rarely approached nobody to talk about the problems that she was facing.",
+              "options": [
+                "(a) No error",
+                "(b) that she was facing",
+                "(c) She rarely approached nobody",
+                "(d) to talk about the problems"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'nobody' with 'anybody'\nExplanation:- Sentence mein 'rarely' ke sath 'nobody' ka use nahi hoga, kyunki 'rarely, barely, seldom' yeh negative adverb hote hai aur inke sath 'nobody' ka use double negative ho jayega, isliye yahan nobody ki jagah par 'anybody' sahi hoga, jisse matlab hoga 'usne naa ke barabar hee approach kiya kabhi kisi ko'."
+            },
+            {
+              "id": 14,
+              "question": "The matter, which you and him have been discussing for days, needs to be escalated to the management for the final decision.",
+              "options": [
+                "(a) The matter, which you and him",
+                "(b) have been discussing for days",
+                "(c) needs to be escalated to the management",
+                "(d) for a final decision"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'him' with 'he'\nExplanation:- Sentence mein 'which' waale clause mein 'you and him' subject hai, agar yeh subject hai toh 'him' ki jagah par 'he' subjective case ayega, kyunki 'him' toh objective case hota hai, isliye yahan 'him' ki jagah par 'he' sahi hoga. Additionally sentence mein 'you' sahi hoga kyunki iska subjective, objective case same hota hai, 'have been discussing' verb hai, or 'which' relative pronoun jo object banega iss clause mein."
+            },
+            {
+              "id": 15,
+              "question": "He can become a scientist or a teacher, (a)/ this requires long hours in a lab, (b)/ and that requires most of the day in a classroom. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'a scientist or a teacher' with 'a teacher or a scientist'\nExplanation:- Sentence mein jab doo noun diye hote hai aur unhe 'this' aur 'that' se define karte hai, toh 'this' apne nearest noun ke liye aata hai, sentence mein pehle 'teacher' aur phir 'scientist' sahi hoga, kyunki 'this' waali baat ka description 'a scientist' ke liye likha hai, aur generally pehle 'this' likhte hai uske baad 'that', aur 'this, that' ko change karne se doo part mein error ho jayegi, isliye yahan 'a teacher or a scientist' noun ko change kar denge."
+            },
+            {
+              "id": 16,
+              "question": "After a long and fun-filled day, the children slept themselves peacefully.",
+              "options": [
+                "(a) a long and fun-filled day",
+                "(b) slept themselves peacefully",
+                "(c) the children",
+                "(d) After"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove 'themselves'\nExplanation:- Sentence mein 'themselves' reflexive pronoun nahi ayega kyunki 'sleep' ek intransitive verb hoti hai jisse object ki jarurat nahi hoti, isliye object 'themselves' galat hoga, isliye yahan 'children slept peacefully' sabse sahi hoga."
+            },
+            {
+              "id": 17,
+              "question": "The woman, whom I assumed / was a guest lecturer / turned out to be the dean / of the University.",
+              "options": [
+                "(a) The woman, whom I assumed",
+                "(b) was a guest lecturer",
+                "(c) turned out to be the dean",
+                "(d) of the University."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'whom' with 'who' or replace 'was' with 'to be'\nExplanation:- yahan 'assume' verb se 3 structure mind mein aa sakte hai ki 'whom I assumed a guest lecturer', toh iss structure mein aise banane ka soch sakte ho ki 'I' subject, 'assumed' verb, 'whom' indirect object aur 'lecturer' direct object, lekin bolne sunne mein accha lagega, lekin 'assume' verb iss structure mein di-transitively use nahi hoti, isliye yeh structure galat hoga. 2nd structure yeh ki agar human being indirect object banake likhna hai toh 'to be' ke sath likhna padega, toh 'whom I assumed to be a guest lecturer' jisme 'whom' indirect object aur 'to be' direct object aur 'a guest lecturer' object of infinitive banega, tab yeh structure sahi hoga. 3rd structure mein 'whom' ki jagah 'who' kar denge kyunki 'was' verb ke pass subject nahi hai, verb bina object ke chal sakti hai, lekin bina subject ke nahi, isliye yahan subjective case 'who I assumed was a guest lecturer' wala structure bhi sahi hoga. toh 2nd structure 'was' ki jagah 'to be' yaa 3rd structure 'whom' ki jagah 'who' dono sahi honge."
+            },
+            {
+              "id": 18,
+              "question": "I remember a friend of me buying several pairs of shoes from this shop.",
+              "options": [
+                "(a) a friend of me",
+                "(b) buying several pairs",
+                "(c) of shoes from this shop",
+                "(d) I remember"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'a friend of me' with 'a friend of mine'\nExplanation:- Sentence mein 'of me' ki jagah par 'of mine' ayega kyunki sentence ka matlab hai mere doston mein se ek, jiske liye 'a friend of mine' likhte hai, jisme 'of' preposition yahan selection ko dikhaati hai aur 'mine' possessive pronoun hota hai. isliye yahan 'a friend of mine' sahi hoga. Jab bahut saare mein se ek ke baare mein batana ho toh 'a friend of mine', aur jab ek hee dost ke baare mein batana ho toh 'the friend of me' jiske liye 'my friend' bhi likh sakte hai."
+            },
+            {
+              "id": 19,
+              "question": "Do you know their are numerous street food stalls outside our school premises?",
+              "options": [
+                "(a) outside our school premises.",
+                "(b) numerous street food stalls",
+                "(c) Do you know their are",
+                "(d) No error"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'their' with 'there'\nExplanation:- Sentence mein 'their' possessive adjective hai jiska baad noun ki jarurat hoti hai, sentence mein noun bhi nahi hai aur yahan matlab dena hai 'wahan' waala, jiske liye yahan 'their' adjective nahi, introductory subject wala 'there' sahi hoga. Additionally sentence mein jab bhi 'ki' wala sense dena hota hai toh 'that' conjunction understood hoti hai kyunki sentence mein do verb hai 'know' aur 'are', jinke clauses jodne ke liye conjunction ki jarurat hoti."
+            },
+            {
+              "id": 20,
+              "question": "Each customer who enters the store (a) / is greeted by the staff, offered assistance (b) / and often asked to fill out your details in a feedback form. (c) /no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'your details' with 'his or her details'\nExplanation:- Sentence mein 'each customer' ki baat ho rahi details bharne ke liye, toh har customer apni details bharega naa ki tumhari, isliye yahan 'your' possessive adjective ki jagah par 'his or her' possessive adjective aayega. Customer male yaa female koi bhi ho sakta hai isliye yahan 'his or her' sahi hoga."
+            },
+            {
+              "id": 21,
+              "question": "The engineers working at our headquarters in San Francisco (a)/ have contributed significantly more to the product design and innovation process (b)/ than the office in our Tokyo branch (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'than the office' with 'than those at the office'\nExplanation:- Sentence mein 'San Francisco ke engineers' ka comparison 'Tokyo branch ke engineers' se hoga, isliye yahan engineers ka comparison karne ke liye 'than' ke baad 'those at' aayega, kyunki comparison humesha same cheezon mein hota hai, 'those' kyunki Tokyo branch mein engineers plural honge, aur 'at' isliye kyunki 'San Francisco' mein 'working at' likha hai, isliye yahan bhi 'at' preposition sahi hogi, toh 'than those at the office' sabse sahi answer hoga."
+            },
+            {
+              "id": 22,
+              "question": "We believed (a) / there would be beneficial (b) / to expand the business internationally (c) / after analyzing the market trends carefully. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'there' with 'it'\nExplanation:- Sentence mein 'would' H.V. hai, 'be' main verb hai, beneficial adjective hai, 'to expand' real subject hai jo ki infinitive hai, agar sentence mein ek infinitive subject hai, toh infinitive ko subject bnane ki wajaaye hum starting mein 'it' introductory subject ka use kar lete hai, jaise 'to dance is easy' ko likhte hai 'it is easy to dance'. Isliye yahan 'there' ki jagah 'it' introductory subject sahi hoga."
+            },
+            {
+              "id": 23,
+              "question": "The director asked whether it was me who had taken the final call on approving the budget.",
+              "options": [
+                "(a) The director asked",
+                "(b) whether it was me",
+                "(c) who had taken the final call",
+                "(d) on approving the budget"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'me' with 'I'\nExplanation:- Sentence mein 'who had taken..... the budget' yeh baat 'me' ke liye likhi gayi hai, toh sentence mein 'it' introductory subject ka use real subject 'me' pe stress daalne ke liye kiya hai, agar aapko subject pe stress daalna hai toh 'me' ko subjective case 'I' mein likhna padega, isliye 'it was I' sabse sahi hoga."
+            },
+            {
+              "id": 24,
+              "question": "He, you and I (a)/ need to prepare the final report (b)/ before the meeting scheduled next Monday morning. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'He, you and I' with 'you, He and I'\nExplanation:- Sentence mein order of pronoun ka sequence galat hai, general sequence '2-3-1' hota hai aur negative mein '1-2-3' sequence hota hai. sentence mein koi negative baat nahi hui isliye general sequence 2-3-1 follow hoga, isliye 'you, He and I' sabse sahi sequence hoga."
+            },
+            {
+              "id": 25,
+              "question": "They who are in this room (a)/ should not move from the place (b)/ where they are standing, said the (c)/ leader of the criminals. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'they' with 'those'\nExplanation:- Sentence mein 'they' ki jagah par 'those' ayega. jab bhi relative pronoun se pehle 'they' likhna ho toh usse demonstrative pronoun mein likhte hai, kyunki demonstrative se meaning aur clear ho jata hai, isliye yahan 'they' ki jagah 'those' demonstrative pronoun sahi hoga."
+            },
+            {
+              "id": 26,
+              "question": "She asked me (a)/ why did the marketing team decide(b)/ to change the entire campaign strategy (c)/ without consulting the sales department first. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'did the marketing team decide' with 'the marketing team decided'\nExplanation:- Yeh sentence indirect speech mein likha hai aur indirect speech mein 'did' ka use nahi hota, aur iski past form dikhaane ke liye 'verb' ko past mein likhte hai jo ki subject ke baad ayegi, toh 'decide' verb ki past form 'decided' hogi, isliye yahan 'the marketing team decided' sabse sahi answer hoga. subject se pehle verb interrogative sentence mein aati hai."
+            },
+            {
+              "id": 27,
+              "question": "The team leader (a)/ complained about (b) / us leaving the meeting early(c) / No error. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'us leaving' with 'our leaving'\nExplanation:- Sentence mein 'complained about' phrasal verb ka object 'leaving' hai aur object se pehle adjective ki jarurat hoti hai, isliye 'us' pronoun ki jagah 'our' possessive adjective sahi hoga. sentence mein 'the meeting' object of gerund hoga kyunki gerund semi-verb hote hai, jisko object ki jarurat hoti hai."
+            },
+            {
+              "id": 28,
+              "question": "The teacher, along with two senior students who volunteered during the event, were given an award for his commitment and leadership.",
+              "options": [
+                "(a) The teacher, along with two senior students",
+                "(b) who volunteered during the event",
+                "(c) were given an award for",
+                "(d) his commitment and leadership"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'were given' with 'was given'\nExplanation:- Sentence mein 'were given' verb ka subject 'teacher' hai kyunki 'teacher' singular noun hai isliye singular verb 'was given' sahi hoga. sentence mein 'along with' prepositional phrase hai jiske object 'two senior students' hai aur 'who volunteered......event' tak yeh 'senior students' ke liye likha hai."
+            },
+            {
+              "id": 29,
+              "question": "Banks that do not meet its priority sector targets are required to pay high penalties.",
+              "options": [
+                "(a) targets are required",
+                "(b) Banks that do not meet",
+                "(c) its priority sector",
+                "(d) to pay high penalties"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'its priority' with 'their priority'\nExplanation:- Sentence mein 'that do......sector targets' yeh clause 'banks' ke liye likha hai kyunki 'banks' plural hai isliye adjective bhi plural ayega, isliye 'its' ki jagah par 'their' sahi hoga."
+            },
+            {
+              "id": 30,
+              "question": "My colleagues and myself have decided to conduct a thorough review of the policies that were implemented last year by the former management.",
+              "options": [
+                "(a) My colleagues and myself",
+                "(b) have decided to conduct a thorough review",
+                "(c) of the policies that were implemented last year",
+                "(d) by the former management"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'myself' with 'I'\nExplanation:- Sentence mein 'myself' reflexive pronoun hai jo object banta hai, jab kisi action ka doer aur receiver same hota hai uske liye aata hai, lekin sentence mein 'have decided' verb hai jiske liye subject ki jarurat hai, isliye 'myself' ki jagah 'I' subject aayega."
+            },
+            {
+              "id": 31,
+              "question": "Let they decide whether or not they wish to continue working under the current team leader.",
+              "options": [
+                "(a) Let they",
+                "(b) decide whether or not",
+                "(c) they wish to continue working",
+                "(d) under the current team leader"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'they' with 'them'\nExplanation:- Sentence mein 'let' verb hai aur 'they' verb ka object hai, 'decide' bare infinitive hai aur 'let' verb ka understood subject 'you' hai, toh sentence mein 'let' verb ke object ke jarurat hai, isliye 'they' ka objective case 'them' likhna padega. Isliye 'they' ki jagah 'them' sahi hoga. 'bare infinitive' wala concept advance verb ka topic hai."
+            },
+            {
+              "id": 32,
+              "question": "The team leads, all of who had extensive experience managing remote teams, were tasked with training the new recruits.",
+              "options": [
+                "(a) The team leads, all of who",
+                "(b) had extensive experience managing remote teams",
+                "(c) were tasked with training",
+                "(d) the new recruits"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'all of who' with 'all of whom'\nExplanation:- Sentence mein 'of' preposition hai jiske baad object ki jarurat hoti hai, lekin 'who' subjective case hota hai, isliye yahan subjective case ki jagah par objective case 'whom' sahi hoga. 'whom' preposition ka object bhi ban raha hai aur conjunction ka bhi kaam kar raha hai. sentence mein 'had' verb ka subject 'all' hai."
+            },
+            {
+              "id": 33,
+              "question": "Don't worry I will (a)/ provide anything what you (b)/ need for your higher studies. (c) No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'anything what' with 'anything that'\nExplanation:- Sentence mein 'what' ki jagah par 'that' aayega kyunki 'what' ka use noun clause banane ke liye hota hai, lekin sentence mein 'will provide' verb ke pass 'anything' object hai, isliye yahan 'what' se noun clause ki nahi 'that' se adjectival clause ki jarurat hai aur 'all, none, both, everything, anything, the few, the little etc.' ke sath 'that' relative pronoun ka use hota hai, isliye bhi 'that' relative pronoun sahi hoga."
+            },
+            {
+              "id": 34,
+              "question": "The applicant, whom the committee believed to have the required credentials and experience, was asked to resubmit their documents with additional proof.",
+              "options": [
+                "(a) The applicant, whom the committee believed",
+                "(b) to have the required credentials and experience",
+                "(c) was asked to resubmit",
+                "(d) their documents with additional proof"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) replace 'their documents' with 'his/her documents'\nExplanation:- Sentence mein 'was asked' verb ka subject 'applicant' hai joki singular subject hai, toh singular subject apne hee documents submit karega naa ki kisi aur ke, isliye yahan 'their' plural adjective ki jagah par 'his/her' singular adjective sahi hoga."
+            },
+            {
+              "id": 35,
+              "question": "Agricultural experts warn that those are precisely the challenges unpredictable climate patterns, declining soil fertility, and water scarcity that threaten global food security.",
+              "options": [
+                "(a) Agricultural experts warn",
+                "(b) unpredictable climate patterns",
+                "(c) those are",
+                "(d) that threaten global food security"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'those' with 'these'\nExplanation:- Sentence mein 'those' ki jagah 'these' ayega kyunki jab kisi cheez ka reference saamne/pass hota hai, toh uske liye 'these' pronoun ka use karte hai."
+            },
+            {
+              "id": 36,
+              "question": "Can you guess that of this vessels can hold the least amount of water?",
+              "options": [
+                "(a) which of this vessels can hold",
+                "(b) No improvement",
+                "(c) which vessels can hold",
+                "(d) which of these vessels can hold"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Sentence mein meaning chaiye 'inn mein se konsa vessel', yeh meaning 'that' se nhi diya jaa sakta, isliye option B galat hoga. option A bhi galat hoga kyunki 'vessels' plural ke sath 'this' ka use galat hai. option C bhi galat hoga kyunki isme selection nahi ho raha hai. structure same aur meaning sahi rakhne ke liye option D sabse sahi answer hoga."
+            },
+            {
+              "id": 37,
+              "question": "This is one of the boldest economic reform which have ever been introduced.",
+              "options": [
+                "(a) Economic reforms that has ever",
+                "(b) Economic reform that has ever",
+                "(c) Economic reforms that have ever",
+                "(d) No substitution"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Sentence mein 'one of' likha hai jo selection ko dikhata hai isliye 'one of' ke baad plural noun aata hai. sentence mein 'the boldest' superlative degree adjective hai, toh 'all, none, but, the few, the little, superlative degree' ke sath 'that' relative pronoun ka use hota hai. Relative pronoun ka khudka koi number gender nahi hota isliye wo apne antecedent ke according verb leta hai toh 'reforms' plural hai isliye yahan plural verb 'have' sahi hogi, isliye diye gaye options mein se 'economic reforms that have ever' option C sabse sahi answer hoga."
+            },
+            {
+              "id": 38,
+              "question": "Many employees struggle to adopt to the changing work environment in the digital age.",
+              "options": [
+                "(a) to adapt themselves",
+                "(b) to adopt themselves",
+                "(c) to adapt themselves with",
+                "(d) to adopt themselves with"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Option B aur D nahi honge kyunki 'adopt' ka matlab gode lena, koi tareeka apnana. Option C bhi nahi hoga 'adapt' ke sath 'to' preposition aati hai. Sentence ka matlab hai 'bahut employees struggle karte hai khudko dhaalne mein', isliye yahan 'adapt' sahi hoga aur 'adapt' aisi verb hai jo apne sath reflexive pronoun leti hai, isliye 'to adapt themselves' option A sabse sahi answer hoga."
+            },
+            {
+              "id": 39,
+              "question": "I asked the two students if anyone of them had completed the assignment.",
+              "options": [
+                "(a) any of them",
+                "(b) all of them",
+                "(c) neither of them",
+                "(d) no one of them"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Sentence mein 'asked two students' se pata chal raha ki usne do logo se pucha hai aur do logo ke liye diye gaye option mein se 'neither of them' sahi hoga. Baaki 'anyone, all, none, no one' yeh more than two ke liye aate hai, isliye option C sabse sahi answer hoga."
+            },
+            {
+              "id": 40,
+              "question": "After spending an hour at the beach, we finally got out and dried us.",
+              "options": [
+                "(a) Went out and dried us.",
+                "(b) came out and dried us",
+                "(c) Got out and dried ourselves",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Sentence ka matlab hai 'ek ghanta beach pe bitaane ke baad, finally bahar nikle aur khudko sukhaya', toh sentence mein 'dry' karne waale action ka doer aur receiver same hai, sukhaane aur sookhne waale wo khud hai, isliye yahan reflexive pronoun 'ourselves' ka use hoga, isliye 'Got out and dried ourselves' option C sabse sahi answer hoga."
+            },
+            {
+              "id": 41,
+              "question": "When one devotes all ______ time and energy to a particular goal, success becomes almost inevitable.",
+              "options": [
+                "(a) his",
+                "(b) their",
+                "(c) one's",
+                "(d) your"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Sentence mein subject 'one' hai toh subject ke according 'one's' possessive adjective sahi hoga, isliye 'one's' option C sabse sahi answer hoga."
+            },
+            {
+              "id": 42,
+              "question": "People like she and Rohan should be encouraged to participate in the debate competition.",
+              "options": [
+                "(a) likes she and Rohan",
+                "(b) like her and Rohan",
+                "(c) like hers and Rohan",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Sentence mein 'like' ek preposition hai aur preposition ke baad object aate hai, toh pronoun 'she' ka objective case 'her' aayega aur 'Rohan' noun ka subjective, objective case same hoga. isliye 'like her and Rohan' option B sabse sahi answer hoga. 'like, unlike, including, excluding, except, between, among' yeh sab prepositions hoti hai."
+            },
+            {
+              "id": 43,
+              "question": "He spent all which he has in order to perfect his invention.",
+              "options": [
+                "(a) which he have",
+                "(b) what he is having",
+                "(c) that he had",
+                "(d) No Improvement"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Sentence mein 'all' se pata chal raha ki 'that' relative pronoun ayega kyunki 'all, none, both, everything, anything, the few, the little, superlative degree' ke sath 'that' relative pronoun aata hai. toh option C mein 'that' bhi aa raha hai aur 'had' se past ka meaning bhi theek hai, isliye 'that he had' option C sabse sahi answer hoga."
+            },
+            {
+              "id": 44,
+              "question": "Whomever is responsible for this financial loss to the company must be held accountable.",
+              "options": [
+                "(a) Whoever",
+                "(b) Whomsoever",
+                "(c) He who",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'who' aur 'whoever' dono subjective hote hai aur 'whom' aur 'whomever' dono objective hote hai. sentence mein 'is' verb ke liye subject ki jarurat hai, isliye subjective case ayega, isliye 'whoever' option A sabse sahi answer hoga. 'whoever' ka matlab 'jo koi bhi'."
+            },
+            {
+              "id": 45,
+              "question": "It is yourself who will decide your future.",
+              "options": [
+                "(a) you",
+                "(b) yourself",
+                "(c) yourselves",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Reflexive pronoun ka use tab karte hai jab kisi action ka doer aur receiver same ho, lekin sentence mein aisa koi action nhi ho raha aur sentence mein 'is' linking verb hai jo stress daalne ka kaam kar rahi hai. aage, sentence mein 'who' relative pronoun likha hai toh isse pehle subjective case likhna padega, isliye diye gaye options mein se 'you' option A sabse sahi hoga."
+            },
+            {
+              "id": 46,
+              "question": "During the interview, she asked me how many languages do I speak fluently.",
+              "options": [
+                "(a) how many languages did I speak",
+                "(b) how many languages does I speak",
+                "(c) how many languages I speak",
+                "(d) No substitution required"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Sentence mein kahi gayi baat indirect speech mein likhi hai, isliye yeh sentence assertive sentence hai aur assertive sentence mein 'do, does, did' helping verb nahi ayegi, isliye diye gaye options mein se 'how many languages I speak' option C sabse sahi answer hoga."
+            },
+            {
+              "id": 47,
+              "question": "This book is more interesting than either of the three novels I read last month.",
+              "options": [
+                "(a) more interesting than either to",
+                "(b) more interesting than any of",
+                "(c) more interesting than either from",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Sentence mein 'either' ki jagah 'any' aayega kyunki 'either' ka use do cheezon ke liye hota hai, lekin sentence mein 'three novels' ki baat hui hai, do cheezon se jyada ke liye 'any' ka use hota hai, isliye 'more interesting than any of' option B sabse sahi answer hoga."
+            },
+            {
+              "id": 48,
+              "question": "When Riya saw Ankit holding a jacket just like her's, she thought he had borrowed it without asking.",
+              "options": [
+                "(a) her's",
+                "(b) her",
+                "(c) hers",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Sentence ka matlab hai 'Riya ne dekha ki Ankit ki jacket uski jacket ki tarah hai', naa ki Riya ki tarah, toh yahan par jacket pe possession banana hai, isliye yahan 'hers' possessive pronoun ayega jiska matlab 'uski jacket' hoga, isliye option C sabse sahi answer hoga."
+            },
+            {
+              "id": 49,
+              "question": "The two rival companies have finally decided to cooperate with one another to overcome the financial crisis caused by the recent market slump.",
+              "options": [
+                "(a) each other",
+                "(b) one another",
+                "(c) the other",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Jab bhi do logon ki baat ho toh 'each other' aur do se jyada (more than two) toh 'one another', sentence mein 'two rivals' ki baat hui hai, isliye yahan 'each other' option A sabse sahi hoga."
+            },
+            {
+              "id": 50,
+              "question": "The employees blamed no one but ______ for the failure of the project, acknowledging that they had ignored critical warnings.",
+              "options": [
+                "(a) them",
+                "(b) themselves",
+                "(c) theirselves",
+                "(d) themself"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Sentence ka matlab hai 'employees ne blame kiya aur kisi ko nahi balki khudko', toh 'blame' verb ke action ke doer aur receiver employees hai, isliye yahan reflexive pronoun aayega, kyunki 'employees' plural hai, isliye yahan plural reflexive pronoun 'themselves' sabse sahi hoga."
+            }
+          ]
         }
       ]
     }
