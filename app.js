@@ -530,12 +530,18 @@ function toggleReview() {
   renderQuestionArea();
   renderPalette();
 }
-
 function saveAndNext() {
   const sec = activeSections[currentSecIdx];
   const q = sec.questions[currentQIdx];
-  if (q.selectedOption !== null && q.status !== "ans_review") q.status = "answered";
-  else if (q.selectedOption === null && q.status !== "review") q.status = "not_answered";
+  
+  // Agar answer chuna hai aur pehle se review marked nahi tha, tabhi 'answered' karein
+  if (q.selectedOption !== null && q.status !== "review" && q.status !== "ans_review") {
+    q.status = "answered";
+  } else if (q.selectedOption !== null && q.status === "review") {
+    q.status = "ans_review";
+  } else if (q.selectedOption === null && q.status !== "review" && q.status !== "ans_review") {
+    q.status = "not_answered";
+  }
 
   if (currentQIdx < sec.questions.length - 1) {
     visitQuestion(currentSecIdx, currentQIdx + 1);
