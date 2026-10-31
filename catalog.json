@@ -5986,6 +5986,672 @@
               "solutionHinglish": "Ans (a)\nExplanation:- Yhan particular children ki baat ho rhi hai jinko diarrhoea hai, isliye 'starving the children' (option A) sahi hai."
             }
           ]
+        },
+        {
+          "id": "t_1793427191217",
+          "name": "Article Level-02",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Amazon is (a)/ considered the largest river (b)/ in terms of water discharge (c)/ in the world. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) put 'the' article before 'Amazon'\nExplanation:- River ke naam ('The Amazon') ke sath 'the' article ka use hota hai."
+            },
+            {
+              "id": 2,
+              "question": "It was a most amazing (a)/ experience for us to travel through the (b)/ mountains at night. (c) No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) No error\nExplanation:- Yahan 'a most amazing' ka matlab 'a very amazing' hai."
+            },
+            {
+              "id": 3,
+              "question": "Old silver coin having very strange (a)/ carvings was discovered (b)/ by the archaeologists (c)/ during the excavation. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) put 'An' article before 'old silver coin'\nExplanation:- 'old silver coin' singular countable noun hai aur 'old' vowel sound hai, isliye 'An old silver coin' sahi hoga."
+            },
+            {
+              "id": 4,
+              "question": "All of us (a)/ had the dinner together and (b)/ enjoyed the evening. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove 'the' article before 'dinner'\nExplanation:- Meal ke naam se pehle article ka use nahi hota."
+            },
+            {
+              "id": 5,
+              "question": "This car is (a)/ a most expensive model (b)/ of all the vehicles (c)/ launched by the company this year. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'a' with 'the'\nExplanation:- 'of all the vehicles' se comparison ho raha hai, isliye superlative degree 'the most expensive model' aayega."
+            },
+            {
+              "id": 6,
+              "question": "When the captain (a)/ gave the final command (b)/ all soldiers marched towards (c)/ the battlefield with determination. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) put 'the' article before 'soldiers'\nExplanation:- Specific soldiers ki baat ho rahi hai, isliye 'all the soldiers' sabse sahi answer hoga."
+            },
+            {
+              "id": 7,
+              "question": "Priya decided (a)/ to donate some money (b)/ to fund the activities (c)/ of association working for animal welfare. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) put 'an/the' article before 'association'\nExplanation:- 'association' singular countable noun hai aur 'working for animal welfare' se specific ho rahi hai, isliye 'the/an association' aayega."
+            },
+            {
+              "id": 8,
+              "question": "The bridge stretched (a)/ from one side of the river (b)/ to other (c)/ without any visible support. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) put 'the' article before 'other'\nExplanation:- River ki dusri side specific hoti hai, isliye 'to the other' sabse sahi answer hoga."
+            },
+            {
+              "id": 9,
+              "question": "The pilot announced (a)/ that there would be turbulence (b)/ due to heavy winds in (c)/ sky ahead. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) put 'the' article before 'sky'\nExplanation:- 'sky' se pehle 'the' article ('in the sky ahead') aata hai."
+            },
+            {
+              "id": 10,
+              "question": "The students decorated the hall (a)/ beautifully to hold a function (b)/ in an honour of their headmistress (c)/ who was retiring this month. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'an honour' with 'honour'\nExplanation:- 'in honour of somebody' ek fixed idiomatic expression hai."
+            },
+            {
+              "id": 11,
+              "question": "He prepared (a)/ the strong cup of coffee (b)/ to stay awake (c)/ while completing his project at night. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'the strong' with 'a strong'\nExplanation:- General 'ek strong cup of coffee' ke sense ke liye 'a strong cup of coffee' sabse sahi answer hoga."
+            },
+            {
+              "id": 12,
+              "question": "The heavy rainfall this year (a)/ has had the serious effect (b)/ on the production of wheat and rice (c)/ in northern states. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'the serious' with 'a serious'\nExplanation:- 'has had a serious effect' sabse sahi answer hoga."
+            },
+            {
+              "id": 13,
+              "question": "This is (a)/a most expensive painting (b)/ ever displayed (c)/ in the National art museum. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'a most' with 'the most'\nExplanation:- 'ever displayed in the museum' se superlative comparison ho raha hai, isliye 'the most expensive painting' aayega."
+            },
+            {
+              "id": 14,
+              "question": "The doctor will see you (a)/ after a hour (b)/ as he is currently attending (c)/ another patient in the emergency ward. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'a hour' with 'an hour'\nExplanation:- 'hour' vowel sound word hai, isliye 'an hour' sabse sahi answer hoga."
+            },
+            {
+              "id": 15,
+              "question": "I couldn't believe that (a)/ she learned how to play piano (b)/ when she was just six years old (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) put 'the' article before 'piano'\nExplanation:- Musical instruments se pehle 'the' article ('play the piano') ka use hota hai."
+            },
+            {
+              "id": 16,
+              "question": "The student received (a)/ a prize (b)/ for his excellent performance (c)/ in first test of the term. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) put 'the' article before 'first'\nExplanation:- Ordinal adjective ('first, second, third') se pehle 'the' article ('in the first test') ka use hota hai."
+            },
+            {
+              "id": 17,
+              "question": "That's the (a)/ sort of a behaviour (b)/ which can ruin (c)/ our team's reputation. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove 'a' before 'behaviour'\nExplanation:- 'type of, sort of, kind of' ke baad article ka use nahi karte."
+            },
+            {
+              "id": 18,
+              "question": "Whole country (a)/ mourned deeply (b)/ after hearing the tragic news (c)/ of the national hero's death. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) put 'The' article before 'Whole'\nExplanation:- 'Whole' se pehle 'the' article ('The whole country') use hoga."
+            },
+            {
+              "id": 19,
+              "question": "People light hundreds of lamps (a)/ and decorate their homes beautifully (b)/ on Diwali night (c)/ to celebrate the victory of light over darkness. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) put 'the' article before 'Diwali night'\nExplanation:- Specific festival night ke liye 'on the Diwali night' sabse sahi answer hoga."
+            },
+            {
+              "id": 20,
+              "question": "She was honoured as (a)/ one of a pioneers of women empowerment (b)/ during the international conference (c)/ held in New Delhi last year. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'a pioneers' with 'the pioneers'\nExplanation:- 'one of the pioneers' sabse sahi answer hoga."
+            },
+            {
+              "id": 21,
+              "question": "Mr. Kapoor, (a)/ who is a businessman and a philanthropist, (b)/ donated a large sum (c)/ to build a hospital for underprivileged people. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove 'a' before 'philanthropist'\nExplanation:- Ek hi person ('Mr. Kapoor') ke liye do noun likhe hain, toh baad waale noun ke sath article ka use nahi hota ('a businessman and philanthropist')."
+            },
+            {
+              "id": 22,
+              "question": "Most of citizens in Japan (a)/ prefer using public transportation (b)/ because it is more convenient and punctual (c)/ than owning a private vehicle. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) put 'the' article before 'citizens'\nExplanation:- Particular Japan ke citizens ki baat ho rahi hai, isliye 'Most of the citizens' sabse sahi answer hoga."
+            },
+            {
+              "id": 23,
+              "question": "Tea (a)/ of Darjeeling (b)/ has a unique aroma and flavour (c)/ which distinguishes it from other varieties across the globe. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) put 'The' article before 'Tea'\nExplanation:- Particular Darjeeling ki tea ki baat ho rahi hai, isliye 'The tea of Darjeeling' sabse sahi answer hoga."
+            },
+            {
+              "id": 24,
+              "question": "The company has planned (a)/ to launch its new electric vehicle (b)/ across all the major cities of India (c)/ in an year. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) replace 'an year' with 'a year'\nExplanation:- 'year' ki pronunciation consonant sound ('y') se hai, isliye 'a year' sabse sahi answer hoga."
+            },
+            {
+              "id": 25,
+              "question": "The patience (a)/ is the key to success (b)/ when dealing with (c)/ difficult and stressful situations in life. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) remove 'The' before 'patience'\nExplanation:- 'Patience' abstract noun hai aur general baat ho rahi hai, isliye 'the' article ka use nahi hoga."
+            },
+            {
+              "id": 26,
+              "question": "She couldn't answer my call (a)/ because she was busy at the home (b)/ preparing dinner for the guests (c)/ No error. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove 'the' before 'home'\nExplanation:- Fixed phrase 'at home' likha jata hai."
+            },
+            {
+              "id": 27,
+              "question": "Mahatma Gandhi (a)/ is often regarded as Lincoln of India (b)/ because of his relentless efforts (c)/ to bring justice and equality among people. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) put 'the' before 'Lincoln'\nExplanation:- Proper noun ko common noun ('the Lincoln of India') ki tarah use kiya gaya hai, isliye 'the' article lagega."
+            },
+            {
+              "id": 28,
+              "question": "The journalist (a)/ promised to cover the entire incident (b)/ in the newspaper article (c)/ in the detail to make people aware of the issue. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) remove 'the' before 'detail'\nExplanation:- Fixed phrase 'in detail' hota hai."
+            },
+            {
+              "id": 29,
+              "question": "I heard that an English examination (a)/ has been postponed (b)/ due to a technical issue (c)/ in the online test system. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'an English' with 'the English'\nExplanation:- Specific exam ('the English examination') ki baat ho rahi hai."
+            },
+            {
+              "id": 30,
+              "question": "The gold is considered a symbol (a)/of wealth and prosperity in many cultures, (b)/and people often invest in it to secure their future. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) remove 'The' before 'gold'\nExplanation:- 'Gold' material noun ko generalized way mein use kiya gaya hai, isliye 'the' nahi aayega."
+            },
+            {
+              "id": 31,
+              "question": "The writer (a)/ mentioned that he needed a candle, a notebook (b)/ and the calm place (c)/ where no one could disturb him at night. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'the calm place' with 'a calm place'\nExplanation:- General 'ek shaant jagah' ke liye 'a calm place' sabse sahi answer hoga."
+            },
+            {
+              "id": 32,
+              "question": "The villagers (a)/ were shocked when they saw (b)/ that the entire barn had been set on the fire last night.(c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) remove 'the' before 'fire'\nExplanation:- Fixed phrase 'set on fire' hota hai."
+            },
+            {
+              "id": 33,
+              "question": "Scientists (a)/ are planning to send another rover (b)/ to collect rock samples (c)/ from moon in the coming decade. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) put 'the' article before 'moon'\nExplanation:- Celestial bodies ('the moon') se pehle 'the' article ka use hota hai."
+            },
+            {
+              "id": 34,
+              "question": "Because of the cyclone approaching the coast, (a)/ people are experiencing (b)/ a bad weather (c)/ with strong winds and heavy rainfall. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) remove 'a' article before 'bad weather'\nExplanation:- 'weather' uncountable noun hai jiske pehle 'a' article ka use nahi hota."
+            },
+            {
+              "id": 35,
+              "question": "The scientist (a)/ developed model (b)/ to predict future earthquakes (c)/ based on seismic wave patterns. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) put 'a' article before 'model'\nExplanation:- 'model' singular countable noun hai, isliye 'developed a model' sabse sahi answer hoga."
+            },
+            {
+              "id": 36,
+              "question": "Once the students realised truth (a)/ behind the sudden fee hike, (b)/ they protested peacefully (c)/ demanding justice from the administration. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) put 'the' before 'truth'\nExplanation:- 'realised the truth' sabse sahi answer hoga."
+            },
+            {
+              "id": 37,
+              "question": "It was (a)/ by a chance (b)/ that she met her childhood friend (c)/ while travelling on a train to Delhi. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove 'a' article before 'chance'\nExplanation:- 'by chance' ek fixed phrase hai."
+            },
+            {
+              "id": 38,
+              "question": "The teachers (a)/ are responsible for shaping (b)/ the character and values (c)/ of the young minds in every society. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) remove 'The' before 'teachers'\nExplanation:- General taur pe sabhi teachers ki baat ho rahi hai, isliye 'Teachers' se pehle 'The' nahi lagega."
+            },
+            {
+              "id": 39,
+              "question": "During the debate (a)/ the prime minister addressed (b)/ several questions raised (c)/ by an opposition regarding foreign policies. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) replace 'an opposition' with 'the opposition'\nExplanation:- 'the opposition' specific hota hai, isliye 'the' article lagega."
+            },
+            {
+              "id": 40,
+              "question": "She packed her bags (a)/ in the hurry (b)/ and booked the next available flight (c)/ after hearing the news of her father's accident. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'the hurry' with 'a hurry'\nExplanation:- Fixed phrase 'in a hurry' hota hai."
+            },
+            {
+              "id": 41,
+              "question": "The less you (a)/ worry about what others think, (b)/ more peaceful (c)/ your life will eventually become. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) put 'the' article before 'more peaceful'\nExplanation:- Gradual increase/decrease structure mein dono clauses mein 'the + comparative' ('the more peaceful') aata hai."
+            },
+            {
+              "id": 42,
+              "question": "The audience stood (a)/ and clapped for several minutes (b)/ to appreciate an outstanding bravery (c)/ shown by the young boy who saved his friend from drowning. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'an outstanding' with 'the outstanding'\nExplanation:- Yahan bravery specific hai jo uss ladke ne dikhai, isliye 'the outstanding bravery' sabse sahi answer hoga."
+            },
+            {
+              "id": 43,
+              "question": "The manager believes that (a)/ the employee must (b)/ follow the company's rules (c)/ and work with full dedication to succeed. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'the employee' with 'an employee'\nExplanation:- General har ek employee ke liye 'an employee' ka use hoga."
+            },
+            {
+              "id": 44,
+              "question": "It was an unforgettable evening at the concert that left everyone amazed.",
+              "options": [
+                "(a) was a unforgettable evening at the concert",
+                "(b) were an unforgettable evening at concert",
+                "(c) was the unforgettable evening at concert",
+                "(d) No substitution"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) No substitution\nExplanation:- 'It was an unforgettable evening at the concert' bilkul sahi hai."
+            },
+            {
+              "id": 45,
+              "question": "Identify the sentence that correctly uses the indefinite article.",
+              "options": [
+                "(a) The scientist proposed experiment in an unique environment such as a cave or an underground lab.",
+                "(b) The scientist proposed an experiment in a unique environment such as a cave or an underground lab.",
+                "(c) The scientist proposed a experiment in an unique environment such as a cave or an underground lab.",
+                "(d) The scientist proposed an experiment in a unique environment such as an cave or an underground lab."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'an experiment', 'a unique environment', 'a cave', and 'an underground lab' wala option B bilkul sahi hai."
+            },
+            {
+              "id": 46,
+              "question": "The travel agency offers exciting packages to the Brazil and the United Arab Emirates for both leisure and business travelers.",
+              "options": [
+                "(a) Brazil and United Arab Emirates",
+                "(b) Brazil and the United Arab Emirates",
+                "(c) The Brazil and United Arab Emirates",
+                "(d) Brazil and the United Arab Emirates"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'Brazil' se pehle 'the' nahi ayega aur 'the United Arab Emirates' se pehle 'the' ayega (option B)."
+            },
+            {
+              "id": 47,
+              "question": "Select the grammatically correct statement from among the given options.",
+              "options": [
+                "(a) It is a beautiful movie. I can watch the movie again with my friends.",
+                "(b) It is the beautiful movie. I can watch a movie again with my friends.",
+                "(c) It is an beautiful movie. I can watch the movie again with my friends.",
+                "(d) It is a beautiful movie. I can watch an movie again with my friends."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- First sentence mein 'a beautiful movie' aur second sentence mein same movie ke liye 'the movie' (option A) sahi hai."
+            },
+            {
+              "id": 48,
+              "question": "Select the grammatically correct sentence.",
+              "options": [
+                "(a) The effort to clean the park helped the community to restore a beauty of its surroundings.",
+                "(b) A effort to clean the park helped the community to restore the beauty of its surroundings.",
+                "(c) The effort to clean the park helped the community to restore the beauty of its surroundings.",
+                "(d) The effort to clean an park helped the community to restore the beauty of the surroundings."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'The effort to clean the park helped the community to restore the beauty of its surroundings' (option C) sahi hai."
+            },
+            {
+              "id": 49,
+              "question": "Select the grammatically correct sentence.",
+              "options": [
+                "(a) As a European country, France plays a major role in promoting global peace and cooperation.",
+                "(b) As an European country, France plays a major role in promoting global peace and cooperation.",
+                "(c) As the European country, France plays a major role in promoting global peace and cooperation.",
+                "(d) As European country, France plays a major role in promoting global peace and cooperation."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'As a European country' ('European' consonant sound 'yu' hai) wala option A sahi hai."
+            },
+            {
+              "id": 50,
+              "question": "Select the grammatically correct sentence.",
+              "options": [
+                "(a) It was the tiring day for Rahul with the lot of tasks and the couple of phone calls.",
+                "(b) It was a tiring day for Rahul with a lot of tasks and a couple of phone calls.",
+                "(c) It was a tiring day for Rahul with a lot of task and an couple of phone calls.",
+                "(d) It was the tiring day for Rahul with a lot of tasks and the couple of phone calls."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'a tiring day', 'a lot of tasks', and 'a couple of phone calls' wala option B sahi hai."
+            },
+            {
+              "id": 51,
+              "question": "Select the grammatically correct sentence.",
+              "options": [
+                "(a) A wolf cannot protect another wolf against a stronger rival in the wild.",
+                "(b) Wolf cannot protect wolf against stronger rival in the wild.",
+                "(c) The wolf cannot protect a wolf against stronger rival in the wild.",
+                "(d) A wolf cannot protect a wolf against a stronger rival in wild."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'A wolf cannot protect another wolf against a stronger rival in the wild' (option A) sahi hai."
+            },
+            {
+              "id": 52,
+              "question": "Select the grammatically correct sentence.",
+              "options": [
+                "(a) The harder he works, more he succeeds in achieving his dreams.",
+                "(b) The harder he works, the more he succeeds in achieving his dreams.",
+                "(c) The hard he works, the more he succeeds in achieving his dreams.",
+                "(d) The hard he works, more he succeeds in achieving his dreams."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Gradual increase/decrease structure 'The harder he works, the more he succeeds' (option B) sahi hai."
+            },
+            {
+              "id": 53,
+              "question": "Select the grammatically correct sentence.",
+              "options": [
+                "(a) Rabindranath Tagore is known as the Shakespeare of Bengal for his literary brilliance.",
+                "(b) Rabindranath Tagore is known as Shakespeare of Bengal for his literary brilliance.",
+                "(c) Rabindranath Tagore is known as a Shakespeare of Bengal for his literary brilliance.",
+                "(d) Rabindranath Tagore is known as like Shakespeare of Bengal for his literary brilliance."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'the Shakespeare of Bengal' wala option A sabse sahi answer hoga."
+            },
+            {
+              "id": 54,
+              "question": "The practice of feeding poors during festive seasons is a noble act appreciated by everyone.",
+              "options": [
+                "(a) feed the poor",
+                "(b) feeding poor",
+                "(c) feeding the poor",
+                "(d) feeds the poor"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'of' preposition ke baad gerund 'feeding' aur saare gareeb logon ke liye 'the poor' yaani 'feeding the poor' (option C) sahi hai."
+            },
+            {
+              "id": 55,
+              "question": "The practice of starving children who have diarrhoea can also worsen the situation.",
+              "options": [
+                "(a) starving the children",
+                "(b) No improvement",
+                "(c) starving childrens",
+                "(d) starve the children"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Specific children (who have diarrhoea) ke liye 'starving the children' (option A) sabse sahi answer hoga."
+            }
+          ]
         }
       ]
     }
