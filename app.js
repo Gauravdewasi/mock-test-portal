@@ -453,7 +453,7 @@ function triggerQuestionAnimation() {
   const card = document.getElementById("qCardContainer");
   if (!card) return;
   card.classList.remove("animate-question");
-  void card.offsetWidth; // Force GPU reflow
+  void card.offsetWidth;
   card.classList.add("animate-question");
 }
 
@@ -620,7 +620,6 @@ function closeSubmitModal() {
   document.getElementById("submitModal").classList.add("hidden");
 }
 
-// Smooth Number Count-Up Animation for Result Screen
 function animateValue(el, endVal, decimals = 0, suffix = "") {
   if (!el) return;
   const duration = 850;
@@ -628,7 +627,7 @@ function animateValue(el, endVal, decimals = 0, suffix = "") {
 
   function frame(now) {
     const progress = Math.min((now - startTime) / duration, 1);
-    const eased = 1 - Math.pow(1 - progress, 3); // Cubic ease-out
+    const eased = 1 - Math.pow(1 - progress, 3);
     const current = (endVal * eased).toFixed(decimals);
     el.textContent = `${current}${suffix}`;
     if (progress < 1) requestAnimationFrame(frame);
@@ -679,7 +678,6 @@ function finalizeResult() {
         </div>
         <p class="text-xs text-gray-500 font-semibold mb-3">Topics: ${sec.topicsIncluded.join(", ")}</p>
 
-        <!-- Accuracy Progress Bar -->
         <div class="w-full bg-gray-100 h-2 rounded-full overflow-hidden mb-3.5">
           <div class="bg-gradient-to-r from-red-600 to-green-600 h-full rounded-full transition-all duration-700" style="width: ${Math.min(100, parseFloat(sAcc))}%"></div>
         </div>
@@ -741,7 +739,6 @@ function finalizeResult() {
   showScreen("resultScreen");
   launchResultConfetti();
 
-  // Trigger Live Number Count-Up Animations
   animateValue(document.getElementById("animScore"), finalScore, 2);
   animateValue(document.getElementById("animTotal"), totalQ, 0);
   animateValue(document.getElementById("animAtt"), attempted, 0);
@@ -772,7 +769,6 @@ function renderSolutions(filter) {
       if (filter === "wrong" && !isWrong) return;
       if (filter === "unattempted" && !isUnatt) return;
 
-      const userAns = q.selectedOption !== null ? q.options[q.selectedOption] : "Not Attempted";
       const corrAns = q.options[q.correctAnswer];
 
       items.push(`
@@ -784,12 +780,15 @@ function renderSolutions(filter) {
             </span>
           </div>
           <div class="font-bold text-sm md:text-base mb-3 whitespace-pre-line text-gray-900">${q.question}</div>
-          <div class="text-xs md:text-sm mb-3.5 flex flex-wrap gap-4 bg-slate-50 p-2.5 rounded-lg border">
-            <div><strong>Your Answer:</strong> <span class="${isWrong ? "text-red-600 font-extrabold" : "font-bold"}">${userAns}</span></div>
-            <div><strong class="text-green-700">Correct Answer: ${corrAns}</strong></div>
+          
+          <div class="mb-3 text-xs md:text-sm font-semibold text-green-700">
+            Correct Answer: ${corrAns}
           </div>
+
+          <!-- Compact, clean explanation box -->
           <div class="bg-red-50/70 border-l-4 border-red-600 p-3.5 rounded-r-xl text-sm leading-relaxed whitespace-pre-line text-gray-800">
-            <strong class="text-red-800">💡 Hinglish Solution:</strong>\n${q.solutionHinglish || "Solution available in answer key."}
+            <strong class="text-red-800 block mb-1">Explanation:</strong>
+            ${q.solutionHinglish || "Solution available in answer key."}
           </div>
         </div>
       `);
