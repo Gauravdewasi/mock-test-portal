@@ -3328,6 +3328,972 @@
               "solutionHinglish": "Ans (c) Correct answer is 'the most effective'\nExplanation:- Aaj tak ki sabhi books se comparison ke liye superlative degree 'the most effective' option C sahi hoga."
             }
           ]
+        },
+        {
+          "id": "t_1793427163627",
+          "name": "Noun Level-01",
+          "questions": [
+            {
+              "id": 1,
+              "question": "All our (a)/ furnitures were (b)/ spoiled in the recent (c)/ rains and floods. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'furniture was' instead of 'furnitures were'\nExplanation:- kyunki 'furniture' ek uncountable noun hai iska plural form nahi hota hai.\nNote:- Jab kuch dino tak lagatar barish aur baadh aa rhi ho to uske liye Rains and Floods ka use kar sakte hai."
+            },
+            {
+              "id": 2,
+              "question": "Mother-in-laws from different (a)/ daily soaps have been (b)/ nominated for this category. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'mothers-in-law' in place of 'mother-in-laws'.\nExplanation:- Compound noun ka plural karne ke liye noun ki tarah act karne wale word ka plural karte hain.\nNote:- Iss sentence me soaps ka matlb sabun nhi hai. 'daily soaps' matlb roj aane wale TV serials."
+            },
+            {
+              "id": 3,
+              "question": "My neighbour's grandson (a)/ is only (b)/ five month old.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'months' instead of 'month'\nExplanation:- kyunki 'five' ek numeral adjective hai iske baad plural noun ka use hoga."
+            },
+            {
+              "id": 4,
+              "question": "The efficiency of an (a)/ employee also depends on the (b)/ surrounding in which he or she works.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'surroundings' in place of 'surrounding'.\nExplanation:- yahan 'on' preposition ka object banane ke liye ek noun ki need hai. surrounding = adjective, surroundings = noun."
+            },
+            {
+              "id": 5,
+              "question": "There have been (a)/ three breaks-in (b)/ in our society (c)/ this month.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'break-ins' instead of 'breaks-in'\nExplanation:- kyunki 'break-in' ka plural 'break-ins' hota hai. Break-in = the crime of entering a building by damaging a door or window, usually in order to steal."
+            },
+            {
+              "id": 6,
+              "question": "I want to know (a)/ where the headquarter of (b)/ Delhi police is situated.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'headquarters' in place of 'headquarter'\nExplanation:- 'headquarters' un nouns me se hai jinki singular and plural me spelling same hi rehti hai."
+            },
+            {
+              "id": 7,
+              "question": "We bought (a)/ two dozens (b)/ mangoes from (c)/ the market.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'two dozen' instead of 'two dozens'\nExplanation:- kyunki yahan 'two dozen' ko 'mangoes' noun ke liye adjective ki tarah use kiya jaa raha hai isliye iska plural nahi hoga."
+            },
+            {
+              "id": 8,
+              "question": "Some seats are (a)/ reserved for disabled (b)/ in each compartment. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'the disabled' or 'disabled people' in place of 'disabled'.\nExplanation:- Yahan 'for' preposition ka object banane ke liye noun ki zarurat hai. The disabled = all the disabled people."
+            },
+            {
+              "id": 9,
+              "question": "I do not (a)/ like to read (b)/ these kind (c)/ of novels.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'this kind' or 'these kinds' instead of 'these kind'\nExplanation:- plural noun ke sath 'these' and singular noun ke sath 'this' ka use hoga."
+            },
+            {
+              "id": 10,
+              "question": "The balance in his saving (a)/ account is not enough for him to (b)/ avail himself of these facilities.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'savings' in place of 'saving'.\nExplanation:- 'Savings' and 'Earnings' jab noun/modifier ka kaam karti hai tab humesha plural ('savings account') me hi likhe jaate hain."
+            },
+            {
+              "id": 11,
+              "question": "Shall (a)/ we go (b)/ for walking (c)/ in the park?(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'a walk' instead of 'walking'\nExplanation:- kyunki 'go for a walk/ride/drive/run/swim' ek fixed phrase hota hai. Jahan noun possible hota hai wahan jabardasti gerund nahi lagate hain."
+            },
+            {
+              "id": 12,
+              "question": "The President of India (a)/ constitutional power is limitless (b)/ but it is the P.M. who is, (c)/ indeed, powerful.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'India's' in place of 'India'.\nExplanation:- Yahan kehna hai ki India ke president ki constitutional power limitless hai isliye 'President of India's' (apostrophe 's') lagega."
+            },
+            {
+              "id": 13,
+              "question": "The Principal requested (a)/ the teacher's (b)/ to monitor (c)/ and take care of the small children.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'teachers' instead of 'teacher's'\nExplanation:- kyunki 'teacher' ka plural 'teachers' hota hai 'teacher's' nahi. Yahan koi possession nahi banana hai."
+            },
+            {
+              "id": 14,
+              "question": "There was (a)/ no money in the bank (b)/ in Dhananjay's (c)/ and Mritunjay's joint account.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'Dhananjay' in place of 'Dhananjay's'\nExplanation:- Jab 2 nouns ka ek common cheez (joint account) par possession hota hai toh apostrophe ('s) sirf baad wale noun par lagate hain."
+            },
+            {
+              "id": 15,
+              "question": "The boy had run away (a)/ because he couldn't stand (b)/ his father beat him (c)/ for one more day.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'his father's beating' instead of 'his father beat'\nExplanation:- 'Could not stand' verb ka object 'beating' gerund banega aur usse pehle likhe 'father' noun ko possessive case me karke 'father's' karna padega."
+            },
+            {
+              "id": 16,
+              "question": "The offsprings of this (a)/ species leave their parents (b)/ as soon as they mature. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'offspring' in place of 'offsprings'.\nExplanation:- Kyunki 'offspring' ese nouns me se ek hai jinka singular and plural form same rehta hai."
+            },
+            {
+              "id": 17,
+              "question": "Doctors say that (a)/ home isolation is (b)/ far more effective (c)/ than hospitalize in cases of mild infection.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'hospitalization' instead of 'hospitalize'\nExplanation:- kyunki yahan 'isolation' noun se comparison karna hai aur noun ka comparison noun ('hospitalization') se hi hoga."
+            },
+            {
+              "id": 18,
+              "question": "He did not know even (a)/ the name of the scientist (b)/ who discovered (c)/ the laws of the earth gravitational force.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Use 'earth's' in place of 'earth'.\nExplanation:- Celestial bodies ke sath apostrophe ('s) laga sakte hain ('the earth's gravitational force')."
+            },
+            {
+              "id": 19,
+              "question": "Your advices were timely (a)/ and guided me (b)/ to take the right decisions.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'pieces of advice / bits of advice' instead of 'advices'\nExplanation:- kyunki 'advice' ek uncountable noun hai iska plural form nahi hota hai."
+            },
+            {
+              "id": 20,
+              "question": "His maid servant (a)/ behaviour is undoubtedly (b)/ indecent but I don't (c)/ understand how he tolerates it.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'servant's behaviour' in place of 'servant behaviour'.\nExplanation:- Yahan 'servant ka behaviour' yeh meaning dena hai isliye apostrophe ('s) lagana padega."
+            },
+            {
+              "id": 21,
+              "question": "She speaks (a)/ very highly (b)/ of both her (c)/ daughter-in-laws.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'daughters-in-law' instead of 'daughter-in-laws'\nExplanation:- kyunki 'daughter-in-law' ka plural 'daughters-in-law' hota hai."
+            },
+            {
+              "id": 22,
+              "question": "It was India's (a)/ past glory (b)/ that attracted a number of invaders in the remote past. (c)/no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) No error.\nExplanation:- Country and city ke name ke sath apostrophe ('s) laga sakte hain. Eg. India's past glory."
+            },
+            {
+              "id": 23,
+              "question": "His loyalty (a)/ and honesty (b)/ are above (c)/ suspect.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'suspicion' instead of 'suspect'\nExplanation:- above suspicion = sandeh ke pare. Suspect = person believed to be guilty; Suspicion = feeling/belief of doubt."
+            },
+            {
+              "id": 24,
+              "question": "Many of us don't (a)/ know the exact reason (b)/ behind the earthquake. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'cause' in place of 'reason'.\nExplanation:- Apne aap hone wale natural events ki wajah ke liye 'cause' word ka use karte hai."
+            },
+            {
+              "id": 25,
+              "question": "His mean (a)/ are very limited (b)/ yet he does not curtail (c)/ his expenditure and spends lavishly.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'means' in place of 'mean'.\nExplanation:- 'Income/resources' wale meaning me 'means' word ka hi use hota hai aur iske sath verb plural aati hai."
+            },
+            {
+              "id": 26,
+              "question": "The information (a)/ you are (b)/ asking for (c)/ is quite irrelevance. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'irrelevant' instead of 'irrelevance'\nExplanation:- kyunki 'irrelevance' ek noun hai jabki 'irrelevant' ek adjective hai aur yahan 'is quite' ke baad adjective ki zarurat hai."
+            },
+            {
+              "id": 27,
+              "question": "Annu saw (a)/ her shade (b)/ in the river.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'shadow' in place of 'shade'.\nExplanation:- Shadow = Parchhai (reflection/dark shape); Shade = Dhoop se chhaya."
+            },
+            {
+              "id": 28,
+              "question": "The man played (a)/ the flute and led (b)/ all the mouse (c)/ out of the town.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'mice' instead of 'mouse'\nExplanation:- kyunki 'mouse' ka plural 'mice' hota hai."
+            },
+            {
+              "id": 29,
+              "question": "The French (a)/ have strange (b)/ habits.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'customs' in place of 'habits'.\nExplanation:- Ek single person ki aadat ke liye 'habit' word ka use hota hai aur society/community me follow kiye jaane wale rivaaz ke liye 'customs' word ka use hota hai."
+            },
+            {
+              "id": 30,
+              "question": "He loses (a)/ his tempers on (b)/ the slightest (c)/ provocation.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'temper' instead of 'tempers'\nExplanation:- kyunki 'temper' ek uncountable noun hai iska plural form nahi hota hai ('lose his temper')."
+            },
+            {
+              "id": 31,
+              "question": "The Commonwealth Games had (a)/ a grand opening (b)/ ceremony with spectacular (c)/ cultural performings.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'performances' instead of 'performings'\nExplanation:- kyunki 'perform' verb ki noun form 'performance' (plural 'performances') hoti hai."
+            },
+            {
+              "id": 32,
+              "question": "The long-distance train (a)/ which met with an accident (b)/ was carrying some army personal.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'personnel' in place of 'personal'\nExplanation:- Personal = Niji (adjective); Personnel = Staff/employees (noun)."
+            },
+            {
+              "id": 33,
+              "question": "The publics are (a)/not satisfied (b)/ with the (c)/ new act.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'the public is' instead of 'the publics are'\nExplanation:- kyunki 'public' noun ka plural 'publics' nahi hota."
+            },
+            {
+              "id": 34,
+              "question": "Your son's-in-law's (a)/ friend is seriously ill (b)/ and he wants you (c)/ to see him as soon as possible.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'son-in-law's friend' in place of 'son's-in-law's friend'.\nExplanation:- Compound noun me possession dikhane ke liye sirf aakhiri word ('law's') par apostrophe lagta hai."
+            },
+            {
+              "id": 35,
+              "question": "They had to wait (a)/ for the luggages (b)/ to be put into the cab (c)/ before they themselves got into it.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'luggage' instead of 'luggages'\nExplanation:- kyunki 'luggage' ek uncountable noun hai iska plural form nahi hota hai."
+            },
+            {
+              "id": 36,
+              "question": "The modern man is busy (a)/ acquiring more and more wealth (b)/ and designing ways to invest it (c)/ in more sense pleasures.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'sensuous' instead of 'sense'\nExplanation:- kyunki 'pleasures' ek noun hai iske pehle adjective ('sensuous') ka use hoga."
+            },
+            {
+              "id": 37,
+              "question": "The survey gives (a)/ us much knowledge of the (b)/ public's opinion (c)/ on the matter of terrorism.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'public' in place of 'public's'.\nExplanation:- kyunki 'public opinion' ek compound noun ya fix expression hai."
+            },
+            {
+              "id": 38,
+              "question": "Among the reasons cited by the employee (a)/ for quitting the job were the pressure of work, the outstation duties (b)/ and desiring to pursue her hobbies.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'the desire' instead of 'desiring'\nExplanation:- Parallelism maintain karne ke liye 'the pressure of work', 'the outstation duties' ke sath 'the desire to pursue her hobbies' noun ka use hoga."
+            },
+            {
+              "id": 39,
+              "question": "'Language consists of several stratums', (a)/ said a linguist (b)/ in his lecture on Language (c)/ and Linguistics.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'strata' in place of 'stratums'.\nExplanation:- 'stratum' ka plural 'strata' hota hai."
+            },
+            {
+              "id": 40,
+              "question": "The chart papers (a)/ were distributed (b)/ among all (c)/ the childrens (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'children' instead of 'childrens'\nExplanation:- kyunki 'children' khud hi plural noun hai isme 's' nahi lagta."
+            },
+            {
+              "id": 41,
+              "question": "Your tone of speaking (a)/ as well as your friends (b)/ is extremely sarcastic (c)/ yet we never take it seriously.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'friend's' in place of 'friends'.\nExplanation:- kyunki sentence ke meaning ke according 'friend' ka tone par possession banana hai ('your friend's')."
+            },
+            {
+              "id": 42,
+              "question": "My visiting to (a)/ my family are (b)/ few and far between.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'My visits to' instead of 'My visiting to'\nExplanation:- 'are' verb se pta chal rha hai ki yahan plural noun 'visits' ka use kiya jayega."
+            },
+            {
+              "id": 43,
+              "question": "He did not approve (a)/ of his son raising (b)/stupid questions and thereby (c)/ vexing the teacher. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'son's' in place of 'son'\nExplanation:- Yahan 'approve of' phrasal verb ka object 'raising' gerund banega. Isliye gerund se pehle 'son' noun ko possessive case ('son's') me karna padega."
+            },
+            {
+              "id": 44,
+              "question": "These (a)/ stray cattles (b)/ are roaming around (c)/ the town.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'cattle' instead of 'cattles'\nExplanation:- kyunki 'cattle' khud hi ek plural noun hai."
+            },
+            {
+              "id": 45,
+              "question": "You shall get (a)/ all the informations (b)/ if you read this book carefully. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'information' in place of 'informations'.\nExplanation:- kyunki 'information' uncountable noun hai iska plural nahi hoga."
+            },
+            {
+              "id": 46,
+              "question": "We have taken on (a)/ the responsibility of (b)/ arranging the required training (c)/ and supervise of the new staff. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Use 'supervising the new staff' in place of 'supervise of the new staff'\nExplanation:- Yahan 'arranging' and 'supervising' gerunds ko 'and' se joda gya hai isliye parallelism ke according gerund use hoga."
+            },
+            {
+              "id": 47,
+              "question": "'I have never seen (a)/ such a lovely spectacles (b)/ in my life', said (c)/ the passer-by.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'spectacle' in place of 'spectacles'.\nExplanation:- Spectacles = chasma; Spectacle = drishya/scene. Sentence ke meaning ke according yahan 'spectacle' aayega."
+            },
+            {
+              "id": 48,
+              "question": "With the literacy rates in this (a)/ region as low as 10% (b)/ we need to encourage the (c)/ local people to build schools.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'rate' in place of 'rates'.\nExplanation:- Kisi ek region ki literacy rate obviously ek hi hogi toh 'rate' noun ko singular me likha jayega."
+            },
+            {
+              "id": 49,
+              "question": "Hectic schedules can (a)/ take a toll on anybody and (b)/ the solutions to this is (c)/ a quick holiday to some exotic location.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'solution' in place of 'solutions'.\nExplanation:- Yahan 'is' singular verb ka use hua hai aur aage 'a quick holiday' ek hi solution likha hai toh 'the solution' singular aayega."
+            },
+            {
+              "id": 50,
+              "question": "Owing to his heavy engagement, (a)/ he could not write even the two-third (b)/ of the book of which (c)/ the publication was extended before January.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'two-thirds' in place of 'two-third'.\nExplanation:- Jab fractions me numerator 1 se bada hota hai toh denominator me 's' aata hai (two-thirds, three-fourths)."
+            },
+            {
+              "id": 51,
+              "question": "Since you are unable (a)/ to repay the loan you have no alternate (b)/ but to seek (c)/ an extension.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'alternative' instead of 'alternate'.\nExplanation:- Alternative = other option (noun); Alternate = ek chhod ke ek (adjective)."
+            },
+            {
+              "id": 52,
+              "question": "Some required measures (a)/ have to be taken to increase (b)/ the proceed of the annual sale. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'proceeds' in place of 'proceed'.\nExplanation:- proceed (verb) = aage badhna; proceeds (noun) = money received from a sale/event."
+            },
+            {
+              "id": 53,
+              "question": "My uncle's secretary's wife (a)/ is (b)/ very charming.(c) no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'The wife of my uncle's secretary' in place of 'My uncle's secretary's wife'.\nExplanation:- Sentence mein do apostrophe 's' ka lagatar use sath mein nahi karte, isliye isse 'of' structure se banayenge."
+            },
+            {
+              "id": 54,
+              "question": "It will take at least (a)/ one and a half year (b)/ to complete this project. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'years' in place of 'year'.\nExplanation:- 'one and a half' (1.5) ek se jyada hai, isliye iske sath noun plural ('years') aayegi."
+            },
+            {
+              "id": 55,
+              "question": "The Karkardooma court has issued (a)/ five summons against him (b)/ so far, but he (c)/ has attended to none of them.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'summonses' in place of 'summons'.\nExplanation:- 'summons' singular countable noun hai aur 'five' ke sath iska plural 'summonses' hoga."
+            },
+            {
+              "id": 56,
+              "question": "I do not (a)/ know (b)/ my date of birth. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'the date of my birth' in place of 'my date of birth'.\nExplanation:- Formal grammar ke according 'the date of my birth' sahi usage hai."
+            },
+            {
+              "id": 57,
+              "question": "The extra benefits in addition to its (a)/ flexibility of operation (b)/ and superior finish makes (c)/ it the most desirable machine of its kind.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'make' in place of 'makes'\nExplanation:- Iss verb ka main subject 'The extra benefits' hai jo ki plural hai, isliye plural verb 'make' aayegi."
+            },
+            {
+              "id": 58,
+              "question": "Cannot you see (a)/ that the cattle (b)/ is grazing in the field? (c)/ So, you cannot play there.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'are' in place of 'is'\nExplanation:- 'cattle' plural noun hai uske liye plural verb 'are' aayegi."
+            },
+            {
+              "id": 59,
+              "question": "The gentry of Mumbai does not (a)/ like Salman Khan at (b)/ all, even though he has (c)/a number of good movies to his credit.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'do' in place of 'does'.\nExplanation:- 'gentry' (people of high social class) plural noun hai uske liye verb plural ('do not') aayegi."
+            },
+            {
+              "id": 60,
+              "question": "Would you please (a)/ tell me how many (b)/ soaps do you (c)/ use in a month.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'bars/cakes of soap you' in place of 'soaps do you'\nExplanation:- 'Soap' uncountable noun hai, ek se zyada kehne ke liye 'cakes/bars of soap' likhna padega."
+            },
+            {
+              "id": 61,
+              "question": "The Indian independence movement sought to establish the conceptions of freedom and social welfare as the goals of an independent Indian state, resulting in Fundamental Rights and Directive Principles.",
+              "options": [
+                "(a) procedures of free mind",
+                "(b) concepts of liberty",
+                "(c) symbols of victory",
+                "(d) methods to sympathise"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Yhan meaning ke according 'concepts of liberty' (ideas of freedom) ka use hoga."
+            },
+            {
+              "id": 62,
+              "question": "National development is defined as an improvement in people's daily arrangements, the provision of fundamental necessities to citizens such as food, education, social services, medical help, and so on, as well as increase in per capita income.",
+              "options": [
+                "(a) diving techniques",
+                "(b) dining categories",
+                "(c) existing calamities",
+                "(d) living conditions"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Yhan meaning ke according 'living conditions' option D ka use hoga."
+            },
+            {
+              "id": 63,
+              "question": "In today's digital age, information is widely available to everyone by many means of media such as television, newspapers, films, and social media.",
+              "options": [
+                "(a) with quite enough of mechanism",
+                "(b) through any strategies",
+                "(c) via various forms",
+                "(d) among many techniques"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Koi cheez jab kisi medium se transfer hoti hai uske liye 'via various forms' option C ka use hoga."
+            },
+            {
+              "id": 64,
+              "question": "Disability was viewed as God's retribution for wickedness in the past.",
+              "options": [
+                "(a) revenge for legal works",
+                "(b) punishment for wrongdoing",
+                "(c) payback for doing help",
+                "(d) fine for misbehavior"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'retribution for wickedness' ka meaning 'punishment for wrongdoing' (option B) hai."
+            },
+            {
+              "id": 65,
+              "question": "I've got a lot of homeworks this weekend.",
+              "options": [
+                "(a) a lot of homework",
+                "(b) No substitution",
+                "(c) a lots of homework",
+                "(d) much homework"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'Homework' uncountable noun hai iska plural nhi banta. Option A 'a lot of homework' sahi hai."
+            },
+            {
+              "id": 66,
+              "question": "Substitute the underlined words with the option that is closest in meaning to it.\nGive us some room for improvement.",
+              "options": [
+                "(a) an opportunity for improvement",
+                "(b) room in a house for improvement",
+                "(c) advice for improvement",
+                "(d) a warning for improvement"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'room for improvement' ka meaning hai scope/chance/an opportunity for improvement (option A)."
+            },
+            {
+              "id": 67,
+              "question": "After a prolonged discussion, Gayatri got a permission from her parents to study law.",
+              "options": [
+                "(a) got the permission",
+                "(b) got proper permission",
+                "(c) got permission",
+                "(d) got her permission"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'Permission' uncountable noun ki tarah use hua hai isliye bina article ke 'got permission' (option C) use hoga."
+            },
+            {
+              "id": 68,
+              "question": "Rumour mongering is one of the bad habit.",
+              "options": [
+                "(a) one of the worse habit",
+                "(b) No substitution required",
+                "(c) ones of the worse habit",
+                "(d) one of the bad habits"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- 'One of + the + plural noun' structure use hota hai, isliye 'one of the bad habits' (option D) use hoga."
+            },
+            {
+              "id": 69,
+              "question": "Major hubs of the information technology industry is the Silicon Valley of Central California.",
+              "options": [
+                "(a) No improvement",
+                "(b) A major hub of",
+                "(c) Major hub by",
+                "(d) The majors hub of"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Sentence me singular verb 'is' use ki gyi hai, isliye singular subject 'A major hub of' (option B) ka use hoga."
+            },
+            {
+              "id": 70,
+              "question": "My assistant will see you in the meets next week.",
+              "options": [
+                "(a) on the meets",
+                "(b) in an meeting",
+                "(c) No improvement",
+                "(d) at the meeting"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Preposition ke baad noun 'the meeting' lagega aur meeting ke sath 'at' preposition ayegi, isliye 'at the meeting' (option D) sahi hai."
+            },
+            {
+              "id": 71,
+              "question": "Megha's habit of procrastination puts her colleagues on lot of trouble.",
+              "options": [
+                "(a) to a lot of trouble",
+                "(b) in lot of troubles",
+                "(c) into lot troubles",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'Put someone to a lot of trouble' सही phrase hota hai, isliye option A sahi hai."
+            },
+            {
+              "id": 72,
+              "question": "These days I like to eat nuts and seeds along with fruits as I'm conscious of my healthfulness.",
+              "options": [
+                "(a) healthful",
+                "(b) health",
+                "(c) healthy",
+                "(d) No substitution"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Yhan 'my' ke baad noun 'health' (option B) sahi hai."
+            },
+            {
+              "id": 73,
+              "question": "Bats huddle together to get warm of each other's body.",
+              "options": [
+                "(a) warming from",
+                "(b) warm off",
+                "(c) No improvement",
+                "(d) warmth from"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Yhan 'to get' infinitive ka object bnane ke liye noun 'warmth' aur source ke liye 'from' yaani 'warmth from' (option D) sahi hai."
+            },
+            {
+              "id": 74,
+              "question": "India has identified a nose-based vaccine against Covid-19 that could be a 'game-changer'.",
+              "options": [
+                "(a) No substitution",
+                "(b) a nasal vaccine",
+                "(c) an aural vaccine",
+                "(d) a sense-based vaccine"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Nose ke through li jane wali vaccine ko 'a nasal vaccine' (option B) kehte hain."
+            },
+            {
+              "id": 75,
+              "question": "These days, wherever district courts are functioning, hearings is limit to urgent matters.",
+              "options": [
+                "(a) hearings are limited",
+                "(b) hearing is limit",
+                "(c) No substitution",
+                "(d) hearings were limited"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Subject 'hearings' plural hai aur present tense hai, isliye 'hearings are limited' (option A) sahi hai."
+            },
+            {
+              "id": 76,
+              "question": "A large swarm of dogs was blocking the way.",
+              "options": [
+                "(a) pack of",
+                "(b) herd of",
+                "(c) No substitution",
+                "(d) school of"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Dogs ke group ke liye 'pack of' word ka use hota hai isliye A option sahi hai."
+            },
+            {
+              "id": 77,
+              "question": "In the jungle, I saw a group of lions.",
+              "options": [
+                "(a) a pride of lions",
+                "(b) a flock of lions",
+                "(c) a herd of lions",
+                "(d) a school of lions"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Lions ke group ke liye 'a pride of lions' word ka use hota hai isliye A option sahi hai."
+            },
+            {
+              "id": 78,
+              "question": "Tons of sheep was grazing in the field.",
+              "options": [
+                "(a) A flock of sheep",
+                "(b) Many sheeps",
+                "(c) Numerous sheeps",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Sheep ke group ke liye 'A flock of sheep' word ka use hota hai isliye A option sahi hai."
+            },
+            {
+              "id": 79,
+              "question": "There is a great degrade in values in the modern age.",
+              "options": [
+                "(a) degradation of values",
+                "(b) deliberation for values",
+                "(c) demonstration from values",
+                "(d) no improvement"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Yhan noun 'degradation of values' (moral values me girawat) option A sahi hai."
+            },
+            {
+              "id": 80,
+              "question": "They started playing badminton at a young age of nine years old.",
+              "options": [
+                "(a) the young age of nine",
+                "(b) the young age of nine years old",
+                "(c) a young age of nine years",
+                "(d) no improvement"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'age' word ka use karne ke baad dobara 'years old' lagana superfluous hai, isliye 'the young age of nine' (option A) sahi hai."
+            }
+          ]
         }
       ]
     }
