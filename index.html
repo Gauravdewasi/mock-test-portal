@@ -4,144 +4,140 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Mock Test Portal</title>
-  <!-- Tailwind CSS Framework for Modern Clean UI -->
+  <!-- Tailwind CSS -->
   <script src="https://cdn.tailwindcss.com"></script>
-  <style>
-    .q-circle {
-      width: 38px; height: 38px; border-radius: 9999px;
-      font-weight: 700; font-size: 13px; color: #fff;
-      display: inline-flex; align-items: center; justify-content: center;
-      position: relative; transition: 0.15s;
-    }
-    .q-circle.current { outline: 3px solid #dc2626; outline-offset: 2px; }
-    .st-not-visited { background-color: #262626; }
-    .st-answered { background-color: #16a34a; }
-    .st-not-answered { background-color: #dc2626; }
-    .st-review { background-color: #dc2626; }
-    .st-review::after { content: '▲'; position: absolute; bottom: -8px; color: #111; font-size: 9px; }
-    .st-ans-review { background-color: #eab308; color: #000; }
-    .st-ans-review::after { content: '▲'; position: absolute; bottom: -8px; color: #111; font-size: 9px; }
-  </style>
+  <!-- Canvas Confetti for Result Celebration -->
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.2/dist/confetti.browser.min.js"></script>
+  <!-- GPU Accelerated Custom Animations & UI -->
+  <link rel="stylesheet" href="./style.css" />
 </head>
-<body class="bg-gray-50 text-gray-800 min-h-screen flex flex-col font-sans">
+<body class="bg-slate-50 text-gray-800 min-h-screen flex flex-col">
 
   <!-- 24-HOUR LOCKOUT SCREEN -->
   <div id="lockoutScreen" class="hidden fixed inset-0 bg-white z-[9999] flex items-center justify-center p-4">
-    <div class="max-w-md w-full border-2 border-red-600 bg-red-50 p-8 rounded-xl text-center shadow-lg">
+    <div class="max-w-md w-full border-2 border-red-600 bg-red-50 p-8 rounded-2xl text-center shadow-2xl animate-modal">
       <h1 class="text-2xl font-extrabold text-red-700 mb-3">Website Blocked for 24 Hours</h1>
       <p class="text-sm text-gray-700 mb-5">3 baar galat Admin Password dalne ki wajah se aapka session 24 ghante ke liye lock kar diya gaya hai.</p>
-      <div id="lockoutCountdown" class="inline-block bg-white border border-red-600 text-red-600 font-extrabold text-2xl px-6 py-2 rounded-lg">24:00:00</div>
+      <div id="lockoutCountdown" class="inline-block bg-white border-2 border-red-600 text-red-600 font-extrabold text-2xl px-6 py-2.5 rounded-xl shadow">24:00:00</div>
     </div>
   </div>
 
   <!-- TOP NAVBAR -->
-  <header class="bg-white border-b-2 border-red-600 px-6 py-3 flex justify-between items-center sticky top-0 z-40 shadow-sm">
-    <div class="text-xl font-extrabold text-red-600 tracking-wide">MOCK TEST PORTAL</div>
+  <header class="bg-white/95 backdrop-blur border-b-2 border-red-600 px-6 py-3.5 flex justify-between items-center sticky top-0 z-40 shadow-sm">
+    <div class="flex items-center gap-2.5 cursor-pointer" onclick="goHome()">
+      <span class="w-3 h-7 bg-red-600 rounded-full inline-block"></span>
+      <span class="text-xl font-extrabold text-red-600 tracking-tight">MOCK TEST PORTAL</span>
+    </div>
     <div class="flex gap-3">
-      <button onclick="goHome()" class="px-4 py-2 rounded-md font-semibold text-sm border border-red-600 text-red-600 hover:bg-red-50">Home</button>
-      <button onclick="openAdminLogin()" class="px-4 py-2 rounded-md font-semibold text-sm bg-red-600 text-white hover:bg-red-700">Admin Panel</button>
+      <button onclick="goHome()" class="btn-animated px-4 py-2 rounded-lg font-bold text-sm border border-red-600 text-red-600 hover:bg-red-50">Home</button>
+      <button onclick="openAdminLogin()" class="btn-animated px-4 py-2 rounded-lg font-bold text-sm bg-gradient-to-r from-red-600 to-red-700 text-white">Admin Panel</button>
     </div>
   </header>
 
   <!-- 1. HOME DASHBOARD -->
-  <main id="homeScreen" class="max-w-5xl w-full mx-auto my-6 px-4 flex-1">
-    <div class="bg-white border border-gray-200 rounded-xl p-6 shadow-sm">
-      <h2 class="text-xl font-bold text-red-700 mb-1">Select Book & Topics for Test</h2>
-      <p class="text-xs text-gray-500 mb-5">Ek hi book ke multiple topics tick karne par woh ek hi section mein lagatar aayenge. Jab doosri book select hogi tab naya section banega. (Default Negative Marking: 1/4)</p>
+  <main id="homeScreen" class="max-w-5xl w-full mx-auto my-7 px-4 flex-1 animate-page">
+    <div class="bg-white border border-gray-200 rounded-2xl p-6 shadow-sm">
+      <div class="flex flex-wrap justify-between items-center gap-2 mb-2">
+        <h2 class="text-xl font-extrabold text-red-700">Select Book & Topics for Test</h2>
+        <span class="text-xs font-bold bg-red-50 text-red-700 border border-red-200 px-3 py-1 rounded-full">Negative Marking: 1/4 (-0.25)</span>
+      </div>
+      <p class="text-xs text-gray-500 mb-6">Ek hi book ke multiple topics tick karne par woh ek hi combined section mein aayenge. Jab doosri book select hogi tab naya section banega.</p>
 
-      <div id="booksContainer" class="space-y-3">Loading tests...</div>
+      <div id="booksContainer" class="space-y-4">Loading tests...</div>
 
       <!-- Bottom Timer & Start Bar -->
-      <div class="mt-6 pt-5 border-t-2 border-red-600 flex flex-wrap justify-between items-center gap-4">
+      <div class="mt-7 pt-5 border-t-2 border-red-600 flex flex-wrap justify-between items-center gap-4 bg-gradient-to-r from-red-50/40 to-transparent p-4 rounded-xl">
         <div>
-          <label class="flex items-center gap-2 font-bold text-sm cursor-pointer text-gray-800">
+          <label class="flex items-center gap-2.5 font-bold text-sm cursor-pointer text-gray-800">
             <input type="checkbox" id="customTimerToggle" onchange="renderTimerInputs()" class="w-4 h-4 accent-red-600" />
             Set Sectional / Custom Timer (Minutes)
           </label>
           <p class="text-xs text-gray-500 mt-1">Unchecked = No time limit (Apne hisab se bina timer ke attempt karein)</p>
           <div id="sectionalTimerInputs" class="hidden flex flex-wrap gap-3 mt-3"></div>
         </div>
-        <button onclick="openSymbolsPopup()" class="px-7 py-3 rounded-lg font-bold text-white bg-red-600 hover:bg-red-700 shadow">Start Mock Test</button>
+        <button onclick="openSymbolsPopup()" class="btn-animated px-8 py-3.5 rounded-xl font-extrabold text-white bg-gradient-to-r from-red-600 to-red-700 shadow-md">
+          Start Mock Test →
+        </button>
       </div>
     </div>
   </main>
 
   <!-- 2. SYMBOLS POPUP (symbo.jpg) -->
-  <div id="symbolsModal" class="hidden fixed inset-0 bg-black/60 z-50 flex items-center justify-center p-4">
-    <div class="bg-white rounded-xl max-w-3xl w-full max-h-[90vh] overflow-y-auto p-6 border-t-4 border-red-600 shadow-2xl">
+  <div id="symbolsModal" class="hidden fixed inset-0 bg-black/60 backdrop-blur-xs z-50 flex items-center justify-center p-4">
+    <div class="bg-white rounded-2xl max-w-3xl w-full max-h-[90vh] overflow-y-auto p-6 border-t-4 border-red-600 shadow-2xl animate-modal">
       <h2 class="text-base font-bold text-red-700 mb-4">The different symbols used in the next pages are shown below. Please go through them and understand their meaning before you start the test.</h2>
-      <table class="w-full text-sm border-collapse border border-gray-200 mb-5">
+      <table class="w-full text-sm border-collapse border border-gray-200 mb-5 rounded-lg overflow-hidden">
         <thead class="bg-red-50 text-red-800">
           <tr><th class="border p-2.5 text-left w-36">Symbol</th><th class="border p-2.5 text-left">Description</th></tr>
         </thead>
         <tbody class="divide-y">
-          <tr><td class="border p-2.5">⚪</td><td class="border p-2.5">Option Not chosen</td></tr>
-          <tr><td class="border p-2.5">🔘</td><td class="border p-2.5">Option chosen as correct (By clicking on it again you can delete your option and choose another option if desired.)</td></tr>
-          <tr><td class="border p-2.5"><span class="q-circle st-not-visited">12</span></td><td class="border p-2.5">Question number shown in black/neutral color indicates that you have not yet visited/attempted the question.</td></tr>
-          <tr><td class="border p-2.5"><span class="q-circle st-answered">13</span></td><td class="border p-2.5">Question number shown in green color indicates that you have answered the question.</td></tr>
-          <tr><td class="border p-2.5"><span class="q-circle st-review">14</span></td><td class="border p-2.5">You have not yet answered the question, or marked it for review later.</td></tr>
-          <tr><td class="border p-2.5"><span class="q-circle st-ans-review">15</span></td><td class="border p-2.5">You have answered the question, but marked it for review later, if time permits.</td></tr>
-          <tr><td class="border p-2.5"><span class="px-2.5 py-1 bg-red-600 text-white rounded text-xs font-bold">Save & Next</span></td><td class="border p-2.5">Clicking on this will take you to the next question.</td></tr>
-          <tr><td class="border p-2.5"><span class="px-2.5 py-1 bg-gray-200 text-gray-800 rounded text-xs font-bold">Previous</span></td><td class="border p-2.5">Clicking on this will take you to the previous question.</td></tr>
-          <tr><td class="border p-2.5"><span class="px-2.5 py-1 border border-red-600 text-red-600 rounded text-xs font-bold">Mark for Review</span></td><td class="border p-2.5">By clicking on this button, you can mark the question for review later.</td></tr>
+          <tr class="hover:bg-red-50/40"><td class="border p-2.5">⚪</td><td class="border p-2.5">Option Not chosen</td></tr>
+          <tr class="hover:bg-red-50/40"><td class="border p-2.5">🔘</td><td class="border p-2.5">Option chosen as correct (By clicking on it again you can delete your option and choose another option if desired.)</td></tr>
+          <tr class="hover:bg-red-50/40"><td class="border p-2.5"><span class="q-circle st-not-visited">12</span></td><td class="border p-2.5">Question number shown in black/neutral color indicates that you have not yet visited/attempted the question.</td></tr>
+          <tr class="hover:bg-red-50/40"><td class="border p-2.5"><span class="q-circle st-answered">13</span></td><td class="border p-2.5">Question number shown in green color indicates that you have answered the question.</td></tr>
+          <tr class="hover:bg-red-50/40"><td class="border p-2.5"><span class="q-circle st-review">14</span></td><td class="border p-2.5">You have not yet answered the question, or marked it for review later.</td></tr>
+          <tr class="hover:bg-red-50/40"><td class="border p-2.5"><span class="q-circle st-ans-review">15</span></td><td class="border p-2.5">You have answered the question, but marked it for review later, if time permits.</td></tr>
+          <tr class="hover:bg-red-50/40"><td class="border p-2.5"><span class="px-2.5 py-1 bg-red-600 text-white rounded text-xs font-bold">Save & Next</span></td><td class="border p-2.5">Clicking on this will take you to the next question.</td></tr>
+          <tr class="hover:bg-red-50/40"><td class="border p-2.5"><span class="px-2.5 py-1 bg-gray-200 text-gray-800 rounded text-xs font-bold">Previous</span></td><td class="border p-2.5">Clicking on this will take you to the previous question.</td></tr>
+          <tr class="hover:bg-red-50/40"><td class="border p-2.5"><span class="px-2.5 py-1 border border-red-600 text-red-600 rounded text-xs font-bold">Mark for Review</span></td><td class="border p-2.5">By clicking on this button, you can mark the question for review later.</td></tr>
         </tbody>
       </table>
       <div class="flex justify-between items-center">
-        <button onclick="closeSymbolsPopup()" class="px-4 py-2 rounded-md bg-gray-200 font-semibold text-sm">Cancel</button>
-        <button onclick="beginMockTest()" class="px-6 py-2.5 rounded-md bg-red-600 text-white font-bold text-sm hover:bg-red-700">I am ready to begin</button>
+        <button onclick="closeSymbolsPopup()" class="btn-animated px-4 py-2 rounded-lg bg-gray-200 font-semibold text-sm">Cancel</button>
+        <button onclick="beginMockTest()" class="btn-animated px-7 py-2.5 rounded-lg bg-gradient-to-r from-red-600 to-red-700 text-white font-bold text-sm">I am ready to begin</button>
       </div>
     </div>
   </div>
 
   <!-- 3. CBT EXAM SCREEN -->
-  <section id="examScreen" class="hidden flex-1 flex flex-col h-[calc(100vh-58px)]">
-    <div class="bg-white border-b px-6 py-2.5 flex justify-between items-center flex-wrap gap-2">
+  <section id="examScreen" class="hidden flex-1 flex flex-col h-[calc(100vh-60px)]">
+    <div class="bg-white border-b px-6 py-2.5 flex justify-between items-center flex-wrap gap-2 shadow-2xs">
       <div id="sectionTabs" class="flex gap-2 flex-wrap"></div>
-      <div id="timerDisplay" class="bg-red-50 border border-red-600 text-red-700 font-extrabold px-4 py-1.5 rounded-md text-sm">Time: 00:00</div>
+      <div id="timerDisplay" class="bg-red-50 border-2 border-red-600 text-red-700 font-extrabold px-4 py-1.5 rounded-lg text-sm tracking-wide">Time: 00:00</div>
     </div>
 
     <div class="flex flex-1 overflow-hidden flex-col md:flex-row">
       <!-- Left: Question + Bottom Action Bar -->
       <div class="flex-1 bg-white flex flex-col justify-between border-r overflow-y-auto">
-        <div class="p-6">
+        <div id="qCardContainer" class="p-6 animate-question">
           <div class="flex justify-between items-center pb-3 mb-5 border-b">
             <span id="qNumberLabel" class="text-base font-extrabold text-red-600">Question 1</span>
-            <span id="qTopicBadge" class="text-xs font-bold bg-gray-100 text-gray-700 px-3 py-1 rounded">Topic</span>
+            <span id="qTopicBadge" class="text-xs font-bold bg-red-50 text-red-700 border border-red-200 px-3 py-1 rounded-full">Topic</span>
           </div>
-          <div id="qTextDisplay" class="text-lg font-medium leading-relaxed mb-6 whitespace-pre-line"></div>
+          <div id="qTextDisplay" class="text-lg font-medium leading-relaxed mb-6 whitespace-pre-line text-gray-900"></div>
           <div id="optionsContainer" class="space-y-3 max-w-2xl"></div>
         </div>
 
-        <div class="px-6 py-3.5 bg-white border-t flex justify-between items-center sticky bottom-0">
+        <div class="px-6 py-3.5 bg-white/95 backdrop-blur border-t flex justify-between items-center sticky bottom-0">
           <div class="flex gap-2.5">
-            <button onclick="prevQuestion()" class="px-4 py-2 rounded-md bg-gray-200 hover:bg-gray-300 font-semibold text-sm">Previous</button>
-            <button id="reviewBtn" onclick="toggleReview()" class="px-4 py-2 rounded-md border border-red-600 text-red-600 hover:bg-red-50 font-semibold text-sm">Mark for Review</button>
+            <button onclick="prevQuestion()" class="btn-animated px-4 py-2 rounded-lg bg-gray-200 hover:bg-gray-300 font-bold text-sm">← Previous</button>
+            <button id="reviewBtn" onclick="toggleReview()" class="btn-animated px-4 py-2 rounded-lg border border-red-600 text-red-600 hover:bg-red-50 font-bold text-sm">Mark for Review</button>
           </div>
-          <button onclick="saveAndNext()" class="px-6 py-2 rounded-md bg-red-600 hover:bg-red-700 text-white font-bold text-sm">Save & Next</button>
+          <button onclick="saveAndNext()" class="btn-animated px-7 py-2.5 rounded-lg bg-gradient-to-r from-red-600 to-red-700 text-white font-bold text-sm">Save & Next →</button>
         </div>
       </div>
 
       <!-- Right: Circle Question Palette -->
-      <div class="w-full md:w-80 bg-gray-50 p-4 flex flex-col justify-between overflow-y-auto shrink-0">
+      <div class="w-full md:w-80 bg-slate-50 p-4 flex flex-col justify-between overflow-y-auto shrink-0">
         <div>
-          <h3 class="font-bold text-red-700 text-sm mb-3">Question Palette</h3>
-          <div class="grid grid-cols-2 gap-2 text-xs font-semibold pb-3 mb-3 border-b">
-            <div class="flex items-center gap-2"><span id="cntAnswered" class="w-6 h-6 rounded-full bg-green-600 text-white flex items-center justify-center">0</span> Answered</div>
-            <div class="flex items-center gap-2"><span id="cntNotAnswered" class="w-6 h-6 rounded-full bg-red-600 text-white flex items-center justify-center">0</span> Not Answered</div>
-            <div class="flex items-center gap-2"><span id="cntNotVisited" class="w-6 h-6 rounded-full bg-neutral-800 text-white flex items-center justify-center">0</span> Not Visited</div>
-            <div class="flex items-center gap-2"><span id="cntReview" class="w-6 h-6 rounded-full bg-yellow-400 text-black flex items-center justify-center">0</span> Marked</div>
+          <h3 class="font-extrabold text-red-700 text-sm mb-3 uppercase tracking-wider">Question Palette</h3>
+          <div class="grid grid-cols-2 gap-2.5 text-xs font-bold pb-3.5 mb-3.5 border-b">
+            <div class="flex items-center gap-2 bg-white p-1.5 rounded-lg border"><span id="cntAnswered" class="w-6 h-6 rounded-full bg-green-600 text-white flex items-center justify-center">0</span> Answered</div>
+            <div class="flex items-center gap-2 bg-white p-1.5 rounded-lg border"><span id="cntNotAnswered" class="w-6 h-6 rounded-full bg-red-600 text-white flex items-center justify-center">0</span> Not Ans</div>
+            <div class="flex items-center gap-2 bg-white p-1.5 rounded-lg border"><span id="cntNotVisited" class="w-6 h-6 rounded-full bg-neutral-800 text-white flex items-center justify-center">0</span> Not Visited</div>
+            <div class="flex items-center gap-2 bg-white p-1.5 rounded-lg border"><span id="cntReview" class="w-6 h-6 rounded-full bg-yellow-400 text-black flex items-center justify-center">0</span> Marked</div>
           </div>
-          <div id="paletteGrid" class="grid grid-cols-5 gap-2.5 max-h-80 overflow-y-auto p-1"></div>
+          <div id="paletteGrid" class="grid grid-cols-5 gap-3 max-h-80 overflow-y-auto p-1.5"></div>
         </div>
-        <button onclick="openSubmitModal()" class="w-full mt-4 py-3 rounded-lg bg-red-600 hover:bg-red-700 text-white font-bold text-sm shadow">Submit Test</button>
+        <button onclick="openSubmitModal()" class="btn-animated w-full mt-4 py-3.5 rounded-xl bg-gradient-to-r from-red-600 to-red-700 text-white font-extrabold text-sm shadow-md">Submit Test</button>
       </div>
     </div>
   </section>
 
   <!-- 4. SUBMIT REVIEW POPUP (submit.png) -->
-  <div id="submitModal" class="hidden fixed inset-0 bg-black/60 z-50 flex items-center justify-center p-4">
-    <div class="bg-white rounded-xl max-w-2xl w-full p-6 border-t-4 border-red-600 shadow-2xl">
-      <h2 class="text-lg font-bold text-red-700 mb-4">Review Test Before Submitting</h2>
+  <div id="submitModal" class="hidden fixed inset-0 bg-black/60 backdrop-blur-xs z-50 flex items-center justify-center p-4">
+    <div class="bg-white rounded-2xl max-w-2xl w-full p-6 border-t-4 border-red-600 shadow-2xl animate-modal">
+      <h2 class="text-lg font-extrabold text-red-700 mb-4">Review Test Before Submitting</h2>
       <table class="w-full text-sm border-collapse border mb-5">
         <thead class="bg-red-50 text-red-800">
           <tr>
@@ -156,34 +152,37 @@
         <tbody id="submitSummaryBody"></tbody>
       </table>
       <div class="flex justify-end gap-3">
-        <button onclick="closeSubmitModal()" class="px-4 py-2 rounded-md bg-gray-200 font-semibold text-sm">Back to Test</button>
-        <button onclick="finalizeResult()" class="px-6 py-2 rounded-md bg-red-600 text-white font-bold text-sm hover:bg-red-700">Submit Test</button>
+        <button onclick="closeSubmitModal()" class="btn-animated px-4 py-2 rounded-lg bg-gray-200 font-bold text-sm">Back to Test</button>
+        <button onclick="finalizeResult()" class="btn-animated px-6 py-2 rounded-lg bg-gradient-to-r from-red-600 to-red-700 text-white font-bold text-sm">Confirm & Submit</button>
       </div>
     </div>
   </div>
 
   <!-- 5. RESULT & HINGLISH SOLUTIONS -->
-  <section id="resultScreen" class="hidden max-w-5xl w-full mx-auto my-6 px-4">
-    <div class="flex justify-between items-center mb-4">
-      <h2 class="text-xl font-extrabold text-red-700">Final Test Result Summary (Combined)</h2>
-      <button onclick="goHome()" class="px-4 py-2 rounded-md border border-red-600 text-red-600 font-semibold text-sm">Back to Home</button>
+  <section id="resultScreen" class="hidden max-w-5xl w-full mx-auto my-7 px-4 animate-page">
+    <div class="bg-gradient-to-r from-red-600 to-red-800 text-white rounded-2xl p-6 mb-6 flex flex-wrap justify-between items-center gap-4 shadow-lg">
+      <div>
+        <span class="text-xs uppercase font-bold bg-white/20 px-3 py-1 rounded-full">Test Completed</span>
+        <h2 class="text-2xl font-extrabold mt-2">Final Test Scorecard & Analysis</h2>
+      </div>
+      <button onclick="goHome()" class="btn-animated px-5 py-2.5 rounded-xl bg-white text-red-700 font-extrabold text-sm shadow">← Back to Home</button>
     </div>
 
-    <!-- Overall Standalone Boxes -->
-    <div id="overallResultBoxes" class="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-7 gap-3 mb-7"></div>
+    <!-- Overall Standalone Boxes (Animated Stagger + Count Up) -->
+    <div id="overallResultBoxes" class="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-7 gap-3.5 mb-8"></div>
 
     <!-- Subject-Wise Standalone Boxes -->
-    <h3 class="text-lg font-bold text-red-700 mb-3">Subject-Wise Score Breakdown</h3>
+    <h3 class="text-lg font-extrabold text-red-700 mb-3.5">Subject-Wise Score Breakdown</h3>
     <div id="subjectResultBoxes" class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8"></div>
 
     <!-- Solutions -->
-    <div class="bg-white border rounded-xl p-6 shadow-sm">
-      <div class="flex justify-between items-center flex-wrap gap-3 mb-4">
-        <h3 class="text-lg font-bold text-red-700">Detailed Solutions (Hinglish)</h3>
+    <div class="bg-white border border-gray-200 rounded-2xl p-6 shadow-sm">
+      <div class="flex justify-between items-center flex-wrap gap-3 mb-5 pb-3 border-b">
+        <h3 class="text-lg font-extrabold text-red-700">Detailed Solutions (Hinglish)</h3>
         <div class="flex gap-2">
-          <button id="fltWrong" onclick="renderSolutions('wrong')" class="px-3 py-1.5 rounded text-xs font-bold bg-red-600 text-white">Wrong Questions</button>
-          <button id="fltUnattempted" onclick="renderSolutions('unattempted')" class="px-3 py-1.5 rounded text-xs font-bold border border-red-600 text-red-600">Unattempted</button>
-          <button id="fltAll" onclick="renderSolutions('all')" class="px-3 py-1.5 rounded text-xs font-bold border border-red-600 text-red-600">All Questions</button>
+          <button id="fltWrong" onclick="renderSolutions('wrong')" class="btn-animated px-3.5 py-1.5 rounded-lg text-xs font-bold bg-red-600 text-white">Wrong Questions</button>
+          <button id="fltUnattempted" onclick="renderSolutions('unattempted')" class="btn-animated px-3.5 py-1.5 rounded-lg text-xs font-bold border border-red-600 text-red-600">Unattempted</button>
+          <button id="fltAll" onclick="renderSolutions('all')" class="btn-animated px-3.5 py-1.5 rounded-lg text-xs font-bold border border-red-600 text-red-600">All Questions</button>
         </div>
       </div>
       <div id="solutionsList" class="space-y-4"></div>
@@ -191,48 +190,48 @@
   </section>
 
   <!-- 6. ADMIN PASSWORD POPUP -->
-  <div id="adminLoginModal" class="hidden fixed inset-0 bg-black/60 z-50 flex items-center justify-center p-4">
-    <div class="bg-white rounded-xl max-w-md w-full p-6 border-t-4 border-red-600 shadow-2xl">
-      <h2 class="text-lg font-bold text-red-700 mb-1">Admin Access</h2>
+  <div id="adminLoginModal" class="hidden fixed inset-0 bg-black/60 backdrop-blur-xs z-50 flex items-center justify-center p-4">
+    <div class="bg-white rounded-2xl max-w-md w-full p-6 border-t-4 border-red-600 shadow-2xl animate-modal">
+      <h2 class="text-lg font-extrabold text-red-700 mb-1">Admin Access</h2>
       <p class="text-xs text-gray-500 mb-4">Warning: 3 wrong attempts will lock the website for 24 hours.</p>
       <label class="block text-xs font-bold mb-1">Enter Admin Password</label>
-      <input type="password" id="adminPassInput" placeholder="Enter password..." class="w-full border rounded-md p-2.5 text-sm mb-2 focus:outline-red-600" />
+      <input type="password" id="adminPassInput" placeholder="Enter password..." class="w-full border rounded-lg p-2.5 text-sm mb-2 focus:outline-red-600" />
       <div id="loginErrorMsg" class="text-red-600 text-xs font-bold mb-3"></div>
       <div class="flex justify-end gap-2">
-        <button onclick="closeAdminLogin()" class="px-4 py-2 rounded-md bg-gray-200 text-sm font-semibold">Cancel</button>
-        <button onclick="verifyAdmin()" class="px-5 py-2 rounded-md bg-red-600 text-white text-sm font-bold hover:bg-red-700">Login</button>
+        <button onclick="closeAdminLogin()" class="btn-animated px-4 py-2 rounded-lg bg-gray-200 text-sm font-semibold">Cancel</button>
+        <button onclick="verifyAdmin()" class="btn-animated px-5 py-2 rounded-lg bg-red-600 text-white text-sm font-bold hover:bg-red-700">Login</button>
       </div>
     </div>
   </div>
 
   <!-- 7. ADMIN UPLOAD PANEL -->
-  <section id="adminPanelScreen" class="hidden max-w-4xl w-full mx-auto my-6 px-4">
-    <div class="bg-white border rounded-xl p-6 shadow-sm">
+  <section id="adminPanelScreen" class="hidden max-w-4xl w-full mx-auto my-7 px-4 animate-page">
+    <div class="bg-white border rounded-2xl p-6 shadow-sm">
       <div class="flex justify-between items-center mb-4">
-        <h2 class="text-lg font-bold text-red-700">Admin Panel - Direct GitHub Test Upload</h2>
-        <button onclick="goHome()" class="px-3 py-1.5 rounded border border-red-600 text-red-600 text-xs font-bold">Close</button>
+        <h2 class="text-lg font-extrabold text-red-700">Admin Panel - Direct GitHub Test Upload</h2>
+        <button onclick="goHome()" class="btn-animated px-3.5 py-1.5 rounded-lg border border-red-600 text-red-600 text-xs font-bold">Close</button>
       </div>
       <div class="grid grid-cols-1 md:grid-cols-3 gap-3 mb-3">
         <div>
           <label class="block text-xs font-bold mb-1">GitHub Username</label>
-          <input type="text" id="ghOwner" placeholder="Username" class="w-full border rounded p-2 text-sm" />
+          <input type="text" id="ghOwner" placeholder="Username" class="w-full border rounded-lg p-2 text-sm" />
         </div>
         <div>
           <label class="block text-xs font-bold mb-1">Repository Name</label>
-          <input type="text" id="ghRepo" value="mock-test-portal" class="w-full border rounded p-2 text-sm" />
+          <input type="text" id="ghRepo" value="mock-test-portal" class="w-full border rounded-lg p-2 text-sm" />
         </div>
         <div>
           <label class="block text-xs font-bold mb-1">GitHub Token (ghp_...)</label>
-          <input type="password" id="ghToken" placeholder="Paste ghp_ token" class="w-full border rounded p-2 text-sm" />
+          <input type="password" id="ghToken" placeholder="Paste ghp_ token" class="w-full border rounded-lg p-2 text-sm" />
         </div>
       </div>
-      <button onclick="saveGhConfig()" class="px-4 py-2 rounded bg-gray-200 hover:bg-gray-300 text-xs font-bold mb-5">Save GitHub Connection</button>
+      <button onclick="saveGhConfig()" class="btn-animated px-4 py-2 rounded-lg bg-gray-200 hover:bg-gray-300 text-xs font-bold mb-5">Save GitHub Connection</button>
 
       <hr class="my-4" />
       <h3 class="font-bold text-red-700 text-sm mb-3">Upload New Test JSON</h3>
       <input type="file" id="jsonFileInput" accept=".json" onchange="handleFileSelect(event)" class="block w-full text-sm mb-3" />
-      <textarea id="jsonPasteInput" rows="7" placeholder="Or paste JSON code directly here..." class="w-full border rounded p-2.5 text-sm font-mono mb-3"></textarea>
-      <button onclick="uploadTestToGitHub()" class="px-6 py-2.5 rounded-md bg-red-600 text-white font-bold text-sm hover:bg-red-700">Add Test to Website</button>
+      <textarea id="jsonPasteInput" rows="7" placeholder="Or paste JSON code directly here..." class="w-full border rounded-lg p-2.5 text-sm font-mono mb-3"></textarea>
+      <button onclick="uploadTestToGitHub()" class="btn-animated px-6 py-2.5 rounded-lg bg-gradient-to-r from-red-600 to-red-700 text-white font-bold text-sm">Add Test to Website</button>
       <div id="uploadStatus" class="mt-3 text-sm font-bold"></div>
     </div>
   </section>
