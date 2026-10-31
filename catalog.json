@@ -1577,4 +1577,1093 @@
             }
           ]
         },
-       
+        {
+          "id": "t_1793425793086",
+          "name": "Adjective Level-01",
+          "questions": [
+            {
+              "id": 1,
+              "question": "The wedding gown (a)/ looked decently (b)/ despite being (c)/ studded with jewels.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'decent' instead of 'decently'\nExplanation:- kyunki 'looked' yahan linking verb hai aur linking verb ke baad adjective ka use hota hai, aur 'decently' adverb hota hai aur 'decent' adjective.\nNote:- 'look' verb ka matlab jab 'dekhna' hota hai tab yeh verb action verb hoti hai. Jab look verb ka matlab 'dikhaayi padna' hota hai tab yeh linking verb hoti hai.\nEg:-(a) She is looking at me (action verb)\n(b) She looks sad (linking verb)"
+            },
+            {
+              "id": 2,
+              "question": "The recently hike (a)/ in the price of petroleum products (b)/ will hit (c)/ household budgets severely.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'recent' instead of 'recently'\nExplanation:- yahan 'hike' noun hai aur noun ke pehle adjective ka use kiya jaata hai 'recently' adverb hota hai aur 'recent' adjective hota hai."
+            },
+            {
+              "id": 3,
+              "question": "None can (a)/ believe that (b)/ Ramesh is happier (c)/ than grieved to know it.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'more happy' in place of 'happier'.\nExplanation:- jab ek hi person ki do qualities ka aapas mein comparison hota hai, toh comparative degree 'er' wale structure se nahi 'more' wale structure se banayi jaati hai, isliye 'more happy' sahi hoga."
+            },
+            {
+              "id": 4,
+              "question": "If he wants (a)/ farther information, (b)/send him (c)/ to me.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'further' instead of 'farther'\nExplanation:- 'farther' ka use distance ko refer karne ke liye kiya jaata hai jabki 'further' ka use more/addition ko refer karne ke liye kiya jaata hai. Toh additional information ki baat karni hai, isliye 'further' sahi hoga."
+            },
+            {
+              "id": 5,
+              "question": "Your comment (a)/ on this issue (b)/ is more right (c)/ and I am with you all along the way.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Remove 'more' before 'right'\nExplanation:- kyunki 'right' adjective apne aap mein absolute hota hai, isliye isko qualify karne ke liye koi adverb nahi lagega."
+            },
+            {
+              "id": 6,
+              "question": "Sachin Tendulkar is the humblest (a)/ and prolific (b)/ cricket player in the history of cricket.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'the most prolific' in place of 'prolific'.\nExplanation:- Kyunki jab do adjective 'and' conjunction se jode jaate hain toh dono same degree me likhe jaate hai. Kyunki 'the humblest' superlative degree hai, isliye 'prolific' ke sath 'the most' lagake superlative degree mein likhenge."
+            },
+            {
+              "id": 7,
+              "question": "It was really surprising (a)/ that the two bosom friends fought (b)/ over such a triviale matter (c)/ and stopped all communications with each other.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'trivial' instead of 'triviale'\nExplanation:- because the correct word is 'trivial' which means having little value or importance.\nNote:- Iss type ke spelling based error waise toh kam aate hain lekin kabhi kabhi aa jaate hain."
+            },
+            {
+              "id": 8,
+              "question": "Ramesh is smarter (a)/ enough to get (b)/ selected for this (c)/ post, without any recommendations.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'smart' in place of 'smarter'.\nExplanation:- Kyunki yahan Ramesh ka kisi aur se comparison nahi karna hai isliye comparative degree ka use nahi hoga balki positive degree 'smart' ka use hoga. Yahan meaning dena hai Ramesh 'enough smart' hai."
+            },
+            {
+              "id": 9,
+              "question": "The management is not perturbed about appointing (a)/ someone who is knowledgeable but is more inclined (b)/ towards filling the position with a person (c)/ who will be obsequous and will dance to their tunes.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'obsequious' instead of 'obsequous'\nExplanation:- because the correct word is 'obsequious' which means too eager to praise or obey someone aur (d) part me 'their' ki jagah par 'its' bhi hoga. Kyunki yeh management ke liye aaya hai.\nNote:- Iss type ke spelling based questions exam me kabhi kbhar aa jaate hain."
+            },
+            {
+              "id": 10,
+              "question": "Of the three, women, wine and songs,(a)/ the former (b)/ brought about his ruin.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'first' in place of 'former'\nExplanation:- Kyunki yahan teen mein se sabse pehle waale ki baat karni hai isliye 'first' ka use hoga 'former' word ka use hum tab karte hain jab do mein se pehle ki baat kehna hota hai."
+            },
+            {
+              "id": 11,
+              "question": "The Dussehra celebrations (a)/ in Mysore (b)/ this year (c)/ are grandest than in any other part of the state.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Use 'grander than those' in place of 'Grandest than'.\nExplanation:- kyunki 'than' conjunction se pata chal raha hai ki yahan comparative degree lagani hai.\nNote:- Yahan Mysore mein ho rahe dussehra celebration ka comparison baaki poore state mein ho rahe dussehra celebration se karna hai, but yahan superlative Degree ka use nahi hoga kyunki 'than' bhi laga hai aur 'other' bhi laga hai."
+            },
+            {
+              "id": 12,
+              "question": "No less than thousands of spectators are (a)/ waiting for Dhoni to come out (b)/ in the field and play his (c)/ masterful stroke.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'fewer' in place of 'less'.\nExplanation:- Kyunki 'less' little ki comparative degree hai jiska use generally uncountable nouns ke sath hota hai but yha aage likhe 'thousands of spectators' se pata chal raha hai ki yeh countable hai plural hai isliye yahan 'no fewer than' ka use hoga."
+            },
+            {
+              "id": 13,
+              "question": "The weather (a)/ is much (b)/ more warmer (c)/ than it was a few days before.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) remove 'more' before 'warmer'\nExplanation:- Warmer se pehle likha gaya 'more' hatana padega kyunki 'warmer' already comparative Degree hai iske sath 'more' laga kar ise aur comparative banane ki zarurat nahi hai. Agar 'intensity' hi badhaani ki baat hai toh uske liye 'much' already laga hua hai."
+            },
+            {
+              "id": 14,
+              "question": "While you are in Agra, (a)/ you must not miss (b)/ seeing the Taj Mahal, (c)/ because it is a worth seeing monument.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Use 'monument worth seeing' in place of 'worth seeing monument'.\nExplanation:- Kyunki 'worth+V1+ing' se jab adjective banate hain to ing wala structure humesha 'worth' ke baad hi lagana hota hai.\nEg:- It is a movie worth watching. It is a place worth visiting."
+            },
+            {
+              "id": 15,
+              "question": "Little support from (a)/ your parents would have (b)/ placed you on the top (c)/ of the world for sure.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'a little' instead of 'little'\nExplanation:- Kyunki 'a little' ka matlab hota hai 'Thoda' aur 'little' ka matlab hota hai 'na ke barabar' aur yahan sentence ka meaning positive hai. Yahan meaning yeh hai ki parents se mili hui thodi si bhi support tumhe pakka duniya ke top tak pahuncha deti hai."
+            },
+            {
+              "id": 16,
+              "question": "Economists have declared that 2020 graduates (a)/ will face the worse job depression (b)/since the Great Depression (c)/ because of the COVID-19 pandemic.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'worst' instead of 'worse'\nExplanation:- kyunki 'worse' comparative degree hoti hai aur yahan superlative degree ki need hai kyunki yahan 2020 ke depression ka comparison 'great depression' se lekar ab tak duniya mein aaye saare depression se karna hai. Isliye yahan 'worst' sahi hoga."
+            },
+            {
+              "id": 17,
+              "question": "It is well known (a)/ that Mrs. Indira Gandhi (b)/ was the first politician (c)/ of her time.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'foremost' in place of 'first'\nExplanation:- kyunki 'first' ka matlab hota hai 'sabse pehla' aur 'foremost' ka matlab hota hai 'us time me sabse mashoor' toh yahan sentence ke meaning ke according 'foremost' ka use hoga."
+            },
+            {
+              "id": 18,
+              "question": "Parul is (a)/ ten years (b)/ elder than (c)/ her sibling.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'elder to' instead of 'elder than'\nExplanation:- Zyadatar books mein iss question ka Answer aapko 'elder' ke baad 'to' lagana milega isliye exam me aapko bhi 'elder' ke baad 'to' hi manna padega."
+            },
+            {
+              "id": 19,
+              "question": "Bharatpur is transforming into (a)/ India's most fastest growing bird sanctuary (b)/ attracting thousands of rare migratory birds (c)/ from Europe and Siberia.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove 'most' before 'fastest'\nExplanation:- Kyunki 'fastest' apne aap me superlative degree hai aur uske sath 'most' laga kar use aur superlative banane ki zarurat nahi hai."
+            },
+            {
+              "id": 20,
+              "question": "Do you earn (a)/ so much to (b)/ make both (c)/ ends meet?(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'enough' instead of 'so much'\nExplanation:- kyunki yahan hum kehna chahte hain ki 'kya aap paryapt paisa kamate hai?' Isliye 'enough' ka use hoga aur 'so' ke sath generally 'that' ka pair banta hai isliye bhi yahan 'so' nahi aa payega."
+            },
+            {
+              "id": 21,
+              "question": "This book is (a)/ as good, if (b)/ not better than that book.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'as good as' in place of 'as good'.\nExplanation:- kyunki 'as good as' yahan par ek simile hai jise poora hi likha jayega."
+            },
+            {
+              "id": 22,
+              "question": "He was not able (a)/ to give (b)/ many time (c)/to his research.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'much' instead of 'many'\nExplanation:- kyunki time ek uncountable noun hai iske sath 'many' ka use nahi kiya jaa sakta isliye 'much' ka use hoga."
+            },
+            {
+              "id": 23,
+              "question": "Hari lost (a)/ a hundred rupees note (b)/ yesterday.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'rupee' in place of 'rupees'\nExplanation:- kyunki yahan 'hundred rupees' ye phrase 'note' noun ke liye adjective ki tarah se kaam kar rha hai isliye iska plural nahi kiya jaayega."
+            },
+            {
+              "id": 24,
+              "question": "Death is (a)/ more preferable (b)/ to (c)/ dishonor.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Remove 'more'\nExplanation:- kyunki 'preferable' apne aap me hi comparison ko dikhata hai uske sath 'more' laga kar usse comparative karne ki jarurat nahi hai."
+            },
+            {
+              "id": 25,
+              "question": "All these boys (a)/ have come to college (b)/ without few knowledge (c)/ of English.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'any' instead of 'few'\nExplanation:- kyunki 'knowledge' noun uncountable hota hai aur 'few' countable ke liye lagta hai. 'without' laga hone ki wajah se sentence ka meaning already negative ho chuka hai, isliye meaning ke according yahan 'any' word ka use kiya jayega."
+            },
+            {
+              "id": 26,
+              "question": "The militants (a)/ entered the palace (b)/ from the utmost gate (c)/ with guns hidden in their clothes.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'outermost' in place of 'utmost'.\nExplanation:- 'Outermost' ka matlab hota hai 'sabse bahar wala' aur 'utmost' ka matlab hota hai 'greatest', toh sentence ke according 'outermost' sahi hoga."
+            },
+            {
+              "id": 27,
+              "question": "The wedding reception (a)/will be hosted (b)/ in Mumbai (c)/ at a late date. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'later date' instead of 'late date'\nExplanation:- 'late' ki jagah 'later' aayega kyunki 'late' ka use 'der ho jaana' wala meaning ke liye aata hai aur 'later' ka use 'baad waale time' ko refer karne ke liye aata hai."
+            },
+            {
+              "id": 28,
+              "question": "Gold is (a)/ the most (b)/ precious of (c)/ all other metals.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Remove 'other'.\nExplanation:- kyunki superlative degree ke case me exclude karne ki need nahi hoti. Iska matlab hee hota hai same category mein sabse accha, isliye yahan 'metals' se pehle 'other' nahi aayega."
+            },
+            {
+              "id": 29,
+              "question": "According to a recent study, (a)/ drinking green tea thrice a week (b)/ is associated with (c)/ a longest and healthy life.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) 'longest and healthy' ki jagah par 'longer and healthier'\nExplanation:- jab 'and' conjunction se do adjectives judte hain toh dono same degree me hone chahiye."
+            },
+            {
+              "id": 30,
+              "question": "Of the three cities, Mumbai, Delhi and Kolkata, (a)/ the latter is the (b)/ dirtiest.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'last' in place of 'latter'.\nExplanation:- kyunki do se zyada options mein se last wale ko refer karne ke liye 'last' word ka use hota hai, do mein se baad wale ko refer krne ke liye 'latter' ka use hota hai."
+            },
+            {
+              "id": 31,
+              "question": "You must make (a)/ a choice immediately (b)/ because there is (c)/ few time left.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'little' instead of 'few'\nExplanation:- kyunki 'few' ka use countable noun ke sath kiya jaata hai aur 'time' ek uncountable noun hai isliye 'little' ka use hoga."
+            },
+            {
+              "id": 32,
+              "question": "On entering the crowding room (a)/ I could not see one person (b)/ whom I knew.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'crowded' in place of 'crowding'\nExplanation:- 'room' crowd hone ka doer nahi hai balki receiver hai, isliye yahan past participle 'crowded' sahi hoga."
+            },
+            {
+              "id": 33,
+              "question": "The invited guests (a)/ preferred orange juice (b)/ than hot coffee (c)/ or chilled grapes.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'to' instead of 'than'\nExplanation:- kyunki 'senior, junior, prefer, preferable, prior, posterior, etc.' ke sath 'to' ka use kiya jaata hai 'than' ka nahi."
+            },
+            {
+              "id": 34,
+              "question": "The vacancy was filled (a)/ by a young scholar (b)/ who had an extensible knowledge of ancient art.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'extensive' in place of 'extensible'.\nExplanation:- 'extensible' ka matlab jisse badhaaya aur kheecha jaa sake. 'Extensive' ka matlab hota hai jo kisi bade area, range yaa comprehensive research ko cover kare, isliye yahan 'knowledge' ke sath 'extensive' sahi hoga."
+            },
+            {
+              "id": 35,
+              "question": "The shopkeeper said (a)/ that he would accept (b)/no less than three hundred rupees for the watch.(c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) No error\nExplanation:- time, value, weight and length ko dikhane waale words jab ek unit ki tarah kaam karte hai toh unhe uncountable ki tarah treat kiya jaata hai."
+            },
+            {
+              "id": 36,
+              "question": "She is so vivacious (a)/ and expressive that she is a dear girl (b)/ to all of us. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) put 'dear' after 'girl'.\nExplanation:- 'To all of us' yeh phrase 'dear' adjective ko qualify karne ke liye aaya hai isliye sentence mein ambiguity ko hatane ke liye 'dear' adjective ko iske pehle ('a girl dear to all of us') likhna padega."
+            },
+            {
+              "id": 37,
+              "question": "The both (a)/ children go (b)/ to the (c)/ same school.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'both the' instead of 'the both'\nExplanation:- kyunki 'all' aur 'both' ye do ese adjective hote hain jinke baad article yaa koi aur possessive adjective etc. ka use kiya jaata hai. Eg:- Both the boys, All the boys."
+            },
+            {
+              "id": 38,
+              "question": "Unless it is accepted to both the parties, an (a)/ arbitrator would be of no (b)/ use to settle this dispute. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'acceptable' in place of 'accepted'.\nExplanation:- Accepted - Jise accept kar liya gaya ho. Acceptable - Jise accept kiya jaa sake. 'it is acceptable to both the parties' se meaning and grammar dono theek rahenge."
+            },
+            {
+              "id": 39,
+              "question": "He likes to put (a)/ all the garbage (b)/ into a (c)/ black small bag.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'small black bag' instead of 'black small bag'\nExplanation:- kyunki kisi noun ke pehle use kiya jaane waale qualitative adjectives ka order Opinion-Size-Age-Shape-Colour-Origin-Material hota hai, isliye 'small black bag' sequence sahi hoga."
+            },
+            {
+              "id": 40,
+              "question": "She has lost (a)/ the watch very (b)/ gifted by (c)/ her boyfriend.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'the very watch' in place of 'the watch very'\nExplanation:- 'very' yahan emphatic adjective ki tarah se kaam kar rha hai 'watch' ke liye, isliye iski position 'watch' noun se pehle hogi."
+            },
+            {
+              "id": 41,
+              "question": "I had a hard time (a)/ paying the driver (b)/ as I had (c)/ only hundreds rupee note.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- 'only hundreds rupee note' ki jagah inme se koi ek use karenge:\n- only one hundred rupee note (Sirf ek 100 rupees ka note)\n- only one hundred rupees (Sirf 100 rupees)\n- only hundred rupee notes (Sirf 100-100 rupees wale note)"
+            },
+            {
+              "id": 42,
+              "question": "When I was walking (a)/ along the bank of the river, (b)/ I saw an asleep man (c)/ in rags and tatters.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'I saw a man who was asleep' in place of 'I saw an asleep man'.\nExplanation:- kyunki 'asleep' ek aisa adjective hai jo ki noun se pehle nahi lagaya jaata balki iska use predicatively yaani linking verb ke baad likh kar kiya jaata hai."
+            },
+            {
+              "id": 43,
+              "question": "Don't worry, (a)/ there is less time (b)/ for the train to arrive.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'less' with 'some/enough/a little'\nExplanation:- yahan koi comparison nahi ho raha isliye 'less' ka use nahi hoga. Sahi meaning ke liye 'some time', 'enough time', ya 'a little time' laga sakte hain."
+            },
+            {
+              "id": 44,
+              "question": "The food tasted deliciously (a)/ and all present in the party (b)/ enjoyed it to their full. (c)/ no error(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'delicious' in place of 'deliciously'\nExplanation:- kyunki 'taste' ek linking verb ki tarah se kaam kar rahi hai isliye uske baad koi adverb nahi balki adjective ('delicious') ka use kiya jayega."
+            },
+            {
+              "id": 45,
+              "question": "He lost (a)/ all his (b)/ hardly earned money. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'hard' instead of 'hardly'\nExplanation:- 'Hardly' (naa ke barabar) aur 'Hard' (mehenat se/zor se), toh sahi meaning ke liye 'hard earned money' sahi hoga."
+            },
+            {
+              "id": 46,
+              "question": "Everything will be done (a)/ to bring (b)/ the responsible people to justice. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'people responsible' in place of 'responsible people'.\nExplanation:- 'responsible people' ka matlab jimmedar log aur 'people responsible' ka matlab 'log jo kisi cheez (crime/fault) ke liye jimmedar hain'. Isliye 'people responsible' sahi hoga."
+            },
+            {
+              "id": 47,
+              "question": "She ran so fastly (a)/ that I could (b)/ not overtake her.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'fast' instead of 'fastly'\nExplanation:- kyunki 'fastly' koi word nahi hota, correct word 'fast' hota hai chahe adjective banana ho yaa adverb."
+            },
+            {
+              "id": 48,
+              "question": "Even today (a)/ it is incredulous to think (b)/ that men have walked on the moon.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'incredible' in place of 'incredulous'.\nExplanation:- 'incredible' = impossible or very difficult to believe; 'incredulous' = not willing or not able to believe something. Sentence ke meaning ke according 'incredible' sahi hoga."
+            },
+            {
+              "id": 49,
+              "question": "Platinum is (a)/ costlier than (b)/ any metal (c)/ found on earth.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Replace 'any metal' with 'any other metal'\nExplanation:- kyunki jab ek noun ka comparison ek aise group se karna hota hai jiska wo khud ek part hota hai toh usse 'other' lagakar exclude karna padta hai."
+            },
+            {
+              "id": 50,
+              "question": "A skilful advertiser may be able to create (a)/ practically a monopoly for himself (b)/ not because his product is superior to (c)/ but because he has succeeded in inducing people to believe that it is.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Remove 'to' after 'superior'.\nExplanation:- kyunki yahan 'to' preposition ke baad koi noun hi available nahi hai isliye yahan 'superior' ke baad 'to' ka use nahi hoga."
+            },
+            {
+              "id": 51,
+              "question": "Deepak said he would pack (a)/ few things he had (b)/ and vacate the hostel room (c)/ the next day.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'the few' instead of 'few'\nExplanation:- yahan meaning yeh hai ki wo apni thodi jitni cheezen hain wo pack karega. Whole quantity ke liye 'the few' ka use karte hain."
+            },
+            {
+              "id": 52,
+              "question": "Although the toys (a)/ are altogether (b)/ in the cupboard (c)/ they are not properly arranged.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'all together' instead of 'altogether'\nExplanation:- 'Altogether' ka matlab 'in total/completely', 'All together' ka matlab 'with each other' (ek sath), toh meaning ke according 'all together' sahi hoga."
+            },
+            {
+              "id": 53,
+              "question": "Scientists have found (a)/ that life was creeping and crawling about the Earth (b)/ 1.5 billion years early than (c)/ previously thought.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'earlier' instead of 'early'\nExplanation:- kyunki 'early' positive degree hoti hai aur yahan 'than' se pata chal raha ki comparison karna hai, isliye comparative degree 'earlier' ka use hoga."
+            },
+            {
+              "id": 54,
+              "question": "You should know (a)/ that the blind (b)/ leads a very difficult life. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'leads' with 'lead'.\nExplanation:- 'the blind' ka matlab hai saare blind people, 'the + adjective' common plural noun banata hai isliye inke sath plural verb ('lead') ka use kiya jaata hai."
+            },
+            {
+              "id": 55,
+              "question": "I will give you (a)/my notes if you promise (b)/to return the same by Sunday. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'the same' with 'them'\nExplanation:- 'the same' ka use adjective ke roop mein kiya jaata hai par hume yahan pronoun ('them') ki zarurat hai jo 'notes' noun ko refer karega."
+            },
+            {
+              "id": 56,
+              "question": "The photograph which (a)/ was taken by Rahul is (b)/ comparatively better than this one.(c)/ no error(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'better' with 'good' (or remove 'comparatively')\nExplanation:- 'comparatively' ke sath adjective ki positive degree aati hai ya 'better than' ke sath 'comparatively' hata diya jata hai."
+            },
+            {
+              "id": 57,
+              "question": "The stranger stood quietly for few moments.",
+              "options": [
+                "(a) For the few moments",
+                "(b) No improvement",
+                "(c) For moments",
+                "(d) For a few moments"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- 'few' ka matlab (na ke barabar), 'the few' ka matlab (specific/particular) and 'a few' ka matlab (kuch). Yahan meaning ke according 'for a few moments' best option hai."
+            },
+            {
+              "id": 58,
+              "question": "We live in a populated country of 120 million people.",
+              "options": [
+                "(a) congested",
+                "(b) dense",
+                "(c) populous",
+                "(d) No substitute"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'Populous' (Adjective): wo area jahan bahut sare log rahte hai. Yahan country noun ke liye adjective 'populous' aayega."
+            },
+            {
+              "id": 59,
+              "question": "This package is ideal for infant teenager who are just getting started with babysitting.",
+              "options": [
+                "(a) youngest teenagers",
+                "(b) younger teenagers",
+                "(c) young teenagers",
+                "(d) No substitution"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Infant teenager jaisa koi term possible hi nhi hai. Sentence mein teenagers ka kisi aur se comparison nahi hai isliye 'young teenagers' ka use hoga."
+            },
+            {
+              "id": 60,
+              "question": "Between Raima and Saima, the former is intelligent, while the latter is beautiful.",
+              "options": [
+                "(a) later is",
+                "(b) letter is",
+                "(c) No substitution",
+                "(d) later was"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- latter = 2 cheezo mein se baad wala, later = fir kabhi/baad mein (time). Yahan meaning ke according 'latter is' sahi use hua hai."
+            },
+            {
+              "id": 61,
+              "question": "With tear eyes, she said goodbye to her dear friend.",
+              "options": [
+                "(a) teary eyes",
+                "(b) tear up eyes",
+                "(c) No substitution",
+                "(d) tearing eyes"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- yahan eyes ke liye adjective chahiye. 'teary' adjective hota hai jiska matlab (filled with tears), toh sahi option 'teary eyes' hoga."
+            },
+            {
+              "id": 62,
+              "question": "The apple tree was loaded of fruit.",
+              "options": [
+                "(a) No Improvement",
+                "(b) loaded with",
+                "(c) loaded from",
+                "(d) laden with"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Trees pe lage fruits ke liye and person pe emotion burden yaa responsibilities etc ke liye loaded nahi 'laden with' ka use hota hai."
+            },
+            {
+              "id": 63,
+              "question": "Select the correct superlative degree of adjective for the given sentence.\nThe money arrived when I (little) expected it.",
+              "options": [
+                "(a) The money arrived when I expected it.",
+                "(b) The money arrived when I least expected it.",
+                "(c) The money arrived when I less expected it.",
+                "(d) The money arrived when I little expected it"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Yahan little ki superlative degree likhni hai jo ki 'least' hoti hai. Isliye option B sahi hoga."
+            },
+            {
+              "id": 64,
+              "question": "Select the correct superlative degree of comparison for the given sentence.\nThis is one of the beautiful places in the area.",
+              "options": [
+                "(a) This is one of the most beautiful places in the area.",
+                "(b) This is one of the more beautiful places in the area.",
+                "(c) This is one of the beautiful places in the area.",
+                "(d) This is a beautiful place in the area."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Yahan 'beautiful' ki superlative degree likhni hai jo ki 'most beautiful' hoti hai. Isliye option A sahi hoga."
+            },
+            {
+              "id": 65,
+              "question": "Select the correct degree of comparison for the given sentence.\nDavid looks (old) than he really is.",
+              "options": [
+                "(a) David looks old than he really is.",
+                "(b) David looks older than he really is.",
+                "(c) David looks elder than he really is.",
+                "(d) David looks elder from he really is."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Yahan 'old' ki comparative degree likhni hai jo ki 'older' hoti hai. Isliye option B sahi hoga."
+            },
+            {
+              "id": 66,
+              "question": "Gel ingredients work well on waved, curled, relax and texture hair in the long run.",
+              "options": [
+                "(a) relaxed and textured",
+                "(b) No substitution required",
+                "(c) relaxed and texturing",
+                "(d) relaxing and textured"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Yahan 'hair' noun ke liye adjective ka use karna hai. Parallelism and meaning ke according saare past participle form mein use hue hai, isliye 'relaxed and textured' option A sahi hai."
+            },
+            {
+              "id": 67,
+              "question": "It has been my great misfortune to follow a speech more notable for its volume than for any sense.",
+              "options": [
+                "(a) following a speech most notable",
+                "(b) No improvement required",
+                "(c) to follow a speech much notable",
+                "(d) to have being following a speech more notable"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Yahan speech ki length and sense ka comparison hai isliye yahan comparative degree sahi lagi hai. Isliye option B 'No improvement required' sahi hoga."
+            },
+            {
+              "id": 68,
+              "question": "This is on far a best ice cream I have ever had.",
+              "options": [
+                "(a) by far the best",
+                "(b) at farthest a good",
+                "(c) by far more better",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Superlative degree ki intensity badhane ke liye 'by far' ka use hota hai. Isliye 'by far the best' wala option A sahi hoga."
+            },
+            {
+              "id": 69,
+              "question": "Robin has less marbles than George.",
+              "options": [
+                "(a) enough marbles",
+                "(b) lower marbles",
+                "(c) few marbles",
+                "(d) fewer marbles"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- 'less' uncountable ke liye aata hai but marbles countable hai isliye 'fewer marbles' wala option D sahi hoga."
+            },
+            {
+              "id": 70,
+              "question": "One must care as for family members as possible.",
+              "options": [
+                "(a) most for family members",
+                "(b) as most for family members",
+                "(c) more for family members",
+                "(d) as much for family members."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Simile ('as much ... as') mein positive degree ka hi use hota hai isliye 'as much for family members' sahi hai."
+            },
+            {
+              "id": 71,
+              "question": "This TV channel has a larger viewership from another channel.",
+              "options": [
+                "(a) from the other channel",
+                "(b) than any other channel",
+                "(c) No substitution required",
+                "(d) from any other channel"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Comparative degree 'larger' ke baad 'than' ka use hoga aur channel ko group se exclude karne ke liye 'any other' ka use hoga. Isliye 'than any other channel' sahi hoga."
+            },
+            {
+              "id": 72,
+              "question": "This mango tree yields lot of mangoes every year.",
+              "options": [
+                "(a) a lot of",
+                "(b) No improvement",
+                "(c) a lot",
+                "(d) the lot of"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Yahan 'mangoes' ke liye quantitative adjective chahiye, isliye 'a lot of' ka use hoga."
+            },
+            {
+              "id": 73,
+              "question": "You must start your work without some farther delay.",
+              "options": [
+                "(a) much far delay",
+                "(b) any further delay",
+                "(c) any farther delay",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Yahan meaning dena hai 'bina koi bhi aur delay ke' isliye 'any further delay' ka use hoga."
+            },
+            {
+              "id": 74,
+              "question": "There is no need to make changes in many part of this sentence as it is grammatically correct.",
+              "options": [
+                "(a) No substitution",
+                "(b) all",
+                "(c) any",
+                "(d) that"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Sahi meaning yeh hoga ki 'kisi bhi part mein changes karne ki jarurat nahi hai', isliye 'in any part of' sahi hoga."
+            },
+            {
+              "id": 75,
+              "question": "Priya had strong enough to fight all odds and succeed in meeting her goals in life.",
+              "options": [
+                "(a) has stronger",
+                "(b) No substitution",
+                "(c) is strength",
+                "(d) was strong"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Kisi person ki koi quality bataane ke liye generally 'Subject + linking verb + Adjective' structure ka use hota hai. Isliye 'was strong' ka use hoga."
+            },
+            {
+              "id": 76,
+              "question": "Children need much of guidance in how to use the internet wisely and efficiently.",
+              "options": [
+                "(a) No substitution",
+                "(b) most",
+                "(c) a lot",
+                "(d) many"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Yahan positive mein baat karni hai aur 'of' preposition bhi ek hint hai ki 'a lot of' ka use hoga. Isliye 'a lot' option C sahi hoga."
+            },
+            {
+              "id": 77,
+              "question": "You can find several kind of birds in the Mysore Zoo, Pelicans, Flamingos, Hornbills and Egrets.",
+              "options": [
+                "(a) several kinds of birds",
+                "(b) several kind of bird",
+                "(c) kind of several birds",
+                "(d) No substitution required"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'several' ke baad noun plural aata hai. Isliye 'several kinds of birds' wala option A sahi hoga."
+            },
+            {
+              "id": 78,
+              "question": "\"Can you give me so many examples of subordinate clauses?\", the teacher asked the class.",
+              "options": [
+                "(a) some few examples of",
+                "(b) some more examples of",
+                "(c) some many examples of",
+                "(d) No substitution required"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Sentence ke meaning ke according teacher yahan students ko aur examples ke liye puch raha hai, isliye 'some more examples of' option B sahi hoga."
+            },
+            {
+              "id": 79,
+              "question": "Lenovo has launched ThinkPad XI Fold, the world's first foldable laptop which is claimed to be so durable as its other devices.",
+              "options": [
+                "(a) to be most durable as",
+                "(b) No improvement",
+                "(c) to be very durable as",
+                "(d) to be as durable as"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Simile mein positive degree adjective ka use hota hai aur 'so...as' ka use sirf negative meaning ke liye hota hai. Isliye 'to be as durable as' option D sahi hoga."
+            },
+            {
+              "id": 80,
+              "question": "Rahul thinks that this is quite the cheap restaurant.",
+              "options": [
+                "(a) so a cheap",
+                "(b) so the cheap",
+                "(c) No substitution",
+                "(d) quite a cheap"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Structure: quite + a/an + adjective + noun. Sentence mein emphasise karna hai isliye 'quite a cheap' ka use hoga."
+            },
+            {
+              "id": 81,
+              "question": "He spends good deal of money on clothing.",
+              "options": [
+                "(a) a good deal of",
+                "(b) the good deal of",
+                "(c) no improvement",
+                "(d) good dealing of"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'a lot of' ki tarah 'a good deal of' phrase bhi quantity dikhaane ke liye use kiya jata hai. Isliye option A sahi hoga."
+            },
+            {
+              "id": 82,
+              "question": "The author is not well known. Little bit people have heard of him.",
+              "options": [
+                "(a) no improvement",
+                "(b) A little bit of people",
+                "(c) A few person",
+                "(d) Few people"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- 'people' countable noun hai aur 'Author well known nahi hai' matlab 'naa ke barabar' log jaante honge, isliye 'Few people' wala option D sahi hoga."
+            },
+            {
+              "id": 83,
+              "question": "My mother looked at Sana and me with her mouth slight openly.",
+              "options": [
+                "(a) an openly slight",
+                "(b) No improvement",
+                "(c) open slight",
+                "(d) slightly open"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Yahan 'mouth' noun ko qualify karna hai isliye 'open' adjective ka use hoga aur 'open' adjective ke liye 'slightly' adverb ka. Isliye 'slightly open' sahi hoga."
+            },
+            {
+              "id": 84,
+              "question": "Water and minerals presented to the soil are absorbed by the roots.",
+              "options": [
+                "(a) No improvement",
+                "(b) presented at the soil",
+                "(c) present in the soil",
+                "(d) present for the soil"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Yahan meaning ye dena hai ki 'water and minerals jo soil mein present hote hain', isliye adjective 'present in the soil' option C sahi hoga."
+            },
+            {
+              "id": 85,
+              "question": "Peterkin readjusted his hat and soon was listening to the conversation with as much interest as I was.",
+              "options": [
+                "(a) so many interest",
+                "(b) so much interest",
+                "(c) as many interest",
+                "(d) No substitution"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- 'Interest' uncountable noun hai isliye 'as much interest as' sahi use hua hai."
+            },
+            {
+              "id": 86,
+              "question": "It is much more difficult to judge oneself than to judge others.",
+              "options": [
+                "(a) more difficulty",
+                "(b) much difficult",
+                "(c) much more difficulty",
+                "(d) No substitution"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- 'Much more difficult' sahi use hua hai. Isme 'difficult' adjective ke liye 'more' comparative degree bana rahi hai aur 'much' adverb 'more' ki intensity badhane ke liye aaya hai."
+            },
+            {
+              "id": 87,
+              "question": "There will be little more pupils in the class next year, but we have enough space.",
+              "options": [
+                "(a) few more",
+                "(b) a few more",
+                "(c) a little more",
+                "(d) much more"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'Pupils' countable noun hai aur 'kuch aur students honge next year' positive meaning ke liye 'a few more' wala option B sahi hoga."
+            },
+            {
+              "id": 88,
+              "question": "India have a many all-rounders to match the talent and dedication of Kapil Dev.",
+              "options": [
+                "(a) is having little",
+                "(b) No substitution",
+                "(c) has much",
+                "(d) has few"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- 'India' singular hai aur 'all-rounders' countable plural noun hai, isliye grammar aur meaning ke according 'has few' option D hi sahi hai."
+            },
+            {
+              "id": 89,
+              "question": "Prithvi likes baseball as long as she likes cricket.",
+              "options": [
+                "(a) No improvement",
+                "(b) as much as",
+                "(c) as many as",
+                "(d) so long as"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'likes' verb ke comparison ke liye simile mein adverb 'much' ka use hoga isliye 'as much as' sahi hai."
+            },
+            {
+              "id": 90,
+              "question": "When it started raining, I ran to the nearer house for shelter.",
+              "options": [
+                "(a) the nearest house",
+                "(b) the near house",
+                "(c) a near house",
+                "(d) no improvement"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Meaning and grammar ke according 'the nearest house' option A hi sahi hai."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
