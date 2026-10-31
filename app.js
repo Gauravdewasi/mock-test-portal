@@ -71,7 +71,6 @@ function verifyAdmin() {
 
 // ================= DATA & SPECIFIC QUESTION SELECTION =================
 let catalog = { books: [] };
-// Stores custom selected question indices per topic key: "bIdx_tIdx" -> Set of 0-based indices
 const customQuestionSelection = {};
 let pickerCurrentBIdx = null;
 let pickerCurrentTIdx = null;
@@ -107,36 +106,36 @@ function renderBooks() {
   const container = document.getElementById("booksContainer");
   if (!catalog.books || catalog.books.length === 0) {
     container.innerHTML = `
-      <div class="p-6 text-center text-gray-500 border-2 border-dashed border-gray-200 rounded-xl">
+      <div class="p-8 text-center text-gray-500 border-2 border-dashed border-gray-200 rounded-2xl">
         Abhi koi test upload nahi hua hai. Upar <strong>Admin Panel</strong> button par click karke apna pehla test upload karein!
       </div>`;
     return;
   }
 
   container.innerHTML = catalog.books.map((book, bIdx) => `
-    <div class="border border-gray-200 rounded-lg overflow-hidden">
-      <div onclick="toggleBookTopics(${bIdx})" class="px-4 py-3.5 bg-white hover:bg-red-50 flex justify-between items-center cursor-pointer border-l-4 border-red-600">
-        <div class="font-bold text-gray-800">
+    <div class="book-card-hover border border-gray-200 rounded-xl overflow-hidden bg-white">
+      <div onclick="toggleBookTopics(${bIdx})" class="px-5 py-4 bg-white hover:bg-red-50/60 flex justify-between items-center cursor-pointer border-l-4 border-red-600 transition">
+        <div class="font-extrabold text-gray-800 text-base">
           📘 ${book.title}
-          <span class="ml-2 px-2.5 py-0.5 text-xs font-bold bg-red-100 text-red-700 rounded-full">${book.subject}</span>
+          <span class="ml-2 px-3 py-0.5 text-xs font-bold bg-red-100 text-red-700 rounded-full">${book.subject}</span>
         </div>
-        <span class="text-xs font-semibold text-gray-500">${book.topics.length} Topics ▼</span>
+        <span class="text-xs font-bold text-gray-500 bg-gray-100 px-3 py-1 rounded-full">${book.topics.length} Topics ▼</span>
       </div>
-      <div id="bookTopics_${bIdx}" class="p-4 bg-gray-50 border-t border-gray-200 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3">
+      <div id="bookTopics_${bIdx}" class="p-4 bg-slate-50 border-t border-gray-200 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3.5">
         ${book.topics.map((t, tIdx) => {
           const selSet = getTopicSelectedSet(bIdx, tIdx);
           const totalQ = t.questions.length;
           return `
-            <div class="p-3 bg-white border border-gray-200 hover:border-red-600 rounded-lg flex flex-col justify-between gap-2 shadow-sm">
+            <div class="topic-card-hover p-3.5 bg-white border border-gray-200 rounded-xl flex flex-col justify-between gap-2.5 shadow-2xs">
               <label class="flex items-center gap-2.5 cursor-pointer text-sm font-bold text-gray-800">
                 <input type="checkbox" id="topicCb_${bIdx}_${tIdx}" class="topic-cb w-4 h-4 accent-red-600" data-bidx="${bIdx}" data-tidx="${tIdx}" onchange="renderTimerInputs()" />
                 <span>${t.name} <span class="text-xs font-normal text-gray-400">(${totalQ} Qs)</span></span>
               </label>
-              <div class="flex justify-between items-center pt-1.5 border-t border-gray-100">
-                <span id="qBadge_${bIdx}_${tIdx}" class="text-[11px] font-bold text-red-700 bg-red-50 px-2 py-0.5 rounded">
+              <div class="flex justify-between items-center pt-2 border-t border-gray-100">
+                <span id="qBadge_${bIdx}_${tIdx}" class="text-[11px] font-bold text-red-700 bg-red-50 px-2.5 py-0.5 rounded-full">
                   Selected: ${selSet.size} / ${totalQ} Qs
                 </span>
-                <button type="button" onclick="openQuestionPicker(${bIdx}, ${tIdx})" class="text-xs font-bold text-white bg-red-600 hover:bg-red-700 px-2.5 py-1 rounded">
+                <button type="button" onclick="openQuestionPicker(${bIdx}, ${tIdx})" class="btn-animated text-xs font-bold text-white bg-red-600 hover:bg-red-700 px-3 py-1 rounded-lg">
                   🎯 Specific Qs
                 </button>
               </div>
@@ -157,9 +156,9 @@ function injectQuestionPickerModal() {
   if (document.getElementById("questionPickerModal")) return;
   const modalDiv = document.createElement("div");
   modalDiv.id = "questionPickerModal";
-  modalDiv.className = "hidden fixed inset-0 bg-black/60 z-50 flex items-center justify-center p-4";
+  modalDiv.className = "hidden fixed inset-0 bg-black/60 backdrop-blur-xs z-50 flex items-center justify-center p-4";
   modalDiv.innerHTML = `
-    <div class="bg-white rounded-xl max-w-2xl w-full max-h-[90vh] flex flex-col p-5 border-t-4 border-red-600 shadow-2xl">
+    <div class="bg-white rounded-2xl max-w-2xl w-full max-h-[90vh] flex flex-col p-6 border-t-4 border-red-600 shadow-2xl animate-modal">
       <div class="flex justify-between items-center pb-3 border-b">
         <div>
           <h2 id="pickerModalTitle" class="text-base font-extrabold text-red-700">Select Specific Questions</h2>
@@ -168,26 +167,23 @@ function injectQuestionPickerModal() {
         <span id="pickerLiveCount" class="bg-red-50 border border-red-600 text-red-700 text-xs font-extrabold px-3 py-1 rounded-full">0 Selected</span>
       </div>
 
-      <!-- Quick Range Input Bar -->
-      <div class="my-3 bg-gray-50 p-3 rounded-lg border border-gray-200">
-        <label class="block text-xs font-bold text-gray-700 mb-1">Fast Selection by Question Numbers / Range:</label>
+      <div class="my-3 bg-slate-50 p-3.5 rounded-xl border border-gray-200">
+        <label class="block text-xs font-bold text-gray-700 mb-1.5">Fast Selection by Question Numbers / Range:</label>
         <div class="flex gap-2">
-          <input type="text" id="pickerRangeInput" placeholder="e.g. 1-14, 18, 19, 25" class="flex-1 border border-gray-300 rounded-md px-3 py-1.5 text-sm focus:outline-red-600" />
-          <button type="button" onclick="applyRangeString()" class="px-4 py-1.5 rounded-md bg-red-600 hover:bg-red-700 text-white text-xs font-bold">Apply Range</button>
+          <input type="text" id="pickerRangeInput" placeholder="e.g. 1-14, 18, 19, 25" class="flex-1 border border-gray-300 rounded-lg px-3 py-1.5 text-sm focus:outline-red-600 bg-white" />
+          <button type="button" onclick="applyRangeString()" class="btn-animated px-4 py-1.5 rounded-lg bg-red-600 hover:bg-red-700 text-white text-xs font-bold">Apply Range</button>
         </div>
-        <div class="flex gap-2 mt-2">
-          <button type="button" onclick="pickerSelectAll(true)" class="px-2.5 py-1 rounded bg-gray-200 hover:bg-gray-300 text-xs font-bold">Select All</button>
-          <button type="button" onclick="pickerSelectAll(false)" class="px-2.5 py-1 rounded bg-gray-200 hover:bg-gray-300 text-xs font-bold">Clear All</button>
+        <div class="flex gap-2 mt-2.5">
+          <button type="button" onclick="pickerSelectAll(true)" class="btn-animated px-3 py-1 rounded-md bg-gray-200 hover:bg-gray-300 text-xs font-bold">Select All</button>
+          <button type="button" onclick="pickerSelectAll(false)" class="btn-animated px-3 py-1 rounded-md bg-gray-200 hover:bg-gray-300 text-xs font-bold">Clear All</button>
         </div>
       </div>
 
-      <!-- Scrollable Checkbox List of All Questions -->
-      <div id="pickerQuestionList" class="flex-1 overflow-y-auto border border-gray-200 rounded-lg divide-y max-h-72"></div>
+      <div id="pickerQuestionList" class="flex-1 overflow-y-auto border border-gray-200 rounded-xl divide-y max-h-72"></div>
 
-      <!-- Footer -->
-      <div class="pt-3 mt-3 border-t flex justify-end gap-2">
-        <button type="button" onclick="closeQuestionPicker()" class="px-4 py-2 rounded-md bg-gray-200 text-xs font-bold">Cancel</button>
-        <button type="button" onclick="saveQuestionPicker()" class="px-6 py-2 rounded-md bg-red-600 hover:bg-red-700 text-white text-xs font-bold">Done & Save Selection</button>
+      <div class="pt-3.5 mt-3 border-t flex justify-end gap-2.5">
+        <button type="button" onclick="closeQuestionPicker()" class="btn-animated px-4 py-2 rounded-lg bg-gray-200 text-xs font-bold">Cancel</button>
+        <button type="button" onclick="saveQuestionPicker()" class="btn-animated px-6 py-2 rounded-lg bg-gradient-to-r from-red-600 to-red-700 text-white text-xs font-bold">Done & Save Selection</button>
       </div>
     </div>
   `;
@@ -198,11 +194,8 @@ function openQuestionPicker(bIdx, tIdx) {
   pickerCurrentBIdx = bIdx;
   pickerCurrentTIdx = tIdx;
 
-  // Automatically tick the topic checkbox when user opens specific question picker
   const topicCb = document.getElementById(`topicCb_${bIdx}_${tIdx}`);
-  if (topicCb && !topicCb.checked) {
-    topicCb.checked = true;
-  }
+  if (topicCb && !topicCb.checked) topicCb.checked = true;
 
   const book = catalog.books[bIdx];
   const topic = book.topics[tIdx];
@@ -217,7 +210,7 @@ function openQuestionPicker(bIdx, tIdx) {
     const isChecked = selSet.has(qIdx);
     const shortText = q.question.length > 95 ? q.question.substring(0, 95) + "..." : q.question;
     return `
-      <label class="flex items-start gap-3 p-2.5 hover:bg-red-50 cursor-pointer text-xs md:text-sm">
+      <label class="flex items-start gap-3 p-3 hover:bg-red-50/70 cursor-pointer text-xs md:text-sm transition">
         <input type="checkbox" class="picker-q-cb w-4 h-4 mt-0.5 accent-red-600 shrink-0" data-qidx="${qIdx}" ${isChecked ? "checked" : ""} onchange="updatePickerLiveCounter()" />
         <div>
           <span class="font-extrabold text-red-700 mr-1.5">Q.${qNum}:</span>
@@ -241,9 +234,7 @@ function updatePickerLiveCounter() {
 }
 
 function pickerSelectAll(selectAll) {
-  document.querySelectorAll(".picker-q-cb").forEach(cb => {
-    cb.checked = selectAll;
-  });
+  document.querySelectorAll(".picker-q-cb").forEach(cb => { cb.checked = selectAll; });
   updatePickerLiveCounter();
 }
 
@@ -254,8 +245,7 @@ function applyRangeString() {
   const targetIndices = new Set();
 
   if (raw) {
-    const parts = raw.split(",");
-    parts.forEach(part => {
+    raw.split(",").forEach(part => {
       const p = part.trim();
       if (!p) return;
       if (p.includes("-")) {
@@ -269,9 +259,7 @@ function applyRangeString() {
         }
       } else {
         const num = parseInt(p, 10);
-        if (!isNaN(num) && num >= 1 && num <= maxQ) {
-          targetIndices.add(num - 1);
-        }
+        if (!isNaN(num) && num >= 1 && num <= maxQ) targetIndices.add(num - 1);
       }
     });
   }
@@ -316,9 +304,7 @@ function saveQuestionPicker() {
 
   const totalQ = catalog.books[pickerCurrentBIdx].topics[pickerCurrentTIdx].questions.length;
   const badge = document.getElementById(`qBadge_${pickerCurrentBIdx}_${pickerCurrentTIdx}`);
-  if (badge) {
-    badge.textContent = `Selected: ${checkedCbs.length} / ${totalQ} Qs`;
-  }
+  if (badge) badge.textContent = `Selected: ${checkedCbs.length} / ${totalQ} Qs`;
 
   closeQuestionPicker();
   renderTimerInputs();
@@ -379,9 +365,9 @@ function renderTimerInputs() {
     return;
   }
   box.innerHTML = sections.map((sec, idx) => `
-    <div class="flex items-center gap-2 bg-red-50 border border-red-200 px-3 py-1.5 rounded-md text-xs font-bold text-red-800">
+    <div class="flex items-center gap-2 bg-white border border-red-300 px-3 py-1.5 rounded-lg text-xs font-bold text-red-800 shadow-2xs">
       <span>${sec.sectionName} (${sec.questions.length} Qs):</span>
-      <input type="number" id="secTime_${idx}" value="15" min="1" max="180" class="w-14 px-1.5 py-0.5 border border-red-500 rounded text-center bg-white" /> mins
+      <input type="number" id="secTime_${idx}" value="15" min="1" max="180" class="w-14 px-1.5 py-0.5 border border-red-500 rounded text-center bg-red-50/40" /> mins
     </div>
   `).join("");
   box.classList.remove("hidden");
@@ -446,9 +432,9 @@ function startExamTimer() {
         }
         return;
       }
-      document.getElementById("timerDisplay").textContent = `Time Left: ${formatTime(sec.remainingSeconds)}`;
+      document.getElementById("timerDisplay").textContent = `⏱ Time Left: ${formatTime(sec.remainingSeconds)}`;
     } else {
-      document.getElementById("timerDisplay").textContent = `Time: ${formatTime(sec.elapsedSeconds)}`;
+      document.getElementById("timerDisplay").textContent = `⏱ Time: ${formatTime(sec.elapsedSeconds)}`;
     }
   }, 1000);
 }
@@ -463,7 +449,16 @@ function switchSection(sIdx) {
   visitQuestion(sIdx, 0);
 }
 
+function triggerQuestionAnimation() {
+  const card = document.getElementById("qCardContainer");
+  if (!card) return;
+  card.classList.remove("animate-question");
+  void card.offsetWidth; // Force GPU reflow
+  card.classList.add("animate-question");
+}
+
 function visitQuestion(sIdx, qIdx) {
+  const changed = (sIdx !== currentSecIdx || qIdx !== currentQIdx);
   currentSecIdx = sIdx;
   currentQIdx = qIdx;
   const q = activeSections[sIdx].questions[qIdx];
@@ -472,12 +467,13 @@ function visitQuestion(sIdx, qIdx) {
   renderSectionTabs();
   renderQuestionArea();
   renderPalette();
+  if (changed) triggerQuestionAnimation();
 }
 
 function renderSectionTabs() {
   document.getElementById("sectionTabs").innerHTML = activeSections.map((sec, idx) => `
-    <button onclick="switchSection(${idx})" class="px-3.5 py-1.5 rounded-md text-xs font-bold border ${
-      idx === currentSecIdx ? "bg-red-600 text-white border-red-600" : "bg-white text-gray-700 border-gray-300"
+    <button onclick="switchSection(${idx})" class="btn-animated px-4 py-1.5 rounded-lg text-xs font-extrabold border ${
+      idx === currentSecIdx ? "bg-red-600 text-white border-red-600 shadow-xs" : "bg-white text-gray-700 border-gray-300 hover:border-red-400"
     }">
       ${sec.sectionName} (${sec.questions.length})
     </button>
@@ -498,11 +494,11 @@ function renderQuestionArea() {
   document.getElementById("optionsContainer").innerHTML = q.options.map((opt, oIdx) => {
     const isSel = q.selectedOption === oIdx;
     return `
-      <div onclick="selectOption(${oIdx})" class="flex items-center gap-3 p-3.5 rounded-lg border cursor-pointer transition ${
-        isSel ? "bg-red-50 border-red-600 font-semibold" : "bg-white border-gray-200 hover:border-red-400"
+      <div onclick="selectOption(${oIdx})" class="option-row flex items-center gap-3.5 p-4 rounded-xl border cursor-pointer ${
+        isSel ? "selected-opt font-bold text-red-950" : "bg-white border-gray-200"
       }">
-        <div class="w-5 h-5 rounded-full border-2 flex items-center justify-center shrink-0 ${
-          isSel ? "border-red-600" : "border-gray-400"
+        <div class="w-5 h-5 rounded-full border-2 flex items-center justify-center shrink-0 transition ${
+          isSel ? "border-red-600 scale-110" : "border-gray-400"
         }">
           ${isSel ? '<div class="w-2.5 h-2.5 rounded-full bg-red-600"></div>' : ""}
         </div>
@@ -575,7 +571,7 @@ function renderPalette() {
   document.getElementById("cntReview").textContent = rev;
 }
 
-// ================= SUBMIT SUMMARY & FINAL RESULT =================
+// ================= SUBMIT SUMMARY & ANIMATED RESULT =================
 function openSubmitModal() {
   let rowsHtml = "";
   let gTotal = 0, gAns = 0, gNotAns = 0, gRev = 0, gNotVis = 0;
@@ -595,7 +591,7 @@ function openSubmitModal() {
     Object.keys(topicMap).forEach(tName => {
       const st = topicMap[tName];
       rowsHtml += `
-        <tr class="border-b">
+        <tr class="border-b hover:bg-red-50/30">
           <td class="border p-2.5"><strong>${sec.bookTitle}</strong> - ${tName}</td>
           <td class="border p-2.5">${st.total}</td>
           <td class="border p-2.5 text-green-600 font-bold">${st.ans}</td>
@@ -624,6 +620,33 @@ function closeSubmitModal() {
   document.getElementById("submitModal").classList.add("hidden");
 }
 
+// Smooth Number Count-Up Animation for Result Screen
+function animateValue(el, endVal, decimals = 0, suffix = "") {
+  if (!el) return;
+  const duration = 850;
+  const startTime = performance.now();
+
+  function frame(now) {
+    const progress = Math.min((now - startTime) / duration, 1);
+    const eased = 1 - Math.pow(1 - progress, 3); // Cubic ease-out
+    const current = (endVal * eased).toFixed(decimals);
+    el.textContent = `${current}${suffix}`;
+    if (progress < 1) requestAnimationFrame(frame);
+  }
+  requestAnimationFrame(frame);
+}
+
+function launchResultConfetti() {
+  if (typeof confetti === "function") {
+    confetti({
+      particleCount: 80,
+      spread: 70,
+      origin: { y: 0.6 },
+      colors: ["#dc2626", "#ef4444", "#16a34a", "#facc15"]
+    });
+  }
+}
+
 function finalizeResult() {
   closeSubmitModal();
   if (timerInterval) clearInterval(timerInterval);
@@ -631,7 +654,7 @@ function finalizeResult() {
   let totalQ = 0, attempted = 0, correct = 0, wrong = 0, unattempted = 0;
   const subjectBoxes = [];
 
-  activeSections.forEach(sec => {
+  activeSections.forEach((sec, sIdx) => {
     let sTotal = sec.questions.length, sAtt = 0, sCorr = 0, sWrong = 0, sUnatt = 0;
     sec.questions.forEach(q => {
       totalQ++;
@@ -649,31 +672,40 @@ function finalizeResult() {
     const sAcc = sAtt > 0 ? ((sCorr / sAtt) * 100).toFixed(1) : "0.0";
 
     subjectBoxes.push(`
-      <div class="bg-white border border-gray-200 border-l-4 border-l-red-600 rounded-xl p-4 shadow-sm">
-        <h4 class="font-extrabold text-red-700 text-base">${sec.subject} (${sec.bookTitle})</h4>
-        <p class="text-xs text-gray-500 font-semibold mb-3">Topics: ${sec.topicsIncluded.join(", ")} | Time: ${formatTime(sec.elapsedSeconds)}</p>
+      <div style="animation-delay: ${sIdx * 90}ms" class="result-stat-card bg-white border border-gray-200 border-l-4 border-l-red-600 rounded-2xl p-5 shadow-sm">
+        <div class="flex justify-between items-start mb-1">
+          <h4 class="font-extrabold text-red-700 text-base">${sec.subject} (${sec.bookTitle})</h4>
+          <span class="text-xs font-bold bg-red-50 text-red-700 px-2.5 py-0.5 rounded-full">⏱ ${formatTime(sec.elapsedSeconds)}</span>
+        </div>
+        <p class="text-xs text-gray-500 font-semibold mb-3">Topics: ${sec.topicsIncluded.join(", ")}</p>
+
+        <!-- Accuracy Progress Bar -->
+        <div class="w-full bg-gray-100 h-2 rounded-full overflow-hidden mb-3.5">
+          <div class="bg-gradient-to-r from-red-600 to-green-600 h-full rounded-full transition-all duration-700" style="width: ${Math.min(100, parseFloat(sAcc))}%"></div>
+        </div>
+
         <div class="grid grid-cols-3 gap-2 text-center">
-          <div class="bg-red-50 border border-red-200 rounded p-2">
+          <div class="bg-red-50 border border-red-200 rounded-xl p-2">
             <span class="block text-[11px] text-gray-500 font-bold">Net Score</span>
             <strong class="text-sm text-red-700">${sNet} / ${sTotal}</strong>
           </div>
-          <div class="bg-gray-50 border rounded p-2">
+          <div class="bg-slate-50 border rounded-xl p-2">
             <span class="block text-[11px] text-gray-500 font-bold">Correct</span>
             <strong class="text-sm text-green-600">${sCorr}</strong>
           </div>
-          <div class="bg-gray-50 border rounded p-2">
+          <div class="bg-slate-50 border rounded-xl p-2">
             <span class="block text-[11px] text-gray-500 font-bold">Wrong (-1/4)</span>
             <strong class="text-sm text-red-600">${sWrong} (-${sMinus.toFixed(2)})</strong>
           </div>
-          <div class="bg-gray-50 border rounded p-2">
+          <div class="bg-slate-50 border rounded-xl p-2">
             <span class="block text-[11px] text-gray-500 font-bold">Attempted</span>
             <strong class="text-sm">${sAtt}/${sTotal}</strong>
           </div>
-          <div class="bg-gray-50 border rounded p-2">
+          <div class="bg-slate-50 border rounded-xl p-2">
             <span class="block text-[11px] text-gray-500 font-bold">Left</span>
             <strong class="text-sm">${sUnatt}</strong>
           </div>
-          <div class="bg-gray-50 border rounded p-2">
+          <div class="bg-slate-50 border rounded-xl p-2">
             <span class="block text-[11px] text-gray-500 font-bold">Accuracy</span>
             <strong class="text-sm">${sAcc}%</strong>
           </div>
@@ -683,34 +715,47 @@ function finalizeResult() {
   });
 
   const minusMarks = wrong * 0.25;
-  const finalScore = (correct - minusMarks).toFixed(2);
-  const accuracy = attempted > 0 ? ((correct / attempted) * 100).toFixed(1) : "0.0";
+  const finalScore = correct - minusMarks;
+  const accuracy = attempted > 0 ? (correct / attempted) * 100 : 0;
 
-  const makeBox = (label, val, extraCls = "") => `
-    <div class="bg-white border border-gray-200 border-t-4 border-t-red-600 rounded-xl p-4 text-center shadow-sm ${extraCls}">
-      <div class="text-[11px] uppercase font-bold text-gray-500 mb-1">${label}</div>
-      <div class="text-xl font-extrabold text-gray-800">${val}</div>
-    </div>`;
+  const cardsData = [
+    { label: "Final Net Score", id: "animScore", sub: `Out of ${totalQ}`, cls: "bg-red-50 border-red-300", valCls: "text-red-700" },
+    { label: "Total Questions", id: "animTotal", sub: "In Paper", cls: "", valCls: "text-gray-800" },
+    { label: "Attempted", id: "animAtt", sub: "Answered", cls: "", valCls: "text-blue-600" },
+    { label: "Correct (+1)", id: "animCorr", sub: "Right Ans", cls: "", valCls: "text-green-600" },
+    { label: "Wrong (-0.25)", id: "animWrong", sub: `-${minusMarks.toFixed(2)} Marks`, cls: "", valCls: "text-red-600" },
+    { label: "Not Attempted", id: "animUnatt", sub: "Skipped", cls: "", valCls: "text-gray-600" },
+    { label: "Accuracy %", id: "animAcc", sub: "Precision", cls: "", valCls: "text-red-700" }
+  ];
 
-  document.getElementById("overallResultBoxes").innerHTML = [
-    makeBox("Final Net Score", `<span class="text-red-700">${finalScore} / ${totalQ}</span>`, "bg-red-50"),
-    makeBox("Total Questions", totalQ),
-    makeBox("Attempted", attempted),
-    makeBox("Correct (+1)", `<span class="text-green-600">${correct}</span>`),
-    makeBox("Wrong (-0.25)", `<span class="text-red-600">${wrong} (-${minusMarks.toFixed(2)})</span>`),
-    makeBox("Not Attempted", unattempted),
-    makeBox("Accuracy", `${accuracy}%`)
-  ].join("");
+  document.getElementById("overallResultBoxes").innerHTML = cardsData.map((c, i) => `
+    <div style="animation-delay: ${i * 65}ms" class="result-stat-card bg-white border border-gray-200 border-t-4 border-t-red-600 rounded-2xl p-4 text-center shadow-xs ${c.cls}">
+      <div class="text-[11px] uppercase font-extrabold text-gray-500 mb-1">${c.label}</div>
+      <div id="${c.id}" class="text-2xl font-extrabold ${c.valCls}">0</div>
+      <div class="text-[11px] font-semibold text-gray-400 mt-1">${c.sub}</div>
+    </div>
+  `).join("");
 
   document.getElementById("subjectResultBoxes").innerHTML = subjectBoxes.join("");
 
   showScreen("resultScreen");
+  launchResultConfetti();
+
+  // Trigger Live Number Count-Up Animations
+  animateValue(document.getElementById("animScore"), finalScore, 2);
+  animateValue(document.getElementById("animTotal"), totalQ, 0);
+  animateValue(document.getElementById("animAtt"), attempted, 0);
+  animateValue(document.getElementById("animCorr"), correct, 0);
+  animateValue(document.getElementById("animWrong"), wrong, 0);
+  animateValue(document.getElementById("animUnatt"), unattempted, 0);
+  animateValue(document.getElementById("animAcc"), accuracy, 1, "%");
+
   renderSolutions("wrong");
 }
 
 function renderSolutions(filter) {
-  const activeCls = "px-3 py-1.5 rounded text-xs font-bold bg-red-600 text-white";
-  const inactiveCls = "px-3 py-1.5 rounded text-xs font-bold border border-red-600 text-red-600";
+  const activeCls = "btn-animated px-3.5 py-1.5 rounded-lg text-xs font-bold bg-red-600 text-white shadow-xs";
+  const inactiveCls = "btn-animated px-3.5 py-1.5 rounded-lg text-xs font-bold border border-red-600 text-red-600 hover:bg-red-50";
   document.getElementById("fltWrong").className = filter === "wrong" ? activeCls : inactiveCls;
   document.getElementById("fltUnattempted").className = filter === "unattempted" ? activeCls : inactiveCls;
   document.getElementById("fltAll").className = filter === "all" ? activeCls : inactiveCls;
@@ -731,20 +776,20 @@ function renderSolutions(filter) {
       const corrAns = q.options[q.correctAnswer];
 
       items.push(`
-        <div class="border border-gray-200 rounded-lg p-4 bg-white">
-          <div class="flex justify-between items-center text-xs font-bold mb-2">
-            <span class="text-red-700">Test Q.${qNum} [Book Q.${q.bookQNum}] (${sec.subject} - ${q.topicName})</span>
-            <span class="${isWrong ? "text-red-600" : isUnatt ? "text-gray-500" : "text-green-600"}">
+        <div class="result-stat-card border border-gray-200 rounded-xl p-5 bg-white">
+          <div class="flex justify-between items-center text-xs font-extrabold mb-2.5">
+            <span class="text-red-700 bg-red-50 px-3 py-1 rounded-full">Test Q.${qNum} [Book Q.${q.bookQNum}] (${sec.subject} - ${q.topicName})</span>
+            <span class="px-2.5 py-1 rounded-full ${isWrong ? "bg-red-100 text-red-700" : isUnatt ? "bg-gray-100 text-gray-600" : "bg-green-100 text-green-700"}">
               ${isWrong ? "❌ Wrong (-0.25)" : isUnatt ? "⚪ Unattempted" : "✅ Correct (+1.00)"}
             </span>
           </div>
-          <div class="font-semibold text-sm md:text-base mb-2.5 whitespace-pre-line">${q.question}</div>
-          <div class="text-xs md:text-sm mb-3">
-            <strong>Your Answer:</strong> <span class="${isWrong ? "text-red-600 font-bold" : ""}">${userAns}</span> |
-            <strong class="text-green-700">Correct Answer: ${corrAns}</strong>
+          <div class="font-bold text-sm md:text-base mb-3 whitespace-pre-line text-gray-900">${q.question}</div>
+          <div class="text-xs md:text-sm mb-3.5 flex flex-wrap gap-4 bg-slate-50 p-2.5 rounded-lg border">
+            <div><strong>Your Answer:</strong> <span class="${isWrong ? "text-red-600 font-extrabold" : "font-bold"}">${userAns}</span></div>
+            <div><strong class="text-green-700">Correct Answer: ${corrAns}</strong></div>
           </div>
-          <div class="bg-red-50 border-l-4 border-red-600 p-3 rounded text-sm leading-relaxed whitespace-pre-line">
-            <strong>💡 Hinglish Solution:</strong> ${q.solutionHinglish || "Solution available in answer key."}
+          <div class="bg-red-50/70 border-l-4 border-red-600 p-3.5 rounded-r-xl text-sm leading-relaxed whitespace-pre-line text-gray-800">
+            <strong class="text-red-800">💡 Hinglish Solution:</strong>\n${q.solutionHinglish || "Solution available in answer key."}
           </div>
         </div>
       `);
@@ -752,7 +797,7 @@ function renderSolutions(filter) {
   });
 
   document.getElementById("solutionsList").innerHTML =
-    items.length > 0 ? items.join("") : `<div class="p-4 text-sm text-gray-500">Is filter mein koi question nahi hai.</div>`;
+    items.length > 0 ? items.join("") : `<div class="p-6 text-center text-sm text-gray-500 border border-dashed rounded-xl">Is filter mein koi question nahi hai.</div>`;
 }
 
 // ================= GITHUB AUTO-UPLOAD ADMIN =================
