@@ -792,9 +792,8 @@ function renderSolutions(filter) {
           </div>
 
           <!-- Compact, clean explanation box -->
-          <div class="bg-red-50/70 border-l-4 border-red-600 p-3.5 rounded-r-xl text-sm leading-relaxed whitespace-pre-line text-gray-800">
-            <strong class="text-red-800 block mb-1">Explanation:</strong>
-            ${q.solutionHinglish || "Solution available in answer key."}
+         <div class="mt-3.5 text-base md:text-lg text-gray-900 leading-relaxed whitespace-pre-line font-semibold">
+            <span class="text-red-700 font-extrabold">Explanation:</span> ${q.solutionHinglish || "Solution available in answer key."}
           </div>
         </div>
       `);
