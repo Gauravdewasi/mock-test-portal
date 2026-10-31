@@ -1,3 +1,977 @@
 {
-  "books": []
+  "books": [
+    {
+      "id": "b_1793418065547",
+      "title": "Error Pro - Aman Sir",
+      "subject": "English",
+      "topics": [
+        {
+          "id": "t_1793418065548",
+          "name": "Pronoun Level-01",
+          "questions": [
+            {
+              "id": 1,
+              "question": "He is one of (a)/ those who would much rather (b)/ sacrifice his life than turn disloyal to the country. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'their' in place of 'his'\nExplanation:- Yahan yeh 'who' wala Adjectival Clause 'those' ko refer karne ke liye likha gya hai joki Plural hai. Yaani cheeze plural ke hisaab se chalegi, isliye Possessive Adjective 'His' nahi 'their' ka use hoga."
+            },
+            {
+              "id": 2,
+              "question": "The Taj Mahal (a)/ is one of (b)/ the most beautiful (c)/ creation in the world.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'creations' in place of 'creation'\nExplanation:- Yahan \"of\" Preposition selection ko dikhaane ke liye use ki gayi hai isliye iske baad aane wala Noun Plural mein prayog kiya jayega isliye 'Creation' nahi 'Creations' ka use hoga."
+            },
+            {
+              "id": 3,
+              "question": "It goes without saying (a)/ that your house which (b)/ is in Delhi is far better (c)/ than my one in various ways.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'mine' in place of 'my one'\nExplanation:- 'Your house' ka comparison 'my house' se hona hai jiske liye Possessive pronoun \"mine\" ka use hoga. Kyunki 'I' ka possessive case 'Mine' hota hai naa ki 'My one'."
+            },
+            {
+              "id": 4,
+              "question": "I am not sure (a)/ if the red car (b)/ in the parking slot (c)/ is your. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'yours' in place of 'your'\nExplanation:- Possessive Adjective kabhi akele use nahi hote yahan \"your car\" wala meaning dena hai isliye Possessive Pronoun \"yours\" ka prayog hoga."
+            },
+            {
+              "id": 5,
+              "question": "Each cigarette which (a)/ a person smokes does (b)/ some harm and eventually you (c)/ may get a serious disease from its effects. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'he' in place of 'you'\nExplanation:- Sentence ke meaning ke according serious bimari uss vyakti ko hogi jo cigarette smoke karta hai naa ki is sentence ko sunn ne wale ko, 'you' pronoun listener ko represent kar raha hai, hume us vyakti ko refer karna hai jo cigarette smoke karta hai isliye yahan 'you' nahi 'he' ka prayog hoga."
+            },
+            {
+              "id": 6,
+              "question": "Any of the two (a)/ pictures which depict (b)/ the real pictures of the present (c)/ politicians is worth seeing. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'either' in place of 'any'\nExplanation:- 'Any' ka use hum tab karte hain jab hume do se zyada mein se koi bhi ek wala meaning dena hota hai aur 'either' ka use hum tab karte hain jab hume do mein se koi bhi ek wala meaning dena hota hai. yahan do cheezo ki baat ho rahi hai isliye yahan 'any' ka nahi 'either' ka use hoga."
+            },
+            {
+              "id": 7,
+              "question": "You say(a)/ it's your problem(b)/ but I say it's(c)/ my also.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'mine' in place of 'my'\nExplanation:- Possessive adjective akele use nahi kiye jaate, yahan 'my problem' wala meaning dena hai. Isliye yahan Possessive pronoun 'mine' ka use hoga."
+            },
+            {
+              "id": 8,
+              "question": "I had to hold on (a)/to the wall (b)/to steady itself (c)/or I could have fallen. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'myself' in place of 'itself'\nExplanation:- Yahan sentence ka meaning yeh hai ki mujhe deewar ko pakadna pada khud ko sthir karne ke liye. Toh 'I' ke anusar yahan Reflexive pronoun 'Itself' nahi balki 'myself' ka prayog hoga."
+            },
+            {
+              "id": 9,
+              "question": "You may be an editor or a reporter, (a)/ this makes you sit, (b)/ that makes you run.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Replace 'an editor or a reporter' with 'a reporter or an editor'\nExplanation:- Jab 2 nouns ke baare mein extra information dene ke liye 'this' and 'that' lagake new clauses likhte hain toh 'this' uss noun ko refer karta hai jo this ke pass hai aur 'that' door wale ko. Yahan 'this' apne nearest noun 'reporter' ko refer kar rha hai. Aur 'that' 'editor' ko refer kar raha hai lekin uss se Meaning galat ho rha hai kyunki editor office mein baith ke kaam karta hai aur reporter field me bhaag ke. isliye yahan par editor aur reporter ko interchange karna padega taki meaning sahi ho jaaye."
+            },
+            {
+              "id": 10,
+              "question": "Neither of the two medical students (a)/ suspected in the 'Missing girl' case (b)/ have so far been arrested.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'has' in place of 'have'\nExplanation:- 'Neither' ek distributive pronoun hota hai aur iske sath singular verb aati hai, isliye yahan par 'have' nahi 'has' ka use hoga.\nNote: 'Suspected' yahan koi verb ki tarah se kaam nahin kar raha hai yeh 'Past Participle' hai jo ki Adjective ki tarah kaam kar rha hai."
+            },
+            {
+              "id": 11,
+              "question": "With food granaries overflowing, (a)/the Government is looking (b)/to liquidate his grain stock (c)/to prevent damage. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'its' in place of 'his'\nExplanation:- Yahan hume 'Government' Subject ke according Possessive adjective lagana hai. Isliye yahan 'His' nahi 'Its' ka use hoga."
+            },
+            {
+              "id": 12,
+              "question": "The people in (a)/my office are (b)/smarter than other offices.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'those in other offices' in place of 'other offices'\nExplanation:- Mere office ke People ka comparison dusre office ke people se hoga naaki 'office' se isliye 'those in other offices' likhna padega."
+            },
+            {
+              "id": 13,
+              "question": "My older brother, (a)/ which you'll (b)/ meet later, (c)/ is a dentist.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'whom' in place of 'which'\nExplanation:- Yahan hume 'Brother' noun ko Refer karne ke liye ek Relative Pronoun likhna hai aur Human being ke liye 'who/whom' ka prayog kiya jata hai. 'Who' subjective case hota hai aur 'Whom' objective case hota hai. Which animals aur things ke liye use kiya jata hai yahan hume 'meet' verb ka object banana hai, isliye 'whom' ka prayog hoga."
+            },
+            {
+              "id": 14,
+              "question": "A current account is a deposit account (a)/ which is offered by banks mainly (b)/ to firms and companies who (c)/ need banking facilities very frequently.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'which' in place of 'who'\nExplanation:- Yahan hume 'firms and companies' ko refer karne ke liye ek Relative Pronoun likhna hai, kyunki yeh dono non-living hai. Isliye yahan par 'who' nahi 'which' ka prayog hoga."
+            },
+            {
+              "id": 15,
+              "question": "We ordered a Pizza (a)/ which are one of (b)/ my favourite foods.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'is' in place of 'are'\nExplanation:- Yahan 'which' Relative Pronoun 'pizza' ke liye likha gya hai. Relative Pronoun ka apna khudka koi number aur Gender nahi hota yeh 'which' yahan Pizza ke liye aaya hai jo ki singular ki tarah use ho raha hai. Isliye 'which' ke baad Singular Verb ka prayog hoga, 'are' nahi 'is' aayega."
+            },
+            {
+              "id": 16,
+              "question": "This is the woman (a)/ whom all sons are married (b)/ and well (c)/ settled in their lives.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'whose' in place of 'whom'\nExplanation:- Iss sentence ka matlab yeh hai ki yeh wo aurat hai jiske saare bete Married hain aur well settled hain, toh yahan hume woman ke 'sons' par Possesion banana hai toh yahan ek esa word chahiye jo Possession ko dikhata ho isliye 'whose' ka use hoga 'whom' keval ek objective case hota hai. Yahan Objective Case ki requirement nahi hai, kyunki 'All sons' Subject ho chuka hai, 'are' linking verb hai aur 'married' aur 'well settled' adjective hai jo subject complement ki tarah se kaam kar rahe hain. Isliye yahan hume Objective Case ki jarurat nahi hai. Balki ek esa word chahiye jo 'woman' ka 'All sons' par Possession dikhaye isliye yahan 'whom' nahi 'whose' ka use hoga."
+            },
+            {
+              "id": 17,
+              "question": "Now it has finally dawned (a)/ upon her that one (b)/ should never compromise (c)/ with his dignity, integrity and self respect.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'one's' in place of 'his'\nExplanation:- Iss Clause ka subject 'one' hai. Isliye possession bhi 'one' ke according hi banega, Isliye 'his' nahi 'one's' possessive adjective ka use hoga."
+            },
+            {
+              "id": 18,
+              "question": "There are a number of new (a)/ arrivals in this shoe store (b)/ but only those shoes (c)/ which are old one are available at a discounted price.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'that' in place of 'which' and replace 'one' with 'ones' or we can also remove 'one'\nExplanation:- Yahan do galtiyan hai. One ki jagah Ones ka use hoga kyunki hume Shoes ko refer karne ke liye Plural Pronoun chahiye yaa hum 'one' ko hata bhi sakte hain kyunki linking verb ke baad akela adjective aa sakta hai aur yahan reference clear hai ki shoes ki hi baat ho rahi hai toh dobara pronoun likhne ki jarurat nhi hai. 2nd error hai:- 'which' ki jagah 'that' use hoga kyunki yeh Relative Pronoun shoes ko refer kar rha hai. Jisse pehle 'only those' laga hua hai. Jo iss par emphasis daal raha hai. Isliye yahan 'which' nahi 'that' relative Pronoun use hoga."
+            },
+            {
+              "id": 19,
+              "question": "You and your friend (a)/ are here, but who (b)/ of you is to work with me(c)/ no error(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'which' in place of 'who'\nExplanation:- Yahan iss clause ka matlab yeh hai ki tum mein se mere sath kaun kaam karega, iss Clause ke meaning se aur sath hi 'Of' Preposition jo Selection ko dikhati hai usko lage hone se clear ho raha hai ki hume yahan Selection karwana hai. Aur Selection case me humesha 'Which' relative pronoun ka use hota hai."
+            },
+            {
+              "id": 20,
+              "question": "The articles (a)/ published in this magazine (b)/ are better than (c)/ that magazine. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'those published in that magazine' in place of 'that magazine'\nExplanation:- Ek magazine ke Articles ka Comparison dusre magazine ke Articles se hi hoga isliye yahan 'those' ka use hoga sath hi Published Adjective jo first clause mein de rakha hai. Usse bhi hume meaning ko same rakhne ke liye, repeat karna padega. Isliye 'those published in that magazine' ka use hoga."
+            },
+            {
+              "id": 21,
+              "question": "After a long gap, (a)/ we went shopping (b)/ last Sunday and bought (c)/ that we wanted.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'what' in place of 'that'\nExplanation:- Yahan hume 'bought' verb ka object banane ke liye noun clause ki requirement hai naa ki koi Adjectival Clause ki isliye hum yahan par 'that' nahi 'what' relative pronoun ka use karenge jo noun clause banane ke liye use kiya jata hai.\nNote:- we went shopping me koi galti nahi hai yahan 'went' ke baad 'for' preposition understood ho jaati hai yeh structure Allowed hai."
+            },
+            {
+              "id": 22,
+              "question": "He was not aware of (a)/ the things and the people (b)/ who had surrounded him (c)/ no error(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'that' in place of 'who'\nExplanation:- Yahan hume aisa Relative Pronoun chahiye jo cheezon aur insaano dono ko ek sath refer kar sakta ho isliye yahan 'that' relative Pronoun ka use hoga."
+            },
+            {
+              "id": 23,
+              "question": "Her mother promised to (a)/ give her anything what she (b)/ wanted if she (c)/ passed the examination.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'that' in place of 'what'\nExplanation:- Yahan anything pronoun ko define karne ke liye ek Adjectival Clause ki zarurat hai naa ki Noun clause ki isliye yahan 'what' nahi 'that' relative pronoun ka use kiya jayega."
+            },
+            {
+              "id": 24,
+              "question": "Those who are late (a)/they will not be allowed (b)/inside the classroom. (c)/ no error(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove 'they'\nExplanation:- Yahan 'will not be allowed' wala jo part hai. Yeh verb those pronoun ke liye aayi honi chahiye thi, yadi hum 'they' laga denge toh 'those' pronoun ko verb nahi milegi isliye 'they' pronoun yahan superfluous hai isse remove karna padega."
+            },
+            {
+              "id": 25,
+              "question": "He has never hurt my sentiments (a)/ that is a mark of a great (b)/ and altruistic lover. (c)/ no error(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'which' in place of 'that'\nExplanation:- Yahan relative pronoun ka antecedent poora clause ban raha hai aur poore Clause ko refer karne ke liye 'which' Relative Pronoun ka use kiya jaata hai."
+            },
+            {
+              "id": 26,
+              "question": "Whom do you (a)/ think she is, if she knows (b)/ so many things (c)/ about you?(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'who' in place of 'whom'\nExplanation:- Yahan 'who' and 'whom' 'she is' waale clause ke according bhara jaana hai, linking verb ke baad kabhi objective case nahi aate, humesha subjective case hi aate hain isliye 'whom' nahi 'who' ka prayog kiya jayega."
+            },
+            {
+              "id": 27,
+              "question": "You can buy that (a)/ you want if (b)/ you top this exam. (c)/ no error(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'what/whatever' in place of 'that'\nExplanation:- Yahan 'buy' verb ko object ki zarurat hai. Aur object yahan 'you want' poora clause ban raha hai, aur 'what' se noun clause bante hai Isliye yahan 'that' ka nahi 'what/whatever' ka use hoga 'what' se matlab hoga jo tumhe chahiye aur 'whatever' se matlab hoga jo bhi tumhe chahiye. Dono hi use kiye jaa sakte hain."
+            },
+            {
+              "id": 28,
+              "question": "He is (a)/the same man (b)/which I saw (c)/yesterday at the gate.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'that' in place of 'which'\nExplanation:- Yahan 'the same' se, man par emphasis daala jaa raha hai. Isliye yahan relative pronoun 'which' nahi 'that' ka use hoga.\nNote:- Yahan 'Whom' ka use nhi kar sakte kyunki yahan 'the same' se 'man' par emphasis dala hua hai, isiliye yahan 'that' hi sahi mana jayega."
+            },
+            {
+              "id": 29,
+              "question": "The five brothers (a)/ are at daggers-drawn, (b)/ so they feel it below their dignity (c)/ to talk to each other.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'one another' in place of 'each other'\nExplanation:- Yahan five brothers ke liye Reciprocal pronoun lagana hai isliye reciprocal pronoun 'one another' ka use hoga naa ki 'each other' ka. 'each other' ka use do people yaa things ke liye, 'one another' more than two people or things."
+            },
+            {
+              "id": 30,
+              "question": "We thought (a)/ there was a good idea (b)/ to wear snow boots (c)/ before we stepped out.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'it' in place of 'there'\nExplanation:- 'It' and 'there' dono hi introductory Subject ka kaam kar lete hain. But dono alag alag jagah use kiye jaate hain. Yahan hume 'to wear' infinitive ko refer karna hai, aur infinitive ko refer karne ke liye 'It' ka use hota hai, isliye yahan 'It' sahi hoga."
+            },
+            {
+              "id": 31,
+              "question": "I find that (a)/ I get myself tired (b)/ very easily (c)/ these days.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove 'myself'\nExplanation:- Yahan 'get' linking verb ki tarah se work kar rahi hai, 'I' subject hai aur 'tired' subject complement ki tarah se work kar raha hai. Yahan koi Action nahi ho raha hai naa hi kisi object ki zarurat hai isliye yahan Reflexive pronoun 'myself' ka prayog nahi hoga."
+            },
+            {
+              "id": 32,
+              "question": "There is many ways (a)/ to make (b)/ a stranger feel (c)/ welcome in the community.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'are' in place of 'is'\nExplanation:- Jab 'there' word introductory subject ki tarah work karta hai toh verb real subject ke according aati hai. Yahan real subject 'ways' hai isliye verb plural aayegi, isliye 'is' nahi 'are' ka use hoga."
+            },
+            {
+              "id": 33,
+              "question": "Me and my friends (a)/ often go (b)/ to the cinema (c)/ together.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'My friends and I' in place of 'Me and my friends'\nExplanation:- Yahan do changes karna hai, ek toh yeh General sentence hai isliye Pronoun ka sequence '231' use karna tha, aur dusra hume yahan subjective case ki zarurat hai isliye 'me' nahi 'I' aana tha isliye yahan par 'my friends and I' ka use kiya jayega."
+            },
+            {
+              "id": 34,
+              "question": "Payal as well as her friends was (a)/ absented themselves (b)/ from the class because (c)/ it was the day of 'Bihar-band'.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'absent' in place of 'absented' and remove 'themselves'\nExplanation:- Absent do kaam karta hai verb banna ya adjective banna jab yeh verb banta hai toh apne sath Reflexive Pronoun rakhta hai but iss sentence ka structure thoda complex hai yahan (a) part mein was diya gaya hai aur (b) part mein absented likha gaya hai agar hum isse passive maane toh bhi passive ke andar object nahi hota hai isliye 'themselves' drop hoga lekin yahan passive kaa koi sense nahi hai isliye passive manna bhi sahi nahi hoga. (a) part se 'was' ko hata ke bhi theek nahi ho payega kyunki subject 'Payal' hai uske according reflexive pronoun 'herself' aana chahiye tha, aur 2 parts mein toh error mark kar nahi sakte isliye sabse best option yahan par yeh kiya jaa sakta hai ki absented ko kaat kar absent likh de jisse voh adjective ban jayega aur adjective ke sath reflexive pronoun nahi aata hai toh themselves ko drop kar diya jayega. Yaani sahi sentence hoga Payal as well as her friends was absent from the class.\nNote:- as well as yahan koi simile nahi hai yeh ek Prepositional phrase hai isliye verb Payal ke according aayegi joki was likhi gayi hai jo ki sahi hai."
+            },
+            {
+              "id": 35,
+              "question": "The principal objected (a)/ to them wearing short skirts (b)/ at the function. (c)/ no error(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'their' in place of 'them'\nExplanation:- 'object to' yeh ek Phrasal verb ki tarah se work karta hai aur sentence ke meaning ke according principal ka jo objection hai veh wearing se hai, naa ki them se isliye object to phrasal verb ka object 'wearing' banega jo ki ek noun Gerund ke roop me work karega isliye yahan isse pehle 'them' pronoun ka nahi 'their' possessive adjective ka use hoga."
+            },
+            {
+              "id": 36,
+              "question": "Rashmi and me are (a)/ planning to go on (b)/ a road trip to Manali (c)/ next summer.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'I' in place of 'me'\nExplanation:- Yahan hume Verb ke subject ki zarurat hai isliye 'me' nahi 'I' ka use kiya jayega."
+            },
+            {
+              "id": 37,
+              "question": "Neither he (a)/ nor his brother (b)/ can walk faster (c)/ than me.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'than I' in place of 'than me'\nExplanation:- Subject ka comparison Subject se hota hai. Isliye yahan than ke baad objective case 'me' nahi 'I' subjective case ka use hoga, jiske baad 'can' modal understood hai, usse likhna chahe toh likh bhi sakte hain 'than me' nahi 'than I' (Can) ka use hoga."
+            },
+            {
+              "id": 38,
+              "question": "It will (a)/ be us who will (b)/ buy a new house (c)/ No error.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'we' in place of 'us'\nExplanation:- Yahan 'it' introductory subject hai. Hume real subject 'we' par stress daalna tha isliye yahan Subjective case 'we' ka use hoga naa ki objective case 'us' ka."
+            },
+            {
+              "id": 39,
+              "question": "Who was (a)/ there but she to look (b)/ after the family in distress? (c)/ No error(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'her' in place of 'she'\nExplanation:- Yahan 'but' ka matlab 'ke sivay yaa ke alawa' hai. Yaani 'but' yahan par preposition ki tarah work kar raha hai. Isliye uske baad Objective case ka use hoga. Isliye 'she' nahi 'her' ka use kiya jayega."
+            },
+            {
+              "id": 40,
+              "question": "He prostrated before (a)/ his master (b)/ who had returned from (c)/ London after a year.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'himself' after 'prostrated'\nExplanation:- 'Prostrate' verb ek transitive verb hoti hai jise object chahiye aur yahan meaning dena hai, usne khud ko jhukaya, jab kisi action ka doer aur receiver same hota hai, toh reflexive pronoun ka use karte hai isliye 'himself' reflexive pronoun sahi hoga."
+            },
+            {
+              "id": 41,
+              "question": "He, you and I are to be blamed (a)/ for all the mess in (b)/ the last evening's program. (c)/ No error(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'I, you and he' in place of 'He, you and I'\nExplanation:- Yahan blamed verb se pata chal raha hai ki koi galat kaam ko represent karna isliye yahan Pronoun ka sequence 1-2-3 chalega."
+            },
+            {
+              "id": 42,
+              "question": "We must do (a)/ regular exercises (b)/ to keep (c)/ ourselves fit. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) remove 'ourselves'\nExplanation:- Jab action khud par hi hota hai toh 'keep' linking verb ki tarah se work karti hai iss sentence ka matlab hai ki, hume Regular exercise karni chahiye fit rehne ke liye, isliye yahan par Reflexive pronoun ka use nahi hoga."
+            },
+            {
+              "id": 43,
+              "question": "Lalitha will go (a)/ to sister's house (b)/ in Mumbai (c)/ this summer. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'her' before 'sister's'\nExplanation:- Sentence ke meaning ke according 'sister's' se pehle 'her' possessive adjective ka use karna padega."
+            },
+            {
+              "id": 44,
+              "question": "The man standing (a)/ beside the minister is (b)/ a friend of me. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'a friend of mine' in place of 'a friend of me'\nExplanation:-\nA friend of mine: Iss structure ka meaning hota hai ki mere doston me se koi ek. Yahan 'of' preposition selection ka work karta hai.\nThe friend of me: Iss structure ka meaning hota hai mera koi ek particular dost. Yahan 'of' preposition possession ka work karta hai. Hum keh sakte hain 'the friend of me = my friend'\nNote:- 'a friend of me' sahi term nhi hai uski jagah yahan 'a friend of mine' ya 'the friend of me' ka use karein. Waise to iss sentence mein inn dono me se koi bhi use kar sakte hain but 'a friend of mine' se thoda better meaning ayega."
+            },
+            {
+              "id": 45,
+              "question": "No one of them (a)/came to the (b)/inauguration of (c)/our new Factory.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'none' in place of 'no one'\nExplanation:- 'No one' aur 'none' mein kuch difference hota hai jaise ki,\n(a) 'none' insaano aur cheezo dono ke liye aa sakta hai. 'no one' generally sirf insaano ke liye use kiya jaata hai.\n(b) 'none' ko kisi 'Group me se koi nahi' kehne liye use kar sakte hai, but 'no one' 'group me se koi nahi' wala meaning dene ke liye use nahin hota hai. Yahan group me se koi nahi wala meaning dena hai, isliye 'no one' nahi 'none' ka use hoga."
+            },
+            {
+              "id": 46,
+              "question": "I don't recognise none of (a)/ the politicians who have been(b)/ invited to be (c)/ the speakers today. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'any' in place of 'none'\nExplanation:- Yahan recognize se pehle jo 'not' hai uski wajah se yeh clause pehle hi negative ho chuka hai. None lagane se dubara negative ho jayega isliye yahan par 'none' nahi 'any' ka use kiya jayega."
+            },
+            {
+              "id": 47,
+              "question": "In order for he (a)/ to attend the meeting, (b)/ he needs to prepare (c)/ exhaustive notes. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'him' in place of 'he'\nExplanation:- 'he' ki jagah 'him' ayega kyunki 'for' ek preposition hai aur preposition ke baad iska object aata hai isliye 'he' ke objective case 'him' ka use kiya jayega."
+            },
+            {
+              "id": 48,
+              "question": "Mr. Sunil Pawar, our representative (a)/ he will (b)/ attend the meeting (c)/on our behalf. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove 'he'\nExplanation:- Yahan Mr. Sunil Pawar subject ki tarah se work kar raha hai, our representative case in apposition hai jo subject ko define kar raha hai aage aane wali verb subject 'Sunil Pawar' ko milni chahiye thi. Isliye yahan likha gaya 'he' pronoun superfluous hai use hata denge."
+            },
+            {
+              "id": 49,
+              "question": "They who didn't (a)/ attend the last seminar (b)/ would not be allowed in the next seminar (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'those' in place of 'they'\nExplanation:- Relative Pronoun se pehle 'they' ka demonstrative Version likha jaata hai isliye yahan 'they' nahi 'those' ka use kiya jayega, yeh baat aapko yaad hi karni hai. Bas dhyan rakhiyega Introductory Subject 'It' wale jo sentence hote hai.\nFor example: It is they who took you to hospital. Yahan par 'They' hi rahega isme 'Those' nahi karna hai."
+            },
+            {
+              "id": 50,
+              "question": "The woman is waiting to see you looks rather angry.",
+              "options": [
+                "(a) The women whose waiting to see you looks rather angry",
+                "(b) The women who is waiting see you looks rather angry",
+                "(c) The woman who is waiting to see you looks rather angry",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Yahan do verb di gayi hai. Jisse pata chal raha hai ki do clauses banne chahiye aur sentence ka meaning bhi kuch esa hai. Jo aurat bahar tumhe milne ka wait kar rhi hai, gusse me dikhayi pad rahi hai. Isliye yahan par 'who' relative pronoun ka use hoga aur wait ke baad direct verb nahi likh sakte isliye infinitive 'to see' ka use hoga, isliye (c) option best hai."
+            },
+            {
+              "id": 51,
+              "question": "Thomas is a man of word (a)/ who have been paying back (b)/ the borrowed money (c)/ in instalments.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'has' in place of 'have'\nExplanation:- Yahan 'who' relative pronoun 'Thomas' ke liye likha gaya hai, kyunki 'Thomas' singular hai isliye 'who' ke baad singular verb ka use kiya jaayega, isliye 'have' nahi 'has' aayega."
+            },
+            {
+              "id": 52,
+              "question": "Civil servants (a)/should exert to help (b)/ a common man. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'themselves' after 'exert'\nExplanation:- 'exert' verb transitive hoti hai aur apne sath reflexive pronoun leti hai jab subject khud pe action perform kar raha ho, isliye yahan 'exert' ke baad 'themselves' reflexive pronoun ayega.\nExert ka matlab 'normal se jyada effort karna'"
+            },
+            {
+              "id": 53,
+              "question": "She is the woman (a)/ who I know, (b)/ you can trust blindly. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'who' with 'whom'.\nExplanation:- Yahan relative pronoun 'trust' verb ke liye lagana hai. Jise object chahiye. Kyunki 'whom' objective case hota hai, isliye yahan 'whom' ka use sahi hoga. Note:- Relative pronoun who/whom ka yahan 'know' verb se koi relation nahi hai."
+            },
+            {
+              "id": 54,
+              "question": "The company decided to sell their stake in their subsidiary because it was under massive debts.",
+              "options": [
+                "(a) sell their stake in its subsidiary",
+                "(b) No substitution",
+                "(c) sell its stake in their subsidiary",
+                "(d) sell its stake in its subsidiary"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Yahan subject 'company' jo ki singular hai isliye possessive adjective singular subject ke according use honge. Isliye 'its stake and its subsidiary' wala option (d) sahi hoga."
+            },
+            {
+              "id": 55,
+              "question": "He was not able to adopt himself to the new environment of the hostel.",
+              "options": [
+                "(a) able to adept himself to",
+                "(b) able for adopt himself to",
+                "(c) able to adopt himself with",
+                "(d) able to adapt himself to"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- isko samjne ke liye 3 points samajhne honge\n1. 'able' adjective ke baad generally infinitive (to + vb) aata hai. Eg. 'He was not able to repay the loan.'\n2. 'adapt' verb ka reflexive pronoun to object ka structure use hota hai. Eg. He adapted himself to the new city.\n3. adept - skillful, adopt - lgana ya baccha god lena, adapt - dhaalna\nyahan 'dhaalne' wala meaning dena hai. inn teeno points ke according Answer (d) sahi hoga."
+            },
+            {
+              "id": 56,
+              "question": "None of the girl deserve to be selected for this award.",
+              "options": [
+                "(a) None of the girl deserves",
+                "(b) no improvement required",
+                "(c) None of the girls are deserving",
+                "(d) None of the girls deserves"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- None + of + noun (plural) + verb (singular) ye structure apko class me padhaya gaya hai. iske according Answer d sahi hoga."
+            },
+            {
+              "id": 57,
+              "question": "He brought these sweets for you and I.",
+              "options": [
+                "(a) for I and you",
+                "(b) for you and I both",
+                "(c) for you and me",
+                "(d) No substitution"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'for' preposition ke baad preposition ke object aayenge isliye objective case use hoga :- 'for you and me' option (c) sahi hoga."
+            },
+            {
+              "id": 58,
+              "question": "In the introductory session, the teacher asked me to what district I came from.",
+              "options": [
+                "(a) to which district",
+                "(b) which district",
+                "(c) No substitution",
+                "(d) what district"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'what' ka meaning hota hai 'kya' and 'which' ka meaning hota hai konsa, yahan meaning ye dena hai ki teacher ne pucha tha mai konse district se hu. isliye 'which' ka use hoga. aur 'from' preposition jiske meaning 'se' hota hai wo last mein di hai isliye 'to' preposition nhi lagegi."
+            },
+            {
+              "id": 59,
+              "question": "I asked two people the way to Diana's house but no one of them knew it.",
+              "options": [
+                "(a) whether either of them knew it",
+                "(b) if none of them knew it",
+                "(c) that no one of them knew it",
+                "(d) but neither of them knew it"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- sentence me 2 logon ki baat ho rahi hai or 2 ke liye neither use hota hai naki 'none yaa no one' ka, isliye option D sahi hoga."
+            },
+            {
+              "id": 60,
+              "question": "Abraham also had one sister, of who not much has been recorded.",
+              "options": [
+                "(a) of what",
+                "(b) of whose",
+                "(c) of whom",
+                "(d) No substitution"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'of' preposition hai aur preposition ke baad object aate hai, isliye iske baad objective case 'whom' ayega. yahan meaning dena tha jiske baare mein jada kuch recorded nahi hai. 'of + whom' se possession wala meaning banega 'of + whom' = jiske"
+            },
+            {
+              "id": 61,
+              "question": "Neither of the leading political parties have had much success in the southern region.",
+              "options": [
+                "(a) No improvement required",
+                "(b) Neither of the leading political parties has had much",
+                "(c) Neither of the leading political party has had much",
+                "(d) Neither of the leading political parties have had any"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- neither + of + noun(plural) + verb (singular) iss structure ke according sirf option B sahi hai."
+            },
+            {
+              "id": 62,
+              "question": "Please clean your room first and than meet I downstairs.",
+              "options": [
+                "(a) No improvement",
+                "(b) and than meet me",
+                "(c) or then meeting me",
+                "(d) and then meet me"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- sentence ka matlab hai please pehle apne room clean karo uske baad mujhe neche aake milo, toh uske baad wala meaning 'and then' se ayega aur 'meet' verb ke baad object chahiye, isliye objective case 'me' ayega. Isliye option D sahi hoga. 'than' comparison ke liye use hota hai."
+            },
+            {
+              "id": 63,
+              "question": "Both of mine child passed the examination successfully.",
+              "options": [
+                "(a) my children passed",
+                "(b) our children passes",
+                "(c) No improvement",
+                "(d) my child pass"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 2 bachon ki baat ho rahi hai isliye 'child' ka plural 'children' use hoga. 'Children' noun se pehle 'my' possessive adjective lagega naki 'mine' pronoun. Isliye option A sahi hoga."
+            },
+            {
+              "id": 64,
+              "question": "I can neither punish him nor reward him for which he have done.",
+              "options": [
+                "(a) what he done",
+                "(b) No improvement",
+                "(c) what he has done",
+                "(d) which he has did"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- yahan 'for' preposition ka object aage ka pura noun clause banega. Aur noun clause banane ke liye 'what' relative pronoun ka use karte hai correct structure:- 'for what he has done'\nNote:- 'he' ke baad 'has' aayega aur has ke baad V3 aayegi iss basis par bhi sirf c option hi shi hai"
+            },
+            {
+              "id": 65,
+              "question": "They each listened carefully to what each other said.",
+              "options": [
+                "(a) each another",
+                "(b) No improvement",
+                "(c) the other",
+                "(d) one another"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- yahan verb 'listened' hai naa ki 'talked' isse clear hai ki ek time mein ek hi person bola hoga baaki sab sun rahe honge. isliye 'each other' ka use nhi hoga kyunki apas mein baat nahi ho rahi hai. ek ne jo bola wo dusre ne dhyan se suna iss meaning ke liye 'what the other said' ka use hoga."
+            },
+            {
+              "id": 66,
+              "question": "Often it makes one wonder at the sights you see.",
+              "options": [
+                "(a) one sees",
+                "(b) one see",
+                "(c) you saw",
+                "(d) No substitution"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- yahan 'wonder' verb ka subject 'one' hai toh obviously sights ko dekhne wala bhi 'one' he hoga. aur 'one' ke baad verb singular aati hai. Isliye 'one sees' option A sahi hoga."
+            },
+            {
+              "id": 67,
+              "question": "Whom was the person that you wanted me to contact there?",
+              "options": [
+                "(a) No substitution",
+                "(b) Who is the person",
+                "(c) Whom is the person",
+                "(d) Whom were the persons"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- yahan subjective case ki jarurat hai isliye 'whom' ki jagah 'who' ayega.\nNote:- Tense same rakhne ke liye option nhi hai isliye B hi mark karna padega."
+            },
+            {
+              "id": 68,
+              "question": "It is I who am responsible for the success of the organisation.",
+              "options": [
+                "(a) No improvement",
+                "(b) It is me who am",
+                "(c) It is I which is",
+                "(d) It is me that is"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) No improvement required\nExplanation:- 'It' yahan introductory subject hai isliye aage aaya real subject 'I' subjective case mein hi aayega aur 'who' 'I' ko refer karne ke liye lgaya gaya hai isliye 'who' ke baad verb 'I' ke according 'am' aayi hai."
+            },
+            {
+              "id": 69,
+              "question": "Is this the same book like our teacher recommended?",
+              "options": [
+                "(a) No improvement",
+                "(b) same book who",
+                "(c) similar book that",
+                "(d) same book as"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- iss sentence mein pronoun and conjunction dono chapter ke concept ka use hoga. 'the same' ke baad 'that' yaa 'as' use hota hai. 'as' relative pronoun ki tarah kaam kar sakta hai. jaise iss sentence me 'as' conjunction + pronoun (object of verb recommend) ka kaam kar raha hai.\nConjunction chapter mein 'such as' pair ki grammar padhke apko 'as' ka relative pronoun banne ka concept clear ho jayega.\nNote:- similar book se meaning change ho rha isliye wo option nhi lagayenge."
+            },
+            {
+              "id": 70,
+              "question": "Please don't create panic among people during that difficult times.",
+              "options": [
+                "(a) No substitution",
+                "(b) these",
+                "(c) those",
+                "(d) this"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'difficult times' mein 'times' noun plural hai isliye adjective 'this' and 'that' use nahi honge. present ki baat ho rahi hai isliye meaning ke according 'these' ka use hoga.\nthese difficult times - inn mushkil halaton mein\nthose difficult times - unn muskil halaton mein"
+            },
+            {
+              "id": 71,
+              "question": "It is important to be aware of what we eat as food choices play an important role and affect their lifespan.",
+              "options": [
+                "(a) affect your",
+                "(b) affect our",
+                "(c) affect her",
+                "(d) No substitution"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- sentence me 'eat' verb ka subject 'we' hai toh obviously meaning ke according lifespan bhi 'we' ka hi affect hoga isliye 'affect our lifespan' ka use hoga."
+            },
+            {
+              "id": 72,
+              "question": "It's not our book; it must be theres.",
+              "options": [
+                "(a) theirs",
+                "(b) their",
+                "(c) their's",
+                "(d) theres"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Meaning yeh dena hai ki yeh humhari book nahi hai toh jarur yeh unki book hogi or grammar ke according bhi yahan possessive pronoun ki requirement hai. \"It must be theirs\" sahi hoga\nNote:- theres and their's jaise words exist hi nahi karte grammar mein."
+            },
+            {
+              "id": 73,
+              "question": "Most of us hesitate to accept our mistakes.",
+              "options": [
+                "(a) No substitution",
+                "(b) More of us",
+                "(c) Much of us",
+                "(d) Lots many of us"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) No substitution required\nExplanation:- yahan 'Most of Us' ka meaning hai hum logon mein se jyadatar. 'Much' uncountable ke liye aata hai, 'more' comparison ke liye aata hai aur 'lots many' jaisa koi adjective nahi hota isliye b, c, d options nahi ho sakte."
+            },
+            {
+              "id": 74,
+              "question": "A hole is in my pocket.",
+              "options": [
+                "(a) A hole there is",
+                "(b) A hole are there",
+                "(c) No improvement",
+                "(d) There is a hole"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- kisi cheez ki position ko introduce karne ke liye generally 'there' introductory subject ka use kiya jata hai. Isliye option D sahi hoga.\nEx. There is a cat under the table. There is a dog inside the car. etc."
+            },
+            {
+              "id": 75,
+              "question": "Try to avail of every opportunity that comes your way.",
+              "options": [
+                "(a) avail to",
+                "(b) No improvement",
+                "(c) availing of",
+                "(d) avail yourself of"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- 'Avail' verb ka structure hota hai :- avail + reflexive pronoun + of + noun (wo cheez jo avail karni ho). Yahan 'try to avail' se pata chal raha hai ki advice di jaa rahi hai or yeh imperative sentence hai jiska understood subject 'you' hota hai isliye 'avail yourself of' ka use hoga."
+            },
+            {
+              "id": 76,
+              "question": "Doctors at the AIIMS Trauma Centre managed to save the life of 12 year old archer Shivangini, whose were struck by an arrow in the neck during a practice session.",
+              "options": [
+                "(a) who was striked",
+                "(b) which was struck",
+                "(c) No improvement",
+                "(d) who was struck"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- yahan meaning yeh dena hai ki 'jise struck kiya gaya tha ek arrow ke dwara' isliye 'who was struck' ka use hoga.\nNote:- Shivangini receiver hai fir bhi 'whom' nahi 'who' ayega kyunki aage passive voice lagi hai or passive voice mein receiver subject hota hai."
+            },
+            {
+              "id": 77,
+              "question": "My shoes were worn out so I had to buy a new one.",
+              "options": [
+                "(a) a new ones",
+                "(b) the new one's",
+                "(c) new ones",
+                "(d) no improvement"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'shoes' plural mein likha jaane wala noun hai isliye iske 'ones' pronoun ka use hoga. a/an articles plural ke sath nahi aate aur yahan koi possession nahi banana isliye baki options galat hain."
+            },
+            {
+              "id": 78,
+              "question": "When I was working in a software company, it was mandatory to register my legally as an authorized software developer.",
+              "options": [
+                "(a) register myself legally",
+                "(b) register me legal",
+                "(c) register mine legally",
+                "(d) no improvement"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'to register' infinitive mein aayi verb ke doer and receiver same hai isliye object ke roop mein 'myself' reflexive pronoun ka use hoga."
+            },
+            {
+              "id": 79,
+              "question": "Shailaja is prettier than either of her three cousins.",
+              "options": [
+                "(a) most prettier than all of",
+                "(b) No improvement",
+                "(c) prettier than any of",
+                "(d) pretty than either of"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Shailaja ka comparison 3 cousins se karna hai isliye 'either' nhi 'any' ka use hoga. kyunki 'either' 2 ke liye aata hai.\nNote:- Prettier ki intensity badhane ke liye 'most' adverb ka use nahi ho sakta isliye 'a' option galat hai"
+            },
+            {
+              "id": 80,
+              "question": "I am sorry of which my mother said.",
+              "options": [
+                "(a) for what",
+                "(b) for which",
+                "(c) off that",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Jab aap jis cheez ke liye maafi mangte ho toh uss case mein 'sorry for' ka use hota hai.\nEg. I am sorry for my bad behaviour.\nyahan meaning yeh dena hai ki mai maafi chahunga jo meri maa ne kaha tha uske liye. yani yahan koi antecedent nahi hai isliye 'what' relative pronoun ka use hoga.\nNote:- 'what my mother said' ye pura noun clause 'for' preposition ka object banega."
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
