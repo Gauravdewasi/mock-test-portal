@@ -7018,6 +7018,372 @@
               "solutionHinglish": "Ans (b)\nExplanation:- sentence mein 'has' main verb hai jo possession bana rahi hai, isliye iska question tag 'doesn't he' option B sahi hoga."
             }
           ]
+        },
+        {
+          "id": "t_1793448211765",
+          "name": "Question Tag Level-02",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Your cousin (a)/ practises advanced photography techniques regularly (b)/ to improve his creative portfolio, (c)/ does he? (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) replace 'does he' with 'doesn't he'\nExplanation:- 'cousin' ke liye 'he' pronoun aayega aur 'practises' verb present indefinite tense mein hai jiska question tag 'do/does' se banta hai, sentence positive hai isliye question tag negative hoga, isliye 'doesn't he' sahi hoga."
+            },
+            {
+              "id": 2,
+              "question": "There will probably be a huge crowd (a)/ outside the stadium tonight as the organisers (b)/ are distributing free entry passes, (c)/ will there? (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) replace 'will there' with 'won't there'\nExplanation:- Sentence mein do clauses hai 'there will.....tonight' tak main clause hai aur 'the organisers.....passes' tak sub clause, question tag humesha 'main clause' ke according banta hai, 'will' ka negative 'won't' hoga, isliye 'won't there' sahi hoga."
+            },
+            {
+              "id": 3,
+              "question": "I am supposed to submit (a)/ the revised assignment today, after carefully (b)/ analysing the teacher's feedback(c)/, am I? (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) replace 'am I' with 'aren't I'\nExplanation:- 'am' ka negative question tag 'aren't' hota hai, isliye 'aren't I' sahi hoga."
+            },
+            {
+              "id": 4,
+              "question": "You have taken proper safety measures in the laboratory today, such as wearing protective gloves and goggles, isn't it?",
+              "options": [
+                "(a) did you",
+                "(b) No substitution",
+                "(c) have you",
+                "(d) haven't you"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Correct answer is 'haven't you'\nExplanation:- 'you' ke liye 'you' pronoun aayega jiske liye plural verb aayegi, sentence positive hai toh question tag negative hoga, isliye 'haven't you' option D sahi hoga."
+            },
+            {
+              "id": 5,
+              "question": "The new policies have been implemented successfully across all departments, isn't it?",
+              "options": [
+                "(a) haven't they",
+                "(b) No substitution",
+                "(c) have they",
+                "(d) didn't they"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'haven't they'\nExplanation:- 'new policies' ke liye 'they' pronoun ka use hoga, sentence positive hai toh question tag negative hoga, isliye 'haven't they' option A sahi hoga."
+            },
+            {
+              "id": 6,
+              "question": "She will have to submit all her pending assignments before the final review begins next week, has she?",
+              "options": [
+                "(a) No substitution",
+                "(b) won't she",
+                "(c) will she",
+                "(d) hasn't she"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'won't she'\nExplanation:- Positive sentence ka question tag negative banega, 'will' helping verb ka negative 'won't' hota hai, isliye 'won't she' option B sahi hoga."
+            },
+            {
+              "id": 7,
+              "question": "She is not comfortable speaking in front of a large audience during formal events, isn't it?",
+              "options": [
+                "(a) is she",
+                "(b) isn't she",
+                "(c) is it",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'is she'\nExplanation:- Negative sentence ka question tag positive banega, 'she' ke liye 'she' pronoun ka use hoga, isliye 'is she' option A sabse sahi hoga."
+            },
+            {
+              "id": 8,
+              "question": "You will attend the official briefing tomorrow morning before the training session begins, won't you?",
+              "options": [
+                "(a) isn't it",
+                "(b) didn't you",
+                "(c) No improvement",
+                "(d) will you"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'No improvement'\nExplanation:- Positive sentence ka question tag negative banega, 'will' helping verb ka negative 'won't' hota hai aur you ka pronoun you hi hota hai, isliye 'won't you' sahi hoga."
+            },
+            {
+              "id": 9,
+              "question": "The train was delayed for several hours because of a technical fault in the signalling system, isn't it?",
+              "options": [
+                "(a) didn't it",
+                "(b) wasn't it",
+                "(c) was it",
+                "(d) No substitution"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'wasn't it'\nExplanation:- 'train' subject ke liye 'it' pronoun ka use hoga, 'was' helping verb ka negative 'wasn't' hoga, isliye 'wasn't it' option B sahi hoga."
+            },
+            {
+              "id": 10,
+              "question": "You have all the required documents for the verification process today, including your identity proofs and address records, isn't it?",
+              "options": [
+                "(a) don't you",
+                "(b) No improvement",
+                "(c) do you",
+                "(d) has you"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'don't you'\nExplanation:- 'has/have' agar helping verb hoti hai toh negative question tag 'hasn't/haven't' se banta hai, lekin 'has/have' agar main verb ki tarah kaam kare possession banane ke liye toh iska negative question tag 'don't/doesn't' se banega, sentence mein 'have' main verb hai jo possession bana rahi hai, isliye iska question tag 'don't you' option A sahi hoga."
+            },
+            {
+              "id": 11,
+              "question": "We can't succeed in this competitive examination without consistent practice and proper time management, will we?",
+              "options": [
+                "(a) won't we",
+                "(b) can we",
+                "(c) do we",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'can we'\nExplanation:- Sentence negative hai isliye question tag positive banega, isliye 'can't' ka 'can' ho jaayega, isliye 'can we' option B sahi hoga."
+            },
+            {
+              "id": 12,
+              "question": "I believe you have completed the draft of your research report after reviewing all the reference materials carefully, don't I?",
+              "options": [
+                "(a) did you",
+                "(b) haven't you",
+                "(c) have you",
+                "(d) No substitution"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'haven't you'\nExplanation:- Sentence mein 'I believe' main clause hai aur 'you have.....carefully' tak sub clause, agar 'I believe, I know' aise main clause ho toh sub clause ke according question tag banta hai, isliye 'haven't you' option B sahi hoga."
+            },
+            {
+              "id": 13,
+              "question": "Neither of the applicants was informed about the change in the interview schedule, ________?",
+              "options": [
+                "(a) wasn't they",
+                "(b) weren't they",
+                "(c) did they",
+                "(d) were they"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Correct answer is 'were they'\nExplanation:- 'neither' subject ke according 'they' pronoun aayega aur 'neither' se sentence negative ho gaya isliye question tag positive banega, 'they' ke according plural verb aayegi, isliye 'were they' option D sahi hoga."
+            },
+            {
+              "id": 14,
+              "question": "Everybody should follow the safety guidelines issued by the authorities during large public gatherings, ________?",
+              "options": [
+                "(a) should they",
+                "(b) should he",
+                "(c) shouldn't they",
+                "(d) shouldn't we"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'shouldn't they'\nExplanation:- 'everybody, each, either, neither, nobody, anybody, anyone, somebody, all etc.' subject ke liye question tag mein 'they' pronoun aayega, sentence positive hai toh question tag negative hoga, isliye 'shouldn't they' option C sahi hoga."
+            },
+            {
+              "id": 15,
+              "question": "All of them have booked their tickets for the cultural festival that will be held in the neighbouring state next month, ________?",
+              "options": [
+                "(a) haven't we",
+                "(b) don't they",
+                "(c) haven't they",
+                "(d) have they"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'haven't they'\nExplanation:- 'everybody, each, either, neither, nobody, anybody, anyone, somebody, all etc.' subject ke liye question tag mein 'they' pronoun aayega, isliye 'haven't they' option C sahi hoga."
+            },
+            {
+              "id": 16,
+              "question": "Anyone will support the initiative which is started by him to educate the poor children, ________?",
+              "options": [
+                "(a) won't he",
+                "(b) won't you",
+                "(c) won't they",
+                "(d) will they"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'won't they'\nExplanation:- 'anyone' ke liye 'they' pronoun aayega aur 'will' ka negative 'won't' hoga, isliye 'won't they' option C sahi hoga."
+            },
+            {
+              "id": 17,
+              "question": "None of us realised the importance of the safety instructions written everywhere at the construction site, ________?",
+              "options": [
+                "(a) didn't I",
+                "(b) did we",
+                "(c) mustn't you",
+                "(d) hadn't we"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'did we'\nExplanation:- 'none, nobody, anybody, each, either etc.' ke sath 'of' lagake 'first, second' person ki baat karoge, toh 'first, second' person ke according pronoun aayega, question tag mein subjective case likha jata hai, isliye yaha 'us' ka subjective case 'we' hoga, 'realised' se pata chal raha past indefinite mein likha hai jiska question tag 'did' se banta hai, isliye 'did we' option B sahi hoga."
+            },
+            {
+              "id": 18,
+              "question": "Nobody in the neighbourhood trusts the rumours that have been circulating on social media for the past few days, ________?",
+              "options": [
+                "(a) does he",
+                "(b) do they",
+                "(c) hasn't he",
+                "(d) won't they"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'do they'\nExplanation:- 'nobody' subject ke liye question tag mein 'they' pronoun aayega, aur 'trusts' verb present indefinite mein likhi hai jiska question tag 'do/does' se banega, 'they' ke according plural verb aayegi, isliye 'do they' option B sahi hoga."
+            },
+            {
+              "id": 19,
+              "question": "He ________ several practice tests over the weekend to improve his speed and accuracy for the upcoming exam, didn't he?",
+              "options": [
+                "(a) didn't take",
+                "(b) took",
+                "(c) takes",
+                "(d) had taken"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'took'\nExplanation:- Sentence mein 'didn't he' question tag ke according verb aayegi, question tag negative hai toh sentence positive hoga, aur 'didn't' se pata chal raha ki verb past indefinite mein aayegi, isliye 'took' verb ki 2nd form option B sahi hoga."
+            },
+            {
+              "id": 20,
+              "question": "The council has announced its revised guidelines to ensure more transparency in the admission process, ________?",
+              "options": [
+                "(a) does it",
+                "(b) hasn't it",
+                "(c) hasn't they",
+                "(d) has it"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'hasn't it'\nExplanation:- 'the council' collective noun hai jab tak collective noun mein hint naa ho alag alag hone ka toh isse singular maante hai jiske liye 'it' pronoun ka use karte hai, sentence mein 'council' singular hai, isliye question tag 'hasn't it' option B sahi hoga."
+            },
+            {
+              "id": 21,
+              "question": "Let's discuss the remaining points of the project in the meeting room, ________?",
+              "options": [
+                "(a) will we",
+                "(b) shall we",
+                "(c) should we",
+                "(d) shouldn't we"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'shall we'\nExplanation:- 'Let's' suggestion dene ke kaam aata hai iska question tag 'shall we' se banta hai, isliye option B sahi hoga."
+            },
+            {
+              "id": 22,
+              "question": "All of you were called by the principal to his office on Monday, ________?",
+              "options": [
+                "(a) wasn't they",
+                "(b) weren't they",
+                "(c) weren't you",
+                "(d) were you"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'weren't you'\nExplanation:- 'all, everybody, anybody etc.' ke sath 'of' lagake 'first, second' person ki baat karoge, toh 'first, second' person ke according pronoun aayega, question tag mein subjective case likha jata hai, lekin 'you' ka subjective objective case same hota hai, aur 'were' ka question tag mein 'weren't' hoga, isliye 'weren't you' option C sahi hoga."
+            },
+            {
+              "id": 23,
+              "question": "The police are investigating several leads to identify the main suspect involved in the recent robbery, ________?",
+              "options": [
+                "(a) isn't it",
+                "(b) aren't it",
+                "(c) aren't they",
+                "(d) are they"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'aren't they'\nExplanation:- 'police' ek plural noun hai jiske liye question tag mein 'they' pronoun aayega aur 'they' ke according plural verb aayegi, isliye 'aren't they' option C sahi hoga."
+            },
+            {
+              "id": 24,
+              "question": "She hardly speaks to anyone in the neighbourhood unless it is absolutely necessary, ________?",
+              "options": [
+                "(a) didn't she",
+                "(b) doesn't she",
+                "(c) does she",
+                "(d) can't she"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'does she'\nExplanation:- 'hardly' ka matlab 'naa ke barabar' matlab negative isliye question tag positive banega, 'speaks' present indefinite hai jiska question tag 'do/does' banega, isliye 'does she' option C sahi hoga."
+            },
+            {
+              "id": 25,
+              "question": "One should not make important decisions in life under any pressure, ________?",
+              "options": [
+                "(a) should he",
+                "(b) shouldn't he",
+                "(c) should one",
+                "(d) does he"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'should one'\nExplanation:- 'one' subject ke according question tag mein 'one' aayega, negative sentence ka positive question tag banega, isliye 'should one' option C sahi hoga."
+            },
+            {
+              "id": 26,
+              "question": "He used to visit his grandparents every summer vacation when he was a child, ________?",
+              "options": [
+                "(a) wasn't he",
+                "(b) did he",
+                "(c) didn't he",
+                "(d) was he"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'didn't he'\nExplanation:- 'used to' modal ko question tag mein 'did' mein change kar dete hai, isliye 'didn't he' option C sahi answer hoga. Note: agar 'didn't' ki jagah 'usedn't' option aajaye toh 'usedn't' ko bhi answer maan sakte hai jab 'didn't' option mein nahi diya ho."
+            },
+            {
+              "id": 27,
+              "question": "They dare not speak about this confidential issue openly, ________?",
+              "options": [
+                "(a) do they",
+                "(b) dare they",
+                "(c) don't they",
+                "(d) dare I"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'dare they'\nExplanation:- 'dare/need' jab yeh modal/H.V. hote hai toh question tag mein aate hai, sentence mein 'dare' modal hai kyunki 'speak' main verb hai, isliye 'dare they' option B sahi hoga."
+            },
+            {
+              "id": 28,
+              "question": "She should have informed her parents earlier about the situation instead of waiting until the last moment, ________?",
+              "options": [
+                "(a) hasn't she",
+                "(b) shouldn't she",
+                "(c) haven't she",
+                "(d) shouldn't he"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'shouldn't she'\nExplanation:- Agar sentence mein 2-3 helping verb ho toh pehli helping verb question tag mein use hogi, isliye 'shouldn't she' option B sahi hoga."
+            },
+            {
+              "id": 29,
+              "question": "She has been working tirelessly on this project since the beginning of the semester to ensure everything is completed on time, ________?",
+              "options": [
+                "(a) isn't she",
+                "(b) hasn't she",
+                "(c) has she",
+                "(d) didn't she"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'hasn't she'\nExplanation:- Sentence mein 'she has....this project' tak main clause hai jiske according verb aayegi, isliye 'hasn't she' option B sahi hoga."
+            },
+            {
+              "id": 30,
+              "question": "Students ought to submit their research projects before the final review meeting, ________?",
+              "options": [
+                "(a) ought they?",
+                "(b) oughtn't they?",
+                "(c) don't they?",
+                "(d) shouldn't they?"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'oughtn't they'\nExplanation:- 'students' ke liye question tag mein 'they' aayega aur 'ought to' modal ka question tag 'oughtn't' se banega, isliye 'oughtn't they' option B sahi hoga."
+            }
+          ]
         }
       ]
     }
