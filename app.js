@@ -69,11 +69,16 @@ function verifyAdmin() {
   }
 }
 
-// ================= DATA & CATALOG LOADING =================
+// ================= DATA & SPECIFIC QUESTION SELECTION =================
 let catalog = { books: [] };
+// Stores custom selected question indices per topic key: "bIdx_tIdx" -> Set of 0-based indices
+const customQuestionSelection = {};
+let pickerCurrentBIdx = null;
+let pickerCurrentTIdx = null;
 
 async function loadCatalog() {
   if (checkLockout()) return;
+  injectQuestionPickerModal();
   try {
     const res = await fetch(`./catalog.json?t=${Date.now()}`);
     if (res.ok) {
@@ -85,6 +90,17 @@ async function loadCatalog() {
     if (cached) catalog = JSON.parse(cached);
   }
   renderBooks();
+}
+
+function getTopicSelectedSet(bIdx, tIdx) {
+  const key = `${bIdx}_${tIdx}`;
+  const total = catalog.books[bIdx].topics[tIdx].questions.length;
+  if (!customQuestionSelection[key]) {
+    const allSet = new Set();
+    for (let i = 0; i < total; i++) allSet.add(i);
+    customQuestionSelection[key] = allSet;
+  }
+  return customQuestionSelection[key];
 }
 
 function renderBooks() {
@@ -106,13 +122,27 @@ function renderBooks() {
         </div>
         <span class="text-xs font-semibold text-gray-500">${book.topics.length} Topics ▼</span>
       </div>
-      <div id="bookTopics_${bIdx}" class="p-4 bg-gray-50 border-t border-gray-200 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-2.5">
-        ${book.topics.map((t, tIdx) => `
-          <label class="flex items-center gap-2.5 p-2.5 bg-white border border-gray-200 hover:border-red-600 rounded-md cursor-pointer text-sm font-medium">
-            <input type="checkbox" class="topic-cb w-4 h-4 accent-red-600" data-bidx="${bIdx}" data-tidx="${tIdx}" onchange="renderTimerInputs()" />
-            <span>${t.name} <span class="text-xs text-gray-400">(${t.questions.length} Qs)</span></span>
-          </label>
-        `).join("")}
+      <div id="bookTopics_${bIdx}" class="p-4 bg-gray-50 border-t border-gray-200 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3">
+        ${book.topics.map((t, tIdx) => {
+          const selSet = getTopicSelectedSet(bIdx, tIdx);
+          const totalQ = t.questions.length;
+          return `
+            <div class="p-3 bg-white border border-gray-200 hover:border-red-600 rounded-lg flex flex-col justify-between gap-2 shadow-sm">
+              <label class="flex items-center gap-2.5 cursor-pointer text-sm font-bold text-gray-800">
+                <input type="checkbox" id="topicCb_${bIdx}_${tIdx}" class="topic-cb w-4 h-4 accent-red-600" data-bidx="${bIdx}" data-tidx="${tIdx}" onchange="renderTimerInputs()" />
+                <span>${t.name} <span class="text-xs font-normal text-gray-400">(${totalQ} Qs)</span></span>
+              </label>
+              <div class="flex justify-between items-center pt-1.5 border-t border-gray-100">
+                <span id="qBadge_${bIdx}_${tIdx}" class="text-[11px] font-bold text-red-700 bg-red-50 px-2 py-0.5 rounded">
+                  Selected: ${selSet.size} / ${totalQ} Qs
+                </span>
+                <button type="button" onclick="openQuestionPicker(${bIdx}, ${tIdx})" class="text-xs font-bold text-white bg-red-600 hover:bg-red-700 px-2.5 py-1 rounded">
+                  🎯 Specific Qs
+                </button>
+              </div>
+            </div>
+          `;
+        }).join("")}
       </div>
     </div>
   `).join("");
@@ -120,6 +150,178 @@ function renderBooks() {
 
 function toggleBookTopics(bIdx) {
   document.getElementById(`bookTopics_${bIdx}`).classList.toggle("hidden");
+}
+
+// ================= SPECIFIC QUESTION PICKER MODAL =================
+function injectQuestionPickerModal() {
+  if (document.getElementById("questionPickerModal")) return;
+  const modalDiv = document.createElement("div");
+  modalDiv.id = "questionPickerModal";
+  modalDiv.className = "hidden fixed inset-0 bg-black/60 z-50 flex items-center justify-center p-4";
+  modalDiv.innerHTML = `
+    <div class="bg-white rounded-xl max-w-2xl w-full max-h-[90vh] flex flex-col p-5 border-t-4 border-red-600 shadow-2xl">
+      <div class="flex justify-between items-center pb-3 border-b">
+        <div>
+          <h2 id="pickerModalTitle" class="text-base font-extrabold text-red-700">Select Specific Questions</h2>
+          <p class="text-xs text-gray-500">Scroll karke tick lagayein ya niche box mein range likhein (jaise: 1-14, 18, 19, 25)</p>
+        </div>
+        <span id="pickerLiveCount" class="bg-red-50 border border-red-600 text-red-700 text-xs font-extrabold px-3 py-1 rounded-full">0 Selected</span>
+      </div>
+
+      <!-- Quick Range Input Bar -->
+      <div class="my-3 bg-gray-50 p-3 rounded-lg border border-gray-200">
+        <label class="block text-xs font-bold text-gray-700 mb-1">Fast Selection by Question Numbers / Range:</label>
+        <div class="flex gap-2">
+          <input type="text" id="pickerRangeInput" placeholder="e.g. 1-14, 18, 19, 25" class="flex-1 border border-gray-300 rounded-md px-3 py-1.5 text-sm focus:outline-red-600" />
+          <button type="button" onclick="applyRangeString()" class="px-4 py-1.5 rounded-md bg-red-600 hover:bg-red-700 text-white text-xs font-bold">Apply Range</button>
+        </div>
+        <div class="flex gap-2 mt-2">
+          <button type="button" onclick="pickerSelectAll(true)" class="px-2.5 py-1 rounded bg-gray-200 hover:bg-gray-300 text-xs font-bold">Select All</button>
+          <button type="button" onclick="pickerSelectAll(false)" class="px-2.5 py-1 rounded bg-gray-200 hover:bg-gray-300 text-xs font-bold">Clear All</button>
+        </div>
+      </div>
+
+      <!-- Scrollable Checkbox List of All Questions -->
+      <div id="pickerQuestionList" class="flex-1 overflow-y-auto border border-gray-200 rounded-lg divide-y max-h-72"></div>
+
+      <!-- Footer -->
+      <div class="pt-3 mt-3 border-t flex justify-end gap-2">
+        <button type="button" onclick="closeQuestionPicker()" class="px-4 py-2 rounded-md bg-gray-200 text-xs font-bold">Cancel</button>
+        <button type="button" onclick="saveQuestionPicker()" class="px-6 py-2 rounded-md bg-red-600 hover:bg-red-700 text-white text-xs font-bold">Done & Save Selection</button>
+      </div>
+    </div>
+  `;
+  document.body.appendChild(modalDiv);
+}
+
+function openQuestionPicker(bIdx, tIdx) {
+  pickerCurrentBIdx = bIdx;
+  pickerCurrentTIdx = tIdx;
+
+  // Automatically tick the topic checkbox when user opens specific question picker
+  const topicCb = document.getElementById(`topicCb_${bIdx}_${tIdx}`);
+  if (topicCb && !topicCb.checked) {
+    topicCb.checked = true;
+  }
+
+  const book = catalog.books[bIdx];
+  const topic = book.topics[tIdx];
+  const selSet = getTopicSelectedSet(bIdx, tIdx);
+
+  document.getElementById("pickerModalTitle").textContent = `${book.title} - ${topic.name} (${topic.questions.length} Qs)`;
+  document.getElementById("pickerRangeInput").value = setToRangeString(selSet);
+
+  const listEl = document.getElementById("pickerQuestionList");
+  listEl.innerHTML = topic.questions.map((q, qIdx) => {
+    const qNum = q.id || (qIdx + 1);
+    const isChecked = selSet.has(qIdx);
+    const shortText = q.question.length > 95 ? q.question.substring(0, 95) + "..." : q.question;
+    return `
+      <label class="flex items-start gap-3 p-2.5 hover:bg-red-50 cursor-pointer text-xs md:text-sm">
+        <input type="checkbox" class="picker-q-cb w-4 h-4 mt-0.5 accent-red-600 shrink-0" data-qidx="${qIdx}" ${isChecked ? "checked" : ""} onchange="updatePickerLiveCounter()" />
+        <div>
+          <span class="font-extrabold text-red-700 mr-1.5">Q.${qNum}:</span>
+          <span class="text-gray-700">${shortText}</span>
+        </div>
+      </label>
+    `;
+  }).join("");
+
+  updatePickerLiveCounter();
+  document.getElementById("questionPickerModal").classList.remove("hidden");
+}
+
+function updatePickerLiveCounter() {
+  const allCbs = Array.from(document.querySelectorAll(".picker-q-cb"));
+  const checkedCbs = allCbs.filter(cb => cb.checked);
+  document.getElementById("pickerLiveCount").textContent = `${checkedCbs.length} / ${allCbs.length} Selected`;
+
+  const tempSet = new Set(checkedCbs.map(cb => parseInt(cb.dataset.qidx, 10)));
+  document.getElementById("pickerRangeInput").value = setToRangeString(tempSet);
+}
+
+function pickerSelectAll(selectAll) {
+  document.querySelectorAll(".picker-q-cb").forEach(cb => {
+    cb.checked = selectAll;
+  });
+  updatePickerLiveCounter();
+}
+
+function applyRangeString() {
+  const raw = document.getElementById("pickerRangeInput").value.trim();
+  const topic = catalog.books[pickerCurrentBIdx].topics[pickerCurrentTIdx];
+  const maxQ = topic.questions.length;
+  const targetIndices = new Set();
+
+  if (raw) {
+    const parts = raw.split(",");
+    parts.forEach(part => {
+      const p = part.trim();
+      if (!p) return;
+      if (p.includes("-")) {
+        const [startStr, endStr] = p.split("-");
+        const start = parseInt(startStr.trim(), 10);
+        const end = parseInt(endStr.trim(), 10);
+        if (!isNaN(start) && !isNaN(end)) {
+          const s = Math.max(1, Math.min(start, end));
+          const e = Math.min(maxQ, Math.max(start, end));
+          for (let num = s; num <= e; num++) targetIndices.add(num - 1);
+        }
+      } else {
+        const num = parseInt(p, 10);
+        if (!isNaN(num) && num >= 1 && num <= maxQ) {
+          targetIndices.add(num - 1);
+        }
+      }
+    });
+  }
+
+  document.querySelectorAll(".picker-q-cb").forEach(cb => {
+    const idx = parseInt(cb.dataset.qidx, 10);
+    cb.checked = targetIndices.has(idx);
+  });
+  updatePickerLiveCounter();
+}
+
+function setToRangeString(indexSet) {
+  const nums = Array.from(indexSet).map(i => i + 1).sort((a, b) => a - b);
+  if (nums.length === 0) return "";
+  const ranges = [];
+  let start = nums[0], prev = nums[0];
+
+  for (let i = 1; i < nums.length; i++) {
+    if (nums[i] === prev + 1) {
+      prev = nums[i];
+    } else {
+      ranges.push(start === prev ? `${start}` : `${start}-${prev}`);
+      start = prev = nums[i];
+    }
+  }
+  ranges.push(start === prev ? `${start}` : `${start}-${prev}`);
+  return ranges.join(", ");
+}
+
+function closeQuestionPicker() {
+  document.getElementById("questionPickerModal").classList.add("hidden");
+}
+
+function saveQuestionPicker() {
+  const checkedCbs = Array.from(document.querySelectorAll(".picker-q-cb:checked"));
+  if (checkedCbs.length === 0) {
+    alert("Kam se kam 1 question zaroor select karein!");
+    return;
+  }
+  const key = `${pickerCurrentBIdx}_${pickerCurrentTIdx}`;
+  customQuestionSelection[key] = new Set(checkedCbs.map(cb => parseInt(cb.dataset.qidx, 10)));
+
+  const totalQ = catalog.books[pickerCurrentBIdx].topics[pickerCurrentTIdx].questions.length;
+  const badge = document.getElementById(`qBadge_${pickerCurrentBIdx}_${pickerCurrentTIdx}`);
+  if (badge) {
+    badge.textContent = `Selected: ${checkedCbs.length} / ${totalQ} Qs`;
+  }
+
+  closeQuestionPicker();
+  renderTimerInputs();
 }
 
 // ================= MERGED BOOK SECTIONS & TIMER =================
@@ -132,8 +334,8 @@ function getSelectedBookSections() {
     const tIdx = parseInt(cb.dataset.tidx, 10);
     const book = catalog.books[bIdx];
     const topic = book.topics[tIdx];
+    const selSet = getTopicSelectedSet(bIdx, tIdx);
 
-    // Ek book ke saare selected topics ek hi section mein merge honge
     if (!bookMap.has(bIdx)) {
       bookMap.set(bIdx, {
         bookIndex: bIdx,
@@ -146,17 +348,21 @@ function getSelectedBookSections() {
     }
     const sec = bookMap.get(bIdx);
     sec.topicsIncluded.push(topic.name);
-    topic.questions.forEach(q => {
-      sec.questions.push({
-        ...q,
-        topicName: topic.name,
-        selectedOption: null,
-        status: "not_visited"
-      });
+
+    topic.questions.forEach((q, qIdx) => {
+      if (selSet.has(qIdx)) {
+        sec.questions.push({
+          ...q,
+          bookQNum: q.id || (qIdx + 1),
+          topicName: topic.name,
+          selectedOption: null,
+          status: "not_visited"
+        });
+      }
     });
   });
 
-  return Array.from(bookMap.values());
+  return Array.from(bookMap.values()).filter(sec => sec.questions.length > 0);
 }
 
 function renderTimerInputs() {
@@ -174,7 +380,7 @@ function renderTimerInputs() {
   }
   box.innerHTML = sections.map((sec, idx) => `
     <div class="flex items-center gap-2 bg-red-50 border border-red-200 px-3 py-1.5 rounded-md text-xs font-bold text-red-800">
-      <span>${sec.sectionName}:</span>
+      <span>${sec.sectionName} (${sec.questions.length} Qs):</span>
       <input type="number" id="secTime_${idx}" value="15" min="1" max="180" class="w-14 px-1.5 py-0.5 border border-red-500 rounded text-center bg-white" /> mins
     </div>
   `).join("");
@@ -282,7 +488,7 @@ function renderQuestionArea() {
   const sec = activeSections[currentSecIdx];
   const q = sec.questions[currentQIdx];
 
-  document.getElementById("qNumberLabel").textContent = `Question ${currentQIdx + 1} of ${sec.questions.length}`;
+  document.getElementById("qNumberLabel").textContent = `Question ${currentQIdx + 1} of ${sec.questions.length} (Book Q.${q.bookQNum})`;
   document.getElementById("qTopicBadge").textContent = `Topic: ${q.topicName}`;
   document.getElementById("qTextDisplay").textContent = q.question;
 
@@ -360,7 +566,7 @@ function renderPalette() {
     else if (q.status === "ans_review") { cls = "st-ans-review"; ans++; rev++; }
     else { notVis++; }
 
-    return `<button onclick="visitQuestion(${currentSecIdx}, ${idx})" class="q-circle ${cls} ${idx === currentQIdx ? "current" : ""}">${idx + 1}</button>`;
+    return `<button onclick="visitQuestion(${currentSecIdx}, ${idx})" title="Book Q.${q.bookQNum}" class="q-circle ${cls} ${idx === currentQIdx ? "current" : ""}">${idx + 1}</button>`;
   }).join("");
 
   document.getElementById("cntAnswered").textContent = ans;
@@ -527,7 +733,7 @@ function renderSolutions(filter) {
       items.push(`
         <div class="border border-gray-200 rounded-lg p-4 bg-white">
           <div class="flex justify-between items-center text-xs font-bold mb-2">
-            <span class="text-red-700">Q.${qNum} (${sec.subject} - ${q.topicName})</span>
+            <span class="text-red-700">Test Q.${qNum} [Book Q.${q.bookQNum}] (${sec.subject} - ${q.topicName})</span>
             <span class="${isWrong ? "text-red-600" : isUnatt ? "text-gray-500" : "text-green-600"}">
               ${isWrong ? "❌ Wrong (-0.25)" : isUnatt ? "⚪ Unattempted" : "✅ Correct (+1.00)"}
             </span>
@@ -537,7 +743,7 @@ function renderSolutions(filter) {
             <strong>Your Answer:</strong> <span class="${isWrong ? "text-red-600 font-bold" : ""}">${userAns}</span> |
             <strong class="text-green-700">Correct Answer: ${corrAns}</strong>
           </div>
-          <div class="bg-red-50 border-l-4 border-red-600 p-3 rounded text-sm leading-relaxed">
+          <div class="bg-red-50 border-l-4 border-red-600 p-3 rounded text-sm leading-relaxed whitespace-pre-line">
             <strong>💡 Hinglish Solution:</strong> ${q.solutionHinglish || "Solution available in answer key."}
           </div>
         </div>
