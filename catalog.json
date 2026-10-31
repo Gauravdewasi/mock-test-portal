@@ -10210,6 +10210,444 @@
               "solutionHinglish": "Ans (b)\nExplanation:- 'did call' past indefinite ka active hai, toh iska passive 'was/were called' se banega, aur passive mein 'I' subject banega, isliye singular verb 'was I called' wala option B sahi hoga."
             }
           ]
+        },
+        {
+          "id": "t_1793464721783",
+          "name": "Voice - Eduquity Pattern",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Change passive to active.\nThe ministers were being briefed about the situation by the intelligence officers.",
+              "options": [
+                "(a) The intelligence officers briefed the ministers about the situation.",
+                "(b) The intelligence officers had briefed the ministers.",
+                "(c) The ministers were briefed by the intelligence officers.",
+                "(d) The intelligence officers were briefing the ministers."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Sentence mein 'were being briefed' past continuous ka passive hai, toh iska active 'was/were + ing' se banega, active mein 'intelligence officers' subject plural hai, isliye plural verb 'were briefing' wala option D sahi answer hoga.\nNote:- agar sentence mein kuch reh jaaye, toh aapko priority deni hai meaning aur tense ko."
+            },
+            {
+              "id": 2,
+              "question": "Change active to passive:\nThey had instructed us to prioritize systemic reforms.",
+              "options": [
+                "(a) We were instructed by them to prioritize systemic reforms.",
+                "(b) We have been instructed by them to prioritize systemic reforms.",
+                "(c) We are being instructed by them to prioritize systemic reforms.",
+                "(d) We had been instructed by them to prioritize systemic reforms."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Yeh sentence past perfect tense ka active hai jiska passive 'had+been+v3' se banega aur 'instructed' di-transitive verb hai jiska passive indirect object 'us' se banana prefer karte hai, isliye 'us' passive mein subject 'we' ban jayega, isliye 'we' subject aur 'had been instructed' wala option D sahi hoga."
+            },
+            {
+              "id": 3,
+              "question": "Change active to passive:\nWe are going to start the project soon.",
+              "options": [
+                "(a) The project is going to be started soon.",
+                "(b) The project was going to be started soon.",
+                "(c) The project is being going to be started soon.",
+                "(d) The project has been going to be started soon."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Iss sentence mein 'going' ka use future ko dikhane ke liye use hua hai isliye iska passive nahi hoga, toh passive 'to start' infinitive ka hoga jiska passive 'to be started' hoga aur passive mein 'the project' subject banega jiske according 'is' singular verb ayegi, isliye option A sabse sahi answer hoga."
+            },
+            {
+              "id": 4,
+              "question": "Change active to passive:\nThe authorities are to close the road.",
+              "options": [
+                "(a) The road to be closed by the authorities.",
+                "(b) The road is to be closed by the authorities.",
+                "(c) The road has to be closed by the authorities.",
+                "(d) The road will be closed by the authorities."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Sentence mein 'are' linking verb hai jiska passive nahi hota, isliye yahan 'to close' infinitive ka passive hoga, jiska passive 'to be closed' hoga, aur passive mein 'the road' subject banega jiske according 'is' singular verb ayegi, isliye option B sabse sahi answer hoga."
+            },
+            {
+              "id": 5,
+              "question": "Change active to passive:\nHistorians may well reinterpret the artifact after new evidence emerges.",
+              "options": [
+                "(a) The artifact may well be reinterpreted by historians after new evidence emerges.",
+                "(b) The artifact may have been reinterpreted by historians after new evidence emerges.",
+                "(c) The artifact will be reinterpreted well by historians after new evidence emerges.",
+                "(d) The artifact could well be reinterpreting by historians after new evidence emerges."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Sentence mein 'may well reinterpret' active voice mein likha hai, jiska passive 'may well be reinterpreted' hoga aur passive mein 'the artifact' subject banega, isliye option A sabse sahi answer hoga."
+            },
+            {
+              "id": 6,
+              "question": "Change passive to active.\nWas the conclusion reached by the jury after reviewing all the evidence?",
+              "options": [
+                "(a) Did the jury reach the conclusion after reviewing all the evidence?",
+                "(b) Was all the evidence reviewed after reaching a conclusion by the jury?",
+                "(c) Had the jury reached a conclusion by the time the evidence was reviewed?",
+                "(d) Did the evidence conclude the jury's review?"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Sentence mein 'was the conclusion reached' se pata chal raha ki past indefinite ka passive hai aur interrogative bhi hai, isliye iska active 'did + reach' se banega aur interrogative bhi rahega, aur 'the jury' yahan subject banega, isliye 'Did the jury reach' wala option A sahi answer hoga."
+            },
+            {
+              "id": 7,
+              "question": "Change passive to active.\nA solution has been suggested by the team to resolve the issue.",
+              "options": [
+                "(a) The team had suggested a solution to resolve the issue.",
+                "(b) The team was suggesting a solution to resolve the issue.",
+                "(c) The team suggested a solution to resolve the issue.",
+                "(d) The team has suggested a solution to resolve the issue."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Sentence mein 'has been suggested' present perfect tense ka passive hai, isliye iska active 'has/have+v3' se banega, aur active mein 'the team' subject banega, jiske according singular verb 'has' ayegi, isliye option D sabse sahi answer hoga. Note:- agar question mein likha hota change the voice matlab active to passive yaa passive to active toh 'to resolve' infinitive ko bhi change karna padta passive mein."
+            },
+            {
+              "id": 8,
+              "question": "Change active to passive:\nLegal advisors urged the firm to amend the draft immediately.",
+              "options": [
+                "(a) It was urged that the firm amend the draft immediately.",
+                "(b) The draft was urged by legal advisors to be amended.",
+                "(c) The firm was urged by legal advisors to amend the draft immediately.",
+                "(d) Legal advice was urging amendment of the draft."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Sentence mein 'urged' past indefinite ka active hai toh iska passive 'was/were + urged' se banega, aur 'urged' ek di-transitive verb hai jiska passive indirect object se banana prefer karte hai joki 'the firm' hai, isliye 'the firm' subject ke according 'was urged' singular verb ayegi, isliye option C sabse sahi answer hoga."
+            },
+            {
+              "id": 9,
+              "question": "Change passive to active.\nThe changes must have been implemented without consulting the advisory board.",
+              "options": [
+                "(a) They must implement the changes without consulting anyone.",
+                "(b) The advisory board must not have been consulted during changes.",
+                "(c) Someone must have implemented the changes without consulting the advisory board.",
+                "(d) The changes must be implemented without advisory consultation."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'must have been implemented' se pata chal raha ki sentence passive mein hai, toh iska active 'must have implemented' se banega, aur sentence mein object nahi diya isliye active mein 'someone' subject ban jayega, isliye option C sabse sahi answer hoga."
+            },
+            {
+              "id": 10,
+              "question": "Change passive to active.\nThey will be delivering the parcels this afternoon.",
+              "options": [
+                "(a) The parcels will be being delivered this afternoon.",
+                "(b) The parcels are being delivered this afternoon.",
+                "(c) The parcels will being delivered this afternoon.",
+                "(d) The parcels will have been delivered this afternoon."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'will be delivering' future continuous ka active hai, lekin iska passive possible nahi hai kyunki passive mein 'be + being' ka structure banta hai, jo grammatically galat hota hai, lekin passive not possible jaisa koi option nahi hai, isliye 'will be' ko as it is chodke 'delivering' ko gerund maanke iska passive 'being delivered' se bana lenge, isliye 'will be being delivered' sahi hoga, isliye option A sabse sahi answer hoga.\nNote:- agar passive not possible option hota hai toh wo prefer karte, lekin aisa option naa hone ke kaaran option A sahi maana."
+            },
+            {
+              "id": 11,
+              "question": "Change active to passive:\nThey have been neglecting maintenance of the archives for years.",
+              "options": [
+                "(a) Maintenance of the archives had been neglected by them for years.",
+                "(b) Maintenance of the archives is being neglected by them for years.",
+                "(c) Maintenance of the archives was being neglected by them for years.",
+                "(d) Maintenance of the archives has been being neglected by them for years."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- 'have been neglecting' present perfect continuous ka active hai, lekin iska passive possible nahi kyunki passive mein 'been + being' ka structure banta hai, jo grammatically galat hota hai, lekin passive not possible option nahi hai, isliye 'have been' ko as it is chodke 'neglecting' ko gerund maanke iska passive 'being neglected' se bana lenge, aur 'maintenance' subject ke according singular verb 'has' ayegi, isliye 'has been being neglected' wala option D sahi answer hoga."
+            },
+            {
+              "id": 12,
+              "question": "Change active to passive:\nThey had been negotiating the deal for months.",
+              "options": [
+                "(a) The deal had been negotiating for months.",
+                "(b) The deal had been being negotiated for months.",
+                "(c) The deal has been being negotiated for months.",
+                "(d) The deal was being negotiated for months."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'had been negotiating' past perfect continuous ka active hai, lekin iska passive possible nahi hai kyunki passive mein 'been + being' ka structure banta hai, jo grammatically galat hota hai, lekin passive not possible option nahi hai, isliye 'had been' ko as it is chodke 'negotiating' ko gerund maanke iska passive 'being negotiated' se bana lenge, isliye 'had been being negotiated' sahi hoga joki option B mein follow ho raha hai."
+            },
+            {
+              "id": 13,
+              "question": "Change active to passive:\nThe professor could have been explaining differential topology for hours.",
+              "options": [
+                "(a) Differential topology could have be being explained for hours by the professor.",
+                "(b) Differential topology could have explained for hours by the professor.",
+                "(c) Differential topology could have been being explained for hours by the professor.",
+                "(d) Differential topology could have had been been explained for hours by the professor."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'could have been explaining' ka passive possible nahi kyunki iske passive mein 'been + being' ka structure banta hai, jo grammatically galat hota hai, lekin passive not possible option nahi hai, isliye 'could have been' ko as it is chodke 'explaining' ko gerund maanke iska passive 'being explained' se bana lenge, isliye 'could have been being explained' sahi hoga joki option C mein follow ho raha hai."
+            },
+            {
+              "id": 14,
+              "question": "Change active to passive:\nThe team will be revising the algorithms during the workshop.",
+              "options": [
+                "(a) The algorithms were being revised during the workshop.",
+                "(b) The algorithms will be been revised during the workshop.",
+                "(c) The algorithms will be revised during the workshop.",
+                "(d) The algorithms will be being revised during the workshop."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- 'will be revising' ka passive possible nahi kyunki iske passive mein 'be + being' ka structure banta hai, jo grammatically galat hota hai, lekin passive not possible option nahi hai, isliye 'will be' ko as it is chodke 'revising' ko gerund maanke iska passive 'being revised' se bana lenge, isliye 'will be being revised' sahi hoga joki option D mein follow ho raha hai."
+            },
+            {
+              "id": 15,
+              "question": "Change active to passive:\nThey may have been undervaluing the intellectual property portfolio.",
+              "options": [
+                "(a) The intellectual property portfolio may have be being undervalued.",
+                "(b) The intellectual property portfolio may have undervalued.",
+                "(c) The intellectual property portfolio may have been being undervalued.",
+                "(d) The intellectual property portfolio may have had been been undervalued."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'may have been undervaluing' ka passive possible nahi kyunki iske passive mein 'been + being' ka structure banta hai, jo grammatically galat hota hai, lekin passive not possible option nahi hai, isliye 'may have been' ko as it is chodke 'undervaluing' ko gerund maanke iska passive 'being undervalued' se bana lenge, isliye 'may have been being undervalued' sahi hoga joki option C mein follow ho raha hai."
+            },
+            {
+              "id": 16,
+              "question": "Change active to passive:\nThe committee had been debating complex amendments when the bell rang.",
+              "options": [
+                "(a) Complex amendments had had been been debated by the committee when the bell rang.",
+                "(b) Complex amendments had been being debated by the committee when the bell rang.",
+                "(c) Complex amendments had be being debated by the committee when the bell rang.",
+                "(d) Complex amendments had debated by the committee when the bell rang."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'had been debating' ka passive possible nahi hai kyunki iske passive mein 'been + being' ka structure banta hai, jo grammatically galat hota hai, lekin passive not possible option nahi hai, isliye 'had been' ko as it is chodke 'debating' ko gerund maanke iska passive 'being debated' se bana lenge, isliye 'had been being debated' sahi hoga joki option B mein follow ho raha hai."
+            },
+            {
+              "id": 17,
+              "question": "Change active to passive:\nThey had not been considering alternative scenarios sufficiently.",
+              "options": [
+                "(a) Alternative scenarios had not had been considered sufficiently.",
+                "(b) Alternative scenarios were not being considered sufficiently.",
+                "(c) Alternative scenarios had not considered sufficiently.",
+                "(d) Alternative scenarios had not been being considered sufficiently."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- 'had not been considering' ka passive possible nahi kyunki iske passive mein 'been + being' ka structure banta hai, jo grammatically galat hota hai, lekin passive not possible option nahi hai, isliye 'had not been' ko as it is chodke 'considering' ko gerund maanke iska passive 'being considered' se bana lenge, isliye 'had not been being considered' sahi hoga joki option D mein follow ho raha hai."
+            },
+            {
+              "id": 18,
+              "question": "Change passive to active.\nShe was made to feel responsible for the team's failure by the manager.",
+              "options": [
+                "(a) The manager had her feel responsible for the team's failure.",
+                "(b) The manager made her feel responsible for the team's failure.",
+                "(c) The team's failure was blamed on her by the manager.",
+                "(d) The manager got her to be blamed for the team's failure."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'was made' past indefinite ka passive hai, isliye iska active verb ki 2nd form 'made' se banega, sentence mein 'the manager' doer tha, toh active mein subject ban jayega, isliye 'the manager made' sahi hoga, aur yahan 'made' causative verb hai jiske baad 'her' receiver ayega, kyunki 'her' 'feel' karne ke doer hai, isliye 'to feel' infinitive ko bare infinitive mein likhenge, isliye 'The manager made her feel' sahi hoga joki option B mein follow ho raha hai."
+            },
+            {
+              "id": 19,
+              "question": "Change passive to active.\nThe children were made to apologize by the principal for their behavior.",
+              "options": [
+                "(a) The principal was made to apologize to the children.",
+                "(b) The principal had made the children apologize.",
+                "(c) The principal made the children apologize for their behavior.",
+                "(d) The principal was apologizing to the children for their behavior."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'were made' past indefinite ka passive hai, isliye iska active verb ki 2nd form 'made' se banega, sentence mein 'the principal' doer tha, toh active mein subject ban jayega, isliye 'the principal made' sahi hoga, aur yahan 'made' causative verb hai jiske baad 'the children' receiver ayega, kyunki 'children' 'apologize' karne ke doer hai, isliye 'to apologize' infinitive ko bare infinitive mein likhenge, isliye 'The principal made the children apologize' sahi hoga joki option C mein follow ho raha hai."
+            },
+            {
+              "id": 20,
+              "question": "Change passive to active.\nThe audience was made to believe that the product was revolutionary.",
+              "options": [
+                "(a) The presenter made the audience believe the product was revolutionary.",
+                "(b) The audience believed the product to be revolutionary.",
+                "(c) The audience was forced to believe in the product.",
+                "(d) The presenter convinced the audience of the product's use."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'was made' past indefinite ka passive hai, isliye iska active verb ki 2nd form 'made' se banega, sentence mein 'by + doer' nahi likha lekin option mein hint hai 'the presenter', isliye 'the presenter' sahi hoga, aur yahan 'made' causative verb hai jiske baad 'the audience' receiver ayega, kyunki 'audience' 'believe' karne ke doer hai, isliye 'to believe' infinitive ko bare infinitive mein likhenge, isliye 'The presenter made the audience believe' sahi hoga joki option A mein follow ho raha hai. Note:- 'the product was revolutionary' ka active nahi hoga kyunki 'was' yahan linking verb hai."
+            },
+            {
+              "id": 21,
+              "question": "Change active to passive:\nThey had been making the staff report discrepancies silently.",
+              "options": [
+                "(a) The staff had been made to report discrepancies silently.",
+                "(b) The staff were made to report discrepancies silently.",
+                "(c) Discrepancies had been reported silently by the staff.",
+                "(d) The staff had been made report discrepancies silently."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'had been making' se pata chal raha ki sentence active mein hai aur yeh causative verb ka sentence hai, toh passive mein 'the staff' subject banega aur 'had been making' passive mein 'had been made' ho jayega, kyunki yeh causative verb ka sentence hai isliye iske passive mein 'made' ke baad infinitive ayega, isliye 'to report' sahi hoga, isliye option A sahi answer hoga.\nNote:- agar yeh option nahi hota toh 'had been being made' karna padta lekin aisa koi option nahi diya aur 'had been made' wala structure grammatically sahi hota hai."
+            },
+            {
+              "id": 22,
+              "question": "Change active to passive:\nThe court let the plaintiff argue the motion without interruption.",
+              "options": [
+                "(a) The motion was argued by the plaintiff without interruption.",
+                "(b) The plaintiff was let to argue the motion without interruption.",
+                "(c) The plaintiff was allowed to argue the motion without interruption.",
+                "(d) The court was letting the plaintiff argue the motion."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'let' verb ka passive nahi karte, balki isse 'allow' wagera mein change kar lete hai, aur 'let' verb ka object 'plaintiff' hai aur 'argue' bare infinitive hai. Option A galat hoga kyunki 'argue' ko verb bana diya hai, jabki verb 'let' hai. Option D bhi galat hoga kyunki isse 'letting' ing mein change kar diya. Option B bhi galat hoga kyunki 'let' ko 'allow' wagera mein change karte hai. Option C sahi hoga kyunki 'the plaintiff' subject ban jayega, 'let' ko 'was allowed' mein change kar diya aur 'argue' bare infinitive ko 'to argue' mein change kar diya, isliye option C sahi hoga."
+            },
+            {
+              "id": 23,
+              "question": "Change active to passive:\nThey should have had the matter re-examined before escalation.",
+              "options": [
+                "(a) The matter should have had to be re-examined before escalation.",
+                "(b) The matter should have been re-examined before escalation.",
+                "(c) The matter should have been had re-examined.",
+                "(d) The matter should have been made to be re-examined."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Passive voice mein 'the matter' subject banega aur passive 'be + v3' ka structure follow hota hai, isliye 'should have been re-examined' sahi hoga, isliye option B sahi hoga.\nNote:- Yeh sentence pehle se hee passive hai kyunki 'matter' receiver ke sath past participle likhne se passive wala meaning hee aata hai, aur passive karne se meaning change ho jayega, lekin itna galat bhi nahi hai isliye diye gaye options mein se option B sahi answer hoga."
+            },
+            {
+              "id": 24,
+              "question": "Change passive to active.\nThe candidates were found to have been submitting forged documents during verification.",
+              "options": [
+                "(a) The verification process found the candidates had submitted forged documents.",
+                "(b) It was found that forged documents had been submitted by candidates.",
+                "(c) The candidates were found submitting forgeries, as verified.",
+                "(d) Officials found that the candidates had been submitting forged documents."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Sentence mein passive se active change karna hai, isliye 'were found' passive ko active mein 'found' mein change karna padega, isliye option B aur C galat honge. Option A bhi galat hoga kyunki 'verification process' pata nahi lagayegi koi insaan official wagera pata lagayega galti. 'to have been submitting' yeh ek perfect infinitive ka structure hai aur yeh tab lagaye jaate hai jab koi kaam pehle ho chuka ho aur perfect tense bhi isliye lagaya jaata hai, kyunki sentence past ka hai isliye iss perfect infinitive ko active mein past perfect continuous 'had been submitting' mein change kar denge. Documents wagera kisi college, institutions ne hee galat paaye honge, isliye yahan 'Officials' subject banega, isliye option D diye gaye options mein se sabse sahi answer hoga."
+            },
+            {
+              "id": 25,
+              "question": "Change passive to active.\nThe agreement was found to have been violated despite multiple warnings.",
+              "options": [
+                "(a) It was found that someone violated the agreement.",
+                "(b) Authorities found that the agreement was being violated.",
+                "(c) Authorities found the agreement had been violated.",
+                "(d) It had been found that the agreement was violated."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Sentence ko passive to active karna hai, isliye 'was found' aur 'to have been violated' mein se ek bhi agar active mein ho jaaye toh sahi hoga kyunki isme best option nahi hai. 'to have been violated' yeh ek perfect infinitive ka structure hai aur yeh tab lagaye jaate hai jab koi kaam pehle ho chuka ho aur perfect tense bhi isliye lagaya jaata hai, kyunki sentence past ka hai isliye iss perfect infinitive ko active mein past perfect 'had been violated' mein change kar denge. Option A galat hoga kyunki 'violated' past indefinite tense mein likha hai, option B bhi galat hoga kyunki 'was being violated' galat tense ka use kiya hai, option D bhi galat hoga kyunki 'had been found' galat tense ka use kiya hai. Diye gaye options mein se option C sahi hoga kyunki 'was found' ko 'found' mein change kar diya aur 'had been violated' ko passive mein hee chod diya. Baaki option mein tense ki galti hai lekin option C mein atleast 'was found' ko active mein change kiya aur 'had been violated' ko passive mein hee chod diya aur tense bhi sahi hai, isliye option C se kaam chalana padega.\nBetter answer:- Authorities found that someone had violated the agreement despite multiple warnings."
+            },
+            {
+              "id": 26,
+              "question": "Change passive to active.\nThe claim that the system had been tampered with was dismissed as baseless.",
+              "options": [
+                "(a) The system tampered the claim, which was dismissed.",
+                "(b) The dismissal of the system tampering was claimed.",
+                "(c) It was dismissed as baseless that the system was tampered with.",
+                "(d) Authorities dismissed the claim that someone had tampered with the system."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Sentence mein passive to active change karna hai, 'the claim' subject hai jiski verb 'was dismissed' hai aur 'that....se lekar....with' tak adjectival clause 'claim' ke liye, isliye 'was dismissed' active mein 'dismissed' verb ki 2nd form mein change hoga aur 'had been tampered' active mein 'had tampered' mein change hoga, aur claim ko dismiss karne wala koi doer hoga, isliye active mein subject 'Authorities' ho jayega, aur aisa sirf option D mein follow ho raha hai."
+            },
+            {
+              "id": 27,
+              "question": "Change passive to active.\nThe possibility of the files being leaked before the official release was not ruled out.",
+              "options": [
+                "(a) Officials ruled out the leak before the files were released.",
+                "(b) The leak of the files was ruled out before the release.",
+                "(c) Someone did not rule out the possibility that the files were leaked before release.",
+                "(d) The release happened before ruling out the leak possibility."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Sentence ko passive to active karna hai, isliye 'was not ruled out' aur 'being leaked' mein se ek bhi agar active mein ho jaaye toh sahi hoga kyunki isme best option nahi hai. Option A, B aur D galat honge kyunki isme 'not' nahi hai jisse meaning he galat ho jayega. Option C sahi hoga kyunki 'was not ruled out' passive ko active mein 'did not rule out' kar diya, toh option C mein kam se kam ek ko active kar diya aur meaning bhi aisa koi galat nahi aa raha, isliye option C se kaam chal jayega.\nBest answer:- Authorities/they/people did not rule out the possibility of someone leaking the files before the official release."
+            },
+            {
+              "id": 28,
+              "question": "Change passive to active.\nThe construction is alleged to have been halted due to environmental violations.",
+              "options": [
+                "(a) It is alleged that the authorities halted the construction.",
+                "(b) Authorities allegedly halted the construction.",
+                "(c) The authorities are alleged to have halted the construction.",
+                "(d) The violation allegedly halted the construction."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Sentence ko passive to active karna hai, isliye 'is alleged' aur 'to have been halted' mein se ek bhi agar active mein ho jaaye toh sahi hoga kyunki isme best option nahi hai. Option A, B aur D galat honge kyunki 'have been halted' perfect tense ko 'halted' past tense mein change kar diya hai, isliye teeno option galat honge. Option C se kaam chal jayega kyunki 'have been halted' perfect tense ko active mein 'have halted' mein change kar diya aur 'is alleged' ko 'are alleged' passive mein hee chod diya, agar ek verb bhi active mein change ho jaaye toh yeh structure bhi sahi hota hai.\nOther possible answer:- People/they allege that authorities have halted the construction due to environmental violations."
+            },
+            {
+              "id": 29,
+              "question": "Change passive to active.\nNew protocols are expected to have been implemented by the end of the fiscal year.",
+              "options": [
+                "(a) Authorities implemented the protocols by the fiscal year-end.",
+                "(b) The administration expects to implement protocols soon.",
+                "(c) Authorities are expected to implement new protocols by fiscal year-end.",
+                "(d) The protocols were implemented as expected."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Sentence ko passive to active karna hai, isliye 'are expected' aur 'to have been implemented' mein se ek bhi agar active mein ho jaaye toh sahi hoga kyunki isme best option nahi hai. Option A aur D galat hoga kyunki 'implemented', 'were implemented' dono mein past tense ka use hai joki galat hai. Option B bhi galat hoga kyunki passive mein bataya ki 'fiscal year' ke end tak hoga lekin ismein 'soon' kar diya. 'expect' se pata chal raha ki future ki baat karni hai, agar 'to have implemented' hota toh behtar hota, lekin future ko dikhaane ke liye infinitive bhi use hota hai, isliye 'to implement' se bhi kaam chal jayega, isliye option C sahi hoga.\nBetter answer:- 'People expect authorities to have implemented the new protocols by the end of the fiscal year'."
+            },
+            {
+              "id": 30,
+              "question": "Change passive to active.\nThe land is believed to have been acquired illegally by the company through forged documents.",
+              "options": [
+                "(a) The company is believed to have acquired the land illegally.",
+                "(b) The company acquired the land illegally, as believed.",
+                "(c) Someone believed the company acquired land illegally.",
+                "(d) The company had acquired land using forged documents."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Sentence ko passive to active karna hai, isliye 'is believed' aur 'to have been acquired' mein se ek bhi agar active mein ho jaaye toh sahi hoga kyunki isme best option nahi hai. Option C, B aur D isliye galat honge kyunki inme galat past indefinite tense aur D mein past perfect tense ka use hua hai, lekin sentence mein present tense ki baat ki hai. Option A sahi hoga kyunki 'to have been acquired' perfect tense ko active mein 'have acquired' mein change kar diya aur 'is believed' passive mein hee chod diya, toh ek verb bhi agar active mein ho jaaye toh yeh structure bhi sahi hota hai.\nOther possible answer:- Authorities/they/people believe that company has acquired the land illegally through forged documents."
+            },
+            {
+              "id": 31,
+              "question": "Change passive to active.\nRare minerals are known to have been secretly extracted from the site by unauthorized workers before the inspection.",
+              "options": [
+                "(a) Unauthorized workers extracted the rare minerals before inspection.",
+                "(b) The site was secretly mined before the inspection.",
+                "(c) Unauthorized workers are known to have secretly extracted rare minerals before inspection.",
+                "(d) The minerals had been extracted prior to inspection."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Sentence ko passive to active karna hai, isliye 'are known' aur 'have been secretly extracted' mein se ek bhi agar active mein ho jaaye toh sahi hoga kyunki isme best option nahi hai. Option A, B aur D isliye galat honge kyunki inme galat past indefinite tense aur D mein past perfect tense ka use hua hai, lekin sentence mein present tense ki baat ki hai. Option C sahi hoga kyunki 'have been secretly extracted' perfect tense ko active mein 'have secretly extracted' mein change kar diya aur 'are known' passive mein hee chod diya, agar ek verb bhi active mein ho jaaye toh yeh structure bhi sahi hota hai.\nOther possible answer:- Authorities/they/people know that unauthorized workers have extracted rare minerals before inspection."
+            },
+            {
+              "id": 32,
+              "question": "Change passive to active.\nThe draft is understood to have been reviewed by the legal department last week.",
+              "options": [
+                "(a) The legal department is understood to have reviewed the draft last week.",
+                "(b) The draft was reviewed last week, as is understood.",
+                "(c) It was understood the legal team is reviewing the draft.",
+                "(d) The draft understood itself to be reviewed."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Sentence ko passive to active karna hai, isliye 'is understood' aur 'have been reviewed' mein se ek bhi agar active mein ho jaaye toh sahi hoga kyunki isme best option nahi hai. Option B, C aur D isliye galat honge kyunki inme galat past indefinite tense use kiya hai, lekin sentence mein present tense ki baat ki hai. Option A sahi hoga kyunki 'have been reviewed' perfect tense ko active mein 'have reviewed' mein change kar diya aur 'is understood' passive mein hee chod diya, toh ek verb bhi agar active mein ho jaaye toh yeh structure bhi sahi hota hai.\nOther possible answer:- They/people understand that the legal department had reviewed/reviewed the draft last week. (had reviewed/reviewed isliye kyunki 'last week' ke sath past tense ka use hota hai)."
+            },
+            {
+              "id": 33,
+              "question": "Change passive to active.\nThe investigation was believed to have been compromised by internal leaks.",
+              "options": [
+                "(a) The investigation compromised internal leaks, as believed.",
+                "(b) It was believed that internal leaks had compromised the investigation.",
+                "(c) Someone believed the investigation was compromising leaks.",
+                "(d) Internal leaks are believed to compromise the investigation."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Sentence ko passive to active karna hai, isliye 'was believed' aur 'have been compromised' mein se ek bhi agar active mein ho jaaye toh sahi hoga kyunki isme best option nahi hai. Option D galat hoga kyunki isse present tense mein change kar diya. Option C bhi galat hoga kyunki 'have been compromised' perfect tense ko 'was compromising' past continuous mein change kar diya. Option A bhi galat hoga kyunki perfect tense ko past tense mein change kar diya. Option B chal jayega kyunki sentence past ka hai aur investigation compromised pehle hui hogi, isliye present perfect ko past perfect mein change kar sakte hai, isliye 'had compromised' sahi hoga aur 'was believed' ko passive mein hee chod diya, agar do verb mein se ek bhi active mein ho jaaye yaa tense ke according change ho jaaye toh yeh structure sahi hota hai."
+            },
+            {
+              "id": 34,
+              "question": "Change passive to active.\nThe decision was expected to be made by the council after further review.",
+              "options": [
+                "(a) The council expected making a decision after review.",
+                "(b) It was expected that the council would make the decision after review.",
+                "(c) The council made the decision as was expected.",
+                "(d) The council was expected to have made the decision."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Sentence mein 'was expected' aur 'to be made' passive mein hai agar ek bhi verb active mein ho jaaye toh sahi ho jayega kyunki best option nahi hai. Option B sahi hoga kyunki 'to be made' ko 'would make' active mein change kar diya, yahan 'would' ka use meaning ke according kiya hai kyunki 'had' likhne se matlab hoga unhone expect kar liya tha, lekin 'expect' mein cheezein future mein hoti hai, isliye yahan 'would make' sahi hai aur isliye yeh structure bhi chal jayega.\nOther Possible Answer:- 1. Yaa toh dono active ho jaaye 2. Yaa dono mein koi ek active ho jaaye 3. Yaa 'it' introductory subject lagake ek verb ko meaning ke according active mein kar diya jaaye, yeh teeno structure sahi hote hai aur iss question mein 3rd structure follow ho raha hai."
+            },
+            {
+              "id": 35,
+              "question": "Change passive to active.\nNo efforts were seen to have been made by the officials to resolve the crisis.",
+              "options": [
+                "(a) It was seen that officials resolved the crisis.",
+                "(b) Officials were seen resolving the crisis effortfully.",
+                "(c) The officials seemed to have resolved the crisis.",
+                "(d) It was seen that the officials had made no efforts to resolve the crisis."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Sentence mein 'were seen' aur 'to have been made' passive mein hai agar ek bhi verb active mein ho jaaye toh sahi ho jayega kyunki best option nahi hai. Option D chal jayega kyunki 'to have been made' perfect tense ko active mein 'had made' past perfect mein change kar diya meaning ke according, 'were seen' se pata chal raha hai past ka sentence hai, isliye perfect tense ko bhi past perfect mein change kar diya, isliye option D ka structure sahi hoga."
+            },
+            {
+              "id": 36,
+              "question": "Change passive to active.\nA decision has been taken to have the proposal reviewed by an external panel.",
+              "options": [
+                "(a) An external panel has reviewed the proposal.",
+                "(b) The proposal is being reviewed by an external panel.",
+                "(c) They have decided to get the proposal reviewed by an external panel.",
+                "(d) The proposal was reviewed by the panel as per the decision."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Sentence mein 'has been taken' aur 'to have the proposal reviewed' yeh dono passive mein hai aur second verb causative verb ka passive hai, agar inn dono mein ek bhi active ho jaaye toh option sahi maan lenge kyunki best option nahi hai. Option C sahi hoga kyunki 'has been taken' ka active 'have decided' kar diya jo concise version hai 'have taken' ka, isliye 'have decided' bhi sahi hai aur causative verb ke structure ko waisa he chod diya 'to get the proposal reviewed', kyunki ek ko active kiya isliye option C chal jayega/sahi ho jayega.\nBest option:- 'They have taken a decision to get/have an external panel to review the proposal'."
+            }
+          ]
         }
       ]
     }
