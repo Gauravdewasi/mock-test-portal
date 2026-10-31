@@ -2662,6 +2662,672 @@
               "solutionHinglish": "Ans (a)\nExplanation:- Meaning and grammar ke according 'the nearest house' option A hi sahi hai."
             }
           ]
+        },
+        {
+          "id": "t_1793427054421",
+          "name": "Adjective Level-02",
+          "questions": [
+            {
+              "id": 1,
+              "question": "The less mistakes (a)/ you make in your calculations, (b)/ the more accurate your results will be. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'less' with 'fewer'\nExplanation:- Sentence mein 'less' ki jagah 'fewer' aayega kyunki 'mistakes' countable noun hai, isliye countable noun ke liye 'few' ke comparative degree 'fewer' ka use sahi hoga."
+            },
+            {
+              "id": 2,
+              "question": "The manager asked for (a)/ farther details (b)/ about the new marketing strategy (c)/ before approving it. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'farther' with 'further'\nExplanation:- 'farther' ka use distance ko refer karne ke liye kiya jaata hai jabki 'further' ka use more/addition ko refer karne ke liye kiya jaata hai."
+            },
+            {
+              "id": 3,
+              "question": "The committee agreed that this design (a)/ was most unique (b)/ among all the innovative entries submitted for the annual architecture competition. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove 'most' before 'unique'\nExplanation:- Kuch adjectives jaise 'impossible, eternal, supreme, entire, circular, unique, perfect, excellent etc.' non-gradable hote hai, isliye yahan 'unique' se pehle 'most' nahi aayega."
+            },
+            {
+              "id": 4,
+              "question": "Of the four subjects, English, Mathematics, Science and History, (a)/ the latter (b)/ was the most difficult one for me. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'latter' with 'last'\nExplanation:- Jab do se jyada cheezein ho toh 'first, last' ka use karte hai. Sentence mein four subjects hai aur aakhiri subject ki baat karni hai, isliye 'last' sahi hoga."
+            },
+            {
+              "id": 5,
+              "question": "No less than twenty buses (a)/ were lined up outside the stadium (b)/ to carry the players and the officials (c)/ back to their hotels. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'no less than' with 'no fewer than'\nExplanation:- 'twenty buses' countable noun hai, isliye yahan 'few' ki comparative degree 'fewer' ka use sahi hoga."
+            },
+            {
+              "id": 6,
+              "question": "The museum is (a)/ a worth visiting place (b)/ for those who are interested (c)/ in ancient sculptures. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'worth visiting place' with 'place worth visiting'\nExplanation:- 'worth + ing' lagake adjective banate hai toh wo adjective humesha noun ('place') ke baad aata hai."
+            },
+            {
+              "id": 7,
+              "question": "Hard work, consistent practice, and (a)/ little guidance from (b)/ the mentor, especially in handling difficult situations, can (c)/ lead to great success in any field. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'little' with 'a little'\nExplanation:- Sentence ke meaning ke according positive meaning ('thoda sa guidance') chaiye, isliye 'a little' sahi hoga."
+            },
+            {
+              "id": 8,
+              "question": "Her performance was (a)/ as exciting, if (b)/ not more than her previous one. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'as exciting' with 'as exciting as'\nExplanation:- 'as exciting as' yahan par ek simile hai jise poora hi likha jayega."
+            },
+            {
+              "id": 9,
+              "question": "This solution (a)/ is superior than the previous one (b)/ if we consider not only speed (c)/ but also cost-effectiveness and long-term sustainability. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'than' with 'to'\nExplanation:- 'superior, inferior, prior, senior, preferable, anterior etc.' ke sath 'than' nahi balki 'to' preposition ka use hota hai."
+            },
+            {
+              "id": 10,
+              "question": "He wore (a)/ the dress very designed by (b)/ his talented elder sister (c)/ for the annual school function. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'dress very' with 'very dress'\nExplanation:- 'very' stress dene ke liye adjective ki tarah se bhi kaam karta hai aur iska meaning 'same/wahi' jaisa hota hai, isliye 'very' ka use 'dress' se pehle hoga."
+            },
+            {
+              "id": 11,
+              "question": "Late at night, (a)/ the firefighters found an ablaze house (b)/ in the middle of the street (c)/ with flames everywhere. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'an ablaze house' with 'a house which was ablaze'\nExplanation:- 'ablaze, ill, well, afraid, alive etc.' humesha predicatively (linking verb ke baad) use hote hai, noun se pehle nahi."
+            },
+            {
+              "id": 12,
+              "question": "The needy (a)/ is often overlooked (b)/ by society, even though they contribute in countless ways to the community. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'is' with 'are'\nExplanation:- 'the needy' ka matlab hai 'saare jaruratmand log' (common plural noun), isliye iske sath 'are' plural verb aayegi."
+            },
+            {
+              "id": 13,
+              "question": "Find the part of the given sentence that has an error in it.",
+              "options": [
+                "(a) This article says that Tamarind tastes",
+                "(b) more sourly than any other fruit",
+                "(c) in the whole world, but it is commonly",
+                "(d) used in making various Indian dishes"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'more sourly' with 'sourer'\nExplanation:- 'taste' yahan linking verb hai jiske baad adjective aata hai. Comparison ke liye comparative degree adjective 'sourer' sahi hoga."
+            },
+            {
+              "id": 14,
+              "question": "Driving on the right(a)/ is counterintuitively to the man(b)/ who has spent most(c)/ of the time driving in India(d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'counterintuitively' with 'counterintuitive'\nExplanation:- 'is' linking verb hai jiske baad subject complement ke roop mein adjective ('counterintuitive') aata hai."
+            },
+            {
+              "id": 15,
+              "question": "She executed the shot known(a)/ throughout the cricket world(b) /for its complexity as good as(c)/ Dhoni did in 2009(d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'good' with 'well'\nExplanation:- Do action verbs ('executed' aur 'did') ka comparison karna hai, isliye adverb 'as well as' sahi hoga."
+            },
+            {
+              "id": 16,
+              "question": "Of the three runners who(a)/ participated in one of the biggest (b)/ marathons, he was fast(c) /No error(d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'fast' with 'the fastest'\nExplanation:- Teen logon mein se sabse best/fast kehne ke liye superlative degree 'the fastest' ka use hoga."
+            },
+            {
+              "id": 17,
+              "question": "Ancient India had(a) /many people responsible(b)/ who carried out their responsibilities(c)/ through thick and thin(d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'people responsible' with 'responsible people'\nExplanation:- Noun se pehle 'responsible' positive meaning ('jimmedar log') deta hai. Sentence mein positive meaning dena hai, isliye 'responsible people' sahi hoga."
+            },
+            {
+              "id": 18,
+              "question": "In a world where promises(a)/ are often made but not(b) /fulfilled, we should try to(c)/ be a true man to his word (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) replace 'true man' with 'man true'\nExplanation:- 'to his word' phrase 'true' adjective ke liye aaya hai, isliye adjective noun ke baad ('a man true to his word') aayega."
+            },
+            {
+              "id": 19,
+              "question": "This newly launched book contains questions(a)/ relevant to the exam but(b) /the three last have never(c)/ been seen before(d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'three last' with 'last three'\nExplanation:- Ordinal ('last') aur cardinal ('three') jab sath mein lage ho toh ordinal cardinal se pehle aata hai, isliye 'the last three' sahi hoga."
+            },
+            {
+              "id": 20,
+              "question": "The new employee whom you can see (a) /standing with our boss (b)/ is a fat big liar(c)/No error(d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'fat big liar' with 'big fat liar'\nExplanation:- Qualitative adjective ke sequence mein 'big' (size) 'fat' (shape) se pehle aayega, isliye 'big fat liar' sahi hoga."
+            },
+            {
+              "id": 21,
+              "question": "The new guidelines regarding the(a)/ delegation of financial power(b)/ to the head of offices have (c)/not yet been implanted despite repeating notices(d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) replace 'repeating notices' with 'repeated notices'\nExplanation:- Sentence mein 'baar baar bheje gaye notices' ka meaning dena hai, isliye past participle 'repeated notices' sahi hoga."
+            },
+            {
+              "id": 22,
+              "question": "Do you know that unlike the Lizard, the(a)/ rat's tail can't grow back(b)/ after it has been cut intentionally or unintentionally (c)/No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'apostrophe(s)' with 'lizard' (Lizard's)\nExplanation:- Sentence mein 'lizard ki tail' ka comparison 'rat ki tail' se karna hai, isliye yahan 'lizard's' sahi hoga."
+            },
+            {
+              "id": 23,
+              "question": "As per this new notice, every of the employees(a)/ who came late at the boss (b)/ last meeting will(c)/ be fined/(d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'every' with 'each'\nExplanation:- 'every' sirf adjective ban sakta hai jabki 'each' pronoun aur adjective dono ban sakta hai. 'of' se pehle pronoun 'each' subject banega."
+            },
+            {
+              "id": 24,
+              "question": "I hope you know that since he is very fastidious(a)/ about almost everything, a little people(b)/ are happy with him (c)/No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'a little' with 'few'\nExplanation:- 'people' countable noun hai aur negative meaning ('naa ke barabar log') ke liye 'few' adjective sahi hoga."
+            },
+            {
+              "id": 25,
+              "question": "Since he has joined the company(a)/ recently, he doesn't (b)/have some experience(c)/ regarding this task(d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'some' with 'any'\nExplanation:- Negative aur interrogative sentences mein 'any' ko prefer karte hai, isliye 'any experience' sahi hoga."
+            },
+            {
+              "id": 26,
+              "question": "The NGO whose services (a)/were benefitting the(b)/ society was suddenly(c)/ closed down by the autocratic government(d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'whose services' with 'the services of which'\nExplanation:- 'whose' human beings pe possession banane ke liye lagaya jata hai, non-living/organization ('NGO') ke sath 'the services of which' likhenge."
+            },
+            {
+              "id": 27,
+              "question": "It is the most (a)/eternal fact that we reap what (b)/ we sow whether we accept it or not (c)/No error(d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) remove 'most' before 'eternal'\nExplanation:- 'eternal' non-gradable/absolute adjective hai, isliye 'eternal' se pehle 'most' nahi aayega."
+            },
+            {
+              "id": 28,
+              "question": "I can guarantee that Madhuri is wittier and wiser (a)/than any(b)/ other boy in her class (c)/. No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) remove 'other'\nExplanation:- Madhuri (ladki) ladko ke group ka part nahi hai, isliye exclude karne ke liye 'other' lagane ki jarurat nahi hai ('than any boy in her class')."
+            },
+            {
+              "id": 29,
+              "question": "Confidence in one's (a)/abilities is crucial for(b)/a successful business, as(c)/ it helps in building a strength foundation(d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) replace 'strength' with 'strong'\nExplanation:- 'foundation' noun ko qualify karne ke liye adjective ('strong') ki jarurat hoti hai, isliye 'strong foundation' sahi hoga."
+            },
+            {
+              "id": 30,
+              "question": "The smartphones are among(a)/ the more useful(b)/technologies that (c)/ have been invented till now.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'more' with 'most'\nExplanation:- Ek cheez ka comparison abhi tak ki sabhi technologies se karna hai, isliye superlative degree 'the most useful' sabse sahi hoga."
+            },
+            {
+              "id": 31,
+              "question": "I have made it a point to call my teachers on September 5 as a token of mine gratitude.",
+              "options": [
+                "(a) on September 5 as a token",
+                "(b) I have made",
+                "(c) of mine gratitude",
+                "(d) it a point to call my teachers"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'mine gratitude' with 'my gratitude'\nExplanation:- 'gratitude' noun ko qualify karne ke liye possessive adjective 'my' aayega, naa ki possessive pronoun 'mine'."
+            },
+            {
+              "id": 32,
+              "question": "I think that he sang beautifully but I don't know why the judges were unimpress at the end.",
+              "options": [
+                "(a) the judges were",
+                "(b) unimpress at the end",
+                "(c) I think that he sang beautifully",
+                "(d) but I don't know why"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'unimpress' with 'unimpressed'\nExplanation:- 'were' linking verb ke baad subject complement ke roop mein adjective ('unimpressed') aata hai."
+            },
+            {
+              "id": 33,
+              "question": "I have three sisters: Meera is the elder and Charu is the youngest.",
+              "options": [
+                "(a) No error",
+                "(b) and Charu is the youngest",
+                "(c) I have three sisters:",
+                "(d) Meera is the elder"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) replace 'elder' with 'eldest'\nExplanation:- Teeno sisters mein se Meera ko sabse bada batane ke liye superlative degree 'the eldest' ka use karenge."
+            },
+            {
+              "id": 34,
+              "question": "We used to keep large plates of fruit on a table nearer this window in the dining room.",
+              "options": [
+                "(a) We used to",
+                "(b) nearer this window",
+                "(c) on a table",
+                "(d) large plates of"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'nearer' with 'near'\nExplanation:- Sentence mein koi comparison nahi karna balki 'window ke pass' kehne ke liye 'near' ka use karenge."
+            },
+            {
+              "id": 35,
+              "question": "Some people believe that no matter how hardly you may try, success comes to you at its own time.",
+              "options": [
+                "(a) success comes",
+                "(b) Some people believe that no matter",
+                "(c) to you at its own time",
+                "(d) how hardly you may try"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) replace 'hardly' with 'hard'\nExplanation:- 'hardly' ka matlab 'naa ke barabar' hota hai. 'Koshish/mehnat' waale meaning ke liye yahan 'how hard you may try' sahi hoga."
+            },
+            {
+              "id": 36,
+              "question": "Venus, the hottest planet in the solar system, has not enjoyed as much as recent attention as Mars.",
+              "options": [
+                "(a) system, has not enjoyed",
+                "(b) as much as recent attention as Mars.",
+                "(c) Venus, the hottest planet in the solar",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove 'as' in between 'much' and 'recent attention'\nExplanation:- Structure 'as + adjective + noun + as' hota hai, isliye 'as much recent attention as Mars' sahi hoga."
+            },
+            {
+              "id": 37,
+              "question": "You should not be that (a)/cynical. Mr. Surya has no interior motive (b)/ in offering you support. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'interior' with 'ulterior'\nExplanation:- 'ulterior motive' ka matlab hota hai 'kisi baat ke peeche chupa hua irada', isliye 'ulterior motive' sahi hoga."
+            },
+            {
+              "id": 38,
+              "question": "I could not believe that (a)/ Ajay got into a fight with those (b)/ thugs. I always thought (c)/that he is smarter than brave. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) replace 'smarter' with 'more smart'\nExplanation:- Ek hee person ki do qualities ka aapas mein comparison karna ho toh 'er' wala structure nahi balki 'more smart than brave' use hota hai."
+            },
+            {
+              "id": 39,
+              "question": "You can emphasize either of these four syllables in the poem written by Shakespeare who is also known as the Kalidasa of England.",
+              "options": [
+                "(a) emphasize any of these",
+                "(b) emphasized either of these",
+                "(c) emphasize nither for these",
+                "(d) No substitution required"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) correct answer is 'emphasize any of these'\nExplanation:- Sentence mein 'four syllables' (more than two) ki baat ho rahi hai, isliye 'either' ki jagah 'any' ka use hota hai."
+            },
+            {
+              "id": 40,
+              "question": "The Japanese people are known for their commitment toward the nation and praised for their efficiency",
+              "options": [
+                "(a) Japanese",
+                "(b) The Japanese",
+                "(c) Japan",
+                "(d) no improvement"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'The Japanese'\nExplanation:- 'The Japanese' ka matlab hee hota hai 'Japan ke log', isliye concise expression 'The Japanese' option B sahi hoga."
+            },
+            {
+              "id": 41,
+              "question": "The student responded to the question so logically that the audience praised his analytic approach repeatedly despite the time constraints.",
+              "options": [
+                "(a) analytic approach repeat",
+                "(b) analysis approach repeatedly",
+                "(c) analytical approach repeatedly",
+                "(d) no improvement"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'analytical approach repeatedly'\nExplanation:- 'approach' noun ko qualify karne ke liye standard adjective 'analytical' aur verb ke liye adverb 'repeatedly' option C sahi hoga."
+            },
+            {
+              "id": 42,
+              "question": "This shirt which is newly launched in the market cost me five thousand rupee",
+              "options": [
+                "(a) costs me five thousand rupee",
+                "(b) costed me five thousand rupee",
+                "(c) cost me five thousands rupees",
+                "(d) cost me five thousand rupees"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Correct answer is 'cost me five thousand rupees'\nExplanation:- Main noun 'rupees' plural aayega aur usse pehle 'five thousand' adjective singular rahega, isliye option D sahi hoga."
+            },
+            {
+              "id": 43,
+              "question": "Of the two plans submitted by the architect, this is the one much likely to be accepted.",
+              "options": [
+                "(a) most likely",
+                "(b) more likely",
+                "(c) many likely",
+                "(d) no improvement"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'more likely'\nExplanation:- 2 plans mein comparison karna hai, isliye comparative degree 'more likely' wala option B sahi hoga."
+            },
+            {
+              "id": 44,
+              "question": "Prashant is good from more other players of our school who participated in the All India Cricket Championship League.",
+              "options": [
+                "(a) good from many other",
+                "(b) best than most other",
+                "(c) better than most other",
+                "(d) no improvement"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'better than most other'\nExplanation:- Prashant ka comparison baaki players se karna hai, isliye comparative degree 'better than most other' wala option C sahi hoga."
+            },
+            {
+              "id": 45,
+              "question": "Please tell me if you also think that no bird is more taller than a ostrich.",
+              "options": [
+                "(a) no bird is much taller than an ostrich",
+                "(b) no other bird is as tall as an ostrich",
+                "(c) no bird is taller than ostrich",
+                "(d) no improvement"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'no other bird is as tall as an ostrich'\nExplanation:- Ostrich ko birds waale group se 'other' lagake exclude kiya gaya hai aur simile structure 'as tall as an ostrich' grammatically bilkul sahi hai."
+            },
+            {
+              "id": 46,
+              "question": "A renowned chemist claimed that taking up to 50 times the commendable dose of vitamin-c could treat anything from influenza to cancer.",
+              "options": [
+                "(a) commended",
+                "(b) recommended",
+                "(c) prescribe",
+                "(d) vouched"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'recommended'\nExplanation:- 'recommended dose' ka matlab hoga 'aisa dose jiski salaah di gayi ho'. Isliye option B sahi hoga."
+            },
+            {
+              "id": 47,
+              "question": "When I was in Europe last year, I used to roam around in London on alternate days.",
+              "options": [
+                "(a) Day after day",
+                "(b) alternative days",
+                "(c) day by day",
+                "(d) no improvement"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Correct answer is 'no improvement'\nExplanation:- 'alternate days' ka matlab 'ek din chhodke ek din'. Toh meaning ke according 'alternate days' bilkul sahi hai."
+            },
+            {
+              "id": 48,
+              "question": "The prime minister's speech laid out how important it is to encourage female participate in the economy yet the percentage of female lawmakers in the lower house of the parliament has fallen to 8%",
+              "options": [
+                "(a) female participants",
+                "(b) female participation",
+                "(c) women participate",
+                "(d) no improvement"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'female participation'\nExplanation:- 'to encourage' infinitive ka object noun ('female participation') banega, isliye option B sahi hoga."
+            },
+            {
+              "id": 49,
+              "question": "He claimed that he was merely an uninterested participant in the negotiation held by senior officers.",
+              "options": [
+                "(a) an interested",
+                "(b) a disinterested",
+                "(c) a uninterested",
+                "(d) no improvement"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'a disinterested'\nExplanation:- 'disinterested' ka matlab 'unbiased/impartial (pakshpaat nahi karne wala)', toh meaning ke according 'a disinterested' option B sahi hoga."
+            },
+            {
+              "id": 50,
+              "question": "He has told me that of Rajni and Usha, the later is the most responsible.",
+              "options": [
+                "(a) the later is more",
+                "(b) The latter is more",
+                "(c) The latter is most",
+                "(d) No substitution"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'The latter is more'\nExplanation:- Do logon (Rajni aur Usha) mein se baad waale ke liye 'latter' aur comparison ke liye comparative degree 'more' option B sahi hoga."
+            },
+            {
+              "id": 51,
+              "question": "50 Chinese couples were married at a ceremony in Colombo to mark the anniversary of (diplomat relations between the two countries).",
+              "options": [
+                "(a) Diplomatic relations among the two countries",
+                "(b) Diplomatic relations between the two countries",
+                "(c) Diplomacy relations between each other",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'Diplomatic relations between the two countries'\nExplanation:- 'relations' noun se pehle 'Diplomatic' adjective aayega aur do countries ke liye 'between the two countries' option B sahi hoga."
+            },
+            {
+              "id": 52,
+              "question": "The people living in the coastal areas experience a interested phenomenon.",
+              "options": [
+                "(a) No Improvement",
+                "(b) the interested phenomenon",
+                "(c) interestingly phenomenon",
+                "(d) an interesting phenomenon"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Correct answer is 'an interesting phenomenon'\nExplanation:- Present participle adjective 'interesting' aur vowel sound ke liye 'an' article yaani 'an interesting phenomenon' option D sahi hoga."
+            },
+            {
+              "id": 53,
+              "question": "Among all the novels I have read in the past year, this one is far the most engaging.",
+              "options": [
+                "(a) by far the most engaging",
+                "(b) at farthest the most engaging",
+                "(c) by far more engaging",
+                "(d) No improvement required"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'by far the most engaging'\nExplanation:- Superlative degree ki intensity badhaani ho toh 'by far the most engaging' wala option A sahi hoga."
+            },
+            {
+              "id": 54,
+              "question": "The branches of the old mango tree were ______ heavy ripe, golden mangoes.",
+              "options": [
+                "(a) loaded with",
+                "(b) laden with",
+                "(c) loaded by",
+                "(d) laden by"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'laden with'\nExplanation:- Trees pe lage fruits ke liye 'loaded' nahi 'laden with' ka use hota hai. Isliye option B sahi hoga."
+            },
+            {
+              "id": 55,
+              "question": "Despite its simple appearance, this grammar book is arguably ______ resource I've encountered.",
+              "options": [
+                "(a) most effective",
+                "(b) more effective",
+                "(c) the most effective",
+                "(d) the more effective"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'the most effective'\nExplanation:- Aaj tak ki sabhi books se comparison ke liye superlative degree 'the most effective' option C sahi hoga."
+            }
+          ]
         }
       ]
     }
