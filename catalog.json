@@ -16804,6 +16804,1032 @@
               "solutionHinglish": "Ans (b)\nExplanation:- Option B sahi hoga kyunki 'hardly' ke sath 'when' ka pair aur inversion follow hota hai. aur 'had' ke baad verb ki 3rd form aati hai. isliye option B sabse sahi answer hoga."
             }
           ]
+        },
+        {
+          "id": "t_1793548539020",
+          "name": "SUBJECT VERB AGREEMENT LEVEL-01",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Each and every man, (a)/woman and child were given (b)/food yesterday evening.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use was in place of were\nExplanation:- agar distributive adjective ka use kiya jaaye toh bhale hi nouns 'and' se join kiye gaye ho verb singular verb aati hai."
+            },
+            {
+              "id": 2,
+              "question": "Neither the doctors nor (a)/ the nurse were present (b)/ when the patient (c)/ reached the hospital.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'was' instead of 'were'\nExplanation:- kyunki agar do nouns neither...nor, either.....or, not only......but also, or, se connected ho tab verb, verb ke paas wale subject ke according aati hai, isliye yahan verb 'nurse' ke according singular aayegi."
+            },
+            {
+              "id": 3,
+              "question": "Five hours are too (a)/short a time to (b)/judge one's character. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use is in place of are\nExplanation:- kyunki time, value, weight and length ko dikhane wale words jab ek unit ki tarah kaam karte hai toh unhe uncountable ki tarah treat kiya jaata hai. Eg.\n10 kilometers is a long distance to travel on foot.\n10000 rupees is a very big amount for me."
+            },
+            {
+              "id": 4,
+              "question": "Both Reeta and Ronika (a)/ has won (b)/ the dance competition (c)/ this year.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'have' instead of 'has'\nExplanation:- kyunki yahan 'Rita' aur 'Ronika' dono subject 'and' conjunction se joined hain isliye verb plural aayegi.\nNote:- 'both' koi distributive adjective nahi hai."
+            },
+            {
+              "id": 5,
+              "question": "The horse and (a)/carriage have been standing at (b)/the door for two hours.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use has in place of have.\nExplanation:- yahan is sentence me 'the horse and carriage' (ghoda baggi) ek unit ki tarah kaam kar raha hai isliye verb singular aayegi."
+            },
+            {
+              "id": 6,
+              "question": "They all, except Shirin, were very sad (a)/ during the farewell party given (b)/ to the teacher retiring, and her (c)/ indifference were well noticed.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'was' instead of 'were'\nExplanation:- kyunki yahan subject 'indifference' hai isliye singular verb aayegi."
+            },
+            {
+              "id": 7,
+              "question": "More persons (a)/than one has been (b)/involved in this quarrel.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use have in place of has.\nExplanation:- More than one + noun(singular) + verb(singular)\nMore + noun(plural) + than one + verb(plural)"
+            },
+            {
+              "id": 8,
+              "question": "The boy, as well as (a)/ his friends, were (b)/ absent from the class (c)/ when the teacher came.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'was' instead of 'were'\nExplanation:- kyunki as well as, except, in addition to, with, along with etc. yeh sab prepositional phrases hain isliye inke baad aane wala noun inka object ho jaata hai aur verb first wale noun ke according aati hai."
+            },
+            {
+              "id": 9,
+              "question": "It is I who has (a)/always helped you (b)/in time of need.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use have in place of has.\nExplanation:- who relative pronoun ka apna koi number gender nahi hota ye jisko refer karta hai usi ke according verb leta hai yahan yeh 'I' pronoun ke liye aaya hai isliye verb 'I' ke according 'have' aayegi."
+            },
+            {
+              "id": 10,
+              "question": "Children listens to people (a)/ speaking around them (b)/ for a long time before (c)/ they begin to speak.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'listen' instead of 'listens'\nExplanation:- kyunki 'child' ka plural children hota hai aur yahan subject 'children' hai toh iske according plural verb 'listen' aayegi."
+            },
+            {
+              "id": 11,
+              "question": "Many a profound thinker (a)/believe that the march of civilization (b)/has not coincided with real human progress.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use believes in place of believe.\nExplanation:-\nMany a + noun (singular) + verb (singular)\n'many a' - distributive adjective ki tarah kaam karta hai."
+            },
+            {
+              "id": 12,
+              "question": "The number of students (a)/ attending their classes (b)/ are constantly decreasing (c)/ in our university.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'is' instead of 'are'\nExplanation:- kyunki -\nThe Number of + Noun (Plural) + Verb (Singular)\nA Number of + Noun (Plural) + Verb (Plural)"
+            },
+            {
+              "id": 13,
+              "question": "In the struggle (a)/between the bad and the good, the (b)/bad is ultimately defeated.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use are in place of is.\nExplanation:-\n'the bad' = bad people\nthe + adj = Common plural noun\nthe rich = rich people"
+            },
+            {
+              "id": 14,
+              "question": "One of the major challenges (a)/ he faced during his (b)/ undergraduate days were (c)/ the shortage of money.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'was' instead of 'were'\nExplanation:- kyunki yahan is verb ka subject 'one' hai isliye iske according singular verb aayegi."
+            },
+            {
+              "id": 15,
+              "question": "The staff of his college is (a)/opposed to the takeover because (b)/they are convinced that they will lose their jobs.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use are in place of is.\nExplanation:- 'staff' noun ke sath sentence ke according singular and plural dono verb aa sakti hain, sentence me aage 'they' and 'their' jaise words se clear ho rha hai ki 'staff' word ko plural me use kiya jayega."
+            },
+            {
+              "id": 16,
+              "question": "Every (a)/ curious child (b)/ want to (c)/ rip open a toy.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'wants' instead of 'want'\nExplanation:- every + noun(singular) + verb (singular)"
+            },
+            {
+              "id": 17,
+              "question": "No one were (a)/ present when I (b)/ entered the hall.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'was' instead of 'were'\nExplanation:- kyunki 'no-one' subject ke sath verb singular aati hai."
+            },
+            {
+              "id": 18,
+              "question": "What I like the most about these (a)/stories are the fact that (b)/ they teach(c)/ us important life lessons.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'are' with 'is'\nExplanation:- yahan b part me aayi verb ka subject 'what' se bna hua aage ka poora noun clause hai. Isliye verb singular aayegi.\nNote: yahan 'stories' subject nhi hai wo to 'about' preposition ka object hai."
+            },
+            {
+              "id": 19,
+              "question": "The proposal which was passed (a)/by all the members last month have (b)/not been implemented yet. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'have' with 'has'\nExplanation:- yhan b part me aayi verb ka subject 'The proposal' hai isliye verb singular aayegi. 'The proposal' subject ke baad adjectival clause likha hai, isliye verb subject se door likhi gyi hai, uss se confuse nhi hona hai."
+            },
+            {
+              "id": 20,
+              "question": "The contrast between (a)/Britain and other countries (b)/of Europe (c)/are striking.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'is' instead of 'are'\nExplanation:- kyunki yahan subject 'the contrast' hai jo ki singular hai isliye singular verb aayegi."
+            },
+            {
+              "id": 21,
+              "question": "The river Yamuna (a)/ has many non-native species (b)/ like goldfish that is affecting (c)/ its ecosystem.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'are' instead of 'is'\nExplanation:- kyunki 'that' relative pronoun yahan 'non native species' ko refer karne ke liye rakha gya hai isliye 'that' ke baad plural aayegi."
+            },
+            {
+              "id": 22,
+              "question": "Great many students (a)/ who are good at (b)/other subjects perform poorly (c)/in English.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'a great many' instead of 'great many'\nExplanation:- kyunki yahan mahaan students nahi bahut saare students wala meaning dena hai jo ki 'a good/great many + noun' se aata hai."
+            },
+            {
+              "id": 23,
+              "question": "Each member (a)/ of the team (b)/ receive a memorabilia (c)/ after the match is over.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'receives' instead of 'receive'\nExplanation:- kyunki 'member' noun se pehle 'each' distributive adjective laga hai isliye member subject ki verb singular aayegi which is 'receives'"
+            },
+            {
+              "id": 24,
+              "question": "The blue Lotus (a)/ is one of the most beautiful flowers (b)/ which grows (c)/ in her garden.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'grow' instead of 'grows'\nExplanation:- kyunki yahan 'which' ka antecedent 'flowers' plural noun hai uske according verb 'grow' aayegi."
+            },
+            {
+              "id": 25,
+              "question": "The perception (a)/ of success (b)/ vary (c)/ from person to person.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'varies' instead of 'vary'\nExplanation:- kyunki yahan subject 'perception' hai jo ki singular noun hai isliye verb singular aayegi."
+            },
+            {
+              "id": 26,
+              "question": "Rehan and Ronit are (a)/ good friends and (b)/ it don't matter to them (c)/ as to who is wealthier.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'doesn't' instead of 'don't'\nExplanation:- kyunki yahan subject 'it' hai jo ki singular hai uske according singular verb 'doesn't' aayegi. Note:- 'as to' me koi mistake nhi hai 'as to' ka meaning hota hai related to something matltab kisi vishay se sambandhit"
+            },
+            {
+              "id": 27,
+              "question": "It have been only (a)/ through writing (b)/ that men have been able (c)/ to spread their ideas to mankind.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'has' instead of 'have'\nExplanation:- kyunki yahan 'it' singular noun hai isliye iske according singular verb aayegi."
+            },
+            {
+              "id": 28,
+              "question": "Billionaire Philip is (a)/ the owner of (b)/ the luxury yacht Lionheart, which worth (c)/ an estimated $150 million.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'which is worth' instead of 'which worth'\nExplanation:- kyunki 'worth' ek adjective hai yeh verb ka kaam nahi kar sakta isliye 'is' linking verb ka use karke structure sahi karna padega."
+            },
+            {
+              "id": 29,
+              "question": "One of (a)/ the biggest enterprise (b)/ in India (c)/ is declaring a lockout.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'enterprises' instead of 'enterprise'\nExplanation:- kyunki 'of' preposition yahan selection ke liye aati hai isliye aage likha noun plural form me aata hai.\nOne of + Noun (Plural) + Verb (Singular)"
+            },
+            {
+              "id": 30,
+              "question": "Participating in (a)/ the Republic Day Parade (b)/ are considered an honour (c)/ by many people.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'is' instead of 'are'\nExplanation:- kyunki yahan subject banane ka kaam 'participating' gerund kar rha hai aur 'gerund' ya infinitive jab subject ka kaam karte hain toh verb singular aati hai."
+            },
+            {
+              "id": 31,
+              "question": "Sterling is only twenty-four but have achieved so much in his professional football career.",
+              "options": [
+                "(a) but have achieved so much",
+                "(b) in his professional football career",
+                "(c) No Error",
+                "(d) Sterling is only twenty four"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'has' instead of 'have'\nExplanation:- kyunki 'sterling' kisi person ka name hai jo ki proper noun ho jayega aur singular verb lega."
+            },
+            {
+              "id": 32,
+              "question": "The problem of world hunger arises because of the economic inequality that distort food distribution.",
+              "options": [
+                "(a) The problem of",
+                "(b) that distort food distribution",
+                "(c) world hunger arises",
+                "(d) because of the economic inequality"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'distorts' instead of 'distort'\nExplanation:- kyunki yahan that relative pronoun - 'the economic inequality' ko refer kar rha hai jo ki singular noun hai isliye yahan singular verb aayegi"
+            },
+            {
+              "id": 33,
+              "question": "It is estimated that most of the addict, a whopping 85%, in God's own country Kerala, are below 25 years of age.",
+              "options": [
+                "(a) It is estimated that",
+                "(b) are below 25",
+                "(c) most of the addict",
+                "(d) a whopping 85%"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'most of the addicts' instead of 'most of the addict'\nExplanation:- kyunki - Most of + Noun (Plural) most of the addicts = jyadatar addicts"
+            },
+            {
+              "id": 34,
+              "question": "Our most memorable meeting with Spielberg happened while we were at the Berlin Film Festival in 1977, where the film 'Shatranj ke Khilari' were being screened as India's official entry.",
+              "options": [
+                "(a) Our most memorable meeting",
+                "(b) while we were at",
+                "(c) where the film",
+                "(d) were being screened"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'was' instead of 'were'\nExplanation:- kyunki yahan subject 'shatranj ke khiladi' ek movie ka name hai jo ki proper noun hoga isliye singular verb aayegi."
+            },
+            {
+              "id": 35,
+              "question": "A recent government report highlight that the shortage of teachers in higher educational institutions is greater than that in countries like China, Brazil, Sweden and Russia.",
+              "options": [
+                "(a) A recent government report highlight",
+                "(b) in higher educational institutions",
+                "(c) that the shortage of teachers",
+                "(d) is greater than"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'highlights' instead of 'highlight'\nExplanation:- kyuki yahan subject 'a recent government report' hai jo ki singular noun hai isliye singular verb aayegi.\nNote:- waise 'highlights' ke alawa yhan 'highlighted' ya 'has highlighted' lga kar bhi theek kar sakte hain. Inn sabka tense alag hai ussi hisab se meaning bhi thoda alag alag hoga."
+            },
+            {
+              "id": 36,
+              "question": "Despite warnings the driver continued to speed and have been caught by the traffic police.",
+              "options": [
+                "(a) Despite warnings",
+                "(b) and have been caught",
+                "(c) the driver continued to speed",
+                "(d) by the traffic police"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'was caught' instead of 'have been caught'\nExplanation:- Subject singular hai toh verb bhi singular aayegi isiliye 'have been caught' ki jagah 'has been caught' yaa behtar hoga ki 'was caught' ka prayog karen, sentence ke meaning ke according."
+            },
+            {
+              "id": 37,
+              "question": "The news / of his involvement / in illegal activities /have shocked everybody.",
+              "options": [
+                "(a) have shocked everybody",
+                "(b) in illegal activities",
+                "(c) of his involvement",
+                "(d) The news"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'has' instead of 'have'\nExplanation:- kyunki 'news' ek uncountable noun maana jaata hai isliye singular verb aayegi."
+            },
+            {
+              "id": 38,
+              "question": "He wanted to know / the reason / why his low score / in Mathematics.",
+              "options": [
+                "(a) why his low score",
+                "(b) He wanted to know",
+                "(c) the reason",
+                "(d) in Mathematics"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'why his score was low' instead of 'why his score low'\nExplanation:- kyunki sentence ki grammar and meaning ko correct karne ke liye yahan 'his score' ko subject banana padega aur uske baad verb 'was' lagayi jaayegi aur 'low' subject complement ban jayega.\nNote: Yahan ese bhi likh sakte hain: he wanted to know the reason for his low score. dono hi structure sahi hain."
+            },
+            {
+              "id": 39,
+              "question": "Either Ramesh or Reema have the keys to the cupboard.",
+              "options": [
+                "(a) the keys",
+                "(b) to the cupboard",
+                "(c) or Reema have",
+                "(d) Either Ramesh"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'has' instead of 'have'\nExplanation:- kyunki agar do nouns neither...nor, either.....or, not only.. but also, or, se connected ho tab verb apne paas wale noun ke according aati hai isliye yahan subject 'Reema' ke according singular verb aayegi."
+            },
+            {
+              "id": 40,
+              "question": "Over the years, the writer Amish has evolved to what millions of youngsters aspires to be today - an intellectual.",
+              "options": [
+                "(a) Over the years",
+                "(b) aspires to be today",
+                "(c) Amish has evolved",
+                "(d) millions of youngsters"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'aspire' instead of 'aspires'\nExplanation:- kyunki yahan subject 'millions of youngsters' hai jo ki plural noun hai isliye iske according plural verb aayegi."
+            },
+            {
+              "id": 41,
+              "question": "When there were a strong wind, the pine trees made sad, eerie sounds.",
+              "options": [
+                "(a) the pine trees made",
+                "(b) sad, eerie sounds",
+                "(c) a strong wind",
+                "(d) When there were"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'was' instead of 'were'\nExplanation:- kyunki yahan 'there' introductory subject hai aur real subject 'a strong wind' hai jo ki ek singular noun ki tarah use kiya gya hai isliye singular verb aayegi."
+            },
+            {
+              "id": 42,
+              "question": "A large amount of money he invested were wasted.",
+              "options": [
+                "(a) A large amount",
+                "(b) he invested",
+                "(c) were wasted",
+                "(d) of money"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'was wasted' instead of 'were wasted'\nExplanation:- kyunki yahan is verb ka subject 'A large amount of money' hai jisme 'a large amount of' ek quantity ko dikhane wala adjectival phrase hai aur 'money' subject hai jo ki ek uncountable noun hota hai isliye singular verb aayegi."
+            },
+            {
+              "id": 43,
+              "question": "Despite incessant rains, she is the only one who plan to attend the meeting at the ministry.",
+              "options": [
+                "(a) Despite incessant rains",
+                "(b) who plan to attend",
+                "(c) the meeting at the ministry",
+                "(d) she is the only one"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'plans' instead of 'plan' and 'that' instead of 'who'\nExplanation:- kyunki yahan 'the only one' ko refer karna hai jiske liye relative pronoun that aayega aur 'that' ke baad singular verb aayegi."
+            },
+            {
+              "id": 44,
+              "question": "Organizing World Cup matches in England imply that rains can be a constant threat.",
+              "options": [
+                "(a) be a constant threat",
+                "(b) in England imply",
+                "(c) that rains can be",
+                "(d) Organizing World Cup matches"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'implies' instead of 'imply'\nExplanation:- kyunki yahan subject ka kaam 'organizing' gerund kar rha hai 'world cup matches' gerund ka object hai. Gerund ya infinitive jab subject bante hain toh verb singular lagayi jaati hai."
+            },
+            {
+              "id": 45,
+              "question": "That he managed to win (a)/ the championship despite his (b)/injury were really surprising. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Replace 'were really surprising' with 'was really surprising'\nExplanation:- yhan c part mein aayi verb ka subject 'that' se bana hua aage ka poora noun clause hai. Isliye verb singular aayegi."
+            },
+            {
+              "id": 46,
+              "question": "Most of the work of this NGO are of little benefit to the disadvantaged.",
+              "options": [
+                "(a) Most of the work",
+                "(b) of this NGO",
+                "(c) to the disadvantaged",
+                "(d) are of little benefit"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'is' instead of 'are'\nExplanation:- kyunki all/most/some/plenty etc ke case me verb us noun ke according aati hai jisko ye refer krte hain yahan wo noun 'work' hai jo ki ek uncountable noun hai, isliye singular verb aayegi."
+            },
+            {
+              "id": 47,
+              "question": "A Royal Bengal tigress and her three cubs was poison and their carcasses left to rot in the Wildlife Sanctuary in Goa.",
+              "options": [
+                "(a) A Royal Bengal tigress",
+                "(b) and their carcasses left to rot",
+                "(c) in the Wildlife Sanctuary in Goa",
+                "(d) and her three cubs was poison"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'were poisoned' instead of 'was poison'\nExplanation:- kyunki yahan subject 'A Royal Bengal tigress and her three cubs' plural hai isliye plural verb aayegi aur yhan passive meaning dena hai ki 'unhe zeher diya gya tha' isliye 'were poisoned' ayega."
+            },
+            {
+              "id": 48,
+              "question": "Whether he will accept (a)/ the offer or not(b)/ remain a mystery(c)/ to everyone in the office.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'remain' with 'remains'\nExplanation:- yhan c part me aayi verb ka subject 'whether........or not' ye poora noun clause hai. Isliye verb singular aayegi."
+            },
+            {
+              "id": 49,
+              "question": "The neighbourhood were getting disturbed with the loud music that was playing at the wedding party in the big bungalow.",
+              "options": [
+                "(a) in the big bungalow",
+                "(b) The neighbourhood were getting disturbed",
+                "(c) that was playing",
+                "(d) at the wedding party"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'was' instead of 'were'\nExplanation:- kyunki yahan 'neighborhood' singular noun hai isliye iske according singular verb aayegi."
+            },
+            {
+              "id": 50,
+              "question": "According to environment activists, demolition of unauthorised apartment complexes are became a lesson for land encroachers.",
+              "options": [
+                "(a) demolition of unauthorised apartment complexes",
+                "(b) are became",
+                "(c) for land encroachers",
+                "(d) According to"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'will become' instead of 'are became'\nExplanation:- yahan subject 'demolition' hai jo ki singular noun hai isliye singular verb aayegi aur 'are became' tense ke according bhi sahi nhi hai. Sentence ke meaning ke according yahan 'has become/became/is becoming/will become' in verbs ka use kiya jaa sakta hai."
+            },
+            {
+              "id": 51,
+              "question": "People with full time sedentary jobs who commuting long distances, may have sleep problems due to lack of exercise.",
+              "options": [
+                "(a) due to lack of exercise",
+                "(b) may have sleep problems",
+                "(c) People with full time sedentary jobs",
+                "(d) who commuting long distances"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'commute' instead of 'commuting'\nExplanation:- kyunki v1+ing bina 'helping verb' ke nahi aati isliye 'commuting' galat hai aur yahan habitual action ki baat ho rhi hai isliye 'who' ke baad waali verb present indefinite me likhi jaayegi."
+            },
+            {
+              "id": 52,
+              "question": "Prasad recalled that meeting people have been a part of his life as a student activist.",
+              "options": [
+                "(a) meeting people have been",
+                "(b) Prasad recalled that",
+                "(c) a part of his life",
+                "(d) as a student activist"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'had' instead of 'have'\nExplanation:- kyunki yahan subject ka kaam 'meeting' gerund kar rha hai aur people iss gerund ka object hai. Gerund ya infinitive jab subject bante hain toh verb singular lagayi jaati hai. Aur main clause past mein hai toh usually sub-clause ko bhi past me hi likhte hai."
+            },
+            {
+              "id": 53,
+              "question": "The simplest way to get proper recognition are through doing things with dedication and sincerity.",
+              "options": [
+                "(a) with dedication and sincerity",
+                "(b) are through doing things",
+                "(c) to get proper recognition",
+                "(d) The simplest way"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'is' instead of 'are'\nExplanation:- kyunki yahan subject 'the simplest way' hai jo ki ek singular noun hai isliye singular verb aayegi."
+            },
+            {
+              "id": 54,
+              "question": "The man with a lost eye have been accused of murder of two girls in his neighbourhood.",
+              "options": [
+                "(a) have been accused for",
+                "(b) in his neighbourhood",
+                "(c) murder of two girls",
+                "(d) The man with a lost eye"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'has' instead of 'have'\nExplanation:- kyunki yahan subject 'The man' hai jo ki singular noun hai isliye singular verb aayegi.\nNote: the man with a lost eye - wo vyakti jo ek aankh se andha hai."
+            },
+            {
+              "id": 55,
+              "question": "The Prime Minister, along with the other ministers have left for America.",
+              "options": [
+                "(a) for America",
+                "(b) The Prime Minister, along with",
+                "(c) have left",
+                "(d) the other ministers"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'has' instead of 'have'\nExplanation:- kyunki jab do nouns 'with, along with, together with, in addition to, as well as, like, besides' in sab words se connect kiye jaate hain toh ye word prepositional phrase ka kaam karte hain aur inke baad aane wala noun prepositional object ban jaata hai isliye verb first noun jo subject ka kaam karta hai uske according aati hai. Yahan verb Prime Minister ke according singular aayegi."
+            },
+            {
+              "id": 56,
+              "question": "Everything that I like to eat are fattening.",
+              "options": [
+                "(a) to eat",
+                "(b) are fattening",
+                "(c) I like",
+                "(d) Everything that"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'is' instead of 'are'\nExplanation:- kyunki yahan subject 'everything' hai jo aur 'that.....fattening' ye everything ke liye adjectival clause hai isilye 'everything' ke according singular verb 'is' aayegi."
+            },
+            {
+              "id": 57,
+              "question": "Only one copy of the book, running into 1200 pages, on Gandhiji's visit to the State of Andhra Pradesh, remain now.",
+              "options": [
+                "(a) running into 1200 pages",
+                "(b) remain now",
+                "(c) on Gandhiji's visit to the State",
+                "(d) Only one copy of the book"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'remains' instead of 'remain'\nExplanation:- kyunki yahan subject 'only one copy' hai jo ki singular noun hai isliye singular verb aayegi.\nNote:- running into 1200 pages = jisme pages ki sankhaya 1200 hai."
+            },
+            {
+              "id": 58,
+              "question": "Our class teacher who (a)/ encourages and helps all her students(b)/ are respected by everyone in the school. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Replace 'are respected' with 'is respected'\nExplanation:- yhan c part me aayi verb ka subject 'Our class teacher' hai isliye verb singular aayegi. 'Our class teacher' subject ke baad adjective clause likha hai isliye verb subject se door likhi gyi hai uss se confuse nhi hona hai"
+            },
+            {
+              "id": 59,
+              "question": "The famous author and actor are being honoured at a function today.",
+              "options": [
+                "(a) at a function today",
+                "(b) The famous author and actor",
+                "(c) No error",
+                "(d) are being honoured"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'is' instead of 'are'\nExplanation:- kyunki yahan 'the famous author and actor' singular noun hai kyunki yahan definite article 'the' ek noun ke aage hi laga hua hai isliye famous author aur actor dono ek hi person hai, isliye iske according singular verb aayegi."
+            },
+            {
+              "id": 60,
+              "question": "The birth of a girl bring great joy to Neha's family.",
+              "options": [
+                "(a) The birth",
+                "(b) of a girl",
+                "(c) to Neha's family",
+                "(d) bring great joy"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- yahan verb ka subject 'birth' noun hai jo ki singular hai isliye sentence me di gayi plural 'bring' verb galat ho gayi yahan 'brings' bhi nahi aa sakta kyunki ye koi habitual action nahi hai. Best meaning ke liye yhan 'brought' ya 'has brought' ka use karenge."
+            },
+            {
+              "id": 61,
+              "question": "Neither John nor Simon [are coming to the meeting].",
+              "options": [
+                "(a) were coming to the meeting",
+                "(b) No substitution",
+                "(c) are coming to meeting",
+                "(d) is coming to the meeting"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- 'Neither.....nor/Either.....or/Not only.....but also' wale structure me verb uss noun ke according aati hai jo verb ke paas hota hai isliye yhan 'Simon' ke according verb singular aayegi."
+            },
+            {
+              "id": 62,
+              "question": "Honesty as well as discipline [are required to succeed in life].",
+              "options": [
+                "(a) are requirement to succeed in life.",
+                "(b) is required to succeed in life",
+                "(c) has required to succeed in life",
+                "(d) No substitution"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'as well as' yhan prepositional phrase hai isliye 'honesty' subject banega aur ye singular hai to verb bhi singular aayegi isliye option A and D galat hain. Meaning ke according C option sahi nhi hai isliye B option Answer hoga."
+            },
+            {
+              "id": 63,
+              "question": "Shubham and [I were watching] football match in our bedroom.",
+              "options": [
+                "(a) I were watched",
+                "(b) I was watching",
+                "(c) me is watching",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Yhan 'and' conjunction se 2 subjects join kiye gye hain isliye 'I' ayega aur verb plural aayegi. isliye D option sahi hai."
+            },
+            {
+              "id": 64,
+              "question": "[Many an old story were retold], and ancient conundrum repeated.",
+              "options": [
+                "(a) Many an old story was retold",
+                "(b) Many old story were retold",
+                "(c) Many an old stories were retold",
+                "(d) No improvement required"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'Many a/an' ke sath singular noun aata hai aur verb bhi singular aati hai isliye A option sahi hai."
+            },
+            {
+              "id": 65,
+              "question": "The probable side effects of this medication [include burning and itching].",
+              "options": [
+                "(a) including burning and itching",
+                "(b) can be including burning and itching",
+                "(c) includes burning and itching",
+                "(d) No improvement required"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- yhan subject 'side effects' hai jo ki plural hai isliye plural verb aayegi isliye C option galat hai. V1+ ing form bina helping ke nhi aati isliye A option galat hai. yhan continuous wala meaning nhi dena hai isliye B option galat hai. Meaning and grammar ke according D option sahi hai."
+            },
+            {
+              "id": 66,
+              "question": "[Neither of the political parties have had much] interest in environmental causes.",
+              "options": [
+                "(a) No improvement required",
+                "(b) Neither of the political parties have had any",
+                "(c) Neither of the political parties have much",
+                "(d) Neither of the political parties has had much"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Yhan subject 'neither' jo ki distributive pronoun hai isliye verb singular aayegi. D option sahi hai."
+            },
+            {
+              "id": 67,
+              "question": "The plants [readily respond to these stimulus].",
+              "options": [
+                "(a) readily respond to these stimuli",
+                "(b) ready respond to these stimuli",
+                "(c) readily responds to this stimulus",
+                "(d) No improvement required"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Yhan subject 'plants' plural hai aur these ke baad plural ayega isliye A option sahi hai."
+            },
+            {
+              "id": 68,
+              "question": "Either the bears or the lion [has escaped from the zoo].",
+              "options": [
+                "(a) have escaped from the zoo",
+                "(b) are escaped from the zoo",
+                "(c) No substitution",
+                "(d) is escaped from the zoo"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'Neither.....nor/Either.....or/Not only.....but also' ke pair me verb uss subject ke according aati hai jo verb ke paas hota hai isliye 'lion' ke according verb singular aayegi. isliye A and B options galat hain. Yhan passive nhi active voice aayegi isliye D option galat hai. C option grammatically sahi hai."
+            },
+            {
+              "id": 69,
+              "question": "The student with his parents [were asked for waiting] outside the Principal's office.",
+              "options": [
+                "(a) was asked to wait",
+                "(b) were asked to wait",
+                "(c) No substitution",
+                "(d) were asked to be waiting"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- yhan 'with' preposition hai aur 'parents' prepositional object hai and subject 'student' hai aur verb singular aayegi. isliye A option sahi hai."
+            },
+            {
+              "id": 70,
+              "question": "We must realise that learning from [mistakes is an] important part of life",
+              "options": [
+                "(a) mistakes are an",
+                "(b) mistakes is the",
+                "(c) No improvement",
+                "(d) mistakes are a"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- yhan clause me subject 'learning' (gerund) hai isliye verb singular aayegi isliye A and D options galat hain. yhan meaning ye dena hai ki 'galtiyon se seekhna jindgi ka ek important part hai' isliye meaning and grammar ke according C option sahi hai."
+            },
+            {
+              "id": 71,
+              "question": "Indian team [were declared] the winner of the cricket World Cup.",
+              "options": [
+                "(a) Was declare",
+                "(b) Were declared",
+                "(c) Was declared",
+                "(d) was declaring"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'Indian team' ek collective noun hai jo ki ek unit mana jayega isliye verb singular aayegi aur meaning ke according yhan passive voice aayegi isliye C option sahi hai."
+            },
+            {
+              "id": 72,
+              "question": "I, Anjali Menon, [is happy to let you know] that I have married Chetan Sharma.",
+              "options": [
+                "(a) No improvement",
+                "(b) are happy to let you know",
+                "(c) am happy to let you know",
+                "(d) has happy to let you know"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- yhan real subject 'I' hai aur 'Anjali Menon' case in apposition hai isliye 'I' ke according 'am' verb aayegi."
+            },
+            {
+              "id": 73,
+              "question": "There are indications that the prospects for growth in industrial output [has improved].",
+              "options": [
+                "(a) Have improved",
+                "(b) Have improvements",
+                "(c) Has improvements",
+                "(d) Had improvements"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Yhan subject 'prospects' hai isliye verb plural aayegi aur yhan 'improve hue hain' meaning dena hai isliye A option sahi hai."
+            },
+            {
+              "id": 74,
+              "question": "Nothing but books and magazines [please] her.",
+              "options": [
+                "(a) Were pleasing",
+                "(b) Are pleasing",
+                "(c) Pleases",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- sahi structure ye hota hai:- Nothing but + noun + verb (singular) isliye C option sahi hai."
+            },
+            {
+              "id": 75,
+              "question": "Setbacks and failures [has always been] an integral part of science.",
+              "options": [
+                "(a) Has always being",
+                "(b) Were always been",
+                "(c) No improvement",
+                "(d) Have always been"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- yhan subject 'Setbacks and failures' hain isliye verb plural aayegi isliye D option sahi hai."
+            },
+            {
+              "id": 76,
+              "question": "Not only the boss but also all the employees [were involved] in this fraud.",
+              "options": [
+                "(a) Were involving",
+                "(b) Was involved",
+                "(c) No improvement",
+                "(d) Has been involved"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'Neither..nor/Either..or/Not only...but also' ke pair me verb uss noun ke according aati hai jo verb ke pass hota hai isliye 'employees' ke according verb plural aayegi aur meaning ye dena hai ki 'involved the' isliye C option sahi hai"
+            },
+            {
+              "id": 77,
+              "question": "A new pair of shoes [have been purchased] by me.",
+              "options": [
+                "(a) has been purchased",
+                "(b) has been purchasing",
+                "(c) was purchasing",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- yhan subject 'A pair' hai isliye verb singular aayegi aur meaning ke according verb passive voice mein aayegi isliye A option sahi hai"
+            },
+            {
+              "id": 78,
+              "question": "None of the guests [were willing to stay] till the next day.",
+              "options": [
+                "(a) was willing to stayed",
+                "(b) No improvement",
+                "(c) was willing to stay",
+                "(d) were willing for staying"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'None of + noun' ke baad singular verb prefer ki jaati hai aur willing ke baad infinitive 'to stay' aayega isliye C option sahi hai."
+            },
+            {
+              "id": 79,
+              "question": "Each boy and each girl of our [was present] at the annual function.",
+              "options": [
+                "(a) were present",
+                "(b) was presented",
+                "(c) No improvement",
+                "(d) were presenting"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'Each' ek distributive adjective hai isliye bhale hi 2 nouns 'and' se jude hue hain par verb singular hi aayegi aur yhan meaning dena hai 'present tha' isliye C option sahi hai"
+            },
+            {
+              "id": 80,
+              "question": "[Every] of these students is able to speak English fluently.",
+              "options": [
+                "(a) Each",
+                "(b) All",
+                "(c) None",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'Every' ek adjective hota hai isliye ye subject nhi ban sakta isliye D option galat hai. All ke sath verb plural aati hai isliye B option galat hai. None se meaning change ho jayega isliye C option galat hai. Meaning and grammar ke according A option sahi hai."
+            },
+            {
+              "id": 81,
+              "question": "As soon as the monsoon starts, the number of tourists [start decreasing].",
+              "options": [
+                "(a) start decreases",
+                "(b) starting decrease",
+                "(c) starts decreasing",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Sahi structure ye hota hai:- 'The number of + noun(plural) + verb(sing)' isliye C option sahi hai."
+            },
+            {
+              "id": 82,
+              "question": "There [has been] many incidents of robbery in this area.",
+              "options": [
+                "(a) are been",
+                "(b) No improvement",
+                "(c) have been",
+                "(d) are being"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- yhan 'there' introductory subject hai aur real subject 'many incidents' hai. isliye verb plural aayegi aur meaning ke according perfect tense ayega isliye C option sahi hai"
+            },
+            {
+              "id": 83,
+              "question": "A number of innocent people [dies owing to wars] all over the world every year.",
+              "options": [
+                "(a) is dying owing to wars",
+                "(b) are died owing to wars",
+                "(c) No improvement",
+                "(d) die owing to wars"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- sahi structure ye hota hai - 'A number of + noun(plural) + verb (plural)' isliye plural verb aayegi aur die verb ka passive nhi hota isliye D option sahi hai."
+            },
+            {
+              "id": 84,
+              "question": "I know very well that one of you [have stolen] my book.",
+              "options": [
+                "(a) has stolen",
+                "(b) had stolen",
+                "(c) No improvement",
+                "(d) stealing"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- yhan subject 'one' hai isliye verb singular aayegi isliye C option galat hai. V1+ ing bina helping verb ke nhi aata isliye D option galat hai yhan past perfect nhi ayega isliye B option galat hai. Meaning and grammar ke according A option sahi hai."
+            },
+            {
+              "id": 85,
+              "question": "Among those broken chairs [were lying] a brand new table.",
+              "options": [
+                "(a) were laying",
+                "(b) was lying",
+                "(c) no improvement",
+                "(d) was laying"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- yhan inversion structure ka use hua hai. real subject 'table' hai isliye verb singular aayegi yhan meaning dena hai ki 'padi thi' isliye B option 'was lying' sahi hai"
+            }
+          ]
         }
       ]
     }
