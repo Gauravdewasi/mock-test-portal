@@ -28666,6 +28666,1392 @@
               "solutionHinglish": "Ans (b) remove 'kindly'\nExplanation:- 'requested' ke sath 'kindly ka use nahi hota kyunki dono ka meaning same hota hai, agar 'requested' pehle likha hai toh 'kindly' hatana padega."
             }
           ]
+        },
+        {
+          "id": "t_1793560108203",
+          "name": "Verb level - 01",
+          "questions": [
+            {
+              "id": 1,
+              "question": "What should have been (a)/ a great disaster (b)/ was averted.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'could' in place of 'should'.\nExplanation:- Meaning based error hai ye. 'What should have been a great disaster' ka matlab hoga 'Jo bahut bada Disaster hona chahiye tha'. Aur 'What could have been a great disaster' ka matlab hoga 'Jo bahut bada disaster ho sakta tha'. Toh 'ho sakta tha' waale meaning ke liye 'could' ka use sahi hoga."
+            },
+            {
+              "id": 2,
+              "question": "You must (a)/ be hurry, (b)/ otherwise you will (c)/ miss the train.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Remove 'be'\nExplanation:- kyunki 'must' modal ke baad ek hi main verb aayegi 'be' and 'hurry' dono verbs hain. Sentence ka matlab hai 'tumhe jaldi karna chaiye', toh Sentence ke meaning ke according yahan 'hurry' main verb rahegi, aur 'be' ko hatana padega."
+            },
+            {
+              "id": 3,
+              "question": "There was such a crowd (a)/ that he would (b)/ not find his brother. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'could' in place of 'would'\nExplanation:- Meaning based error hai ye. 'he would not find his brother' ka matlab hoga 'wo apne bhai ko nahi dhundega'. Aur 'he could not find his brother' ka matlab hoga 'wo apne bhai ko nahi dhund paaya tha'. Toh sentence ke meaning ke according 'dhund nahi paaya' wala meaning sahi hai, isliye yahan 'could' ka use hoga."
+            },
+            {
+              "id": 4,
+              "question": "Distrust seems to (a)/ be a factor borne out (b)/of prevailing circumstances.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'born' in place of 'borne'\nExplanation:- Both 'born' and 'borne' are forms of verb 'bear'. 'Born' is commonly used with the meaning \"to give birth.\" 'Borne' is used in adjective form with the meaning 'being carried by'. eg water borne (paani ke dwara carry kiya jaane wala) air borne (hawa ke dwara carry kiya jaane wala) etc. sentence ka matlab hai 'avishvaas maujooda paristhithi se paida hua ek factor hai', toh sentence mein 'paida' wala meaning chaiye, isliye yahan 'born' sahi hoga."
+            },
+            {
+              "id": 5,
+              "question": "The scooter that (a)/ I am using (b)/ these days is belonging (c)/ to my brother.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'belongs' instead of 'is belonging'\nExplanation:- Kyunki 'belong' ek stative verb hai, Stative verb esi verbs hoti hain jinhe hum 'ing' form mein use nahi karte. Like -feel, believe, smell, hear, listen, look, belong, have, etc."
+            },
+            {
+              "id": 6,
+              "question": "Would you find me (a)/ absent please do not(b)/ forget to leave a message behind.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'should' in place of 'would'.\nExplanation:- Yeh 'should' word ka ek unique use hai. Generally toh yeh modal hi hota hai par 'should' word conjunction bhi ban sakta hai aur tab iska matlab hota hai 'agar'. Yahan sentence ke meaning ke according 'agar' meaning dena hai isliye 'if' yaa 'should' ka use hoga"
+            },
+            {
+              "id": 7,
+              "question": "The new taxation rates (a)/ announced by the government (b)/ are bound to effect the export sector. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'affect' in place of 'effect'.\nExplanation:- 'affect' generally ek verb ka work karta hai aur 'effect' noun ka. Infinitive 'to+v1' se banta hai, isliye yahan 'to affect' ayega."
+            },
+            {
+              "id": 8,
+              "question": "He uses to study (a)/ till 11 P.M.(b)/ and then goes before (c)/ the library closes. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'studies' in place of 'uses to study'.\nExplanation:- poore sentence ko padhke pata chal raha hai ki yahan present ke habitual action ki baat ho rahi hai isliye yahan present indefinite tense lagega jisme verb ki first form use hoti hai. Yahan koi past ki habit nahi hai. Isliye yaha 'studies' present indefinite tense sahi hoga."
+            },
+            {
+              "id": 9,
+              "question": "Every night I am (a)/ in the habit of hearing(b)/ the news on the Radio(c)/ no error(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'listening to' in place of 'hearing'.\nExplanation:- 'listen' ka matlab hota hai 'intentionally kisi cheez ko sunna'. 'hear' ka matlab hota hai koi cheez sunai de jaana. Toh 'news' generally intentionally he sunte hai, aur 'listen' ke sath 'to' preposition ka use hota hai, isliye 'listening to' sahi answer hoga."
+            },
+            {
+              "id": 10,
+              "question": "I have friends (a)/ who should love (b)/ to stay at home, (c)/ but they have to go to work.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'would' in place of 'should'.\nExplanation:- yeh modal ke meaning par based error hai. 'friends who should love to stay at home' ka matlab hoga 'friends jinhe ghar par rehna pasand karna chahiye'. Aur 'friends who would love to stay at home' ka matlab hoga 'friends jo ghar par rehna pasand karenge'. Toh sentence ke according 'pasand karenge' wala meaning chaiye, isliye 'would' ka use sahi hoga."
+            },
+            {
+              "id": 11,
+              "question": "The Desais soon (a)/ got used to live (b)/ in the country.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'got used to living' in place of 'got used to live'\nExplanation:- 'get' yahan linking verb hai aur 'used' yahan adjective hai jo subject complement ka kaam karega, 'get' verb ke liye 'to' preposition hai aur 'live' ko preposition ka object banana hai lekin 'live' toh verb hoti hai, toh verb mein 'ing' lagade toh wo gerund(noun) ban jaayega, isliye yahan 'to living' sahi hoga."
+            },
+            {
+              "id": 12,
+              "question": "The man who (a)/ was committed (b)/ the theft last night (c)/ was caught this evening.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Remove 'was'\nExplanation:- 'man' commit karne ke action ka doer hai isliye verb active form mein aayegi isliye 'was' ko hatana hoga kyunki 'was + verb' ki 3rd form passive voice hoti hai."
+            },
+            {
+              "id": 13,
+              "question": "Every morning (a)/ he might kiss (b)/ his beloved (c)/ and set off for work.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'used to or would' in place of 'might'.\nExplanation:- sentence mein 'might' se pata chal raha hai ki past ki baat ho rahi hai. Aur 'every morning' se pata chal raha ki past ki habit hai yeh, toh past ki habit show karne ke liye 'used to' yaa 'would' model ka use karte hai."
+            },
+            {
+              "id": 14,
+              "question": "When the allotted time (a)/was over they torn off (b)/the papers which they had used.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'tore' in place of 'torn'.\nExplanation:- 'tear' verb ki form 'tear, tore, torn' hoti hai, toh 'tore' verb ki 2nd form hai aur 'torn' 3rd form hai. Yahan 2 past ke actions ki baat ho rahi hai isliye yahan verb ki 2nd form aayegi."
+            },
+            {
+              "id": 15,
+              "question": "Psychology has been (a)/ defined the scientific study of (b)/ human psyche and behaviour.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'defined as the' instead of 'defined the'\nExplanation:- kyunki kuch aisi verbs hoti hai jinke baad 'as' ka use kiya jaata hai. jaise 'define, regard, describe, treat, know etc' kyunki in verbs mein generally aisa meaning banta hai 'kisi ko kisi ke jaisa manna'\nEg. - Kalidasa is known as the Shakespeare of India."
+            },
+            {
+              "id": 16,
+              "question": "The unreasonable behaviour (a)/of his daughter (b)/ was thoroughly (c)/upset Mr.Gupta. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'upset' in place of 'was upset'.\nExplanation:- kyunki yahan active voice ka use hoga naa ki passive ka. Yahan meaning yeh hai ki 'uski daughter ke unreasonable behaviour ne Mr. Gupta ko poori tarah se upset kar diya'. 'was upset' passive voice hai or voice active karni hai isliye verb ki 2nd form sirf 'upset' use hoga isliye C part se 'was' remove karenge."
+            },
+            {
+              "id": 17,
+              "question": "The child cut his (a)/finger with a razor (b)/and bleeded profusely. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'bled' in place of 'bleeded'\nExplanation:- kyunki 'bleed' verb ki forms hoti hai 'bleed, bled, bled'. Sentence ke according 2nd form chaiye, isliye 'bled' sahi hoga."
+            },
+            {
+              "id": 18,
+              "question": "The knight was received (a)/ compliments from the king (b)/for his bravery.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'received' in place of 'was received'\nExplanation:-kyunki yahan passive voice nahi active voice ki zarurat hai. Passive mein verb ka object nahi hota, lekin yahan 'compliments' object hai. Isliye isse 'received' active voice mein likhenge."
+            },
+            {
+              "id": 19,
+              "question": "The criminal (a)/will certainly be hung (b)/because the charges brought upon (c)/him are very serious.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'hanged' in place of 'hung'.\nExplanation:-\nhang - hung - hung (latkaana)\nhang - hanged - hanged (faansi dena)"
+            },
+            {
+              "id": 20,
+              "question": "Whatever one may say (a)/ of him, (b)/ none dare call in question (c)/ his honesty. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'dares to call' in place of 'dare call'\nExplanation:-Yahan 2 galtiyan hain. Ek yeh ki yahan koi 'not' wala yaa interrogative structure nahi ban raha isliye yahan 'dare' ko 'main verb' manenge, aur jab dare main verb banta toh uske baad infinitive aata hai, isliye iske baad 'call' ko 'to call' infinitive mein change karene. kyunki 2 verbs ek sath nahi aayengi. Dusri galti yeh ki 'none' ke baad generally singular verb prefer ki jaati hai isliye 'dares' likhenge, isliye 'dares to call' sahi hoga."
+            },
+            {
+              "id": 21,
+              "question": "[When the villagers put up a firm resistance to the fearsome bandit with all their might, he ultimately fleed the spot.]",
+              "options": [
+                "(a) When the villagers put up a firm resistance to the fearsome bandit with all their might, he ultimately fled the spot.",
+                "(b) When the villagers put up a firm resistance to the fearsome bandit with all their might, he ultimately flew the spot.",
+                "(c) When the villagers putted up a firm resistance to the fearsome bandit with all their might, he ultimately fleed the spot.",
+                "(d) When the villagers put up a firm resistance to the fearsome bandit with all their might, he ultimately flown the spot."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'fled' instead of 'fleed'\nExplanation:- sentence mein 'flee' verb ki baat karni hai jiski form 'Flee, Fled, Fled' hoti hai aur 'when' se pata chal raha ki past ke do action ki baat ho rahi hai, isliye yahan 'fled' verb ki 2nd form sahi hogi."
+            },
+            {
+              "id": 22,
+              "question": "When I was young,(a)/ I can run (b)/faster than mohan.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'could' in place of 'can'.\nExplanation:- sentence padhke pata chal raha ki past ki baat ho rahi hai, toh verb past mein aayegi, isliye 'can' ki past form 'could' sahi hogi."
+            },
+            {
+              "id": 23,
+              "question": "I never considered him to be a person who would (a)/ go back on his promise and (b)/ then do not even apologise. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Remove 'do'\nExplanation:- kyunki yahan 2 verbs 'and' conjunction se Jodi gayi hai isliye 2nd verb apologise se pehle bhi 'would' modal understood hai, 'who would go back on his promise and then (would) not even apologise'. Isliye yahan 'do' ka use nahi hoga."
+            },
+            {
+              "id": 24,
+              "question": "[As soon as we went for an afternoon siesta, my pet rabbit Tia digged a huge hole right in the middle of the lawn.]",
+              "options": [
+                "(a) As soon as we gone for an afternoon siesta, my pet rabbit Tia digged a huge hole right in the middle of the lawn.",
+                "(b) As soon as we gone for an afternoon siesta, my pet rabbit Tia dug a huge hole right in the middle of the lawn.",
+                "(c) As soon as we were going for an afternoon siesta, my pet rabbit Tia digged a huge hole right in the middle of the lawn.",
+                "(d) As soon as we went for an afternoon siesta, my pet rabbit Tia dug a huge hole right in the middle of the lawn."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'dug' instead of 'digged'\nExplanation:- sentence mein 'dig' verb ki baat karni hai jiski form 'Dig, Dug, Dug' hoti hai, toh sentence mein 'as soon as' se pata chal raha ki do action sath mein ho rahe hai aur 'went' se past ka pata chal raha hai, isliye yahan bhi verb ki 2nd form 'dug' ka use sahi hoga."
+            },
+            {
+              "id": 25,
+              "question": "A soldier (a)/ could fight (b)/ for his country and save his country's honour. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'must' in place of 'could'.\nExplanation:- yeh modal verb ke meaning par based error hai. 'A soldier could fight for his country' ka matlab hoga 'ek soldier apne desh ke liye lad sakta hai'. Aur 'A soldier must fight for his country' ka matlab hoga 'ek soldier ko apne desh ke liye zarur ladna chahiye'. Toh sentence ke meaning ke according compulsion wala meaning chaiye, isliye yahan 'must' model ka use sahi hoga."
+            },
+            {
+              "id": 26,
+              "question": "Would you liked (a)/ to have some fries (b)/ along with your coffee, sir?\" (c)/ asked the waiter.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'like' instead of 'liked'\nExplanation:-kyunki modal verbs ke baad verb ki 'base form' ka use kiya jaata hai. Isliye yahan 'like' verb ki base form sahi hogi."
+            },
+            {
+              "id": 27,
+              "question": "\"He may live long\"(a)/ his sad mother (b)/ prayed.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'May he live long' in place of 'He may live long'.\nExplanation:-kyunki yeh ek optative sentence hai jo ki prayer ke liye use hua hai. Optative sentence wo hote hai jo prayer, wish, desire etc. ko express karte hai. Eg. 'long live the king, god bless you, may you live long etc.'\nNote:- yahan 'may' ki jagah 'might' nahi hoga kyunki yeh direct speech mein likha gaya hai."
+            },
+            {
+              "id": 28,
+              "question": "Raman putted the vegetables (a)/ in the frying pan (b)/ and after adding some water, (c)/ closed the lid.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'put' instead of 'putted'\nExplanation:- sentence mein 'put' verb ki baat karni hai iski teeno forms same hoti hai, isliye yahan 'putted' ki jagah 'put' ayega."
+            },
+            {
+              "id": 29,
+              "question": "If you get good marks (a)/ I shall happy (b)/as much as you. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'shall be happy' in place of 'shall happy'.\nExplanation:-kyunki 'shall' ek modal hai aur 'happy' ek adjective hai toh hume 'shall' ke baad ek aise main verb ki zarurat hai jiske baad akela adjective 'happy' aa sake isliye yahan main verb ke roop me ek linking verb 'be' ka use hoga."
+            },
+            {
+              "id": 30,
+              "question": "When the villagers (a)/ were attacked, (b)/ they were raised to violence. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'roused' in place of 'raised'.\nExplanation:- 'Raise' ka matlab hota hai 'kisi cheez ko uthana', aur 'Rouse' ka matlab 'kisi person ke andar kisi feeling ko jagana'. Sentence ka matlab hai 'villager ke andar violence ki feeling uthpann ho gayi', isliye yahan 'roused' verb sahi hogi."
+            },
+            {
+              "id": 31,
+              "question": "All those students who are participating in the play (a)/ have been notify (b)/ to stay back for rehearsal (c)/ after 3:00 p.m.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'have been notified' instead of 'have been notify'\nExplanation: kyunki 'students' notify action ke receiver hain, matlab wo iss ko notify nahi karenge, balki unhe notify kiya jaayega, isliye verb passive form mein aayegi, isliye 'have been notified' ka use hoga."
+            },
+            {
+              "id": 32,
+              "question": "Why didn't (a)/ you submitted (b)/ your project (c)/ on time?(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'submit' instead of 'submitted'\nExplanation:- kyunki 'Do/Does/Did' ke baad verb ki base form ka use kiya jaata hai, isliye 'didn't you submit' sahi hoga."
+            },
+            {
+              "id": 33,
+              "question": "Electric heaters (a)/were providing (b)/to all the officers (c)/at the guest house.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'were provided' instead of 'were providing'\nExplanation:- kyunki yahan meaning yeh dena hai ki 'Electric heaters' provide kiye gaye the, naa ki 'electric heater kuch provide karenge', isliye verb passive form mein aayegi 'were provided' ka use hoga."
+            },
+            {
+              "id": 34,
+              "question": "Einstein's school teachers (a)/thought he would (b)/never success (c)/in life.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'succeed' instead of 'success'\nExplanation:- kyunki 'would' ek modal hai aur modal verbs ke baad verb ki base form ka use kiya jaata hai, 'Success' ek noun hai aur 'Succeed' verb hai."
+            },
+            {
+              "id": 35,
+              "question": "You need not tell a lie (a)/ when the judge asked you yesterday where you were (b)/ when the crime was committed.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'need not have told a lie' in place of 'need not tell a lie'.\nExplanation:- kyunki iss sentence ka meaning yeh hai ki 'tumhe jhoot bolne ki zarurat nahi thi, jab judge ne kal tumse pucha tha ki tum kahan the jab crime kiya gaya tha'. Yahan aage past ki baat ho rahi hai matlab wo person jhoot bol chuka hai. Isliye yahan 'modal + have + v3' structure ka use hoga."
+            },
+            {
+              "id": 36,
+              "question": "If we have no definite aim before us (a)/ we would only wonder about in aimless pursuits (b)/ and achieve nothing.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'wander' in place of 'wonder'.\nExplanation:- 'wander' ka matlab 'bina kisi udeshya yaa disha ke idhar-udhar ghumna', 'Wonder' ka matlab 'kuch janana chahna, kuch janane ke liye excited hona'. toh sentence ke meaning ke according 'wander' sahi hoga."
+            },
+            {
+              "id": 37,
+              "question": "The monkeys swinged (a)/ on the branches and (b)/ jumped over the compound wall. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'swung' instead of 'swinged'\nExplanation:- 'jumped' se pata chal raha ki past ki baat karna hai, kyunki 'swing' verb ki 2nd and 3rd form 'swung' hoti hai. 'Swing, Swung, Swung', isliye yahan 'swung' sahi hoga."
+            },
+            {
+              "id": 38,
+              "question": "Need you (a)/ to buy (b)/so many books? (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'buy' instead of 'to buy'\nExplanation:- Iss sentence ko theek karne ke 2 methods hain. Ek to agar 'need' ko main verb banaye toh 'Do you need to buy' lagake theek ho jaayega aur 2nd agar 'need' ko modal banaye to 'Need you buy' karke theek ho jaayega. 'Correct the latter part' wale concept ke according 'need you buy' wale structure ko prefer krenge."
+            },
+            {
+              "id": 39,
+              "question": "The doctor advised Mr. Murugan that, (a)/ because of his severe cramps, (b)/ he should lay in bed for a few days.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'lie' in place of 'lay'\nExplanation:- sentence ka matlab hai doctor ne Murugan ko advice kiya, severe cramps ki wazah se unhe kuch din bed pe letna chaiye', toh letne waale meaning ke liye 'lie' verb ka use hoga. 'Lie' verb jiska matlab 'letna yaa pada hona' hota hai aur yeh intransitive hoti hai, iski form 'lie, lay, lain' hoti hai. Aur 'Lay' verb jiska matlab 'letaana yaa rakhna' aur yeh transitive hoti hai, iski form 'lay, laid, laid' hoti hai."
+            },
+            {
+              "id": 40,
+              "question": "Though the police tried all sorts of methods to illicit (a)/ information from the public (b)/ they remained silent.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'elicit' in place of 'illicit'\nExplanation:- 'Elicit' ka matlab 'kisi se information, facts wagera nikalwaana' aur 'Illicit' ka matlab 'illegal (Gair kanooni)', toh sentence ka matlab hai 'police ne public se jankari haasil karne ke liye saare tarike apnaaye', toh 'information nikaalne ki baat ho rahi hai, isliye 'elicit' sahi hoga."
+            },
+            {
+              "id": 41,
+              "question": "I ordered his dismissal (a)/when he flouted (b)/the company rules.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) no error\nExplanation:- 'flout' ka matlab hota hai 'kisi baat ko maane se inkaar karna, law yaa rules ka paalan naa karna', toh sentence ke meaning ke according 'flouted' ka use yahan sahi hai."
+            },
+            {
+              "id": 42,
+              "question": "News of the calamity (a)/ is reached (b)/ the family members (c)/the next day.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'reached' instead of 'is reached'\nExplanation:- kyunki yahan meaning yeh hai ki 'calamity ki news family members ke paas agle din pahunchi thi, toh 'news pahuchi naa ki 'news ko pahuchaya gaya' isliye isse 'is reached' passive voice mein nahi balki 'reached' active voice mein likhenge."
+            },
+            {
+              "id": 43,
+              "question": "Bhagat Singh lie down (a)/ his life (b)/ for his motherland.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'laid down' in place of 'lie down'\nExplanation:- 'lie down' ka matlab 'neeche letna' aur 'lay down' ka matlab 'nyochhawar yaa kurbaan kar dena', sentence ka matlab hai 'Bhagat Singh ne apni motherland ke liye jaan nyochaawar kardi', isliye yahan 'laid down' phrasal verb sahi hoga. Note:- 'lay down' phrasal verb ke aur bhi matlab hote hai"
+            },
+            {
+              "id": 44,
+              "question": "The tennis player easy through the (a)/opening set before her opponent and rallied to take the (b)/final two sets for the biggest victory of her young career.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'eased' in place of 'easy'.\nExplanation:-kyunki 'easy' ek adjective hai and 'eased' verb hai. Hume yahan 'player' subject ke baad verb ki requirement hai. Isliye yahan 'eased' verb sahi hoga."
+            },
+            {
+              "id": 45,
+              "question": "This summer, (a)/I've met down (b)/a lot of (c)/interesting people. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'met' instead of 'met down'\nExplanation:- kyunki 'meet down' jaisi koi phrasal verb nahi hai. kisi se milne wale meaning ke liye 'meet' verb ka use hota hai jiski form 'meet, met, met' hoti. 'I've' ka matlab 'I have', toh 'have' ke baad verb ki 3rd form aati hai, isliye 'have met' sahi hoga.\neg. I met my uncle."
+            },
+            {
+              "id": 46,
+              "question": "I use to going (a)/for a morning walk (b)/when I was (c)/living in Dehradun.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'I used to go' instead of 'I use to going'\nExplanation:- kyunki past ke kisi Habitual action ko refer karne ke liye 'used to' modal ka use kiya jaata hai, aur modal verb ke sath verb ki base form ka use kiya jaata hai. Isliye 'I used to go' sahi hoga."
+            },
+            {
+              "id": 47,
+              "question": "You may ask (a)/ someone where the ship (b)/ is bounded for. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'bound' in place of 'bounded'.\nExplanation:- 'bound for' phrasal verb hoti hai jiska matlab 'kisi jagah ki taraf'.\nEg. This bus is bound for Broadway. Aur ek verb hoti hai 'bind' jiska matlab hota hai (rassi se baandhna) aur iski form hoti hai 'bind, bound, bound'.\nEg. They bound the prisoner's hands behind his back. Aur ek aur verb hoti hai 'bound' jiska matlab 'bade bade steps leke bhaagna' jiski form 'Bound, bounded, bounded' hoti hai. Sentence ka matlab 'ship kaha jaa raha hai', toh 'jaane waale meaning ke liye 'bound for' phrasal verb ka use sahi hai."
+            },
+            {
+              "id": 48,
+              "question": "The problems that our(a)/ country has and will face (b)/ are the outcome of the selfishness (c)/of our so called saviours.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'has faced and will face' in place of 'has and will face'\nExplanation:- sentence ka matlab hai 'jo problems apni country face karti hui aa rahi hai aur kargi', toh 'has' ke baad verb ki 3rd form aati hai aur 'will' ke baad verb ki base form, isliye yahan main verb ko common nahi liya jaa sakta. Isliye 'has faced and will face' verb sahi hogi"
+            },
+            {
+              "id": 49,
+              "question": "They made her (a)/as the Chairperson (b)/of their bank (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Remove 'as'\nExplanation:- kyunki 'as' comparison ko dikhata hai aur yahan 'her' and 'chairperson' ek hi hai toh comparison nahi hoga. Isliye yahan 'as' ka use nahi hoga. Grammatically baat Karein toh 'her' object hai aur 'chairperson' object complement hai."
+            },
+            {
+              "id": 50,
+              "question": "It is be said (a)/ that in 2019 (b)/ the Indian Stock Market will fall (c)/drastically and we can expect that fall very soon.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'it is being said' or 'it is said' instead of 'it is be said'\nExplanation:- jab koi expected event ke baare mein batana ho aur yeh wala meaning ho ki 'aisa kaha jata hai' yaa 'aisa kaha jaa raha hai', toh iss meaning ke liye phrase 'it is said' ka use hota hai aur agar wo event chal raha hai toh present continous ka passive 'it is being said' ka use hota hai, sentence ke according dono structure possible hai."
+            },
+            {
+              "id": 51,
+              "question": "Most of my friends(a)/ heard the earthquake (b)/ but I was totally unaware of it. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'felt' in place of 'heard'.\nExplanation:- kyunki earthquake feel kiya jaayega naa ki suna jaayega. Isliye yahan 'heard' ki jagah 'felt' aayega."
+            },
+            {
+              "id": 52,
+              "question": "The President (a)/ overtakes (b)/ in Bangladesh. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'takes over' in place of 'overtakes'.\nExplanation:- 'take over' ka matlab 'kisi cheez pe control karna', aur 'overtake' ka matlab 'kisi vehicle wagera se aage nikal jana', sentence ka matlab hai 'president ne Bangladesh ka control le liya', isliye yahan 'takes over' sahi hoga."
+            },
+            {
+              "id": 53,
+              "question": "Our equipment gets damage (a)/very often in summer because (b)/there are frequent power cuts.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'damaged' in place of 'damage'.\nExplanation:- 'get' linking verb ki tarah kaam karti hai aur iske baad subject complement ke roop mein adjective aate hai, lekin 'damage' yahan verb hai, isliye isse adjective banana ke liye past participle(adjective) 'damaged' mein change karna hoga. Isliye yahan 'gets damaged' sahi hoga. eg. 'He got injured. He got tired'."
+            },
+            {
+              "id": 54,
+              "question": "It was a (a)/windy autumn day (b)/and leaves were fallen (c)/rapidly from the trees.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'falling' instead of 'fallen'\nExplanation:- kyunki 'fall' happening verb hai iska passive nahi banta aur yahan meaning passive wala nahi dena. Balki yeh kehna hai ki 'wo ek windy autumn day tha jisme jaldi jaldi tree se patte gir rahe the', toh koi cheez ho rahi thi, isliye yahan 'fall' verb ki happening(ing) form 'were falling' sahi hoga."
+            },
+            {
+              "id": 55,
+              "question": "He transferred (a)/the melted iron (b)/in a large container.(c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'molten' instead of 'melted'.\nExplanation:- Yahan 'iron' noun ko qualify karne ke liye adjective ki jarurat hai. Aur 'melt' verb ki form 'Melt, Melted, Melted' hoti hai aur 'molten' ek adjective hota hai, isliye yahan 'molten iron' sahi hoga."
+            },
+            {
+              "id": 56,
+              "question": "He was so curious [that he rose many questions] in the meeting.",
+              "options": [
+                "(a) that he raised many questions",
+                "(b) that he rose much questions",
+                "(c) that he aroused many questions",
+                "(d) No substitution"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation: Ye question 'rise, raise and arouse' ke difference pe based hai. 'raise' transitive verb hoti hai jisme matlab 'uthana, badhaana, paalna' hota hai aur 'rise, arise' dono intransitive verb hoti hai, sentence mein transitive verb chaiye kyunki 'questions' object diya hai sentence ka matlab hai 'usne uthaaye bahut saare question meeting mein', toh meaning aur grammar ke according 'raised' verb sahi hogi. 'raise' verb ki forms 'raise, raised, raised' hoti hai."
+            },
+            {
+              "id": 57,
+              "question": "My friend [is owing an expensive cell phone].",
+              "options": [
+                "(a) own an expensive cell phone",
+                "(b) owns an expensive cell phone.",
+                "(c) No substitution",
+                "(d) is own an expensive cell phone"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'own' possession ko dikhane wali ek stative verb hoti hai aur iski 'ing form' nahi hoti. Subject singular hai isliye 'owns' singular verb wala option B sahi hoga."
+            },
+            {
+              "id": 58,
+              "question": "Delegates of the conflicting countries formally meet at a conference [to ironing out] their differences.",
+              "options": [
+                "(a) No substitution",
+                "(b) to ironed",
+                "(c) for iron in",
+                "(d) to iron out"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- yahan 2 concepts use ho rahe hai. Ek toh yeh ki action ka purpose bataane ke liye yaa verb se 'why' ka reply dene ke liye 'to + v1' infinitive ka use hota hai. Dusra concept 'iron out' phrasal verb hoti hai meaning 'problems aur dispute ko niptaana'. Toh sentence ke meaning ke according 'to iron out' option D sahi hoga."
+            },
+            {
+              "id": 59,
+              "question": "The Intern should [take a right choice] in choosing the right job for her.",
+              "options": [
+                "(a) rake a right choice",
+                "(b) make a right choice",
+                "(c) fix a right choice",
+                "(d) take the right choice"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'Make a right choice/ decision' ek fix expression hai. yeh fix expression reading se hi pata chalte hain. Isliye option B sahi hoga."
+            },
+            {
+              "id": 60,
+              "question": "Old people [acquire experience] through age.",
+              "options": [
+                "(a) got experience",
+                "(b) developed experience",
+                "(c) experienced",
+                "(d) gain experience"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- 'experience prapt karna' meaning dene ke liye 'gain experience' ka use hoga. Yeh reading based question hote hain ki kya meaning mein konsi verb ayegi."
+            },
+            {
+              "id": 61,
+              "question": "The application of the medicine seemed to [lesson] his pain.",
+              "options": [
+                "(a) No substitution",
+                "(b) lesion",
+                "(c) lessen",
+                "(d) lessoned"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- yahan infinitive likhna hai jo 'to + v1' se banta hai. 'lesson, lesion' word noun hote hai or 'lessen' ek verb hai or 'lessened' past participle (adjective) hota. Toh infinitive ke liye verb ki jarurat hai, isliye 'to lessen' ka use sahi hoga."
+            },
+            {
+              "id": 62,
+              "question": "Eighty girls sat there at four long tables, [doing their homework by] candlelight.",
+              "options": [
+                "(a) to have done their homework with",
+                "(b) no improvement required",
+                "(c) to doing their homework by",
+                "(d) doing its homework by"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- yahan meaning yeh dena hai ki 'eighty girls 4 long tables pe bethkar apna homework karti hui candle light ke side mein', toh continuity dikhaani hai isliye 'doing' present participle ko sahi use kiya gaya hai. Isliye option A galat hoga. C option isliye nahi hoga kyunki yaa toh meaning ke according 'doing' se a sakta hai yaa 'to do' lekin 'to doing' se nahi. D option isliye nahi hoga kyuki usme 'its' likha hai, jabki 'girls' ke liye 'their' chaiye, isliye 'no improvement' sahi hoga."
+            },
+            {
+              "id": 63,
+              "question": "The snowstorm in that region [will effect thousand] of travellers.",
+              "options": [
+                "(a) would affecting thousand",
+                "(b) will effect thousands",
+                "(c) No improvement required",
+                "(d) will affect thousands"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- 'Affect' verb hoti hai aur 'Effect' noun hota hai. Sentence mein verb ki jarurat hai, isliye option B aur C galat honge. Option A bhi galat hoga kyunki 'would' model hai aur model ke baad verb ki base form aati hai, isliye option A bhi galat hoga. Hazaro travellers meaning dene ke liye yahan 'thousands of travellers' ka use hoga. Isliye D option 'will affect thousands' hi sahi hoga."
+            },
+            {
+              "id": 64,
+              "question": "A clinical thermometer [consists of a] long, narrow, uniform glass tube.",
+              "options": [
+                "(a) consisting of a",
+                "(b) No improvement",
+                "(c) consist of a",
+                "(d) consisted in a"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- A option isliye nahi hoga kyunki 'consist' ek stative verb hai iski 'ing' form nahi hoti. C option isliye nahi hoga kyunki singular subject ke according singular verb aayegi. D option isliye nahi hoga kyunki yahan ek fact bataya jaa raha jo ki present indefinite tense yani v1 mein likha jata hai. Isliye yeh 'no improvement' hoga."
+            },
+            {
+              "id": 65,
+              "question": "The district [woken up to a] thick blanket of snow this morning as the winter entered its most bitter phase.",
+              "options": [
+                "(a) wake up to a",
+                "(b) No improvement",
+                "(c) awaken up to an",
+                "(d) woke up to a"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation: question mein aage 'entered' word se pata chal raha hai ki past tense ayega, 'woken' 3rd form hoti hai, isliye option B galat hoga, 'awaken' jaise koi word nahi hai 'awoken' hota hai, isliye option C bhi galat hoga, past tense ki baat karni hai, isliye sirf D option verb ki 2nd form 'woke up to a' sahi hoga."
+            },
+            {
+              "id": 66,
+              "question": "The small farmers often [need at] borrow money to meet high expenses.",
+              "options": [
+                "(a) No improvement",
+                "(b) needs to",
+                "(c) need to",
+                "(d) needling to"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Generally need verb ke baad infinitive ka structure aata hai.\nEg. He needs to study hard. isliye C option 'need to' aayega."
+            },
+            {
+              "id": 67,
+              "question": "Rioting broke out after the government [raised] the fuel prices again.",
+              "options": [
+                "(a) raising",
+                "(b) raise",
+                "(c) No substitution",
+                "(d) is raising"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Sentence mein 'broke' 2nd form se pata chal raha ki sentence past mein hai isliye diye gaye options mein 'raised' verb ki 2nd form he sahi hoga. Isliye 'no substitution' sahi hoga."
+            },
+            {
+              "id": 68,
+              "question": "As the tree came crashing down, the monkeys [woke up from its sleep] and ran from branch to branch.",
+              "options": [
+                "(a) woke up from their sleep",
+                "(b) No improvement required",
+                "(c) waken up in their sleep",
+                "(d) wakes up from its sleep"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- sentence mein 'came' verb se pata chal raha sentence past mein hai aur 'monkeys' plural hain, isliye 'their' ka use hoga. isliye 'woke up from their sleep' A option sahi hoga. 'waken' jaise word nahi hota, 'woken' 3rd form hoti hai."
+            },
+            {
+              "id": 69,
+              "question": "The prospects of surviving any serious illness are improved if the disease is [catching early].",
+              "options": [
+                "(a) being caught early",
+                "(b) caught early",
+                "(c) No substitution",
+                "(d) catch earlier"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- sentence ka matlab hai 'kisi bhi serious bimaari se bachne ka prospect bhad jaayega agar uss bemaari ko samay se pakad liya jaaye', toh yahan 'disease' kuch nahi pakdegi, balki disease ko pakadna hai, isliye isse passive voice mein likhenge isliye option D galat hoga. Option A aur C bhi galat honge kyunki yeh continuous mein likhe, sentence mein koi continuity show nahi karni, Toh passive ke according 'is caught early' wala option B sahi hoga."
+            },
+            {
+              "id": 70,
+              "question": "The range of flavours is determined by where the plant species is grown and how [it is processed].",
+              "options": [
+                "(a) it was processing",
+                "(b) it is processing",
+                "(c) No substitution",
+                "(d) it was processed"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Sentence ka maltab hai 'flavours ki range determine hoti hai ki kahan plant ki species grow hui hai aur kaise unhe process kiya gaya hai', toh 'plant' kuch process nhai kar rahe balki unhe 'process' kiya jaa raha hai, isliye yahan passive voice aayega, option A aur B galat honge kyunki active mein likhe hai, sentence mein kahi gayi baat ek fact ke taur pe hai naa ki past ka koi action isliye yahan present indefinite ka passive 'it is processed' he sahi hoga. Option C sahi hoga."
+            },
+            {
+              "id": 71,
+              "question": "The news about the surge in Covid-19 cases [is broadcasted] every morning.",
+              "options": [
+                "(a) are broadcast",
+                "(b) is broadcast",
+                "(c) are broadcasted",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Noun chapter ke according 'news' ke sath verb singular aati hai aur 'broadcast' verb ki form 'v1,v2,v3' same hi hoti hai. Isliye 'is broadcast' B option sahi hai"
+            },
+            {
+              "id": 72,
+              "question": "The pilgrims [were fined them] one thousand rupees each for littering around the shrine.",
+              "options": [
+                "(a) No substitution",
+                "(b) have fined them",
+                "(c) was fined with",
+                "(d) were fined"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- sentence ka maltab hai 'Pilgrims par fine Igaya gaya' naa ki 'pilgrims ne fine lagaya' ye meaning dene ke liye passive voice ka use hoga, isliye B option nahi hoga. Verb plural chahiye isliye C option nahi hoga. object 'them' nahi aayega isliye A option bhi nahi hoga. D option 'were fined' sahi hai."
+            },
+            {
+              "id": 73,
+              "question": "[Hears to] the news tonight at 9 p.m., as there will be an important announcement about the budget.",
+              "options": [
+                "(a) No substitution",
+                "(b) Listened to",
+                "(c) Hear to",
+                "(d) Listen to"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Yeh imperative sentence banana hai isliye v1 ka use hoga aur 'news' ko sunne ke liye 'hear' nahi 'listen' verb ka use hoga isliye D option aayega. 'jab intentionally' sune toh 'listen' aur 'sunai de jaaye', toh 'hear' ka use hota hai."
+            },
+            {
+              "id": 74,
+              "question": "I worked hard so [that I might success].",
+              "options": [
+                "(a) that I may success",
+                "(b) that I might successful",
+                "(c) that I might succeed",
+                "(d) that I might successor"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- yhan modal ke baad verb ki base form aayegi. success and successor noun hain, successful adjective hai. succeed verb hai. isliye yhan C option aayega."
+            },
+            {
+              "id": 75,
+              "question": "The green shirt is too [lose for me] to wear.",
+              "options": [
+                "(a) lost for me",
+                "(b) loose for me",
+                "(c) No substitution",
+                "(d) loss for me"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'lose' verb ka maltab (harna yaa kho dena), 'loss' noun ka matlab (nuksaan), 'loose' adjective ka matlab (dheela), 'is' linking verb ke baad adjective ki jarurat hai, isliye 'loose' adjective ka use sahi hoga."
+            },
+            {
+              "id": 76,
+              "question": "According to J Krishnamurti, education is not about having a career but about being able to look, [observation] and listen.",
+              "options": [
+                "(a) observer",
+                "(b) observant",
+                "(c) observe",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- yahan 3 infinitives ko joda gaya hai 'to look', 'to observe' and 'to listen'. yeh concept advance verb mein padhaya jata hai ki jab 2 yaa 2 se jada infinitive conjunction se jode jaate hain uss case 'to' bas first infinitive ke sath hi likhte hain. Isliye C option aayega. A mein 'observer' noun hai isliye galat hai. B mein 'observant' adjective hai isliye galat hai. D mein 'observation' noun hai isliye galat hai."
+            },
+            {
+              "id": 77,
+              "question": "The river [overflew it's banks] in the monsoon.",
+              "options": [
+                "(a) overflew its bank",
+                "(b) overflows it's banks",
+                "(c) No substitution",
+                "(d) overflowed its banks"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- 'Banks' (river ke kinaare) yeh word noun hai ispe river ka possession banane ke liye 'its' possessive adjective ka use hoga. 'It's = 'It is' hota hai aur ye pronoun + verb hota hai isliye B option galat hai. 'overflow' verb ki form 'overflow, overflowed, overflowed' hoti hai, isliye option D 'overflowed its banks' sahi hoga."
+            },
+            {
+              "id": 78,
+              "question": "If somebody attacks you, you [needs be able] to defend yourself.",
+              "options": [
+                "(a) No substitution",
+                "(b) need to be able",
+                "(c) need being able",
+                "(d) need be able"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'You' subject ke baad verb plural aati hai aur 'need' verb ke baad generally infinitive se structure banta hai isliye 'need to be able' option B sahi hoga."
+            },
+            {
+              "id": 79,
+              "question": "The children's cricket ball hit their neighbour's window [and it broke].",
+              "options": [
+                "(a) and it is broke",
+                "(b) and it broken",
+                "(c) and it was breaking",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- yahan meaning dena hai 'wo khidki toot gyi' iske liye happening verb 'it broke' sahi lagi hui hai. A option me 'is' ke baad v2 diya hai, B option mein v3 bina helping verb ke hai, C option me continuous hai. isliye ye teeno options galat hai."
+            },
+            {
+              "id": 80,
+              "question": "My student, a doctor by profession, [preferring to walk] to the hospital everyday.",
+              "options": [
+                "(a) preferring walking",
+                "(b) no improvement",
+                "(c) prefers to walk",
+                "(d) prefer to walking"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'everyday' se pata chal raha ki habitual action hai, aur Habitual action ke liye present indefinite tense yani 'V1' lagate hai aur subject singular hai isliye verb singular ayegi. isliye C option 'prefers to walk' sahi hai."
+            },
+            {
+              "id": 81,
+              "question": "I request you [to not to crack] jokes in the class.",
+              "options": [
+                "(a) not to crack",
+                "(b) no improvement.",
+                "(c) to not to cracking",
+                "(d) not cracking"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Kisi ko kuch karne ki request ke liye generally ye structure use hota hai: 'I request you to help me.' Yahan kuch naa karne ki request hai iske liye 'not + infinitive' ka use hota hai. isliye 'not to crack' A option sahi hai."
+            },
+            {
+              "id": 82,
+              "question": "[Shall you pass] me that pasta bowl?",
+              "options": [
+                "(a) Shall pass you",
+                "(b) Can you pass",
+                "(c) Could passing you",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- yahan khane ka bowl pass karne ki request kari jara hi hai jo ki informal request ke ander ayega, informal request ke liye 'can' model ka use karte hai isliye 'can you pass' wala option B sahi hoga."
+            },
+            {
+              "id": 83,
+              "question": "I told Pooja [that she could have use my car to get around] while she is in my hometown",
+              "options": [
+                "(a) that she could have use my car to get around with",
+                "(b) that she can use my car to get around",
+                "(c) that she could have use my car to get away",
+                "(d) that she can use my car to get away with"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- A and C option galat hai kyunki 'modal + have + V3' sahi structure hota hai. D option ke last me 'get away with' dia hai jiska meaning 'punishment se bachke nikal jana hota hai' jo sentence ke meaning ke according sahi nahi hai. B option mein jo 'get around' hai uska meaning hota hai ka matlab 'bina kisi problem ke alag alag jagahon pe jana', toh isse matlab hoga 'wo meri car use kar sakti hai kahin bhi jaane ke liye jab wo seher mein ho', toh meaning ke according 'to get around' wala option B sahi hoga.\nNote:- Tense chapter ke concept ke according main clause past mein hai toh sub clause bhi past mein hona chahiye but aisa koi option nahi hai jo grammatically 100% sahi ho toh diye gaye options mein se B best hai usi ko mark karna padega."
+            },
+            {
+              "id": 84,
+              "question": "[Would you have been] so kind as to close the window?",
+              "options": [
+                "(a) No substitution",
+                "(b) Would you be",
+                "(c) Would you being",
+                "(d) Will you been"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Polite request ke liye 'would' modal ka use hota hai aur modal ke baad verb base form mein aati hai isliye B option 'would you be' sahi hoga."
+            },
+            {
+              "id": 85,
+              "question": "[Do I need] finish this work today itself?",
+              "options": [
+                "(a) Must I to",
+                "(b) Need I",
+                "(c) No improvement",
+                "(d) Do I must"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'Need' modal ya main verb banta hai jiske yahan according 2 structures ho sakte the. 'Do I need to finish this work today itself?' , aur 'Need I finish this work today itself?'. 1st structure mein need ke baad infinitive chahiye tha jo ki diya nahi hai. isliye B option 'Need I finish' hi mark kiya jaayega."
+            },
+            {
+              "id": 86,
+              "question": "Don't park your car here, the police [should] tow it away.",
+              "options": [
+                "(a) ought to",
+                "(b) need to",
+                "(c) might",
+                "(d) No substitution"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation: yahan possibility show karni hai, generally possibility show karne ke liye 'may' yaa 'might' modal ka use hota hai. Isliye C option 'might' use hoga."
+            },
+            {
+              "id": 87,
+              "question": "My uncle and his family [may come] late last night, but I am not sure.",
+              "options": [
+                "(a) would come",
+                "(b) might have come",
+                "(c) should come",
+                "(d) might come"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- yahan meaning ye dena hai ki 'mere uncle aur unki family shayad kal der raat aaye honge.' iss meaning ke liye 'modal + have + V3' ka structure use hota hai. isliye B option 'might have come' ka use hoga."
+            },
+            {
+              "id": 88,
+              "question": "If Sahana works till night she [can be] able to finish her homework.",
+              "options": [
+                "(a) can able to",
+                "(b) can able",
+                "(c) could be",
+                "(d) could"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- 'Can' yaa 'Could' modal ka use jab ability dikhaane ke liye kiya jata hai toh inke baad 'be able to' ka use superfluous ho jata hai matlab unnecessary ho jata hai. Options ke according best answer D hai."
+            },
+            {
+              "id": 89,
+              "question": "Natwar was a fraudster who always tried to [fooling] others.",
+              "options": [
+                "(a) betraying",
+                "(b) deceive",
+                "(c) cheating",
+                "(d) revealing"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Iss question mein verbs ke meanings se confuse na hona. yahan simple concept yeh ki yahan 'try' verb ke baad infinitive likhna hai 'to' bhi likha hai isliye base form 'deceive' lagake 'to deceive' infinitive ban jaayega. Kyunki infinitive mein 'to+v1' ka use hota hai."
+            },
+            {
+              "id": 90,
+              "question": "Last week's rain [ravaged] the whole city.",
+              "options": [
+                "(a) reaffirmed",
+                "(b) rescinded",
+                "(c) ruined",
+                "(d) retracted"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Yeh question or aage bhi kaafi question mainly verb ke meaning pe based hain. Sentence and verb ke meaning ke according best option select karna hai.\n'Ravage' aur 'Ruin' ka matlab kisi cheez ko bahut buri tarah nuksan pahuchana', 'Rescind' ka matlab 'kisi law wagera ko cancel karna', 'Retract' ka matlab 'peche hatna yaa promise wagera se mukar jana', toh sahi meaning ke according 'ruined' option C sahi hoga."
+            },
+            {
+              "id": 91,
+              "question": "Her hopes for building her own [house were beaten when] she lost her jewellery box.",
+              "options": [
+                "(a) house were defeated when",
+                "(b) house were frustrated when",
+                "(c) house were relieved when",
+                "(d) house were dashed when"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Yeh verb ke meaning pe based question hai\nwere defeated - hara di gyi\nwere frustrated - pareshan kar di gyi\nwere relieved - free kar di gyi\nwere dashed - khatam ho gyi.\n'Dash someone's hopes' ek idiom hai jiska meaning hota hai 'kisi ki hopes khatam karna' Isliye meaning ke according D option aayega."
+            },
+            {
+              "id": 92,
+              "question": "In times of difficulty, she [preys] for an oracle to guide her.",
+              "options": [
+                "(a) pray",
+                "(b) praise",
+                "(c) price",
+                "(d) prays"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Prey (noun) shikaar, Pray (verb) prarthna karna, Praise (verb) tareef karna, price (noun) keemat, Isliye grammar and meaning ke base pe yahan D option 'prays' aayega kyunki Subject singular hai."
+            },
+            {
+              "id": 93,
+              "question": "The government has finally agreed to [wave] the entertainment tax on the movie.",
+              "options": [
+                "(a) waive",
+                "(b) wager",
+                "(c) waiver",
+                "(d) web"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- wave (verb) - haath hilana, wave (noun) samundar ki leher, waive (verb) - apna haq yaa claim tyaag dena, Wager (verb) to bet or gamble, Waiver(noun)- a document that records the fact that someone has given up the right to a claim, isliye meaning and grammar ke according yahan A option 'waive' aayega."
+            },
+            {
+              "id": 94,
+              "question": "Polyethylene terephthalate, one of the most often recycled plastics and the material used in the majority of water and soda bottles, [can be transformed] into everything from polyester fabric to automotive parts.",
+              "options": [
+                "(a) might be placed",
+                "(b) might be evolved",
+                "(c) may be converted",
+                "(d) may be devaluated"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'might be placed' ka matlab 'rakha jaa sakta hai', 'might be evolved' ka matlab 'evolution kiya jaa sakta hai', 'may be converted' ka matlab 'ek form se dusre form change kiya jaa sakta hai', 'may be devaluated' ka matlab 'value ko kam kiya jaa sakta hai', Isliye yahan sentence ke meaning ke according 'may be converted' C option sahi hoga."
+            },
+            {
+              "id": 95,
+              "question": "Oscar is the most prestigious award which is [introduced to good] actors in that year.",
+              "options": [
+                "(a) rewarded to good",
+                "(b) nominated to fine",
+                "(c) awarded to best",
+                "(d) attached to fine"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'Award' dene ke liye 'awarded' verb ka use hoga aur oscar obviously best actors ko hi milta hai, isliye 'awarded to best' C option sahi hoga."
+            },
+            {
+              "id": 96,
+              "question": "The art history teacher was sacked after [she were thought] taking school supplies.",
+              "options": [
+                "(a) she was wondered",
+                "(b) she was dumped",
+                "(c) she was caught",
+                "(d) she was enlightened"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation: Sentence ke meaning ke according 'teachers ko job se nikal diya gaya kyunki wo school supplies ko chori karti pakdi gayi'. Iss meaning ke liye C option 'she was caught' aayega."
+            },
+            {
+              "id": 97,
+              "question": "I am working hard in order to [earn a decent living].",
+              "options": [
+                "(a) buying a decent living",
+                "(b) earning a better living",
+                "(c) purchase a reputed life",
+                "(d) No substitution"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) No substitution.\nExplanation:- 'in order to' ke baad verb ki base form ayegi isliye A and B option galat honge. option C meaning ke according sahi nahi hai. D option 'earn a decent living' ka meaning hai 'earn enough money to live a good life' isliye meaning and grammar ke according D option hi sahi hai."
+            },
+            {
+              "id": 98,
+              "question": "Many companies [displaced playing] income tax last year.",
+              "options": [
+                "(a) hedged to paying",
+                "(b) circumvent to paying",
+                "(c) hedged in paying",
+                "(d) evaded paying"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- A and C option mein 'Hedge' ka matlab 'kisi question ka seedha jawab dene se bachna' jo ki sentence mein required meaning ke according galat hai. Option B mein 'Circumvent' ka meaning hota hai- 'kisi cheez ko avoid karna' lekin iske baad 'to' preposition ka use galat hai, D option me 'evade paying' ka matlab hai 'pay karne se bachna'. D option grammar and meaning dono ke according sahi hai."
+            },
+            {
+              "id": 99,
+              "question": "You must [aware of] friends who speak against you.",
+              "options": [
+                "(a) caution of",
+                "(b) beware of",
+                "(c) scarce of",
+                "(d) careful of"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'must' ek modal hai iske baad main verb ayegi. 'Caution' noun hai, 'scarce and careful' Adjective hain, isliye A, C, D options galat hain. B option mein 'beware' ek verb hai jo grammar and meaning ke according sahi hai."
+            },
+            {
+              "id": 100,
+              "question": "The [child felt down] from a great height.",
+              "options": [
+                "(a) child fallen down",
+                "(b) child fall down",
+                "(c) child fell down",
+                "(d) child falling down"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- A and D options galat hai kyunki 'V3' and 'v1 + ing' form of verb bina helping verb ke use nahi hoti. B isliye galat hai kyunki 'child' singular hai aur iske baad 'fall' plural verb nahi aa sakti. C option 'fell down' grammatically sahi hai."
+            },
+            {
+              "id": 101,
+              "question": "The little boy [did many mischiefs] in school.",
+              "options": [
+                "(a) performed many mischiefs",
+                "(b) made much mischief",
+                "(c) No Improvement",
+                "(d) did much mischiefs"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:-'mischief' generally uncountable noun hota hai iska plural nahi hota aur iske sath 'many' nahi aa sakta, isliye A, C, D options galat hai. B option grammatically sahi hai.\nNote- 'Make a mistake / make mischief' inn structures mein 'make' verb ka hi use hota hai. ye reading se pata chalta hai."
+            },
+            {
+              "id": 102,
+              "question": "He felt as defenceless as the [sheared] lamb in the field, shivering, stripped of the only protection he had ever had.",
+              "options": [
+                "(a) shearing",
+                "(b) shorn",
+                "(c) shaven",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Yahan sheared ki jagah shorn hoga kyunki shear ki forms sheared sheared hoti hai lekin iski past participle (adjective) form shorn hoti hai."
+            },
+            {
+              "id": 103,
+              "question": "I was [forbidden to take] any drink.",
+              "options": [
+                "(a) prohibited from rebuffing",
+                "(b) prohibited from receiving",
+                "(c) prohibited from rejecting",
+                "(d) prohibited from snubbing"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'prohibited from' ka matlab avoid karna yaa jaane se rokna' aur 'rebuff, Reject, snub' inn sab verb ka meaning 'ignore karna yaa avoid karna' hota hai isliye yeh verb 'prohibit' ke sath galat hai. B option 'prohibited from receiving' meaning ke according sahi hai. Jisse matlab hoga 'mujhe mana kiya gaya hai koi bhi drink lene se'"
+            },
+            {
+              "id": 104,
+              "question": "She [does not helping to getting angry] when she sees someone being treated unfairly.",
+              "options": [
+                "(a) is not help to being getting angry",
+                "(b) may not help to got angry",
+                "(c) will not help to gets angry",
+                "(d) cannot help getting angry"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- yahan sentence ka meaning ye dena hai ki:- 'wo khud ko rok nahi paati gussa hone se jab wo kisi ko unfairly treat hote hue dekhti hai'. Ye khud ko rok naa pana wala meaning dene ke liye 'can/could not help + gerund' structure ka use hota hai. eg. I could not help crying when I saw his body. question mein aisa hi meaning dena tha isliye D option sahi hai."
+            },
+            {
+              "id": 105,
+              "question": "We [might as well] watch a film on TV as there's nothing much to do.",
+              "options": [
+                "(a) No improvement",
+                "(b) may as such",
+                "(c) may as well as",
+                "(d) might well"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) No improvement required\nExplanation:- yahan meaning yeh dena hai ki 'Hum tv pe ek film bhi dekh sakte hai kyunki or jada kuch karne ke liye hai nahi, yahan', 'as well' yahan koi simile etc nahi hai ye ek adverb hai jiska meaning 'also jaisa hota hai' isliye yahan grammar and meaning ke according yahan 'We might as well watch..' already sahi use kiya gaya tha."
+            },
+            {
+              "id": 106,
+              "question": "Juliet is [telling to] Ben to complete the work immediately.",
+              "options": [
+                "(a) telling",
+                "(b) informing to",
+                "(c) saying",
+                "(d) asking to"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'Inform, ask and tell' inn verbs ke baad human being direct likha jata hai bina 'to' preposition ke aur 'say' verb ke sath 'to' lagana padta hai agar human being likhna ho toh. Inn reasons ki wajah se option B, C and D galat hai. A option 'is telling Ben' sahi hai."
+            },
+            {
+              "id": 107,
+              "question": "He [described about the scenery] yesterday.",
+              "options": [
+                "(a) No improvement",
+                "(b) described the scenery",
+                "(c) describing about the scenery",
+                "(d) describe the scenery"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- A and C option galat hain kyunki 'describe' transitive verb hai isliye iske or object ke beech mein preposition nahi ayegi. D isliye nahi aayega kyunki verb plural likhi hai aur waise bhi sentence ke last mein yesterday likha hai isliye past tense verb ki 2nd form ka use hoga, isliye B option 'described the scenery' sahi hai."
+            },
+            {
+              "id": 108,
+              "question": "The workers' union has threatened [for going to] an indefinite strike.",
+              "options": [
+                "(a) to be going for",
+                "(b) No substitution",
+                "(c) for go to",
+                "(d) to go on"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- kuch karne ki dhamki dene wale meaning mein 'threaten' verb ke baad infinitive lagaya jata hai isliye D option 'threatened to go on an indefinite strike' sahi hai."
+            },
+            {
+              "id": 109,
+              "question": "You will be in trouble if you don't [obey to my] orders.",
+              "options": [
+                "(a) obey with my",
+                "(b) No improvement",
+                "(c) obeying my",
+                "(d) obey my"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- 'Do/does/did' helping verb ke baad main verb humesha base form mein aati hai isliye C option galat hai. Obey transitive verb hai iske or object ke beech mein preposition nahi ayegi isliye option A and B bhi galat hai. D option 'don't obey my orders' sahi hai."
+            },
+            {
+              "id": 110,
+              "question": "A man in need [pleaded for help].",
+              "options": [
+                "(a) promised for help",
+                "(b) commanded to help",
+                "(c) no improvement",
+                "(d) requested for helping"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) No improvement\nExplanation:- yahan meaning yeh dena hai ki 'musibat mein pade admi ne madad ke liye gujarish ki' isliye iss meaning ke according 'pleaded for help' already sahi use hua hai."
+            },
+            {
+              "id": 111,
+              "question": "My friend did not understand the story. She asked me [for explain it her].",
+              "options": [
+                "(a) to explain it to her",
+                "(b) no improvement",
+                "(c) to explaining it for her",
+                "(d) can I explain that to her"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- kisi ko koi cheez explain karne ke liye 'explain something to somebody' structure ka use hota hai. Isliye A option 'She asked me to explain it to her' sahi hai.\nNote:- D option isliye galat hai kyunki indirect speech mein interrogative structure use nahi hota. agar D option 'If I could explain it to her' hota to theek ho sakta tha."
+            },
+            {
+              "id": 112,
+              "question": "You can always [dependent on me].",
+              "options": [
+                "(a) depend over me",
+                "(b) depend for me",
+                "(c) depend at me",
+                "(d) depend on me"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- 'can' modal ke baad verb ki base form ayegi aur 'depend' ke sath 'on' preposition aati hai. 'depend on somebody' ka matlab 'kisi pe nirbhar hona, rely karna', isliye 'depend on me' option D sahi hoga."
+            },
+            {
+              "id": 113,
+              "question": "The mob [drove on the rampage] and looted several shops in the locality.",
+              "options": [
+                "(a) played on the rampage",
+                "(b) went on the rampage",
+                "(c) ran on the rampage",
+                "(d) strolled on the rampage"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Yahan 'Go on a rampage' use hoga kyuki ye ek fix phrase hai jiska meaning hota hai :- 'hinsak ho jana yaa hinsak behave karna, jisse nuksan yaa vinaash ho', 'go' ki 2nd form 'went' hoti hai, aur meaning ke according option B sahi hoga."
+            },
+            {
+              "id": 114,
+              "question": "The flames of the fire [leap into] the air.",
+              "options": [
+                "(a) No substitution",
+                "(b) leap in",
+                "(c) leapt into",
+                "(d) leaping into"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation: yahan meaning ke according past indefinite tense aayega naa ki present indefinite isliye option A and B galat hain. 'V1 + ing' bina helping verb ke nahi aata isliye D option galat hai. isliye meaning and grammar ke according C option 'leapt into' sahi hai."
+            },
+            {
+              "id": 115,
+              "question": "On winter evenings, a haze of smog [hang in] Delhi.",
+              "options": [
+                "(a) is hanging over",
+                "(b) hangs over",
+                "(c) hangs up",
+                "(d) No substitution"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation: yahan ek fact bataya jaa raha isliye present indefinite tense lagega, isliye A option galat hai. Yahan singular verb ki requirement hai, isliye D option galat hai. yahan meaning yeh dena hai ki 'delhi ke upar haze of smog hota hai' iss meaning ke liye B option 'hangs over' sahi hai"
+            }
+          ]
         }
       ]
     }
