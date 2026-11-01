@@ -35182,6 +35182,168 @@
               "solutionHinglish": "Ans (a) Cygnus\nExplanation:- See solution of question 19 (level 1)"
             }
           ]
+        },
+        {
+          "id": "t_1793562152651",
+          "name": "Solar System - LEVEL II",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which one among the following planets has the largest number of known satellites? [CDS II 2022]",
+              "options": [
+                "(a) Mars",
+                "(b) Neptune",
+                "(c) Jupiter",
+                "(d) Saturn"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Saturn\nExplanation:- Saturn has 146 moon (satellites), maximum till now.\nSee solution of question 9 (level 1)"
+            },
+            {
+              "id": 2,
+              "question": "Which of the following groups of planets is termed as 'gas planets' as they are composed primarily of lighter ices, liquids and gases? [CDS I 2023]",
+              "options": [
+                "(a) Mars, Jupiter, Neptune, Uranus",
+                "(b) Jupiter, Uranus, Neptune, Saturn",
+                "(c) Saturn, Mars, Jupiter, Neptune",
+                "(d) Neptune, Saturn, Mars, Uranus"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Jupiter, Uranus, Neptune, Saturn\nExplanation:- Jovian planets are composed primarily of ice, gas and liquids while terrestrial planets are composed of rocks and metals.\nSee solution of question 12 (level 1)"
+            },
+            {
+              "id": 3,
+              "question": "Consider the following statements about some planets in the solar system:\n1. Mercury has no atmosphere.\n2. Venus has two moons.\n3. There is no land on Jupiter.\n4. Rings of Saturn are composed of lumps of ice and dust.\nWhich of the statements given above are correct? [CDS II 2023]",
+              "options": [
+                "(a) 1 and 2 only",
+                "(b) 3 and 4 only",
+                "(c) 1, 2 and 3",
+                "(d) 1, 3 and 4"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) 1, 3 and 4\nExplanation:- Mercury doesn't have any atmosphere because of its small size, weak gravity and its proximity to the Sun. Venus doesn't have any moon.\nJupiter being a jovian planet is made up of gases, hence lacking any solid surface."
+            },
+            {
+              "id": 4,
+              "question": "In Sun-earth system, the Sun, the Earth and Lagrange point L4 form: [CDS II 2024]",
+              "options": [
+                "(a) An isosceles triangle",
+                "(b) An equilateral triangle",
+                "(c) A straight line",
+                "(d) A scalene triangle"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) An equilateral triangle\nExplanation:- Lagrange point - a point in space where the gravitational pull of two big masses equals the centripetal force of a small mass. Total 5 points - L1, L2, L3, L4, L5\nL1, L2, L3 - Unstable\nL4, L5 - Stable, located at same distance from both Sun and Earth."
+            },
+            {
+              "id": 5,
+              "question": "In Sun-Earth system, the distance between Lagrange points L2 and L3 is about [CAPF 2024]",
+              "options": [
+                "(a) 15 lakh kilometres",
+                "(b) 30 lakh kilometres",
+                "(c) 16 crore kilometres",
+                "(d) 32 crore kilometres"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) 32 crore kilometres\nExplanation:- Do you know that the James Web space telescope is placed in the L2 lagrange point?"
+            },
+            {
+              "id": 6,
+              "question": "Which one of the following statements about the solstices, an event that occurs when the Sun appears to reach most northerly or southerly, is correct? [CAPF 2024]",
+              "options": [
+                "(a) The winter solstice takes place on June 21 in both the northern and southern hemispheres.",
+                "(b) The winter solstice takes place on December 21 in both the northern and southern hemispheres.",
+                "(c) The summer solstice occurs in northern hemisphere on June 21 and on December 21 in southern hemisphere.",
+                "(d) The summer solstice occurs in northern hemisphere on December 21 and on June 21 in southern hemisphere."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) The summer solstice occurs in northern hemisphere on June 21 and on December 21 in southern hemisphere.\nExplanation:- Summer solstice (21 June) - rays of Sun fall vertically on Tropic of Cancer (23.5° N) - summer in NH, winter in SH\nWinter solstice (22 Dec) - rays of Sun fall vertically on Tropic of Capricorn (23.5° S) - winter in NH, summer in SH\nEquinox (21 March & 23 Sept) - rays of Sun fall vertically on equator - equal day and night"
+            },
+            {
+              "id": 7,
+              "question": "Which one of the following statements with reference to the Nebular Hypothesis for the origin of the Solar System is correct? [CAPF 2024]",
+              "options": [
+                "(a) The initiation of the nebular hypothesis can be considered as a diffuse, roughly spherical, slowly rotating expanding nebula.",
+                "(b) As a result of rotation and expansion, a disk is formed with matter concentrated in the centre.",
+                "(c) Expansion continues with the formation of the proto-Sun and the rings of material are left behind.",
+                "(d) The material in the rings get condensed and form the planets that revolve in orbits around the Sun."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) The material in the rings get condensed and form the planets that revolve in orbits around the Sun.\nExplanation:- According to the Nebular Hypothesis, the material in the rings gets condensed and forms the planets that revolve in orbits around the Sun."
+            },
+            {
+              "id": 8,
+              "question": "According to the Big Bang theory of the origin of the Universe, the age of the Universe is estimated at about: [CISF AC 2023]",
+              "options": [
+                "(a) 0-3 million years",
+                "(b) 4-6 billion years",
+                "(c) 7-10 billion years",
+                "(d) 13-18 billion years"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) 13-18 billion years\nExplanation:- See solution of question 1 (level 1)"
+            },
+            {
+              "id": 9,
+              "question": "Which one of the following planets has the highest density? [NDA I 2021]",
+              "options": [
+                "(a) Mercury",
+                "(b) Venus",
+                "(c) Jupiter",
+                "(d) Earth"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Earth\nExplanation:- Saturn is the least dense planet while Earth is the densest planet (5.51 g/cm³)"
+            },
+            {
+              "id": 10,
+              "question": "Which one from among the following planets is largest in size? [NDA I 2023]",
+              "options": [
+                "(a) Earth",
+                "(b) Venus",
+                "(c) Mars",
+                "(d) Mercury"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Earth\nExplanation:- Earth is the largest planet among the given options.\nSize of planets - Jupiter > Saturn > Uranus > Neptune > Earth > Venus > Mars > Mercury."
+            },
+            {
+              "id": 11,
+              "question": "Which one of the following astronomers proved that the Earth and other planets revolve around the Sun? [NDA I 2023]",
+              "options": [
+                "(a) Copernicus",
+                "(b) Kepler",
+                "(c) Galileo",
+                "(d) Newton"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Copernicus\nExplanation:- Copernicus gave Heliocentric model of universe meaning that the Earth and other planets revolve around the Sun.\nDo you know that before Copernicus, Ptolemy gave Geocentric model which said that Earth is at the centre of the universe and Sun, moon revolve around it?\nLaws of Kepler - (1) planets move in elliptical orbits with the Sun as a focus, (2) a planet covers the same area of space in the same amount of time, and (3) a planet's orbital period is proportional to the size of its semi-major axis."
+            },
+            {
+              "id": 12,
+              "question": "Which one of the following is the correct sequence of arrangement of the given planets in descending order of their density (in gm/cm³)? [NDA I 2023]",
+              "options": [
+                "(a) Earth > Jupiter > Venus > Saturn",
+                "(b) Jupiter > Earth > Saturn > Venus",
+                "(c) Earth > Venus > Jupiter > Saturn",
+                "(d) Earth > Venus > Saturn > Jupiter"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Earth > Venus > Jupiter > Saturn\nExplanation:- Planets as per their density (lowest to highest) - Saturn < Uranus < Jupiter < Neptune < Mars < Venus < Mercury < Earth."
+            },
+            {
+              "id": 13,
+              "question": "Which of the following are called 'terrestrial planets'? [GEOSCIENTIST 2022]",
+              "options": [
+                "(a) Earth, Mars, Jupiter, Mercury",
+                "(b) Jupiter, Mercury, Saturn, Earth",
+                "(c) Earth, Mercury, Mars, Venus",
+                "(d) Mercury, Mars, Earth, Saturn"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Earth, Mercury, Mars, Venus\nExplanation:- Terrestrial planets - Mercury, Venus, Earth, Mars\nJovian planets - Jupiter, Saturn, Uranus, Neptune"
+            }
+          ]
         }
       ]
     }
