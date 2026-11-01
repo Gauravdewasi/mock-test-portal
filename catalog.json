@@ -31263,6 +31263,492 @@
               "solutionHinglish": "Ans (a)\nExplanation:- 'can' aur 'able to' sath mein galat hote hai kyunki dono 'ability' ko dikhate hai, sentence ke meaning ke according future bhi dikhaana aur ability bhi dikhaani hai, lekin 'can' future nahi dikhaata, isliye yahan 'will be able to complete' sahi option hoga. Baaki options mein 'can' ke sath 'able to' likha hai."
             }
           ]
+        },
+        {
+          "id": "t_1793561526928",
+          "name": "TYPES OF CLAUSES",
+          "questions": [
+            {
+              "id": 1,
+              "question": "I asked him [when he would go there].",
+              "options": [
+                "(a) Noun Clause",
+                "(b) Adverb Clause",
+                "(c) Adjective Clause",
+                "(d) Co-Ordinate Clause"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'noun clause'\nExplanation: 'asked' ek di-transitive verb hoti hai jisme 'him' indirect object hai aur 'when he would go there' yeh poora clause direct object hai, jab ek poora clause object(noun) banne ka kaam kare, toh usse noun clause kehte hai."
+            },
+            {
+              "id": 2,
+              "question": "I know the time [when he will come].",
+              "options": [
+                "(a) Adverb Clause",
+                "(b) Noun Clause",
+                "(c) Co-Ordinate Clause",
+                "(d) Adjective Clause"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Correct answer is 'adjective clause'\nExplanation:- 'know' verb hai 'time' object hai, 'when he will come' yeh clause 'time' (object) ko qualify kar raha hai, jo subject/object ko qualify kare, usse adjective kehte hai, aur subject/object ko poore clause qualify kare, toh usse adjective clause kehte hai."
+            },
+            {
+              "id": 3,
+              "question": "He will give me money [when I go to Mumbai].",
+              "options": [
+                "(a) Noun Clause",
+                "(b) Adverb Clause",
+                "(c) Co-Ordinate Clause",
+                "(d) Adjective Clause"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'adverb clause'\nExplanation:- 'give' ek di-transitive verb hai jisme 'me' indirect object aur 'money' direct object hai aur 'when I go to mumbai' yeh poora clause 'give' verb ke action ka samay bata raha hai, jo verb ko qualify kare usse adverb kehte hai, aur verb ko poore clause qualify kare, toh usse 'adverb clause' kehte hai."
+            },
+            {
+              "id": 4,
+              "question": "I shall not tell you [where he lives].",
+              "options": [
+                "(a) Adjective Clause",
+                "(b) Noun Clause",
+                "(c) Adverb Clause",
+                "(d) Pronoun Clause"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'noun clause'\nExplanation:- 'tell' bhi ek di-transitive verb hoti hai, jisme 'you' indirect object hai aur verb se 'what' ka reply direct object hota hai, isliye 'where he lives' direct object hai 'tell' verb ka, isliye yeh 'noun clause' hoga."
+            },
+            {
+              "id": 5,
+              "question": "I shall go to the place [where my friend lives].",
+              "options": [
+                "(a) Noun Clause",
+                "(b) Verb Clause",
+                "(c) Adverb Clause",
+                "(d) Adjective Clause"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Correct answer is 'adjective clause'\nExplanation:- 'shall' H.V. hai, 'go' M.V. hai, 'to' preposition hai 'the place' preposition ka object hai aur 'where my friend lives' yeh poora clause 'place' object(noun) ko define kar raha hai, isliye yeh clause 'adjective clause' hoga."
+            },
+            {
+              "id": 6,
+              "question": "I shall go [where my friend lives].",
+              "options": [
+                "(a) Pronoun Clause",
+                "(b) Noun Clause",
+                "(c) Adverb Clause",
+                "(d) Verb Clause"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'adverb clause'\nExplanation:- 'go' intransitive verb hai jiska koi object nahi hota aur 'where my friend lives' yeh poora clause 'go' verb ko define kar raha hai, isliye yeh 'adverb clause' hoga."
+            },
+            {
+              "id": 7,
+              "question": "I do not know [if he will come].",
+              "options": [
+                "(a) Noun Clause",
+                "(b) Adjective Clause",
+                "(c) Adverb Clause",
+                "(d) Verb Clause"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'noun clause'\nExplanation: 'know' verb hai aur verb se 'what' ke reply ko object kehte hai, 'if he will come' verb se what ka reply hai, isliye 'if he will come' poore clause 'object' banega, isliye yeh 'noun clause' hoga."
+            },
+            {
+              "id": 8,
+              "question": "You will pass [if you work hard].",
+              "options": [
+                "(a) Noun Clause",
+                "(b) Co-Ordinate Clause",
+                "(c) Adverb Clause",
+                "(d) Adjective Clause"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'adverb clause'\nExplanation:- 'pass' main verb hai aur verb se 'how' ka reply adverb hota hai, isliye 'if you work hard' yeh poora clause verb se how ka reply hai, adverb of manner ka kaam kar raha hai, isliye yeh poora clause 'adverb clause' banega."
+            },
+            {
+              "id": 9,
+              "question": "I do not know [who came here last night].",
+              "options": [
+                "(a) Adverb Clause",
+                "(b) Adjective Clause",
+                "(c) Verb Clause",
+                "(d) Noun Clause"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Correct answer is 'noun clause'\nExplanation:- 'know' verb hai aur verb se 'what' ka reply object banta hai, isliye 'who came here last night' yeh poora clause verb se 'what' ka reply hai, isliye yeh poora clause object(noun clause) banega."
+            },
+            {
+              "id": 10,
+              "question": "I know the boy [who came here last night].",
+              "options": [
+                "(a) Adjective Clause",
+                "(b) Adverb Clause",
+                "(c) Noun Clause",
+                "(d) Pronoun Clause"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'adjective clause'\nExplanation:- 'who came here last night' yeh poora clause 'the boy' noun ke liye likha hai, toh poora clause noun ko qualify kare, usse 'adjective clause' kehte hai."
+            },
+            {
+              "id": 11,
+              "question": "I know the man [whom everybody likes].",
+              "options": [
+                "(a) Adverb Clause",
+                "(b) Verb Clause",
+                "(c) Adjective Clause",
+                "(d) Noun Clause"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'adjective clause'\nExplanation: 'whom everybody likes' yeh poora clause 'the man' object (noun) ko qualify kar raha hai, toh poora clause noun ko qualify kare, usse 'adjective clause' kehte hai."
+            },
+            {
+              "id": 12,
+              "question": "I do not know [whom she is teaching].",
+              "options": [
+                "(a) Noun Clause",
+                "(b) Adverb Clause",
+                "(c) Adjective Clause",
+                "(d) Pronoun Clause"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'noun clause'\nExplanation:- 'know' verb hai aur verb se 'what' ka reply object banta hai, toh 'whom she is teaching' yeh poora clause verb se what ka reply hai, object banega, isliye 'noun clause' kahenge."
+            },
+            {
+              "id": 13,
+              "question": "I cannot say [whose book this is].",
+              "options": [
+                "(a) Adverb Clause",
+                "(b) Noun Clause",
+                "(c) Adjective Clause",
+                "(d) Verb Clause"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'noun clause'\nExplanation:- 'whose book this is' yeh poora clause verb se 'what' ka reply hai aur 'say' ek transitive verb hoti hai jisse object chaiye, agar poora clause object bane, usse 'noun clause' kehte hai."
+            },
+            {
+              "id": 14,
+              "question": "I have invited my friends [whose parents are in India].",
+              "options": [
+                "(a) Adjective Clause",
+                "(b) Adverb Clause",
+                "(c) Noun Clause",
+                "(d) Pronoun Clause"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'adjective clause'\nExplanation:- 'whose parents are in india' yeh poora clause 'friends' noun ko qualify kar raha hai, isliye yeh 'adjective clause' hoga."
+            },
+            {
+              "id": 15,
+              "question": "Do you know [which his house is].",
+              "options": [
+                "(a) Adjective Clause",
+                "(b) Adverb Clause",
+                "(c) Noun Clause",
+                "(d) Pronoun Clause"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'noun clause'\nExplanation:- 'which his house is' yeh poora clause 'know' verb se 'what' ka reply hai, verb se 'what' ka reply object banta hai, jab poora clause object bane, toh usse 'noun clause' kehte hai."
+            },
+            {
+              "id": 16,
+              "question": "I know the house [which he got built last year].",
+              "options": [
+                "(a) Adverb Clause",
+                "(b) Noun Clause",
+                "(c) Adjective Clause",
+                "(d) Verb Clause"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'adjective clause'\nExplanation:- 'which he got built last year' yeh poora clause 'the house' object(noun) ko qualify (visheshta) bata raha hai, jab poora clause noun ko qualify kare, usse 'adjective clause' kehte hai."
+            },
+            {
+              "id": 17,
+              "question": "He gave me the same book [that I wanted].",
+              "options": [
+                "(a) Noun Clause",
+                "(b) Adverb Clause",
+                "(c) Adjective Clause",
+                "(d) Co-Ordinate Clause"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'adjective clause'\nExplanation:- 'that I wanted' yeh poora clause 'book' direct object(noun) ko qualify kar raha hai, jab poora clause noun ko qualify kare, usse 'adjective clause' kehte hai. 'gave' di-transitive verb hoti hai, jisme 'me' indirect object aur 'book' direct object hai."
+            },
+            {
+              "id": 18,
+              "question": "I know [that he will come].",
+              "options": [
+                "(a) Noun Clause",
+                "(b) Adverb Clause",
+                "(c) Adjective Clause",
+                "(d) Co-Ordinate Clause"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'noun clause'\nExplanation: 'that he will come' yeh poora clause 'know' verb se 'what' ka reply hai, isliye yeh poora clause object banega, jab poora clause object bane, toh usse 'noun clause' kehte hai.."
+            },
+            {
+              "id": 19,
+              "question": "I know the boy [that lives there].",
+              "options": [
+                "(a) Adjective Clause",
+                "(b) Adverb Clause",
+                "(c) Noun Clause",
+                "(d) Pronoun Clause"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'adjective clause'\nExplanation:- 'that lives there' yeh poora clause 'the boy' object(noun) ko qualify kar raha hai, jab poora clause noun ko qualify kare, usse 'adjective clause' kehte hai."
+            },
+            {
+              "id": 20,
+              "question": "I am happy [that she is successful].",
+              "options": [
+                "(a) Adjective Clause",
+                "(b) Adverb Clause",
+                "(c) Noun Clause",
+                "(d) Pronoun Clause"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'adverb clause'\nExplanation:- 'am' linking verb hai, 'happy' subject complement(adjective) hai aur 'that she is successful' yeh clause 'happy' ke liye likha hai, wo happy hai ki wo successful hai, isliye jo clause 'adjective' ko qualify kare, usse 'adverb clause' kehte hai. 'adverb' qualify karta hai 'verb, adjective, adverb' ko."
+            },
+            {
+              "id": 21,
+              "question": "We come here [so that we may study].",
+              "options": [
+                "(a) Adverb Clause",
+                "(b) Noun Clause",
+                "(c) Adjective Clause",
+                "(d) Verb Clause"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'adverb clause'\nExplanation:- 'so that we may study' yeh poora clause 'come' verb se 'why' ka reply hai, aur verb se why ka reply adverb hota hai, isliye yeh poora clause 'adverb clause' banega. Verb se 'how, where, why' ke reply adverb hote hai."
+            },
+            {
+              "id": 22,
+              "question": "He is so weak [that he cannot run].",
+              "options": [
+                "(a) Adjective Clause",
+                "(b) Adverb Clause",
+                "(c) Noun Clause",
+                "(d) Pronoun Clause"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'adverb clause'\nExplanation:- 'is' linking verb hai 'so' adverb hai aur 'weak' subject complement(adjective) hai, aur 'that he cannot run' poora clause 'weak' adjective ko define kar raha hai, jo clause adjective ko define kare, usse 'adverb clause' kehte hai."
+            },
+            {
+              "id": 23,
+              "question": "He is such a weak boy [that he cannot run].",
+              "options": [
+                "(a) Adverb Clause",
+                "(b) Noun Clause",
+                "(c) Adjective Clause",
+                "(d) Verb Clause"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'adverb clause'\nExplanation:- 'that he cannot run' yeh poora clause 'weak' adjective ko define kar raha hai, agar yeh 'boy' ko define karta toh agle clause mein 'he' nahi aata aur aisa likha hota 'boy that cannot run', kyunki yeh poora clause adjective ko define kar raha hai, isliye yeh 'adverb clause' hoga."
+            },
+            {
+              "id": 24,
+              "question": "He is such a boy [as does not help anybody].",
+              "options": [
+                "(a) Noun Clause",
+                "(b) Adverb Clause",
+                "(c) Adjective Clause",
+                "(d) Co-Ordinate Clause"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'adjective clause'\nExplanation:- 'as does not help anybody' yeh poora clause 'a boy' noun ke liye aaya hai, aisa ladka hai jo kisi ki help nahi karta', toh jo clause noun ke liye aaye, usse 'adjective clause' kehte hai."
+            },
+            {
+              "id": 25,
+              "question": "[Since my brother came], he has been teaching.",
+              "options": [
+                "(a) Noun Clause",
+                "(b) Adverb Clause",
+                "(c) Adjective Clause",
+                "(d) Co-Ordinate Clause"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'adverb clause'\nExplanation:- 'since my brother came' yeh poora clause 'teaching' verb ka time bata raha hai, matlab 'teaching' action ka time bata raha hai, isliye yeh clause 'adverb clause' banega."
+            },
+            {
+              "id": 26,
+              "question": "[Since she is ill], she cannot go out.",
+              "options": [
+                "(a) Adjective Clause",
+                "(b) Adverb Clause",
+                "(c) Noun Clause",
+                "(d) Pronoun Clause"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'adverb clause'\nExplanation:- 'since she is ill' yeh poora clause verb se 'why' ka reply hai, wo bahar kyu nahi jaa sakti kyunki wo beemar hai, verb se 'why' ka reply 'adverb' hote hai, isliye yeh clause 'adverb clause' banega."
+            },
+            {
+              "id": 27,
+              "question": "[As I arrived at the station], the train left.",
+              "options": [
+                "(a) Adverb Clause",
+                "(b) Noun Clause",
+                "(c) Adjective Clause",
+                "(d) Verb Clause"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'adverb clause'\nExplanation:- 'as I arrived at the station' yeh poora clause 'left' verb ke hone ke action ka time bata raha hai, toh yeh poora clause 'adverb of time' ki tarah kaam karega, isliye 'adverb clause' sahi hoga."
+            },
+            {
+              "id": 28,
+              "question": "[As he was late], he missed the bus.",
+              "options": [
+                "(a) Noun Clause",
+                "(b) Adverb Clause",
+                "(c) Adjective Clause",
+                "(d) Co-Ordinate Clause"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'adverb clause'\nExplanation: 'as he was late' yeh poora clause 'missed' verb se 'why' ka reply hai, isliye yeh poora clause 'adverb clause' banega."
+            },
+            {
+              "id": 29,
+              "question": "She is as intelligent [as her brother is].",
+              "options": [
+                "(a) Noun Clause",
+                "(b) Adjective Clause",
+                "(c) Adverb Clause",
+                "(d) Verb Clause"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'adverb clause'\nExplanation:- 'is' linking verb hai 'intelligent' subject complement(adjective) aur 'as her brother is' clause 'intelligent' adjective ko qualify kar raha hai, isliye 'adverb clause' hoga."
+            },
+            {
+              "id": 30,
+              "question": "She did it [as I advised her to do].",
+              "options": [
+                "(a) Noun Clause",
+                "(b) Adverb Clause",
+                "(c) Adjective Clause",
+                "(d) Co-Ordinate Clause"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'adverb clause'\nExplanation:- 'as I advised her to do' yeh poora clause 'did' verb se 'how' ka reply hai, verb se 'how, why, when, where' ke reply adverb hote hai, isliye poora clause 'adverb clause' banega."
+            },
+            {
+              "id": 31,
+              "question": "I shall do [whatever he says].",
+              "options": [
+                "(a) Adverb Clause",
+                "(b) Noun Clause",
+                "(c) Adjective Clause",
+                "(d) Verb Clause"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'noun clause'\nExplanation:- 'whatever he says' yeh poora clause 'do' verb se 'what' ka reply hai, aur verb se what ka reply object(noun) banta hai, aur poora clause object ho toh 'noun clause' banta hai."
+            },
+            {
+              "id": 32,
+              "question": "I shall do it [whatever you may say].",
+              "options": [
+                "(a) Adjective Clause",
+                "(b) Adverb Clause",
+                "(c) Noun Clause",
+                "(d) Pronoun Clause"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'adverb clause'\nExplanation:- 'whatever you may say' yeh clause 'adverb of condition' ki tarah kaam kar raha hai, matlab 'aisa karunga chahe kuch bhi kehte raho', toh condition ko dikhaane waale bhi adverb hote hai, isliye yeh 'adverb clause' hoga."
+            },
+            {
+              "id": 33,
+              "question": "I cannot say [what he is talking about].",
+              "options": [
+                "(a) Adjective Clause",
+                "(b) Adverb Clause",
+                "(c) Noun Clause",
+                "(d) Verb Clause"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'noun clause'\nExplanation:- 'what he is talking about' yeh poora clause 'say' verb se 'what' ka reply hai, isliye yeh clause object(noun) banega, aur poora clause object bane toh 'noun clause' banta hai."
+            },
+            {
+              "id": 34,
+              "question": "He told me [what his father had told him].",
+              "options": [
+                "(a) Noun Clause",
+                "(b) Adverb Clause",
+                "(c) Adjective Clause",
+                "(d) Co-Ordinate Clause"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'noun clause'\nExplanation:- 'what his father had told him' yeh poora clause 'told' verb se 'what' ka reply hai, aur 'told' di-transitive verb hoti hai jisse 'what' ka reply 'direct object' banta hai, isliye yeh clause 'noun clause' banega, 'me' indirect object hoga."
+            },
+            {
+              "id": 35,
+              "question": "I do not know [whether he will come tomorrow].",
+              "options": [
+                "(a) Adjective Clause",
+                "(b) Adverb Clause",
+                "(c) Noun Clause",
+                "(d) Verb Clause"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'noun clause'\nExplanation:- 'whether he will come tomorrow' yeh poora clause 'know' verb se 'what' ka reply hai, isliye yeh clause object (noun clause) banega."
+            },
+            {
+              "id": 36,
+              "question": "I shall do it [whether you like it or not].",
+              "options": [
+                "(a) Adjective Clause",
+                "(b) Adverb Clause",
+                "(c) Noun Clause",
+                "(d) Pronoun Clause"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'adverb clause'\nExplanation:- 'whether you like it or not' yeh poora clause ek condition hai, toh 'do' verb ke liye adverb of condition ki category mein jayegi, isliye yeh poora clause 'adverb clause' banega."
+            },
+            {
+              "id": 37,
+              "question": "[While it was raining], nobody went out.",
+              "options": [
+                "(a) Noun Clause",
+                "(b) Adjective Clause",
+                "(c) Adverb Clause",
+                "(d) Verb Clause"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'adverb clause'\nExplanation:- 'while it was raining' yeh poora clause 'went out' verb ke action ka time hai, toh yeh clause 'adverb of time' matlab 'adverb clause' banega."
+            },
+            {
+              "id": 38,
+              "question": "Give the money to [whoever arrives first].",
+              "options": [
+                "(a) Adjective Clause",
+                "(b) Noun Clause",
+                "(c) Adverb Clause",
+                "(d) Pronoun Clause"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'noun clause'\nExplanation:- 'give' verb hai, 'the money' object hai, 'to' preposition hai aur 'whoever arrives first' yeh poora clause preposition ka object ban raha hai, isliye yeh clause 'noun clause' hoga."
+            },
+            {
+              "id": 39,
+              "question": "I do not know [why he will not come].",
+              "options": [
+                "(a) Adjective Clause",
+                "(b) Adverb Clause",
+                "(c) Noun Clause",
+                "(d) Verb Clause"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'noun clause'\nExplanation:- 'why he will not come' yeh poora clause 'know' verb se 'what' ka reply hai, verb se 'what' ka reply object(noun) banta hai, isliye yeh clause 'noun clause' banega."
+            },
+            {
+              "id": 40,
+              "question": "This is the reason [why he has not passed].",
+              "options": [
+                "(a) Noun Clause",
+                "(b) Adverb Clause",
+                "(c) Adjective Clause",
+                "(d) Co-Ordinate Clause"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'adjective clause'\nExplanation:- 'why he has not passed' yeh poora clause 'the reason' noun ko define kar raha hai, toh jo clause noun ko define kare, usse 'adjective clause' kehte hai."
+            }
+          ]
         }
       ]
     }
