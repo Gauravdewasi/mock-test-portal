@@ -12226,6 +12226,1056 @@
               "solutionHinglish": "Ans (a) Correct answer is 'Irony'\nExplanation:- Expected outcome ka ulta hona (khud ko warrior kehna par fighting se darna) Irony kehlata hai."
             }
           ]
+        },
+        {
+          "id": "t_1793535267751",
+          "name": "Narration Level-01",
+          "questions": [
+            {
+              "id": 1,
+              "question": "She said she was seeing her brother the following day.",
+              "options": [
+                "(a) She said, \"I am seeing my brother tomorrow.\"",
+                "(b) She says, \"I will see my brother tomorrow.\"",
+                "(c) She said, \"I was seeing my brother tomorrow.\"",
+                "(d) She said, \"I should see my brother tomorrow.\""
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Indirect mein 'was seeing' past continuous hai, toh direct ke present continuous ('I am seeing') se aaya hoga aur 'the following day' 'tomorrow' se, isliye option A sahi hoga."
+            },
+            {
+              "id": 2,
+              "question": "She said, \"I have finished my work.\"",
+              "options": [
+                "(a) She said that she had finished her work.",
+                "(b) She said that she would finish her work.",
+                "(c) She said that she will finish her work.",
+                "(d) She said that she has finished her work."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Direct mein 'have finished' present perfect hai, toh indirect mein past perfect ('had finished') mein change ho jata hai, isliye option A sahi hoga."
+            },
+            {
+              "id": 3,
+              "question": "She said to me, \"I shall come to meet you tomorrow.\"",
+              "options": [
+                "(a) She asked me that could she come to meet me the next day.",
+                "(b) She tells me that she could come to meet me tomorrow.",
+                "(c) She told me that she will come to meet me tomorrow.",
+                "(d) She told me that she would come to meet me the next day."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- 'shall' indirect speech mein 'would' mein aur 'tomorrow' 'the next day' mein change ho jata hai, isliye option D sahi hoga."
+            },
+            {
+              "id": 4,
+              "question": "She said that she could bake cookies.",
+              "options": [
+                "(a) She had said, \"I can bake cookies.\"",
+                "(b) She said, \"I can bake cookies.\"",
+                "(c) She says, \"I can bake cookies.\"",
+                "(d) She said, \"I may bake cookies.\""
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'could' indirect mein hai, toh direct mein 'can' se aaya hoga, aur reporting verb 'said' rahegi, isliye option B sahi hoga."
+            },
+            {
+              "id": 5,
+              "question": "He said, \"I have finished my homework.\"",
+              "options": [
+                "(a) He said that he had to finish his homework.",
+                "(b) He said that he has finished his homework.",
+                "(c) He said that he would finish his homework.",
+                "(d) He said that he had finished his homework."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Direct mein 'have finished' present perfect hai, toh indirect mein past perfect ('had finished') mein change ho jata hai, isliye option D sahi hoga."
+            },
+            {
+              "id": 6,
+              "question": "Ron said to me, \"He had his lunch at 2 p.m. yesterday.\"",
+              "options": [
+                "(a) Ron told me that he ate his lunch at 2 p.m. the previous day.",
+                "(b) Ron told me that he had had his lunch at 2 p.m. the previous day.",
+                "(c) Ron told me that he had his lunch at 2 p.m. the previous day.",
+                "(d) Ron told me that he had eaten his lunch at 2 p.m. the previous day."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Direct mein 'had' (V2, past indefinite) diya hai, toh indirect mein past perfect ('had had') mein change ho jayega, isliye option B sahi hoga."
+            },
+            {
+              "id": 7,
+              "question": "The child says, \"I do not want to go to school.\"",
+              "options": [
+                "(a) The child say that I do not want to go to school.",
+                "(b) The child says that I do not want to go to school.",
+                "(c) The child says that he do not want to go to school.",
+                "(d) The child says that he does not want to go to school."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Direct mein reporting verb 'says' present ki lagi hai, isliye tense mein koi change nahi hoga aur 'I do' child ke according 'he does' mein change hoga, isliye option D sahi hoga."
+            },
+            {
+              "id": 8,
+              "question": "Sakshi said that she would do it then or never.",
+              "options": [
+                "(a) Sakshi said, \"I would do it then or never.\"",
+                "(b) Sakshi said, \"I have to do it now or never.\"",
+                "(c) Sakshi said, \"I will do it now or never.\"",
+                "(d) Sakshi said, \"I will do it then or never.\""
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Indirect mein 'would' direct ke 'will' se aur 'then' direct ke 'now' se aaya hoga, isliye 'I will do it now or never' wala option C sahi hoga."
+            },
+            {
+              "id": 9,
+              "question": "Jatin said, \"I was at home yesterday.\"",
+              "options": [
+                "(a) Jatin said that he was at home yesterday.",
+                "(b) Jatin said that he had been at home the day before.",
+                "(c) Jatin said he was at home the day before.",
+                "(d) Jatin said he was at home."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Direct mein 'was' past indefinite hai, toh indirect mein past perfect ('had been') aur 'yesterday' 'the day before' mein change hoga, isliye option B sahi hoga."
+            },
+            {
+              "id": 10,
+              "question": "\"I am not feeling well,\" said Mary.",
+              "options": [
+                "(a) Mary says that she is not feeling well.",
+                "(b) Mary said that she is not feeling well.",
+                "(c) Mary says that she wasn't feeling well.",
+                "(d) Mary said that she was not feeling well."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Direct mein 'am not feeling' present continuous hai, toh indirect mein past continuous ('was not feeling') mein change hoga, isliye option D sahi hoga."
+            },
+            {
+              "id": 11,
+              "question": "He exclaimed with delight that he had won the first prize.",
+              "options": [
+                "(a) \"Wow! I might win the first prize,\" said he.",
+                "(b) \"Hurrah! I have won the first prize,\" said he.",
+                "(c) \"Hurrah! I win the first prize,\" said he.",
+                "(d) \"Hurrah! I will win the first prize,\" said he."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Indirect mein 'had won' past perfect hai, toh direct mein present perfect ('have won') se aaya hoga, isliye option B sahi hoga."
+            },
+            {
+              "id": 12,
+              "question": "Gita said, \"I lost my umbrella.\"",
+              "options": [
+                "(a) Gita said that I lost my umbrella.",
+                "(b) Gita said that she had lost her umbrella.",
+                "(c) Gita expressed that she has lost her umbrella.",
+                "(d) Gita told me that he lost her umbrella."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Direct mein 'lost' past indefinite diya hai, toh indirect mein past perfect ('had lost') mein change hoga, isliye option B sahi hoga."
+            },
+            {
+              "id": 13,
+              "question": "Ritu said, \"I am eating apples.\"",
+              "options": [
+                "(a) Ritu said that she was eating apples.",
+                "(b) Ritu said that she has been eating apples.",
+                "(c) Ritu told that she was eating apples.",
+                "(d) Ritu said that she had been eating apples."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Direct mein 'am eating' present continuous diya hai, toh indirect mein past continuous ('was eating') aur 'said' rahega, isliye option A sahi hoga."
+            },
+            {
+              "id": 14,
+              "question": "My father said, \"Neha shall come back by 3:00 p.m.\"",
+              "options": [
+                "(a) My father said that Neha should come back by 3:00 p.m.",
+                "(b) My father told that Neha should come back by 3:00 p.m.",
+                "(c) My father told that Neha shall come back by 3:00 p.m.",
+                "(d) My father said that Neha will come back by 3:00 p.m."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Direct mein 'shall' diya hai, toh indirect mein 'should' aur reporting verb 'said' rahegi, isliye option A sahi hoga."
+            },
+            {
+              "id": 15,
+              "question": "He said, \"I can't attend the meeting tomorrow.\"",
+              "options": [
+                "(a) He said that he couldn't attend the meeting tomorrow.",
+                "(b) He said that he couldn't attend the meeting the next day.",
+                "(c) He said that he can't attend the meeting tomorrow.",
+                "(d) He said that he can't attend the meeting the next day."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Direct mein 'can't' indirect mein 'couldn't' aur 'tomorrow' 'the next day' mein change hoga, isliye option B sahi hoga."
+            },
+            {
+              "id": 16,
+              "question": "The Minister explained that he was working for the benefit of the country.",
+              "options": [
+                "(a) The Minister explains, \"I will work for the benefit of the country.\"",
+                "(b) The Minister explained, \"I am working for the benefit of the country.\"",
+                "(c) The Minister explained, \"He was working for the benefit of the country.\"",
+                "(d) The Minister explained, \"I was working for the benefit of the country.\""
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Indirect mein 'was working' past continuous hai, toh direct ke present continuous ('I am working') se aaya hoga, isliye option B sahi hoga."
+            },
+            {
+              "id": 17,
+              "question": "He promised, \"He will not do the mistake again.\"",
+              "options": [
+                "(a) He promised that he would not do the mistake next time.",
+                "(b) He promised that he would not did the mistake next time.",
+                "(c) He promised that he will not do the mistake again.",
+                "(d) He promises that he will not do the mistake again."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Direct mein 'will not do' diya hai, toh indirect mein 'would not do' mein change hoga, joki option A mein follow ho raha hai."
+            },
+            {
+              "id": 18,
+              "question": "Bajrang said, \"I went to Chandigarh yesterday.\"",
+              "options": [
+                "(a) Bajrang said that he had gone to Chandigarh the day before.",
+                "(b) Bajrang said that he was gone to Chandigarh the day before.",
+                "(c) Bajrang said that he gone to Chandigarh the day before.",
+                "(d) Bajrang said that he have gone to Chandigarh the day before."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Direct mein 'went' past indefinite diya hai, toh indirect mein past perfect ('had gone') aur 'yesterday' 'the day before' mein change hoga, isliye option A sahi hoga."
+            },
+            {
+              "id": 19,
+              "question": "He said, \"My mother will be here tomorrow.\"",
+              "options": [
+                "(a) He said that his mother would be there the next day.",
+                "(b) He said that his mother would be here tomorrow.",
+                "(c) He said that my mother will be here the next day.",
+                "(d) He said that my mother will be here tomorrow."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Direct mein 'will be here tomorrow' indirect mein 'would be there the next day' mein change ho jayega, isliye option A sahi hoga."
+            },
+            {
+              "id": 20,
+              "question": "Ram said, \"I watched football.\"",
+              "options": [
+                "(a) Ram said that I shall watch football.",
+                "(b) Ram said that he had watched football.",
+                "(c) Ram said that they watched football.",
+                "(d) Ram said that he watches football."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Direct mein 'watched' past indefinite hai, toh indirect mein past perfect ('had watched') mein change hoga, isliye option B sahi hoga."
+            },
+            {
+              "id": 21,
+              "question": "He said, \"I am going to the party tonight.\"",
+              "options": [
+                "(a) He said that he would go to the party that night.",
+                "(b) He said that he was going to the party tonight.",
+                "(c) He said that he was going to the party that night.",
+                "(d) He said that he is going to the party tonight."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Direct mein 'am going' indirect mein 'was going' aur 'tonight' 'that night' mein change hoga, isliye option C sahi hoga."
+            },
+            {
+              "id": 22,
+              "question": "She said, \"I cannot call you at this time.\"",
+              "options": [
+                "(a) She said that she could not call me at that time.",
+                "(b) She said that she cannot call me at that time.",
+                "(c) She said that she would not call me at this time.",
+                "(d) She said that she could not call me this time."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Direct mein 'cannot call you at this time' indirect mein 'could not call me at that time' mein change ho jayega, isliye option A sahi hoga."
+            },
+            {
+              "id": 23,
+              "question": "Rohan said, \"I will arrive late.\"",
+              "options": [
+                "(a) Rohan says that he is late in his arrival.",
+                "(b) Rohan said that he would arrive late.",
+                "(c) Rohan said that I will arrive late.",
+                "(d) Rohan said that he is arriving late."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Direct mein 'will arrive' indirect mein 'would arrive' mein change hoga, isliye option B sahi hoga."
+            },
+            {
+              "id": 24,
+              "question": "Rathan said, \"I have written a poem.\"",
+              "options": [
+                "(a) Rathan said that he has written a poem.",
+                "(b) Rathan said that he wrote a poem.",
+                "(c) Rathan said that I had written a poem.",
+                "(d) Rathan said that he had written a poem."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Direct mein 'have written' present perfect hai, toh indirect mein past perfect ('he had written') mein change hoga, isliye option D sahi hoga."
+            },
+            {
+              "id": 25,
+              "question": "Mohan said, \"I shall go as soon as it is possible.\"",
+              "options": [
+                "(a) Mohan said that he would go as soon as it is possible.",
+                "(b) Mohan said that he will go as soon as it is possible.",
+                "(c) Mohan said that he would go as soon as it was possible.",
+                "(d) Mohan said that he will go as soon as it was possible."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Direct mein 'shall' aur 'it is possible' indirect mein 'would' aur 'it was possible' mein change hoga, isliye option C sahi hoga."
+            },
+            {
+              "id": 26,
+              "question": "He said that it would be fun if I could join.",
+              "options": [
+                "(a) He said, \"It will be fun if you can join.\"",
+                "(b) He said, \"It will have been fun if you had joined.\"",
+                "(c) He said, \"It will have been fun if I could have joined.\"",
+                "(d) He said, \"It will have been fun if I had joined.\""
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Indirect speech mein 'would be fun' aur 'could' direct mein 'will be fun' aur 'can' se aaya hoga, isliye option A sahi hoga."
+            },
+            {
+              "id": 27,
+              "question": "The teacher informed that the exam had been postponed.",
+              "options": [
+                "(a) The teacher informs, \"The exam had been postponed.\"",
+                "(b) The teacher informed, \"The exam was being postponed.\"",
+                "(c) The teacher informs, \"The exam has been postponed.\"",
+                "(d) The teacher informed, \"The exam has been postponed.\""
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Indirect speech mein 'had been postponed' direct ke 'has been postponed' se aaya hoga aur reporting verb 'informed' rahegi, isliye option D sahi hoga."
+            },
+            {
+              "id": 28,
+              "question": "He said, \"I shall need a copy of the documents.\"",
+              "options": [
+                "(a) He said that he will need a copy of the documents.",
+                "(b) He said that he shall need a copy of the document.",
+                "(c) He said that he is going to need a copy of the document.",
+                "(d) He said that he would need a copy of the documents."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Direct mein 'shall' diya hai, toh indirect mein 'would' mein change hoga, isliye option D sahi hoga."
+            },
+            {
+              "id": 29,
+              "question": "Raju said to Reghu, \"Stay back.\"",
+              "options": [
+                "(a) Raju ordered Reghu to stay back.",
+                "(b) Raju had ordered Reghu to stay back.",
+                "(c) Raju orders Reghu to stay back.",
+                "(d) Raju has ordered Reghu to stay back."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Direct speech imperative hai aur reporting verb past ('said to') mein hai, isliye 'Raju ordered Reghu to stay back' (option A) sahi hoga."
+            },
+            {
+              "id": 30,
+              "question": "\"I am playing the keyboard,\" she explained.",
+              "options": [
+                "(a) She explained that she is playing the keyboard.",
+                "(b) She said that she had been playing the keyboard.",
+                "(c) She said that she is playing the keyboard.",
+                "(d) She explained that she was playing the keyboard."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Direct mein 'am playing' present continuous hai, toh indirect mein past continuous ('was playing') mein change hoga, isliye option D sahi hoga."
+            },
+            {
+              "id": 31,
+              "question": "They said that they had been waiting for the bus for over an hour.",
+              "options": [
+                "(a) \"We have been waiting for the bus for over an hour,\" they said.",
+                "(b) \"We waited for the bus for over an hour,\" they said.",
+                "(c) \"We had waited for the bus for over an hour,\" they said.",
+                "(d) \"We are waiting for the bus for over an hour,\" they said."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Indirect mein 'had been waiting' aur 'for over an hour' duration di hai, toh direct mein present perfect continuous ('have been waiting') wala option A sahi hoga."
+            },
+            {
+              "id": 32,
+              "question": "He told me that he would have finished the project by the following day.",
+              "options": [
+                "(a) \"I have finished the project by tomorrow,\" he said to me.",
+                "(b) \"I would finish the project,\" he said to me tomorrow.",
+                "(c) \"I will finish the project by the next day,\" he said to me.",
+                "(d) \"I will have finished the project by tomorrow,\" he said to me."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Indirect mein 'would have finished' aur 'the following day' direct mein 'will have finished' aur 'tomorrow' se aaya hoga, joki option D mein hai."
+            },
+            {
+              "id": 33,
+              "question": "The Priest said, \"God loves all his creations.\"",
+              "options": [
+                "(a) The Priest said that God is about to love all his creations.",
+                "(b) The Priest said that God will love all his creations.",
+                "(c) The Priest said that God loves all his creations.",
+                "(d) The Priest said that God loved all his creations."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Universal truth/proverb ke tense mein indirect mein jaate waqt koi change nahi hota, isliye option C sahi hoga."
+            },
+            {
+              "id": 34,
+              "question": "The customer asked the tailor, \"Will you have the dress ready by Tuesday?\"",
+              "options": [
+                "(a) The customer asked the tailor if he should have the dress ready by Tuesday.",
+                "(b) The customer asked the tailor if he would have the dress ready by Tuesday.",
+                "(c) The customer asked the tailor if he will have the dress ready by Tuesday.",
+                "(d) The customer asked the tailor if he would like to have the dress ready by Tuesday."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Direct mein 'Will you have' indirect mein 'if he would have' mein change hoga, isliye option B sahi hoga."
+            },
+            {
+              "id": 35,
+              "question": "My daughter said, \"Ayush has got a packet of toffee for his friends.\"",
+              "options": [
+                "(a) My daughter said that Ayush has had got a packet of toffee for his friends.",
+                "(b) My daughter said that Ayush has got a packet of toffee for his friends.",
+                "(c) My daughter said that Ayush had got a packet of toffee for his friends.",
+                "(d) My daughter said that Ayush has been got a packet of toffee for his friends."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Direct mein 'has got' present perfect hai, toh indirect mein past perfect ('had got') mein change hoga, isliye option C sahi hoga."
+            },
+            {
+              "id": 36,
+              "question": "She said to me, \"Don't worry about me.\"",
+              "options": [
+                "(a) She told me not to worry about her.",
+                "(b) She told me don't worry about her.",
+                "(c) She told me to not be worried about her.",
+                "(d) She told me to not to worry about me."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Negative imperative sentence indirect mein 'not + to + V1' ('not to worry about her') se banta hai, isliye option A sahi hoga."
+            },
+            {
+              "id": 37,
+              "question": "\"I will help you,\" he will say to me.",
+              "options": [
+                "(a) He says to me that he would help me.",
+                "(b) He will tell me that he will help me.",
+                "(c) He tells me that he helped me.",
+                "(d) He told me that he will help me."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Reporting verb 'will say' future tense mein hai, isliye reported speech ke tense mein koi change nahi hoga ('He will tell me that he will help me'), option B sahi hoga."
+            },
+            {
+              "id": 38,
+              "question": "The little boy said, \"My cat can climb the tree.\"",
+              "options": [
+                "(a) The little boy said that his cat climbed the tree.",
+                "(b) The little boy said that his cat had climbed the tree.",
+                "(c) The little boy said that his cat could climb the tree.",
+                "(d) The little boy said that his cat can climb the tree."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Direct mein 'can climb' indirect mein 'could climb' mein change hoga, isliye option C sahi hoga."
+            },
+            {
+              "id": 39,
+              "question": "Koushik said to Tarun, \"You are a good cricketer.\"",
+              "options": [
+                "(a) Koushik told Tarun that he had been a good cricketer.",
+                "(b) Koushik told that Tarun is a good cricketer.",
+                "(c) Koushik told Tarun that he was a good cricketer.",
+                "(d) Koushik tells Tarun that he is a good cricketer."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Direct mein 'are' present indefinite hai, toh indirect mein past indefinite ('he was a good cricketer') mein change hoga, isliye option C sahi hoga."
+            },
+            {
+              "id": 40,
+              "question": "She remarked, \"I visited that museum last week.\"",
+              "options": [
+                "(a) She remarked that she had visited that museum the previous week.",
+                "(b) She remarked that I had visited that museum last week.",
+                "(c) She remarked that she visited that museum the previous week.",
+                "(d) She remarked that she has visited that museum the previous week."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'visited' past indefinite hai jo indirect mein past perfect ('had visited') mein aur 'last week' 'the previous week' mein change hoga, isliye option A sahi hoga."
+            },
+            {
+              "id": 41,
+              "question": "He asked me affectionately what he could do for me.",
+              "options": [
+                "(a) He said to me, \"What should be done for you?\"",
+                "(b) He said to me, \"What can be done for me?\"",
+                "(c) He said to me, \"What can I do for you, dear?\"",
+                "(d) He said to me, \"What could he do?\""
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Indirect mein 'affectionately' ('dear') aur 'what he could do for me' direct mein 'What can I do for you, dear?' se bana hoga, isliye option C sahi hoga."
+            },
+            {
+              "id": 42,
+              "question": "Mukesh said to me, \"You are wrong\".",
+              "options": [
+                "(a) Mukesh told me that you are wrong.",
+                "(b) Mukesh tells me that I am wrong.",
+                "(c) Mukesh told me that he was wrong.",
+                "(d) Mukesh told me that I was wrong."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- 'You are wrong' mein 'You' object 'me' ke according 'I' mein aur 'are' 'was' mein change hoga ('that I was wrong'), isliye option D sahi hoga."
+            },
+            {
+              "id": 43,
+              "question": "He said to her, \"Do you know French?\"",
+              "options": [
+                "(a) He asked her that does she know French.",
+                "(b) He asked her whether she has known French.",
+                "(c) He asked her if she knew French.",
+                "(d) He asked her if she knows French."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Direct mein 'Do you know' present indefinite interrogative hai, toh indirect mein past indefinite assertive ('if she knew French') mein change hoga, isliye option C sahi hoga."
+            },
+            {
+              "id": 44,
+              "question": "The student requested them to take him to the reception.",
+              "options": [
+                "(a) \"Take me to the reception,\" said the student.",
+                "(b) \"Please take me in the reception,\" said the student.",
+                "(c) \"Please take me to the reception,\" said the student.",
+                "(d) \"Take me to the reception now,\" said the student."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Indirect mein 'requested' aur 'to take him to the reception' direct mein 'Please take me to the reception' se bana hoga, isliye option C sahi hoga."
+            },
+            {
+              "id": 45,
+              "question": "\"You were warned by us three days ago,\" the manager shouted at him.",
+              "options": [
+                "(a) The manager shouted at him that he was warned by them three days ago.",
+                "(b) The manager shouted at him that he was warned by them three days earlier.",
+                "(c) The manager shouted at him that he had been warned by them three days before.",
+                "(d) The manager shouted at him that he was warned by them three days before."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Direct mein 'were warned' past indefinite passive hai, toh indirect mein past perfect passive ('had been warned') aur 'ago' 'before' mein change hoga, isliye option C sahi hoga."
+            },
+            {
+              "id": 46,
+              "question": "\"I am going to play with my friends,\" the child says to his mother.",
+              "options": [
+                "(a) The child asked his mother that he is going to play with his friends.",
+                "(b) The child told his mother that I am going to play with my friends.",
+                "(c) The child said to his mother that he was going to play with his friends.",
+                "(d) The child tells his mother that he is going to play with his friends."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Reporting verb 'says to' present tense mein hai, isliye 'tells' ho jayega aur reported speech ka tense change nahi hoga, isliye option D sahi hoga."
+            },
+            {
+              "id": 47,
+              "question": "The reporter reported, \"The US President is arriving to India this week.\"",
+              "options": [
+                "(a) The reporter reports that the US President is arriving to India that week.",
+                "(b) The reporter reported that the US President was arriving to India that week.",
+                "(c) The reporter reported that the US President was arriving to India this week.",
+                "(d) The reporter reported that the US President is arriving to India next week."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Direct mein 'is arriving' indirect mein 'was arriving' aur 'this week' 'that week' mein change ho jayega, isliye option B sahi hoga."
+            },
+            {
+              "id": 48,
+              "question": "The principal said that he would hold a meeting the next day.",
+              "options": [
+                "(a) \"I will be holding a meeting tomorrow,\" the principal said.",
+                "(b) \"Tomorrow, I will hold a meeting,\" says the principal.",
+                "(c) \"I will hold a meeting tomorrow,\" said the principal.",
+                "(d) \"A meeting will be held by me,\" said the principal."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Indirect mein 'would hold' aur 'the next day' direct mein 'will hold' aur 'tomorrow' se aaya hoga, isliye option C sahi hoga."
+            },
+            {
+              "id": 49,
+              "question": "The captain exclaimed with joy that he had won the toss.",
+              "options": [
+                "(a) The captain said, \"Hurrah! I have won the toss.\"",
+                "(b) The captain said, \"Hurrah! I might win the toss.\"",
+                "(c) The captain said, \"Hurrah! I may win the toss.\"",
+                "(d) The captain said, \"Hurrah! I could win the toss.\""
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Indirect mein 'had won' past perfect diya hai, toh direct mein present perfect ('Hurrah! I have won the toss.') se aaya hoga, isliye option A sahi hoga."
+            },
+            {
+              "id": 50,
+              "question": "She said, \"Bravo! You have done well.\"",
+              "options": [
+                "(a) She applauded her saying that she had done well.",
+                "(b) She told her saying that she had done well.",
+                "(c) She applauded her saying that she did well.",
+                "(d) She applauded her saying that she has done well."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'Bravo!' ke liye 'applauded' aur 'have done' present perfect ke liye past perfect ('had done') wala option A sahi hoga."
+            },
+            {
+              "id": 51,
+              "question": "Little Sam requested to let him rest there.",
+              "options": [
+                "(a) Little Sam said, \"Do rest here.\"",
+                "(b) Little Sam said, \"Let us rest here.\"",
+                "(c) Little Sam said, \"Let me be resting here.\"",
+                "(d) Little Sam said, \"Let me rest here.\""
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- 'let him rest there' direct speech mein 'Let me rest here.' se bana hoga, isliye option D sahi hoga."
+            },
+            {
+              "id": 52,
+              "question": "He said, \"These dresses are cheap.\"",
+              "options": [
+                "(a) He said that those dresses was cheap.",
+                "(b) He said that these dresses are cheap.",
+                "(c) He said that these dresses were cheap.",
+                "(d) He said that those dresses were cheap."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- 'These' indirect mein 'those' mein aur 'are' 'were' mein change ho jayega ('those dresses were cheap'), isliye option D sahi hoga."
+            },
+            {
+              "id": 53,
+              "question": "She said, \"How beautiful is the rain!\"",
+              "options": [
+                "(a) She exclaimed with joy that the rain had been beautiful.",
+                "(b) She exclaimed with joy that the rain has been beautiful.",
+                "(c) She exclaimed with joy that the rain is beautiful.",
+                "(d) She exclaimed with joy that the rain was beautiful."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Direct mein 'is' present indefinite likha hai, toh indirect mein past indefinite ('that the rain was beautiful') se banega, isliye option D sahi hoga."
+            },
+            {
+              "id": 54,
+              "question": "Mrs. Lisa suggested that we should purchase the property.",
+              "options": [
+                "(a) Mrs. Lisa said, \"Let us purchase the property.\"",
+                "(b) Mrs. Lisa said, \"Property must be purchased by us.\"",
+                "(c) Mrs. Lisa told, \"You may purchase the property.\"",
+                "(d) Mrs. Lisa said, \"Please purchase the property.\""
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Indirect mein 'suggested that we should' direct ke 'Let us purchase the property.' se banta hai, isliye option A sahi hoga."
+            },
+            {
+              "id": 55,
+              "question": "Sneha said to me, \"I am doing my homework.\"",
+              "options": [
+                "(a) Sneha told me that she was doing her homework.",
+                "(b) Sneha told me that she had been doing her homework.",
+                "(c) Sneha told me that she were doing her homework.",
+                "(d) Sneha told me that she has been doing her homework."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Direct mein 'am doing' present continuous diya hai, toh indirect mein past continuous ('she was doing her homework') ayega, isliye option A sahi hoga."
+            },
+            {
+              "id": 56,
+              "question": "She asked, \"Are you coming to the party?\"",
+              "options": [
+                "(a) She asked are you going to the party.",
+                "(b) She asked if I was coming to the party.",
+                "(c) She asked if I am coming to the party.",
+                "(d) She asked if I can come to the party."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Direct mein 'Are you coming' present continuous interrogative hai, toh indirect mein past continuous assertive ('if I was coming to the party') mein change hoga, isliye option B sahi hoga."
+            },
+            {
+              "id": 57,
+              "question": "Megha asked Reena where she was going that day.",
+              "options": [
+                "(a) Megha asked Reena, \"Where were you going that day?\"",
+                "(b) Megha asked Reena, \"Where were you going today?\"",
+                "(c) Megha asked Reena, \"Where have you been going today?\"",
+                "(d) Megha asked Reena, \"Where are you going today?\""
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Indirect mein 'where she was going that day' direct ke present continuous ('Where are you going today?') se aaya hoga, isliye option D sahi hoga."
+            },
+            {
+              "id": 58,
+              "question": "He said, \"Alas! I am a ruined man.\"",
+              "options": [
+                "(a) He applauded with sorrow that he was a ruined man.",
+                "(b) He confessed with sorrow that he was a ruined man.",
+                "(c) He cried out with sorrow that he was a ruined man.",
+                "(d) He wished that he was a ruined man."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'Alas!' dukh prakat karta hai, isliye indirect mein 'He cried out with sorrow that he was a ruined man.' (option C) sahi hoga."
+            },
+            {
+              "id": 59,
+              "question": "John said, \"I cannot come with you.\"",
+              "options": [
+                "(a) John says that he cannot come with me.",
+                "(b) John said that he will not be coming with me.",
+                "(c) John said that he would not come with me.",
+                "(d) John said that he could not come with me."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Direct mein 'cannot' hai, toh indirect mein 'could not' mein change hoga, joki option D mein follow ho raha hai."
+            },
+            {
+              "id": 60,
+              "question": "Shreya said, \"I have been feeling very hungry.\"",
+              "options": [
+                "(a) Shreya said that she had been feeling very hungry.",
+                "(b) Shreya said that she was feeling very hungry.",
+                "(c) Shreya said that she have been feeling very hungry.",
+                "(d) Shreya said that she has been feeling very hungry."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Direct mein 'have been feeling' present perfect continuous diya hai, toh indirect mein past perfect continuous ('had been feeling') mein change hoga, isliye option A sahi hoga."
+            },
+            {
+              "id": 61,
+              "question": "They said, \"We were planning to visit you next week.\"",
+              "options": [
+                "(a) They said that they have been planning to visit him next week.",
+                "(b) They said that they had planned to visit him next week.",
+                "(c) They said that they are planning to visit him the coming week.",
+                "(d) They said that they had been planning to visit him the following week."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Direct mein 'were planning' past continuous hai, toh indirect mein past perfect continuous ('had been planning') aur 'next week' 'the following week' mein change hoga, isliye option D sahi hoga."
+            },
+            {
+              "id": 62,
+              "question": "The father said, \"Ramu, try again\".",
+              "options": [
+                "(a) The father advised Ramu to try again.",
+                "(b) The father requested Ramu to try again.",
+                "(c) The father told Ramu that he tried again.",
+                "(d) The father said that Ramu tries again."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Father ne Ramu ko advice di hai aur imperative sentence infinitive ('to try again') mein change hoga, isliye option A sahi hoga."
+            },
+            {
+              "id": 63,
+              "question": "\"I have not completed the assignment yet,\" the student admitted.",
+              "options": [
+                "(a) The student admitted that he/she hadn't been able to complete the assignment yet.",
+                "(b) The student admitted that he/she hasn't been able to complete the assignment yet.",
+                "(c) The student admitted that he/she hasn't completed the assignment yet.",
+                "(d) The student admitted that he/she hadn't completed the assignment yet."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Direct mein 'have not completed' present perfect hai, toh indirect mein past perfect ('hadn't completed') mein change hoga, isliye option D sahi hoga."
+            },
+            {
+              "id": 64,
+              "question": "Simon said to me, \"He is not well.\"",
+              "options": [
+                "(a) Simon told me that he is not well.",
+                "(b) Simon told him that I am not well.",
+                "(c) Simon told me that he was not well.",
+                "(d) Simon told him that he was not well."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'said to me' indirect mein 'told me' aur 'He is not well' 'that he was not well' mein change hoga, isliye option C sahi hoga."
+            },
+            {
+              "id": 65,
+              "question": "The boss said to the secretary, \"Don't forget to order A3 size paper.\"",
+              "options": [
+                "(a) The boss instructed the secretary not to forget to order A3 size paper.",
+                "(b) The boss told the secretary that she didn't forget to order A3 size paper.",
+                "(c) The boss asked the secretary to order A3 size paper.",
+                "(d) The boss told the secretary that she should not forget to order A3 size paper."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Negative imperative sentence indirect mein 'not to forget' se banega, isliye option A sahi hoga."
+            },
+            {
+              "id": 66,
+              "question": "She said, \"I love to eat pineapple.\"",
+              "options": [
+                "(a) She said that she love to eat pineapple.",
+                "(b) She said that I loved to eat pineapple.",
+                "(c) She said that she loved to eat pineapple.",
+                "(d) She said that she had loved to eat pineapple."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Direct mein 'love' present indefinite diya hai, toh indirect mein past indefinite ('she loved') se banega, isliye option C sahi hoga."
+            },
+            {
+              "id": 67,
+              "question": "\"Why is he crying?\" he asked.",
+              "options": [
+                "(a) He asked why he was crying.",
+                "(b) She asked why he is crying.",
+                "(c) She asked why he was crying.",
+                "(d) He asked why she crying."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Direct mein 'is he crying' present continuous interrogative hai, toh indirect mein past continuous assertive ('He asked why he was crying.') mein change hoga, isliye option A sahi hoga."
+            },
+            {
+              "id": 68,
+              "question": "The tourist said, \"Wow! what a wonderful view.\"",
+              "options": [
+                "(a) The tourist exclaimed with joy that it was a wonderful view.",
+                "(b) The tourist explained with joy that the view is wonderful.",
+                "(c) The tourist said that the view is wonderful.",
+                "(d) The tourist told what a wonderful view it is."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Exclamatory sentence indirect mein 'exclaimed with joy that it was a wonderful view' mein change hoga, isliye option A sahi hoga."
+            },
+            {
+              "id": 69,
+              "question": "The traffic police told me that I couldn't park my two-wheeler there.",
+              "options": [
+                "(a) The traffic police said to me, \"I can't park my two-wheeler there.\"",
+                "(b) The traffic police told me, \"I couldn't park my two-wheeler here.\"",
+                "(c) The traffic police said to me, \"You can't park your two-wheeler here.\"",
+                "(d) The traffic police said, \"Do not park the two-wheeler here.\""
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Indirect mein 'I couldn't park my two-wheeler there' direct mein 'You can't park your two-wheeler here.' se bana hoga, isliye option C sahi hoga."
+            },
+            {
+              "id": 70,
+              "question": "The traveller asked the owner if he could stay in that tavern. The peasant replied that he could.",
+              "options": [
+                "(a) The traveller said, \"Could I stay in this tavern?\" The peasant replied, \"He should.\"",
+                "(b) The traveller said, \"May I stay in this tavern?\" The peasant replies, \"You can.\"",
+                "(c) The traveller said, \"Can I stay in this tavern?\" The peasant replied, \"You can.\"",
+                "(d) The traveller said, \"Can I stay in this tavern?\" The peasant replied, \"She could.\""
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Indirect mein 'if he could' aur 'that he could' direct ke 'Can I stay in this tavern?' aur 'You can.' se aaye honge, isliye option C sahi hoga."
+            },
+            {
+              "id": 71,
+              "question": "My aunt said that they had shifted to a new house.",
+              "options": [
+                "(a) \"I am shifting to a new house,\" said my aunt.",
+                "(b) \"We will be shifting to a new house,\" said my aunt.",
+                "(c) \"We are shifting to a new house,\" said my aunt.",
+                "(d) \"We have shifted to a new house,\" said my aunt."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Indirect mein 'they had shifted' past perfect mein likha hai, toh direct mein present perfect ('We have shifted') se aaya hoga, isliye option D sahi hoga."
+            },
+            {
+              "id": 72,
+              "question": "Ammu said, \"How brilliant I am!\"",
+              "options": [
+                "(a) Ammu exclaimed that she was being brilliant.",
+                "(b) Ammu exclaimed that she is brilliant.",
+                "(c) Ammu exclaimed that she was brilliant.",
+                "(d) Ammu exclaimed that she has been brilliant."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Direct mein 'I am' present indefinite likha hai, toh indirect mein past indefinite ('that she was brilliant') mein change hoga, isliye option C sahi hoga."
+            },
+            {
+              "id": 73,
+              "question": "'I am determined to publish my findings,' the scientist asserted confidently.",
+              "options": [
+                "(a) The scientist confidently asserted that she is determined to publish her findings.",
+                "(b) The scientist confidently asserted that she had determined to publish her findings.",
+                "(c) The scientist confidently asserted that she would be determined to publish her findings.",
+                "(d) The scientist confidently asserted that she was determined to publish her findings."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Direct mein 'am determined' present indefinite diya hai, toh indirect mein past indefinite ('she was determined') mein change hoga, isliye option D sahi hoga."
+            },
+            {
+              "id": 74,
+              "question": "The District Magistrate ordered the police to work all night and put an end to those riots.",
+              "options": [
+                "(a) The District Magistrate told the police, \"Work all night and put to end these riots.\"",
+                "(b) The District Magistrate told the police, \"Work all night and put an end to these riots.\"",
+                "(c) The District Magistrate told the police, \"Work all night and put an end to their riots.\"",
+                "(d) The District Magistrate told the police, \"Work all night to put an end these riots.\""
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Imperative sentence aur 'those riots' direct mein 'Work all night and put an end to these riots.' se aaya hoga, isliye option B sahi hoga."
+            },
+            {
+              "id": 75,
+              "question": "The soldier said to his fellow soldiers, \"I have buried our brave comrade here.\"",
+              "options": [
+                "(a) The soldier told his fellow soldiers that he had buried their brave comrade there.",
+                "(b) The soldier told us that I had buried their brave comrade here.",
+                "(c) The soldier told his fellow soldiers that I had buried our brave comrade there.",
+                "(d) The soldier told us that he had buried our brave comrade there."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'I have buried our brave comrade here' indirect mein 'that he had buried their brave comrade there' mein change hoga, isliye option A sahi hoga."
+            },
+            {
+              "id": 76,
+              "question": "She asked me why I was not eating.",
+              "options": [
+                "(a) She said, \"Why don't you eat?\"",
+                "(b) She said, \"Why am I not eating?\"",
+                "(c) She said, \"Why are you not eating?\"",
+                "(d) She said, \"Why is he not eating?\""
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Indirect mein 'why I was not eating' past continuous likha hai, toh direct mein present continuous ('Why are you not eating?') se bana hoga, isliye option C sahi hoga."
+            },
+            {
+              "id": 77,
+              "question": "He said to his friend, \"Let us leave for the trek tomorrow.\"",
+              "options": [
+                "(a) He suggested to his friend that they should leave for the trek the next day.",
+                "(b) He told his friend to leave for the trek the next day.",
+                "(c) He suggested his friend that let us leave for the trek tomorrow.",
+                "(d) He suggested to his friend to leave for the trek the next day."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Direct mein 'Let us' diya hai, toh indirect mein 'suggested to his friend that they should leave for the trek the next day' (option A) sahi hoga."
+            },
+            {
+              "id": 78,
+              "question": "Reena said to Rhea, \"I will not accompany you on this trip.\"",
+              "options": [
+                "(a) Reena said to Rhea that she will not accompany her on the trip.",
+                "(b) Reena said to Rhea that she will not accompany her on this trip.",
+                "(c) Reena told Rhea that she would not accompany her on that trip.",
+                "(d) Reena said to Rhea that she will not be accompanying her on this trip."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Direct mein 'will not' aur 'this trip' indirect mein 'would not' aur 'that trip' se banega, joki option C mein follow ho raha hai."
+            },
+            {
+              "id": 79,
+              "question": "I said to you, \"He cannot be trusted completely.\"",
+              "options": [
+                "(a) You told me that he cannot be trusted completely.",
+                "(b) You told me that he could not be trusted completely.",
+                "(c) I said you that he cannot be trusted completely.",
+                "(d) I told you that he could not be trusted completely."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Direct se indirect mein 'I said to you' 'I told you' mein aur 'cannot' 'could not' mein change ho jayega, isliye option D sahi hoga."
+            },
+            {
+              "id": 80,
+              "question": "Isha told Shivani that they didn't need to buy tickets for the match as she had been given free passes for two.",
+              "options": [
+                "(a) Isha said to Shivani, \"We didn't need to buy tickets for the match as I am given free passes for two.\"",
+                "(b) Isha said to Shivani, \"We don't need to buy tickets for the match as I have been given free passes for two.\"",
+                "(c) Isha said to Shivani, \"They didn't need to buy tickets for the match as she was given free passes for two.\"",
+                "(d) Isha said to Shivani, \"They didn't need to buy tickets for the match as I am given free passes for two.\""
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Indirect mein 'they didn't need' aur 'she had been given' direct ke 'We don't need' aur 'I have been given' se aaya hoga, isliye option B sahi hoga."
+            },
+            {
+              "id": 81,
+              "question": "He said, \"My dog died on a cold night\".",
+              "options": [
+                "(a) He said my dog died on a cold night.",
+                "(b) He said his dog died on a cold night.",
+                "(c) He said his dog was dead on a cold night.",
+                "(d) He said his dog had died on a cold night."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Direct mein 'died' past indefinite diya hai, toh indirect mein 'had died' past perfect se banega, joki option D mein follow ho raha hai."
+            },
+            {
+              "id": 82,
+              "question": "She said, \"I know where he lives.\"",
+              "options": [
+                "(a) She said that she knew where he living.",
+                "(b) She said that she knew where he lived.",
+                "(c) She said I know where he lived.",
+                "(d) She said she had knowledge of where he lived."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Direct mein 'know, lives' present indefinite diya hai, toh indirect mein 'knew, lived' past indefinite se banega, isliye option B sahi hoga."
+            },
+            {
+              "id": 83,
+              "question": "I said that I would go to the temple.",
+              "options": [
+                "(a) I said, \"I can go to the temple\".",
+                "(b) I said, \"I will go to the temple\".",
+                "(c) I said, \"I went to the temple\".",
+                "(d) I said, \"I go to the temple\"."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Indirect mein 'would go' likha hai, toh direct mein 'will go' se aaya hoga, isliye option B sahi hoga."
+            },
+            {
+              "id": 84,
+              "question": "Mrs. Gomes said, \"Virtue is its own reward.\"",
+              "options": [
+                "(a) Mrs. Gomes said that Virtue was its own reward.",
+                "(b) Mrs. Gomes said that Virtue is its own reward.",
+                "(c) Mrs. Gomes said that Virtue had its own reward.",
+                "(d) Mrs. Gomes said that Virtue has its own reward."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Sentence mein proverb di hai, isliye direct se indirect jaate waqt tense change nahi hoga, isliye option B sahi hoga."
+            },
+            {
+              "id": 85,
+              "question": "Mother said that Sam would not pass.",
+              "options": [
+                "(a) Mother said, \"Sam would never pass.\"",
+                "(b) Mother said, \"Sam will not pass.\"",
+                "(c) Mother said, \"Sam would not pass.\"",
+                "(d) Mother said, \"Sam will have never passed.\""
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Indirect mein 'would not pass' diya hai, toh direct mein 'will not pass' se aaya hoga, isliye option B sahi hoga."
+            },
+            {
+              "id": 86,
+              "question": "The coach said, \"Bravo! You have played well\".",
+              "options": [
+                "(a) The coach informed him that he played well.",
+                "(b) The coach exclaimed that he played well.",
+                "(c) The coach exclaimed that he had played well.",
+                "(d) The coach praised that he has played well."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Direct mein present perfect ('have played') diya hai, toh indirect mein past perfect ('had played') se banega, joki option C mein follow ho raha hai."
+            },
+            {
+              "id": 87,
+              "question": "Ross said to Rachel, \"We were on a break\".",
+              "options": [
+                "(a) Ross told Rachel that they used to be on a break.",
+                "(b) Ross told Rachel that they were on break.",
+                "(c) Ross told Rachel that they had been on a break.",
+                "(d) Ross told Rachel that they have been on a break."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Direct mein 'were' past indefinite diya hai, toh indirect mein past perfect tense ('had been') ayega, isliye option C sahi hoga."
+            }
+          ]
         }
       ]
     }
