@@ -27076,6 +27076,372 @@
               "solutionHinglish": "Ans (b)\nExplanation:- 'can't/couldn't help ke baad agar 'but' aaye toh iske baad bare infinitive ka use hota hai, aur agar 'but' na aaye toh gerund ka use hota hai, sentence mein could not ke baad 'but' aaya hai, isliye yahan bare infinitive 'cry' sahi hoga, isliye option B could not help but cry' sahi answer hoga."
             }
           ]
+        },
+        {
+          "id": "t_1793559971610",
+          "name": "CONDITIONALS LEVEL-01",
+          "questions": [
+            {
+              "id": 1,
+              "question": "If the economy fails / this year it reflect badly / on the government.",
+              "options": [
+                "(a) on the government",
+                "(b) this year it reflect badly",
+                "(c) No error",
+                "(d) If the economy fails"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'will reflect' instead of 'reflect'\nExplanation:- yeh ek open conditional ka sentence hai jiska structure 'if + present indefinite + future indefinite' hota hai, sentence mein 'economy fail hone ka result future mein reflect hoga, isliye result wala clause 'will reflect' future indefinite mein likhenge."
+            },
+            {
+              "id": 2,
+              "question": "Had you / not reached in time, / we will have / lost our lives.",
+              "options": [
+                "(a) lost our lives",
+                "(b) not reached in time",
+                "(c) Had you",
+                "(d) we will have"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'would' instead of 'will'\nExplanation:- yeh closed conditional ka sentence hai jiska structure 'if + (had+v3) + (would/could/might) + have+v3' hota hai, isliye result wale clause mein 'would have lost' ka use hoga. (had you not reached in time = if you had not reached in time)"
+            },
+            {
+              "id": 3,
+              "question": "That man would have attacked you, if you went that way.",
+              "options": [
+                "(a) That man would have",
+                "(b) attacked you",
+                "(c) that way",
+                "(d) if you went"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'had gone' instead of 'went'\nExplanation:- yeh closed conditional ka sentence hai jiska structure 'if + (had+v3) + (would/could/might) + have + v3' hota hai, isliye yahan 'went' ki jagah 'had gone' ka use sahi hoga."
+            },
+            {
+              "id": 4,
+              "question": "I would have died if he did not dress my wound that day.",
+              "options": [
+                "(a) if he did not dress",
+                "(b) that day",
+                "(c) I would have died",
+                "(d) my wound"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'had not dressed' instead of 'did not dress'\nExplanation:- yeh closed conditional ka sentence hai jiska structure 'if + (had+v3) + (would/could/might) + have + v3' hota hai, isliye yahan 'did not dress' ki jagah 'had not dressed' ka use sahi hoga."
+            },
+            {
+              "id": 5,
+              "question": "If India will win this match they will win the series.",
+              "options": [
+                "(a) they will win",
+                "(b) If India will win",
+                "(c) the series",
+                "(d) this match"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'wins' instead of 'will win'\nExplanation:- yeh ek open conditional ka sentence hai jiska structure 'if + present indefinite + future indefinite' hota hai, sentence ke meaning ke according series future mein jitenge, isliye result wala clause mein 'will win' future indefinite mein likhenge, aur 'if waale clause ko 'wins' present indefinite mein likhenge. Note:- 2 future tenses ek sath use nahi kiye jaate."
+            },
+            {
+              "id": 6,
+              "question": "If a few drops of lemon are put in the milk, it has turned sour.",
+              "options": [
+                "(a) drops of lemon",
+                "(b) If a few",
+                "(c) it has turned sour",
+                "(d) are put in the milk"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'turns' instead of 'has turned'\nExplanation:- sentence mein scientific fact ki baat ho rahi, toh 'scientific fact, universal truth, general truth' ko present indefinite tense mein likhte hai, isliye yahan 'turns' present indefinite sahi hoga."
+            },
+            {
+              "id": 7,
+              "question": "If she left now, she would reach the station on time.",
+              "options": [
+                "(a) she would reach",
+                "(b) the station on time",
+                "(c) if she left now",
+                "(d) No error"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) no error\nYeh 'semi closed' ka structure hai.\nNOTE:- Waise toh agar yeh poora sentence open conditional mein hota toh 'best' hota hai but yahan options ki wajah se 2 parts mein error mark nahi ho sakta. Yeh 'semi closed' mein aise justify kiya jaa sakta hai ki maan lo kisi ka jaane ka mann nahi hain aur wo bahana bana rahin ki ab toh late ho gaye aur aap uske baare mein keh rahe ho ki: 'agar yeh abhi nikle toh station time pe pahuch jaaye (but wo jayegi hi toh yeh sentence open mein nahi semi closed mein likhna padega)"
+            },
+            {
+              "id": 8,
+              "question": "If the growth of population had been controlled earlier, mankind wouldn't lived in a polluted world now.",
+              "options": [
+                "(a) in a polluted world now",
+                "(b) mankind wouldn't live",
+                "(c) If the growth of population",
+                "(d) had been controlled earlier"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'live' instead of 'lived'\nExplanation:- sentence mein 'now' se pata chal raha hai ki past ke result ko present mein compare kiya jaa raha hai, jiske liye mix condition type 2 ka use hota hai, jiska structure 'if + (had+v3) + would/could/might +v1' hota hai, isliye result waale clause mein 'wouldn't live' ka use sahi hoga."
+            },
+            {
+              "id": 9,
+              "question": "If I join a software company I am getting a good deal of experience.",
+              "options": [
+                "(a) If I join",
+                "(b) a software company",
+                "(c) I am getting",
+                "(d) a good deal of experience"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'will get' instead of 'am getting'\nExplanation:- sentence mein present ki real situation imagine karni hai jiske liye open conditional ka use hota hai jiska structure 'if + present indefinite + future indefinite' hota hai, sentence ka according usse acchi deal company join karne ke baad milegi, isliye isse 'will get' future indefinite mein likhenge."
+            },
+            {
+              "id": 10,
+              "question": "If I had gone to the library I can have borrowed a book.",
+              "options": [
+                "(a) I can have",
+                "(b) gone to the library",
+                "(c) borrowed a book",
+                "(d) If I had"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'could' instead of 'can'\nExplanation:- yeh closed conditional ka sentence hai jiska structure 'if + (had+v3) + (would/could/might) + have + v3' hota hai, isliye result waale clause mein 'could have borrowed sahi hoga."
+            },
+            {
+              "id": 11,
+              "question": "If I knew about him before I will have recommended him.",
+              "options": [
+                "(a) If I knew",
+                "(b) recommended him",
+                "(c) about him before",
+                "(d) I will have"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'would' instead of 'will'\nExplanation:- sentence ke 2 parts mein toh error kar nahi sakte ki closed conditional bana de toh best solution yahi ki isse mix type-1 ke structure mein likh de. Jiska use past mein action ho chukka ho lekin present mein imagine kar rahe ho', jiska structure 'if + (were + noun/had+noun+v2) + would/could/might + have +v3' hota hai, isliye yahan 'would have recommended' sahi hoga."
+            },
+            {
+              "id": 12,
+              "question": "If so many catches had not being dropped, we could have won the match.",
+              "options": [
+                "(a) If so many catches",
+                "(b) had not being dropped",
+                "(c) won the match",
+                "(d) we could have"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'been' instead of 'being'\nExplanation:- yeh past ki closed condition hai, isme 'if' ke sath clause mein 'Had + v3' aur baad waale clause mein 'would/could/might + have + v3' mein hota hai, aur yahan 'catches drop' verb ke action ke receiver hai isliye yahan verb passive mein aayegi. Isliye 'had' ke baad verb ki 3rd form 'been' sahi hogi."
+            },
+            {
+              "id": 13,
+              "question": "If I was you / I would not have / committed this mistake",
+              "options": [
+                "(a) If I was you",
+                "(b) I would not have",
+                "(c) committed this mistake",
+                "(d) no error"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'if I was you' with 'if I were you'\nExplanation:- kisi person ka dusra person hona unreal imagination mein likha jayega, 2 parts mein error kar nahi sakte isliye yeh mix condition type-1 ka structure banega. Jiska structure 'if + (were + noun/had+noun+v2) + would/could/might + have +v3' hota hai, isliye yahan 'if I were you' sahi hoga."
+            },
+            {
+              "id": 14,
+              "question": "If I knew / that my friend had planned to visit the town today, / I would have made his stay comfortable.",
+              "options": [
+                "(a) If I knew",
+                "(b) that my friend had planned to visit the town today,",
+                "(c) I would have made his stay comfortable.",
+                "(d) No error"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'if I knew' with 'If I had known'\nExplanation:- sentence ke meaning ke according yeh closed conditional ka structure banega. Jiska structure 'if + (had+v3) + (would/could/might) + have + v3' hota hai, isliye yahan 'if I had known' sahi hoga.\nNote:- 'that my friend had planned' wala clause 'had known' verb ka object banega wo noun clause hai toh us se confuse na ho."
+            },
+            {
+              "id": 15,
+              "question": "He fell from a running train / and would have died / if the villagers did not get him admitted in the nearby hospital immediately.",
+              "options": [
+                "(a) He fell from a running train",
+                "(b) and would have died",
+                "(c) if the villagers did not get him admitted in the nearby hospital immediately.",
+                "(d) No error"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'did not get' with 'had not got'\nExplanation:- sentence ke meaning ke according yeh closed conditional ka structure banega. Isliye yahan 'had not got' sahi hoga.\nNote:- 'got him admitted' yeh causative verb ka receiver wala structure hai yahan 'admitted' past participle hai."
+            },
+            {
+              "id": 16,
+              "question": "If he would have / come here I would certainly / have taken him to the zoo.",
+              "options": [
+                "(a) If he would have",
+                "(b) come here I would certainly",
+                "(c) have taken him to the zoo.",
+                "(d) No error"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'If he would have' with 'if he had'\nExplanation:- sentence ke meaning ke according yeh closed conditional ka structure banega. Isliye yahan 'if he had come' sahi hoga."
+            },
+            {
+              "id": 17,
+              "question": "had you told / me about your problems, / I would definitely help you.",
+              "options": [
+                "(a) had you told",
+                "(b) me about your problems,",
+                "(c) I would definitely help you.",
+                "(d) No error"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'I would definitely help' with 'I would have definitely helped'\nExplanation:- yeh closed conditional ka sentence hai jiska structure 'if + (had+v3) + (would/could/might) + have + v3' hota hai, isliye result wale clause mein 'would have definitely helped' ka use hoga."
+            },
+            {
+              "id": 18,
+              "question": "If I was well /, I would go to a hill station / and have ice-cream.",
+              "options": [
+                "(a) If I was well",
+                "(b) I would go to a hill station",
+                "(c) and have ice-cream.",
+                "(d) No error"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'if I was well' with 'if I were well'\nExplanation:- yeh semi closed condition sentence hai jiska use present ki aise unreal situation ko imagine karne ke liye kiya jata hai jo speaker ke according fulfil nahi ho sakti aur iska structure 'if + (v2/ were+noun/ had+noun) + (would/could/might) + verb' hota hai, isliye yahan 'if I were well' sahi hoga.\nNote:- 'c' part mein 'have' se pehle 'would' understood hai."
+            },
+            {
+              "id": 19,
+              "question": "If I saw you / in the market, / I would have surely met you.",
+              "options": [
+                "(a) If I saw you",
+                "(b) in the market,",
+                "(c) I would have surely met you.",
+                "(d) No error"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'if I saw you' with 'if I had seen you'\nExplanation:- sentence ke meaning ke according yeh closed conditional ka structure hai, isliye yahan 'If I had seen you' sahi hoga.\nNote: yeh unreal imagination nahi hai isliye 'would meet' (semi closed) se nahi banayenge."
+            },
+            {
+              "id": 20,
+              "question": "You would have / not passed the exam / if you had not helped by Ajay.",
+              "options": [
+                "(a) you would have",
+                "(b) not passed the exam",
+                "(c) if you had not helped by Ajay.",
+                "(d) No error"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'If you had not helped' with 'if you had not been helped'\nExplanation:- sentence ke meaning ke according yahan passive voice ki requirement hai. Isliye yahan 'if you had not been helped' sahi hoga."
+            },
+            {
+              "id": 21,
+              "question": "If I had known / what a greedy man you are, / I would not have asked for any help from you.",
+              "options": [
+                "(a) If I had known",
+                "(b) what a greedy man you are,",
+                "(c) I would not have asked for any help from you.",
+                "(d) No error"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) no error\nNote: Yahan 'what a greedy man you are' yeh noun clause hai jo ki 'had known' verb ka object hai. Isse confuse na ho."
+            },
+            {
+              "id": 22,
+              "question": "If you persist in charging unfair / prices your license / will have been revoked.",
+              "options": [
+                "(a) If you persist in charging unfair",
+                "(b) prices your license",
+                "(c) will have been revoked.",
+                "(d) No error"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'will have been revoked' with 'will be revoked'\nExplanation:- sentence ke meaning ke according yeh open conditional ka structure hai. Isliye meaning ke according 'will be revoked' future indefinite sahi hoga.\nNote:-Yahan 'will be revoked' passive hai kyunki 'license revoke' kiye jaane ka receiver hai."
+            },
+            {
+              "id": 23,
+              "question": "If you were the prime / minister of India what steps / would you have taken to remove unemployment",
+              "options": [
+                "(a) If you were the prime",
+                "(b) minister of India what steps",
+                "(c) would you have taken to remove unemployment",
+                "(d) No error"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'would have taken' with 'would take'\nExplanation:- yeh sentence present ki unreal imagination ko dikha raha hai isliye meaning ke according yeh semi closed ka structure banega, jiska structure 'if + (v2/ were+noun/ had+noun) + (would/could/might) + verb' hota hai. Isliye yahan 'would take' sahi hoga."
+            },
+            {
+              "id": 24,
+              "question": "If I would be a / millionaire, I would not / meet people like you.",
+              "options": [
+                "(a) If I would be a",
+                "(b) millionaire, I would not",
+                "(c) meet people like you.",
+                "(d) No error"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'if I would be' with 'if I were'\nExplanation: yeh sentence present ki unreal imagination hai isliye meaning ke according yeh semi-closed mein jayega. Isliye yahan 'if I were' sahi hoga."
+            },
+            {
+              "id": 25,
+              "question": "He behaves in such an arrogant manner / as if he is a billionaire.",
+              "options": [
+                "(a) He behaves in such",
+                "(b) an arrogant manner",
+                "(c) as if he is a billionaire",
+                "(d) No error"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'he is a billionaire' with 'he were a billionaire'\nExplanation:- 'as if/ as though' ke sath do structure follow hote hai. 'present indefinite + as if/as though + v2' aur 'past indefinite + as if/as though + had+v3', sentence mein 'behaves' present indefinite diya hai, isliye 'as if ke baad v2 'he were a billionaire' sahi hoga. aur present ki unreal imagination ke liye v2 ka use hota hai."
+            },
+            {
+              "id": 26,
+              "question": "I wish / I learnt swimming when / I was young.",
+              "options": [
+                "(a) I wish",
+                "(b) I learnt swimming when",
+                "(c) I was young.",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'learnt' with 'had learnt'\nExplanation- sentence mein past ki imagination karni hai aur past ki imagination karne ke liye 'had+v3' ka use hota hai. Isliye yahan 'had learnt' sahi hoga."
+            },
+            {
+              "id": 27,
+              "question": "I wish / he realises / that she is fooling him.",
+              "options": [
+                "(a) I wish",
+                "(b) he realises",
+                "(c) that she is fooling him",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'realises' with 'realised'\nExplanation:- sentence mein present ki imagination karni hai aur present ki imagination karne ke liye verb ki 2nd form ka use hota hai. Isliye yahan 'realised' sahi hoga."
+            },
+            {
+              "id": 28,
+              "question": "If we had Mohan / in our team, we would have / easily won the match.",
+              "options": [
+                "(a) If we had Mohan",
+                "(b) in our team, we would have",
+                "(c) easily won the match.",
+                "(d) No error"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'if we had Mohan' with 'If we had had Mohan'\nExplanation:- yeh closed conditional ka sentence hai jiska structure 'if + (had+v3) + (would/could/might) + have + v3' hota hai, isliye yahan 'if we had had mohan' sahi hoga"
+            },
+            {
+              "id": 29,
+              "question": "If I would realise / what you wanted, I would have / surely helped you.",
+              "options": [
+                "(a) If I would realise",
+                "(b) what you wanted, I would have",
+                "(c) surely helped you.",
+                "(d) No error"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'would realise' with 'had realised'\nExplanation:- sentence ke meaning se pata chal raha ki closed conditional ka sentence hai, isliye yahan 'I had realised' sahi hoga.\nNote:- what you wanted wala clause 'had realised' verb ka object banega. Isse confuse na ho."
+            },
+            {
+              "id": 30,
+              "question": "If the freedom fighters had come back / to life they would be shocked / to see the current state of our country.",
+              "options": [
+                "(a) If the freedom fighters had come back",
+                "(b) to life they would be shocked",
+                "(c) to see the current state of our country",
+                "(d) No error"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'had come back' with 'came'\nExplanation: yeh sentence present ki unreal imagination ko dikha raha hai isliye meaning ke according yeh semi closed ka structure banega, jiska structure 'if + (v2/were+noun/had+noun) + (would/could/might) + verb' hota hai. Isliye yahan 'came back' verb ki 2nd form sahi hogi.\nNote:- 'would be shocked' me 'shocked' adjective hai jo subject complement ban raha hai."
+            }
+          ]
         }
       ]
     }
