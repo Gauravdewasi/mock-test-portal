@@ -10648,6 +10648,612 @@
               "solutionHinglish": "Ans (c)\nExplanation:- Sentence mein 'has been taken' aur 'to have the proposal reviewed' yeh dono passive mein hai aur second verb causative verb ka passive hai, agar inn dono mein ek bhi active ho jaaye toh option sahi maan lenge kyunki best option nahi hai. Option C sahi hoga kyunki 'has been taken' ka active 'have decided' kar diya jo concise version hai 'have taken' ka, isliye 'have decided' bhi sahi hai aur causative verb ke structure ko waisa he chod diya 'to get the proposal reviewed', kyunki ek ko active kiya isliye option C chal jayega/sahi ho jayega.\nBest option:- 'They have taken a decision to get/have an external panel to review the proposal'."
             }
           ]
+        },
+        {
+          "id": "t_1793535177485",
+          "name": "Parts of Speech Level-01",
+          "questions": [
+            {
+              "id": 1,
+              "question": "The [Presiding] Officer walked slowly to the dais.",
+              "options": [
+                "(a) Adverb",
+                "(b) Adjective",
+                "(c) Verb",
+                "(d) Noun"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'adjective'\nExplanation:- 'officer' noun hai, aur noun ko qualify karne ke liye adjective ka use hota hai, isliye 'presiding' yahan adjective hai."
+            },
+            {
+              "id": 2,
+              "question": "The children were walking [through] the forest.",
+              "options": [
+                "(a) Verb",
+                "(b) Adverb",
+                "(c) Adjective",
+                "(d) Preposition"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Correct answer is 'preposition'\nExplanation:- 'through' preposition aur 'the forest' preposition ka object, isliye option D sahi hoga."
+            },
+            {
+              "id": 3,
+              "question": "I will wait here [till] he comes.",
+              "options": [
+                "(a) Conjunction",
+                "(b) Preposition",
+                "(c) Adverb",
+                "(d) Adjective"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'conjunction'\nExplanation:- 'I will wait' subject + verb hai aur 'he comes' bhi subject + verb hai, aur do clauses ko jodne ka kaam conjunction ka hota hai, isliye 'till' conjunction hai."
+            },
+            {
+              "id": 4,
+              "question": "The son writes [meaningless] letters to his father.",
+              "options": [
+                "(a) Adverb",
+                "(b) Verb",
+                "(c) Pronoun",
+                "(d) Adjective"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Correct answer is 'adjective'\nExplanation:- 'letters' noun hai jiski visheshta 'meaningless' bata raha hai, noun yaa pronoun ko qualify karne waale ko adjective kehte hai."
+            },
+            {
+              "id": 5,
+              "question": "[Hurrah!] We won the game!",
+              "options": [
+                "(a) Interjection",
+                "(b) Conjunction",
+                "(c) Noun",
+                "(d) Pronoun"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'Interjection'\nExplanation:- Wo word jo kisi sudden expression yaa feeling ko bataye unhe interjection kehte hai jaise 'Hurrah!, Alas!, Ouch!, Wow!' etc."
+            },
+            {
+              "id": 6,
+              "question": "[Since] he was late, he missed the train.",
+              "options": [
+                "(a) Conjunction",
+                "(b) Adverb",
+                "(c) Preposition",
+                "(d) Noun"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'conjunction'\nExplanation:- Yahan 'since' do clauses ko jodne ka kaam kar raha hai aur 'kyunki' wala meaning de raha hai, isliye 'since' conjunction hai."
+            },
+            {
+              "id": 7,
+              "question": "Jasmines [and] roses are my favourite flowers.",
+              "options": [
+                "(a) Verb",
+                "(b) Preposition",
+                "(c) Conjunction",
+                "(d) Interjection"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'conjunction'\nExplanation:- Yahan 'and' conjunction hai kyunki 'jasmines' aur 'roses' nouns ko jod raha hai."
+            },
+            {
+              "id": 8,
+              "question": "I will meet you [in] the third week of August.",
+              "options": [
+                "(a) Pronoun",
+                "(b) Verb",
+                "(c) Preposition",
+                "(d) Noun"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'preposition'\nExplanation:- 'in, on, into, above, upon, under, of' etc. yeh prepositions hoti hai, jinke baad preposition ka object ('the third week') aata hai."
+            },
+            {
+              "id": 9,
+              "question": "Identify the type of pronoun: \"Their house is not so good as [ours].\"",
+              "options": [
+                "(a) Demonstrative pronoun",
+                "(b) Relative pronoun",
+                "(c) Possessive pronoun",
+                "(d) Intensive pronoun"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'possessive pronoun'\nExplanation:- 'ours' ka matlab 'our house', jo ek noun ki jagah pe aaye aur possession bhi dikhaaye unhe possessive pronoun kehte hai (mine, ours, yours, his, hers, theirs)."
+            },
+            {
+              "id": 10,
+              "question": "Rita [eats] her dinner quickly.",
+              "options": [
+                "(a) Verb",
+                "(b) Preposition",
+                "(c) Adjective",
+                "(d) Adverb"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'verb'\nExplanation:- 'eats' yahan verb hai jiski forms 'eat, ate, eaten, eating' hoti hai."
+            },
+            {
+              "id": 11,
+              "question": "Ravi was declared as the winner in the tie [because] he had hit the most number of fours and sixes.",
+              "options": [
+                "(a) Conjunction",
+                "(b) Interjection",
+                "(c) Adverb",
+                "(d) Cause"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'conjunction'\nExplanation:- 'Ravi was declared' aur 'he had hit' do clauses ko jodne ka kaam 'because' kar raha hai, isliye 'because' conjunction hai."
+            },
+            {
+              "id": 12,
+              "question": "[Hurrah!] What a scintillating beauty the landscape is!",
+              "options": [
+                "(a) Conjunction",
+                "(b) Adjective",
+                "(c) Adverb",
+                "(d) Interjection"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Correct answer is 'interjection'\nExplanation:- Wo word jo kisi expression yaa feeling ko bataye unhe interjection kehte hai jaise 'Hurrah!, Alas!, Ouch!, Wow!' etc."
+            },
+            {
+              "id": 13,
+              "question": "The building [is] very ancient.",
+              "options": [
+                "(a) Transitive verb",
+                "(b) Intransitive verb",
+                "(c) Phrasal verb",
+                "(d) Auxiliary verb"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'Intransitive verb'\nExplanation:- 'is, am, are, was, were' ke baad koi main verb naa likhi ho toh inhe linking verb (intransitive verb) kehte hai aur 'ancient' adjective (complement) hai."
+            },
+            {
+              "id": 14,
+              "question": "He [has offered] her another chance.",
+              "options": [
+                "(a) Intransitive verb",
+                "(b) Past tense",
+                "(c) Perfect tense",
+                "(d) Transitive verb"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'perfect tense'\nExplanation:- 'has offered' present perfect tense hai (has + V3)."
+            },
+            {
+              "id": 15,
+              "question": "Identify the non-finite verb: \"He tried [to warn] her before leaving.\"",
+              "options": [
+                "(a) Infinitive",
+                "(b) Gerund",
+                "(c) Participle",
+                "(d) None of these"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'infinitive'\nExplanation:- 'to + V1' se infinitive banta hai, isliye 'to warn' infinitive hai."
+            },
+            {
+              "id": 16,
+              "question": "[Noticing] the change in the behaviour of the officer, the cadets returned to their position.",
+              "options": [
+                "(a) Participle",
+                "(b) Present continuous",
+                "(c) Noun phrase",
+                "(d) Noun"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'participle'\nExplanation:- 'Noticing' yahan present participle (adjective) hai 'the cadets' noun ke liye, isliye 'participle' sahi hoga."
+            },
+            {
+              "id": 17,
+              "question": "[Driven] by hunger, he ate the stale bread.",
+              "options": [
+                "(a) gerund",
+                "(b) Present participle",
+                "(c) infinitive",
+                "(d) Past participle"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Correct answer is 'past participle'\nExplanation:- 'Driven' (V3) yahan past participle hai jo 'he' subject ko qualify kar raha hai."
+            },
+            {
+              "id": 18,
+              "question": "The [most] beautiful actor of the industry was awarded today.",
+              "options": [
+                "(a) Adjective",
+                "(b) Numeral",
+                "(c) Adverb",
+                "(d) Noun"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'adverb'\nExplanation:- 'actor' noun ko 'beautiful' adjective qualify kar raha hai, aur adjective ko qualify karne waale 'most' ko adverb kehte hai."
+            },
+            {
+              "id": 19,
+              "question": "The man in dark blue is the one [who] made us win the match.",
+              "options": [
+                "(a) Relative clause",
+                "(b) Interrogative pronoun",
+                "(c) Relative pronoun",
+                "(d) Affirmative"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'relative pronoun'\nExplanation:- 'who, whom, which, that' relative pronouns hote hai jo pronoun + conjunction ka kaam karte hai."
+            },
+            {
+              "id": 20,
+              "question": "He has been working in the Department of Foreign Affairs [since] 2002.",
+              "options": [
+                "(a) conjunction",
+                "(b) Adjective",
+                "(c) Intensifier",
+                "(d) preposition"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Correct answer is 'preposition'\nExplanation:- 'since' ka yahan meaning 'jabse' hai aur iske baad point of time '2002' object hai, isliye yeh preposition hai."
+            },
+            {
+              "id": 21,
+              "question": "I can [hardly] believe it.",
+              "options": [
+                "(a) Adjective",
+                "(b) Preposition",
+                "(c) Adverb",
+                "(d) Verb"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'adverb'\nExplanation:- 'believe' main verb ko qualify 'hardly' kar raha hai, isliye 'hardly' adverb hai."
+            },
+            {
+              "id": 22,
+              "question": "The ants [fought] the wasps.",
+              "options": [
+                "(a) Intransitive verb",
+                "(b) Transitive verb",
+                "(c) Demonstrative verb",
+                "(d) Adjective"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'transitive verb'\nExplanation:- 'fought' yahan verb hai aur iska object 'the wasps' hai, isliye 'fought' transitive verb hai."
+            },
+            {
+              "id": 23,
+              "question": "I hurt [myself].",
+              "options": [
+                "(a) Noun",
+                "(b) Pronoun",
+                "(c) Demonstrative preposition",
+                "(d) Adjective"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'pronoun'\nExplanation:- 'myself' yahan reflexive pronoun hai."
+            },
+            {
+              "id": 24,
+              "question": "The Son got [angry] when his father asked the question.",
+              "options": [
+                "(a) Noun",
+                "(b) Adjective",
+                "(c) Adverb",
+                "(d) conjunction"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'adjective'\nExplanation:- 'got' linking verb hai aur linking verb ke baad subject complement 'angry' adjective hai."
+            },
+            {
+              "id": 25,
+              "question": "The flower is [very] beautiful.",
+              "options": [
+                "(a) Adjective",
+                "(b) Adverb",
+                "(c) Preposition",
+                "(d) Conjunction"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'adverb'\nExplanation:- 'beautiful' adjective hai aur adjective ko qualify 'very' (adverb) kar raha hai."
+            },
+            {
+              "id": 26,
+              "question": "[It] is eleven o'clock now and all of us should retire to bed.",
+              "options": [
+                "(a) Personal pronoun",
+                "(b) Relative pronoun",
+                "(c) Impersonal pronoun",
+                "(d) Verb"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'impersonal pronoun'\nExplanation:- 'It' yahan time ('eleven o'clock') ko refer karne wala introductory subject hai, isliye yeh impersonal pronoun hai."
+            },
+            {
+              "id": 27,
+              "question": "He said to him that he was [welcome].",
+              "options": [
+                "(a) Noun",
+                "(b) Pronoun",
+                "(c) Adjective",
+                "(d) Adverb"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'adjective'\nExplanation:- 'was' linking verb ke baad 'welcome' yahan subject complement (adjective) hai."
+            },
+            {
+              "id": 28,
+              "question": "This is [his] pen.",
+              "options": [
+                "(a) Possessive pronoun",
+                "(b) Possessive adjective",
+                "(c) Adverb",
+                "(d) Verb"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'possessive adjective'\nExplanation:- 'his' yahan 'pen' noun par possession bana raha hai, isliye 'his' possessive adjective hai."
+            },
+            {
+              "id": 29,
+              "question": "The wonderful [statue] of the leader welcomes all people to the city.",
+              "options": [
+                "(a) Object",
+                "(b) Adjective",
+                "(c) Noun phrase",
+                "(d) Noun"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Correct answer is 'noun'\nExplanation:- 'statue' yahan subject (noun) hai, aur 'wonderful' noun ke liye adjective hai."
+            },
+            {
+              "id": 30,
+              "question": "All the pilgrims rested for a while [under] the banyan tree.",
+              "options": [
+                "(a) Adverb",
+                "(b) Place value",
+                "(c) Preposition",
+                "(d) Verb"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'preposition'\nExplanation:- 'under' preposition hai aur 'the banyan tree' iska object hai."
+            },
+            {
+              "id": 31,
+              "question": "There was an [exultation] in the group.",
+              "options": [
+                "(a) Adjective",
+                "(b) Adverb",
+                "(c) Adjectival Noun",
+                "(d) Noun"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Correct answer is 'noun'\nExplanation:- 'an' article ke baad real subject 'exultation' ek noun hai."
+            },
+            {
+              "id": 32,
+              "question": "Ravi [won] the match with a huge margin.",
+              "options": [
+                "(a) Intransitive verb",
+                "(b) Transitive verb",
+                "(c) Demonstrative verb",
+                "(d) Adjective"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'transitive verb'\nExplanation:- 'won' verb hai aur 'the match' iska object hai, isliye 'won' transitive verb hai."
+            },
+            {
+              "id": 33,
+              "question": "Love your neighbour as [thyself].",
+              "options": [
+                "(a) Noun",
+                "(b) Pronoun",
+                "(c) Preposition",
+                "(d) Adjective"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'pronoun'\nExplanation:- 'thyself' ('yourself' ka archaic रूप) ek reflexive/emphatic pronoun hai."
+            },
+            {
+              "id": 34,
+              "question": "[This] time we woke up to the virus related diseases.",
+              "options": [
+                "(a) Demonstrative",
+                "(b) Article",
+                "(c) Adverb",
+                "(d) Noun phrase"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'demonstrative'\nExplanation:- 'This' demonstrative adjective hai jo 'time' noun ko qualify kar raha hai."
+            },
+            {
+              "id": 35,
+              "question": "They have been driving [since] early morning.",
+              "options": [
+                "(a) Adjective",
+                "(b) Adverb",
+                "(c) Noun",
+                "(d) Comparison"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'adverb'\nExplanation:- Given options mein 'preposition' nahi hai, isliye exam answer key ke according 'adverb' mark kiya jayega."
+            },
+            {
+              "id": 36,
+              "question": "He told me that the teacher [gave] him a pen.",
+              "options": [
+                "(a) intransitive verb",
+                "(b) mono transitive verb",
+                "(c) di transitive verb",
+                "(d) stative verb"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'di-transitive verb'\nExplanation:- 'gave' ek di-transitive verb hai jiska indirect object 'him' hai aur direct object 'a pen' hai."
+            },
+            {
+              "id": 37,
+              "question": "The man [who] is in the green shirt is the chief of the day.",
+              "options": [
+                "(a) Relative Pronoun",
+                "(b) noun",
+                "(c) Demonstrative pronouns",
+                "(d) Assertive noun"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'relative pronoun'\nExplanation:- 'who' relative pronoun hai jo 'The man' ko refer kar raha hai."
+            },
+            {
+              "id": 38,
+              "question": "[Alas!] He has been defeated.",
+              "options": [
+                "(a) Adjective",
+                "(b) Adverb",
+                "(c) Interjection",
+                "(d) Conjunction"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'interjection'\nExplanation:- 'Alas!' dukh express karne wala interjection hai."
+            },
+            {
+              "id": 39,
+              "question": "The [most beautiful] seven monkeys of the landlord were taken for a stroll.",
+              "options": [
+                "(a) Object",
+                "(b) Adjective",
+                "(c) Noun phrase",
+                "(d) Noun"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'adjective'\nExplanation:- 'most beautiful' superlative degree ka adjective hai jo 'monkeys' ko qualify kar raha hai."
+            },
+            {
+              "id": 40,
+              "question": "The preacher said, \"No one is [above] the all powerful\".",
+              "options": [
+                "(a) Adverb",
+                "(b) Place value",
+                "(c) Preposition",
+                "(d) Verb"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'preposition'\nExplanation:- 'above' yahan preposition hai."
+            },
+            {
+              "id": 41,
+              "question": "The secretary [himself] visited the affected families.",
+              "options": [
+                "(a) Verb",
+                "(b) Noun",
+                "(c) Adverb",
+                "(d) Pronoun"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Correct answer is 'pronoun'\nExplanation:- 'himself' yahan emphatic pronoun hai."
+            },
+            {
+              "id": 42,
+              "question": "She [truthfully] answered the detective's questions.",
+              "options": [
+                "(a) Verb",
+                "(b) Adjective",
+                "(c) Noun",
+                "(d) Adverb"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Correct answer is 'adverb'\nExplanation:- 'truthfully' adverb of manner hai jo 'answered' verb ko qualify kar raha hai."
+            },
+            {
+              "id": 43,
+              "question": "He thought the movie ended [abruptly].",
+              "options": [
+                "(a) Noun",
+                "(b) Adverb",
+                "(c) Verb",
+                "(d) Adjective"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'adverb'\nExplanation:- 'abruptly' adverb of manner hai jo 'ended' verb ko qualify kar raha hai."
+            },
+            {
+              "id": 44,
+              "question": "When he reached the department, the officials [had left] for the meeting.",
+              "options": [
+                "(a) Past perfect verb",
+                "(b) Past tense",
+                "(c) Dependent clause",
+                "(d) Independent clause"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'past perfect verb'\nExplanation:- 'had left' (had + V3) past perfect verb hai."
+            },
+            {
+              "id": 45,
+              "question": "\"What is the [latest] news?\" asked the Captain.",
+              "options": [
+                "(a) Relative pronoun",
+                "(b) Adjective",
+                "(c) Adverb",
+                "(d) Adjectival clause"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'adjective'\nExplanation:- 'latest' adjective hai jo 'news' noun ko qualify kar raha hai."
+            },
+            {
+              "id": 46,
+              "question": "[This] boy is stronger than Ramesh.",
+              "options": [
+                "(a) Pronoun",
+                "(b) Adjective",
+                "(c) Article",
+                "(d) Adverb"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'adjective'\nExplanation:- 'This' demonstrative adjective hai jo 'boy' noun ko qualify kar raha hai."
+            },
+            {
+              "id": 47,
+              "question": "When people found that the jewel was in records of Rahim, they gave [it] to him.",
+              "options": [
+                "(a) Pronoun",
+                "(b) Nominative",
+                "(c) Noun",
+                "(d) Adverb"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'pronoun'\nExplanation:- 'it' yahan pronoun hai jo 'the jewel' ke liye object ban raha hai."
+            },
+            {
+              "id": 48,
+              "question": "He has been living in the jungle for long [and] he knows all the animals here.",
+              "options": [
+                "(a) Subordinating conjunction",
+                "(b) Coordinating conjunction",
+                "(c) Preposition",
+                "(d) Personal pronoun"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'coordinating conjunction'\nExplanation:- FANBOYS (For, And, Nor, But, Or, Yet, So) coordinating conjunctions hoti hai."
+            },
+            {
+              "id": 49,
+              "question": "Select the sentence with correct adverb of manner:",
+              "options": [
+                "(a) He done his work regularly.",
+                "(b) He has just done his work.",
+                "(c) He does his work carefully",
+                "(d) He has done his work on my table."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'He does his work carefully'\nExplanation:- 'carefully' adverb of manner hai."
+            },
+            {
+              "id": 50,
+              "question": "I know [that] [that] black cow is [his].",
+              "options": [
+                "(a) conjunction, demonstrative adjective, possessive pronoun",
+                "(b) demonstrative adjective, conjunction, possessive adjective",
+                "(c) conjunction, possessive adjective, possessive adjective",
+                "(d) conjunction, demonstrative pronoun, possessive pronoun"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'conjunction, demonstrative adjective, possessive pronoun'\nExplanation:- First 'that' दो clauses ko jodne wali conjunction hai, second 'that' 'cow' noun ke liye demonstrative adjective hai, aur 'his' bina noun ke aaya possessive pronoun hai."
+            }
+          ]
         }
       ]
     }
