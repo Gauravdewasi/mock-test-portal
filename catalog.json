@@ -32721,6 +32721,492 @@
               "solutionHinglish": "Ans: (a) apprehend\nExplanation: \"Apprehend\" ka matlab hota hai kisi cheez ka meaning samajhna ya usse properly grasp karna. Sentence me bataya gaya hai ki scientist apni discovery ke implications (nateeje/asar) ko tab tak poori tarah samajh nahi paayi thi jab tak evidence ko dobara examine nahi kiya gaya. Isliye option (a) 'apprehend' correct hoga. Baaki options ka meaning: improvise → bina planning ke kuch karna | invalidate → galat sabit karna | replicate → copy/reproduce karna"
             }
           ]
+        },
+        {
+          "id": "t_1793561676648",
+          "name": "FILL IN THE BLANKS SET-02",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Although the proposal appeared promising at first, further analysis revealed it to be _______ in logic.",
+              "options": [
+                "(a) impeccable",
+                "(b) fallacious",
+                "(c) pragmatic",
+                "(d) coherent"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) fallacious\nExplanation: 'Fallacious' ka matlab hota hai galat belief ya assumption par based, illogical ya flawed. Sentence ka matlab hai ki proposal pehle dekhne me promising lag raha tha, lekin baad me jab detail me analysis kiya gaya, to uske logic me flaws (kami ya galti) nikal aayi. Isliye option (b) 'fallacious' correct hoga. Baaki options ka meaning: Impeccable → bilkul perfect | Pragmatic → practical | Coherent → logically clear aur well-connected"
+            },
+            {
+              "id": 2,
+              "question": "The philosopher's discourse was so _______ that only a handful of scholars could fully comprehend its nuanced intricacies.",
+              "options": [
+                "(a) perspicuous",
+                "(b) pellucid",
+                "(c) recondite",
+                "(d) facile"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans: (c) recondite\nExplanation: 'Recondite' ka matlab hota hai bahut zyada complex, obscure, jo easily samajh na aaye. Sentence me bataya gaya hai ki philosopher ka discourse itna recondite (gehra aur jatil) tha ki sirf kuch hi scholars uski nuanced intricacies (bahut hi sukshm jatiltaayein) ko acche se samajh paaye. Isliye option (c) 'recondite' correct hoga. Baaki options ka meaning: perspicuous → clear aur easily samajh aane wala | pellucid → bilkul clear, transparent | facile → easy / superficial"
+            },
+            {
+              "id": 3,
+              "question": "The detective had to _______ many clues to solve the complex case.",
+              "options": [
+                "(a) put up",
+                "(b) break down",
+                "(c) piece together",
+                "(d) give in"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans: (c) piece together\nExplanation: \"Piece together\" ka matlab hota hai alag-alag clues ya information ke tukdon ko jodkar kuch samajhna. Sentence me detective ko complex case solve karne ke liye bahut saare clues ko jodna pada. Isliye option (c) 'piece together' correct hoga. Baaki options ka meaning: put up → tolerate karna / kisi cheez ko sehna | break down → todna / detail me analyse karna | give in → haar maan lena / surrender karna"
+            },
+            {
+              "id": 4,
+              "question": "Hardly had the train left the station _______ it started raining heavily.",
+              "options": [
+                "(a) when",
+                "(b) than",
+                "(c) before",
+                "(d) until"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans: (a) when\nExplanation: \"Hardly...when\" ek fixed conjunction pair hota hai. Isliye option (a) 'when' correct hoga."
+            },
+            {
+              "id": 5,
+              "question": "The historian often alluded _______ ancient myths in his lectures, enriching the narrative.",
+              "options": [
+                "(a) at",
+                "(b) but",
+                "(c) to",
+                "(d) towards"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans: (c) to\nExplanation: \"Allude\" ka matlab hota hai indirectly refer karna ya ishara karna. Ye verb hamesha \"to\" ke saath use hota hai. Isliye option (c) 'to' correct hoga. Correct phrase: allude to something."
+            },
+            {
+              "id": 6,
+              "question": "The old factory will be _______ into a modern art gallery next year.",
+              "options": [
+                "(a) pulled down",
+                "(b) turned into",
+                "(c) put off",
+                "(d) brought up"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) turned into\nExplanation: 'turned into' ka matlab hota hai kisi cheez ko dusri cheez me badal dena. Sentence ka matlab hai ki old factory ko next year ek modern art gallery me badal diya jayega. Isliye option (b) 'turned into' correct hoga. Baaki options ka meaning: pulled down → girana / tod dena (demolish karna) | put off → postpone karna | brought up → kisi topic ko uthana / bachche ko palna"
+            },
+            {
+              "id": 7,
+              "question": "If they _______ the warning, they wouldn't have made that mistake.",
+              "options": [
+                "(a) heeded",
+                "(b) had heeded",
+                "(c) would heed",
+                "(d) have heeded"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) had heeded\nExplanation: Yeh sentence Third conditional ka example hai, jo past ki unreal situation ko show karta hai (jo hua nahi) aur \"had + V3... would/could/might + have + V3\" iska correct structure hota hai. Isliye option (b) 'had heeded' correct hoga."
+            },
+            {
+              "id": 8,
+              "question": "The artist's _______ brushstrokes captured the essence of the landscape.",
+              "options": [
+                "(a) masterful",
+                "(b) master",
+                "(c) masterfully",
+                "(d) mastery"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans: (a) masterful\nExplanation: Sentence me \"brushstrokes\" ek noun hai, aur usko describe karne ke liye ek adjective ki zarurat hai. \"Masterful\" ek adjective hai, jiska matlab hota hai kisi expert ki high level skill se kiya gaya kaam. Isliye option (a) 'masterful' correct hoga."
+            },
+            {
+              "id": 9,
+              "question": "The professor, _______ reputation for rigorous research was widely known, retired last year.",
+              "options": [
+                "(a) who",
+                "(b) whom",
+                "(c) whose",
+                "(d) when"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans: (c) whose\nExplanation: Yahan sentence me \"professor ki reputation\" batani hai (possession show karna hai). Isliye option (c) 'whose' correct hoga."
+            },
+            {
+              "id": 10,
+              "question": "Choose the correct semantic fit:\nThe committee's decision was a major _______ in the company's expansion plans.",
+              "options": [
+                "(a) impetus",
+                "(b) setback",
+                "(c) stimulant",
+                "(d) leverage"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) Setback\nExplanation: \"Setback\" ka matlab hota hai progress me rukawat ya delay. Sentence ka matlab hai ki committee ke decision ka company ke expansion plans par negative impact pada. Isliye option (b) 'setback' correct hoga. Baaki options ka meaning: Impetus → aage badhane wali force / push | Stimulant → temporarily excite ya boost karne wali cheez | Leverage → fayda uthana / advantage lena."
+            },
+            {
+              "id": 11,
+              "question": "Select the correct form of the verb.\nThe prevalence of infectious diseases among vulnerable populations _______ a constant concern for public health organisations.",
+              "options": [
+                "(a) has remaining",
+                "(b) remain",
+                "(c) have remained",
+                "(d) remains"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans: (d) remains\nExplanation: Sentence ka subject \"Prevalence\" (singular) hai isliye singular verb 'remains' aayega. Prevalence ka matlab hota hai kisi cheez ka failav ya widespread hona. \"of infectious diseases among vulnerable populations\" sirf ek prepositional phrase hai, jo extra information deta hai - yeh subject nahi hai."
+            },
+            {
+              "id": 12,
+              "question": "The ancient scroll, previously thought to be lost, _______ in a hidden chamber.",
+              "options": [
+                "(a) was discovered",
+                "(b) is discovered",
+                "(c) discovers",
+                "(d) are discovered"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans: (a) was discovered\nExplanation: Sentence me ek past ki event describe ki gayi hai jahan scroll mila tha. Kyunki 'The scroll' khud discover nahi kar raha, balki usse discover kiya gaya hai, isliye yahan passive voice use hogi. Correct structure: was + V3 (past participle). Isliye option (a) 'was discovered' correct hoga."
+            },
+            {
+              "id": 13,
+              "question": "The manager handled the crisis so _______ that everyone praised his calmness.",
+              "options": [
+                "(a) efficiently",
+                "(b) efficiency",
+                "(c) efficient",
+                "(d) efficacious"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans: (a) Efficiently\nExplanation: Efficiently ka matlab hai \"kaam ko sahi aur productive tareeke se karna.\" Is sentence me bataya gaya hai ki manager ne crisis ko kaise handle kiya, yahan verb \"handled\" ko qualify karne ke liye ek adverb ki zarurat hai. Isliye option (a) 'efficiently' correct hoga."
+            },
+            {
+              "id": 14,
+              "question": "Her calm demeanour in the face of chaos acted as _______ for the anxious team members.",
+              "options": [
+                "(a) provocation",
+                "(b) catalyst",
+                "(c) reassurance",
+                "(d) distraction"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans: (c) reassurance\nExplanation: 'Reassurance' ka matlab hota hai kisi ko chinta se mukt karna / tasalli dena. Sentence me kaha gaya hai ki chaos (afra-tafri) ke beech uska calm demeanor (shaant vyavhaar) team ke anxious members ke liye tasalli dene ka kaam karta tha. Isliye option (c) 'reassurance' correct hoga. Baaki options ka meaning: provocation → bhadkana / gussa dilana | catalyst → koi cheez jo process ko fast kare | distraction → dhyaan hatana"
+            },
+            {
+              "id": 15,
+              "question": "After a long journey, they decided to _______ for the night at a small inn.",
+              "options": [
+                "(a) set off",
+                "(b) put up",
+                "(c) give in",
+                "(d) stand by"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) put up\nExplanation: \"put up\" ka matlab hota hai temporary stay karna / raat guzaarna. Sentence ka matlab hai ki lambi journey ke baad unhone raat ke liye ek chhote inn (hotel) me rukne ka decide kiya. Isliye option (b) 'put up' correct hoga. Baaki options ka meaning: set off → journey start karna | give in → haar maan lena | stand by → support karna / ready rehna."
+            },
+            {
+              "id": 16,
+              "question": "The journalist was praised for her _______ investigation into the corruption scandal.",
+              "options": [
+                "(a) meticulous",
+                "(b) meticulously",
+                "(c) meticulousness",
+                "(d) meticulosity"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans: (a) meticulous\nExplanation: \"Meticulous\" ka matlab hota hai bahut hi dhyaan se, detail me kaam karne wala. Isliye sentence me \"investigation\" (noun) ko qualify karne ke liye \"meticulous\" adjective aayega. Sentence ka matlab hai ki journalist ka kaam bahut hi carefully, thoroughly aur detail me kiya gaya tha."
+            },
+            {
+              "id": 17,
+              "question": "Scarcely had the CEO signed the contract _______ the company announced the merger.",
+              "options": [
+                "(a) when",
+                "(b) than",
+                "(c) before",
+                "(d) until"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans: (a) when\nExplanation: \"Scarcely-when\" ek fixed conjunction pair hota hai. Isliye option (a) 'when' correct hoga."
+            },
+            {
+              "id": 18,
+              "question": "He was remembered not for what he said but _______ he refrained from saying.",
+              "options": [
+                "(a) which",
+                "(b) what",
+                "(c) that",
+                "(d) for what"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans: (d) for what\nExplanation: Yeh sentence ek contrast dikhata hai matlab baat ho rahi hai ki usne kya bola aur usne jaan-bujh kar kya nahi bola. Yaha parallelism maintain karna zaruri hai. Isliye option (d) 'for what' correct hoga."
+            },
+            {
+              "id": 19,
+              "question": "_______ his rigorous training, the athlete struggled to complete the marathon.",
+              "options": [
+                "(a) As a result of",
+                "(b) By dint of",
+                "(c) Due to",
+                "(d) Despite"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans: (d) Despite\nExplanation: \"Despite\" ka matlab hota hai \"ke bawajood\" / \"in spite of\". Sentence ka matlab hai ki itni hard training ke bawajood bhi athlete marathon complete nahi kar paya. Isliye option (d) 'Despite' correct hoga. Baaki options ka meaning: As a result of → ke result me | By dint of → ki madad se / ke bal par | Due to → ke kaaran"
+            },
+            {
+              "id": 20,
+              "question": "This movie is not _______ interesting as the book it was based on.",
+              "options": [
+                "(a) more",
+                "(b) that",
+                "(c) so",
+                "(d) much"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans: (c) so\nExplanation: Sentence me negative comparison diya hai. Isliye \"not so...as\" ka structure use hoga, jo do cheezon ke beech comparison dikhata hai jahan pehli cheez dusri se kam hoti hai. Yahan movie ko book se compare kiya gaya hai aur bataya gaya hai ki movie, book jitni interesting nahi hai. Isliye option (c) 'so' correct hoga."
+            },
+            {
+              "id": 21,
+              "question": "Not until the auditors had submitted their exhaustive report _______ the full extent of procedural lapses become evident.",
+              "options": [
+                "(a) did",
+                "(b) had",
+                "(c) was",
+                "(d) has"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans: (a) did\nExplanation: Jab sentence ki shuruaat kisi negative expression jaise 'Not until, only after, never, hardly' se hota hai, tab inversion lagta hai (matlab auxiliary verb subject se pehle aata hai). Isliye option (a) 'did' correct hoga."
+            },
+            {
+              "id": 22,
+              "question": "The manager felt caught _______ a rock and a hard place when he had to choose between laying off staff and cutting salaries.",
+              "options": [
+                "(a) upon",
+                "(b) between",
+                "(c) inside",
+                "(d) outside"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) between\nExplanation: 'Caught between a rock and a hard place' ek idiom hai. Iska matlab hota hai do mushkil situations ke beech phas jaana. Is sentence me manager ke pass dono hi options bure the (staff ko nikaalna ya salary cut karna). Isliye option (b) 'between' correct hoga."
+            },
+            {
+              "id": 23,
+              "question": "The novel was _______ complex for young readers to understand fully.",
+              "options": [
+                "(a) far",
+                "(b) too",
+                "(c) very",
+                "(d) much"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) too\nExplanation: Adverb \"too\" ka use tab hota hai jab kisi cheez me koi quality zarurat se zyada (excessive) ho aur uska result negative aaye. Sentence me novel ki complexity itni zyada hai ki young readers usse fully samajh nahi pa rahe hain. Isliye option (b) 'too' correct hoga."
+            },
+            {
+              "id": 24,
+              "question": "The generous severance package was commensurate _______ his long and dedicated service to the company.",
+              "options": [
+                "(a) for",
+                "(b) with",
+                "(c) to",
+                "(d) on"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) with\nExplanation: \"Commensurate with\" ek fixed phrase hota hai, jiska matlab hota hai 'kisi cheez ke proportion ya level ke according hona'. Sentence ka matlab hai ki Severance package uski long aur dedicated service ke hisaab se (proportion me) tha. Isliye option (b) 'with' correct hoga."
+            },
+            {
+              "id": 25,
+              "question": "Hardly had the game started _______ the rain began to pour.",
+              "options": [
+                "(a) when",
+                "(b) then",
+                "(c) than",
+                "(d) as"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans: (a) when\nExplanation: 'Hardly...when' ek fixed conjunction pair hota hai. Isliye option (a) 'when' correct hoga."
+            },
+            {
+              "id": 26,
+              "question": "_______ the sun set, the temperature began to drop.",
+              "options": [
+                "(a) When",
+                "(b) While",
+                "(c) Before",
+                "(d) Where"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans: (a) When\nExplanation: Sentence ka matlab hai: \"Jaise hi sun set hua, temperature girne laga.\" Yahan specific time point bataya ja raha hai. Isliye option (a) 'when' correct hoga."
+            },
+            {
+              "id": 27,
+              "question": "The minister addressed the issue _______, ensuring no misunderstanding remained.",
+              "options": [
+                "(a) ambiguously",
+                "(b) unambiguously",
+                "(c) ambiguity",
+                "(d) ambiguous"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) unambiguously\nExplanation: Adverb \"unambiguously\" ka matlab hota hai 'bilkul clear aur bina confusion ke'. Sentence ka matlab hai ki minister ne issue ko clear aur definite tareeke se address kiya taaki koi misunderstanding na rahe. Isliye option (b) 'unambiguously' correct hoga."
+            },
+            {
+              "id": 28,
+              "question": "No sooner had the referee blown the whistle _______ the match officials intervened.",
+              "options": [
+                "(a) when",
+                "(b) than",
+                "(c) then",
+                "(d) while"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) than\nExplanation: 'No sooner... than' ek fixed conjunction pair hota hai. Isliye option (b) 'than' correct hoga."
+            },
+            {
+              "id": 29,
+              "question": "Select the correct noun form of the word to fill in the blank.\nThe detective's brilliant _______ led him to the solution of the complex crime.",
+              "options": [
+                "(a) ratiocination",
+                "(b) ratiocinasion",
+                "(c) ratiosinacion",
+                "(d) ratiosenation"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans: (a) ratiocination\nExplanation: \"Ratiocination\" ka matlab hota hai logical reasoning ya soch-vichar karke conclusion tak pahunchna. Isliye option (a) 'ratiocination' correct hoga."
+            },
+            {
+              "id": 30,
+              "question": "While the students _______ on their research projects, the professor entered the lab.",
+              "options": [
+                "(a) worked",
+                "(b) were working",
+                "(c) has worked",
+                "(d) had been working"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) were working\nExplanation: Sentence ek aise action ko batata hai jo dusre action ke progress me hone ke dauran hua. Jo action past me chal raha hota hai, use Past Continuous me likhte hai. 'Students' ek plural subject hai, isliye plural helping verb 'were' ka use hoga. Isliye option (b) 'were working' correct hoga."
+            },
+            {
+              "id": 31,
+              "question": "Fill in the blanks with the appropriate article.\nIn _______ event of a system failure, employees must follow _______ protocol established by the IT department.",
+              "options": [
+                "(a) a, the",
+                "(b) a, a",
+                "(c) an, the",
+                "(d) the, a"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans: (c) an, the\nExplanation: 'an event' kyunki 'event' ek singular countable noun hai aur vowel sound se start ho raha hai, isliye 'an' use hoga. 'the protocol' kyunki yahan specific protocol ki baat ho rahi hai (jo IT department ne already define kiya hai), isliye 'the' use hoga."
+            },
+            {
+              "id": 32,
+              "question": "Fill the correct degree of comparison:\nOf all the remedies suggested, this treatment seems the _______.",
+              "options": [
+                "(a) more effective",
+                "(b) most effective",
+                "(c) effectiver",
+                "(d) much effective"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) most effective\nExplanation: Jab kisi cheez ka comparison baaki sabhi cheezon se ki jaati hai, tab hum superlative degree ka use karte hain. Sentence me \"of all the remedies suggested\" diya hai, jo 2 se zyada cheezon ke beech comparison ko show karta hai. Isliye option (b) 'most effective' correct hoga."
+            },
+            {
+              "id": 33,
+              "question": "The team performed _______ well that they broke all previous records.",
+              "options": [
+                "(a) very",
+                "(b) so",
+                "(c) too",
+                "(d) as"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) so\nExplanation: \"So... that\" ek correlative conjunction hai jo reason aur uska result (cause-effect) batane ke liye use hota hai. Isliye option (b) 'so' correct hoga."
+            },
+            {
+              "id": 34,
+              "question": "She wants to buy _______ new dress for _______ party next week.",
+              "options": [
+                "(a) a, the",
+                "(b) the, a",
+                "(c) an, a",
+                "(d) a, an"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans: (a) a, the\nExplanation: 'a new dress' new dress ek singular countable noun hai aur pehli baar introduce kiya ja raha hai, isliye 'a' use hoga. 'the party next week' yahaan 'party next week' ek specific party ko refer karta hai (jo already known/decided hai). Isliye 'the' use hoga."
+            },
+            {
+              "id": 35,
+              "question": "Choose the correct article:\nShe wants to become _______ engineer and work on renewable energy projects.",
+              "options": [
+                "(a) a",
+                "(b) an",
+                "(c) the",
+                "(d) no article"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) an\nExplanation: \"Engineer\" vowel sound se start hota hai. Isliye option (b) 'an' correct hoga."
+            },
+            {
+              "id": 36,
+              "question": "The teacher advised revising the entire syllabus _______ than focusing on a single topic.",
+              "options": [
+                "(a) more",
+                "(b) rather",
+                "(c) other",
+                "(d) as"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) rather\nExplanation: \"rather than\" ka matlab hota hai 'iske bajay' / 'instead of'. Sentence ka matlab hai 'teacher ne bola ki sirf ek topic par focus karne ke bajay poora syllabus revise karo'. Isliye option (b) 'rather' correct hoga."
+            },
+            {
+              "id": 37,
+              "question": "The archaeologist unearthed _______ ancient artefact, providing _______ invaluable glimpse into _______ prehistoric civilization.",
+              "options": [
+                "(a) a, an, the",
+                "(b) an, an, a",
+                "(c) the, a, an",
+                "(d) an, a, the"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) an, an, a\nExplanation: 'an ancient' kyunki ancient vowel sound se start hota hai. Isliye 'an' use hoga. 'an invaluable' kyunki invaluable bhi vowel sound se start hota hai. Isliye 'an' use hoga. 'a prehistoric civilization' kyunki yahan kisi specific civilization ki baat nahi ho rahi. General sense me use ho raha hai. Isliye 'a' use hoga."
+            },
+            {
+              "id": 38,
+              "question": "Fill in the blank with the appropriate collocation:\nThe CEO _______ a speech at the annual conference.",
+              "options": [
+                "(a) gave",
+                "(b) made",
+                "(c) spoke",
+                "(d) delivered"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans: (d) delivered\nExplanation: 'Deliver a speech' sahi collocation hai. Isliye option (d) 'delivered' correct hoga."
+            },
+            {
+              "id": 39,
+              "question": "The ancient city, _______ ruins lay buried beneath centuries of sand, was once a thriving metropolis.",
+              "options": [
+                "(a) what",
+                "(b) whose",
+                "(c) that",
+                "(d) its"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) whose\nExplanation: 'ruins' ko 'ancient city' se jodne ke liye ek possessive relative pronoun chahiye, jo yeh bataye ki ruins us city ke hain. Ownership (adhikaar) dikhane ke liye 'whose' sahi relative pronoun hai."
+            },
+            {
+              "id": 40,
+              "question": "Choose the correct tense:\nBy next week, they _______ launched the new product.",
+              "options": [
+                "(a) will have",
+                "(b) have",
+                "(c) will be",
+                "(d) had"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans: (a) will have\nExplanation: Sentence me Future perfect tense ka use kiya gaya hai, jo yeh batata hai ki future me ek specific point (by next week) se pehle koi action complete ho jayega. 'Correct structure: will have + past participle (V3)'. Isliye option (a) 'will have' correct hoga."
+            }
+          ]
         }
       ]
     }
