@@ -17830,6 +17830,792 @@
               "solutionHinglish": "Ans (b)\nExplanation:- yhan inversion structure ka use hua hai. real subject 'table' hai isliye verb singular aayegi yhan meaning dena hai ki 'padi thi' isliye B option 'was lying' sahi hai"
             }
           ]
+        },
+        {
+          "id": "t_1793548558361",
+          "name": "SUBJECT VERB AGREEMENT LEVEL-02",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Only the quality of the products (a)/ and the efficiency of the service (b)/ doesn't determine (c)/ the company's overall reputation. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'doesn't' with 'don't'\nExplanation:- Sentence mein 'the quality' and 'the efficiency' do subject hai jo 'and' conjunction se jude hai, kyunki subject plural hai, isliye verb bhi plural aayega, isliye 'doesn't' ki jagah par 'don't' plural verb sabse sahi answer hoga."
+            },
+            {
+              "id": 2,
+              "question": "Aarav believes that (a)/ it don't make any difference (b)/ whether you succeed instantly (c)/ or achieve your goals after years of hard work. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'don't' with 'doesn't'\nExplanation:- Sentence mein 'whether you...........hard work' poore clause ko subject banane ki bajaaye 'it' introductory subject lagana prefer karte hai, aur 'it' ke sath verb singular aati hai, aage chahe real subject singular ho yaa plural. Isliye sentence mein 'don't' ki jagah par 'doesn't' singular verb sabse sahi answer hoga."
+            },
+            {
+              "id": 3,
+              "question": "Each and every student, (a)/ teacher and parent (b)/ were requested to attend (c)/ the annual function held in the auditorium. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'were requested' with 'was requested'\nExplanation:- Sentence mein 'were' ki jagah 'was' aayega kyunki yahan bhale hi 3 subject ho, lekin 'each' aur 'every' distributive nature ke words hai, jinke sath singular verb aati hai, isliye yahan 'were' ki jagah 'was' aayega."
+            },
+            {
+              "id": 4,
+              "question": "Neither the manager nor the employees (a)/ was willing to accept (b)/ the new working conditions (c)/ introduced by the company last month. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'was willing' with 'were willing'\nExplanation:- Sentence mein 'was' ki jagah par 'were' aayega kyunki 'either-or, neither-nor, not only - but also' ke baad verb, verb ke pass waale subject ke according hai, toh sentence mein pass wala 'employees' plural subject hai, isliye yahan 'was' ki jagah 'were' plural verb aayegi."
+            },
+            {
+              "id": 5,
+              "question": "I don't think that (a)/ two miles are a long distance (b)/ to be covered on foot at your age. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'are' with 'is'\nExplanation:- Sentence mein 'are' ki jagah 'is' aayega kyunki 'time, weight, value, distance' ko dikhaane waale jo words agar single unit ki tarah kaam kare toh inke sath singular verb aati hai, aur sentence mein 'a' article bhi hint hai ki 'two miles' subject ek single unit ki tarah kaam kar raha hai, isliye yahan 'are' ki jagah 'is' aayega."
+            },
+            {
+              "id": 6,
+              "question": "Both the director of the company and his senior advisors (a)/ has emphasized (b)/ the need for transparency (c)/ in all the financial transactions.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'has' with 'have'\nExplanation:- Sentence mein 'has' ki jagah 'have' aayega kyunki 'both' se pata chal raha ki dono subject ki baat ho rahi hai 'the director' aur 'senior advisors' ki, isliye yahan 'has' ki jagah 'have' plural verb aayegi."
+            },
+            {
+              "id": 7,
+              "question": "I know very well (a)/ that bread and butter (b)/ have been your favourite breakfast (c)/ since childhood.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'have' with 'has'\nExplanation:- Sentence mein 'have' ki jagah 'has' aayega kyunki kuch complementary food jaise 'bread and butter, curry and rice' yeh combination food hote hai, jo humesha sath mein khaaye jaate hai, isliye inke sath singular verb aati hai, isliye 'have' ki jagah 'has' singular verb aayegi."
+            },
+            {
+              "id": 8,
+              "question": "The performance of the athletes, as (a)/ well as the coaches, in the (b)/ international sports meet (c)/ were appreciated by the whole country. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) replace 'were' with 'was'\nExplanation:- Sentence mein 'were' ki jagah 'was' aayega kyunki 'the performance' singular subject hai, baaki 'athletes, coaches, international sport meet' prepositions ke object hai, toh verb subject ke according aati hai, isliye yahan 'were' ki jagah 'was' singular verb aayegi."
+            },
+            {
+              "id": 9,
+              "question": "More than one applicant (a)/ have claimed (b)/ that the terms and conditions (c)/ mentioned in the contract were misleading. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'have claimed' with 'has claimed'\nExplanation:- Sentence mein 'have' ki jagah 'has' aayega kyunki 'more than one' ek distributive nature ka adjective hai jiske baad 'singular noun' aur 'singular verb' aati hai, isliye yahan 'have' ki jagah 'has' singular verb aayegi."
+            },
+            {
+              "id": 10,
+              "question": "The committee members, (a)/ in addition to the chairman, (b)/ was invited to participate in the annual conference (c)/ held at the capital last week. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'was invited' with 'were invited'\nExplanation:- Sentence mein 'was' ki jagah 'were' aayega kyunki 'the committee members' subject hai, kyunki 'in addition to' ek prepositional phrase hai jiska object 'the chairman' hai, toh 'committee members' plural subject hai jiske according plural verb aayegi, isliye yahan 'was' ki jagah 'were' sabse sahi answer hoga."
+            },
+            {
+              "id": 11,
+              "question": "It is I who (a)/ has been trying for years (b)/ to bring peace between the two rival communities (c)/ divided by decades of mistrust and hatred. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'has been' with 'have been'\nExplanation:- Sentence mein 'has' ki jagah 'have' aayega kyunki 'who' relative pronoun ka koi number, gender nahi hota, yeh apne antecedent ke according verb leta hai, toh 'who' sentence mein 'I' subject ke liye likha hai, jiske liye plural verb aayegi, isliye 'has' ki jagah 'have' sabse sahi answer hoga.\nNote:- 'I' ke sath kuch tense mein verb singular aati hai, kuch mein plural aati hai. yeh yaad he karna padega."
+            },
+            {
+              "id": 12,
+              "question": "Children absorbs knowledge (a)/ not merely through books (b)/ but also from the behaviour (c)/ and values of adults around them. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'absorbs' with 'absorb'\nExplanation:- Sentence mein 'children' noun plural hai, jiske according plural verb aayegi, verb mein 's/es' lagane se verb singular ho jaati hai, isliye yahan 'absorbs' ki jagah 'absorb' plural verb aayegi."
+            },
+            {
+              "id": 13,
+              "question": "Many a visionary leader (a)/ believe that the essence of democracy (b)/ lies not in power but in the collective voice (c)/ of its enlightened citizens. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'believe' with 'believes'\nExplanation:- Sentence mein 'believe' ki jagah 'believes' aayega kyunki 'many a' ke sath noun aata hai tab wo 'distributive adjective' ki tarah kaam karta hai, isliye iske sath noun singular aur verb singular aati hai, isliye yahan 'believe' ki jagah 'believes' singular verb aayegi."
+            },
+            {
+              "id": 14,
+              "question": "The number of tourists (a)/ visiting historical monuments in India (b)/ have drastically declined (c)/ since the new travel restrictions were imposed.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'have' with 'has'\nExplanation:- Sentence mein 'have' ki jagah 'has' aayega kyunki 'the number' yahan subject hai jo ki singular hai jiske according singular verb aayegi, isliye yahan 'have' ki jagah 'has' singular verb aayegi."
+            },
+            {
+              "id": 15,
+              "question": "The oppressed (a)/ has finally found (b)/ the courage to raise their voice (c)/ against years of injustice. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'has' with 'have'\nExplanation:- Sentence mien 'has' ki jagah 'have' aayega kyunki 'the' ke sath 'qualitative adjective' lagane se wo common plural noun ban jaata hai, jaise 'the weak, the brave, the poor'. Waise hee 'the oppressed' common plural noun hai jo saare 'oppressed log' ko refer kar raha hai jiske liye plural verb aayegi, isliye 'has' ki jagah 'have' plural verb aayegi."
+            },
+            {
+              "id": 16,
+              "question": "One of the books (a)/ that were carefully kept on the upper shelf of the large wooden cabinet (b)/ have disappeared mysteriously (c)/ from the library this morning, leaving the librarian quite puzzled. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'have disappeared' with 'has disappeared'\nExplanation:- Sentence mein 'have disappeared' verb ka subject 'one' hai, kyunki 'one' singular subject hai jiske liye singular verb aayegi, isliye yahan 'have' ki jagah par 'has' singular verb aayegi."
+            },
+            {
+              "id": 17,
+              "question": "The jury has finally given (a)/ their verdict on the controversial corruption case (b)/ although the verdict was not unanimous (c)/ yet it was passed as it cleared the majority criteria. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'has' with 'have'\nExplanation:- Sentence mein 'has' ki jagah 'have' aayega, kyunki 'jury' collective noun hai jiske sath singular verb aati hai, lekin aisa koi hint ho jisse pata chal chale ki single unit ki tarah kaam nahi kar raha toh iske sath plural aayega, sentence mein hint hai 'their verdict' aur 'the verdict was not unanimous', isliye yahan 'has' ki jagah 'have' plural verb aayegi."
+            },
+            {
+              "id": 18,
+              "question": "Every man, woman, and child (a)/ were evacuated (b)/ safely from the flooded village (c)/by the rescue team. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'were evacuated' with 'was evacuated'\nExplanation:- Sentence mein 'were' ki jagah 'was' aayega kyunki yahan bhale hi 3 subject ho, lekin 'each' aur 'every' distributive nature ke words ke lage hone ke kaaran 'singular verb' aayegi, isliye yahan 'were' ki jagah 'was' singular verb aayegi."
+            },
+            {
+              "id": 19,
+              "question": "Someone among the large and restless (a)/ crowd were constantly shouting (b)/ loud and aggressive slogans (c)/ during the politician's speech at the public rally yesterday afternoon. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'were constantly' with 'was constantly'\nExplanation:- Sentence mein 'were' ki jagah 'was' aayega kyunki yahan subject 'someone' hai aur 'someone, everyone, nobody, anybody etc.' pronoun ke sath singular verb aati hai, isliye yahan 'were' ki jagah 'was' singular verb aayegi."
+            },
+            {
+              "id": 20,
+              "question": "Mathematics have always (a)/ been a difficult subject for me (b)/ since childhood but this time (c)/ I hope to pass the exam.(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'have' with 'has'\nExplanation:- Sentence mein 'have' ki jagah 'has' aayega kyunki 'mathematics, physics, biology etc.' jab yeh subject ke naam hote hai, toh yeh singular verb lete hai, isliye yahan 'have' ki jagah 'has' singular verb aayegi."
+            },
+            {
+              "id": 21,
+              "question": "The difference between the genetic structures of humans and chimpanzees (a)/ are so minimal (b)/ that scientists often describe them (c)/ as evolutionarily close species. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'are' with 'is'\nExplanation:- Sentence mein 'are' ki jagah 'is' aayega kyunki sentence mein 'the difference' singular subject hai jiske liye singular verb aayegi, isliye yahan 'are' ki jagah 'is' singular verb aayegi, sentence mein 'between' preposition hai jiska object 'the genetic structures' aur 'of' preposition ka object 'human and chimpanzees'"
+            },
+            {
+              "id": 22,
+              "question": "The company has launched several innovative gadgets (a)/ that is designed (b)/ to improve daily productivity (c)/ in both homes and offices. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'is designed' with 'are designed'\nExplanation:- Sentence mein 'is' ki jagah 'are' aayega kyunki relative pronoun jisko refer karte hai uske according verb lete hai, 'that' relative pronoun 'innovative gadgets' ke liye aaya joki plural subject hai, toh plural subject ke according plural verb aayegi, isliye yahan 'is' ki jagah 'are' aayega."
+            },
+            {
+              "id": 23,
+              "question": "A Great many people (a)/ living in metropolitan cities (b)/ faces mental health issues (c)/ due to the pressure of constant competition. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'faces' with 'face'\nExplanation:- Sentence mein 'faces' ki jagah 'face' aayega kyunki sentence mein 'a great/good many + noun(plural) + verb (plural)' ka structure follow ho raha, jiske according yahan verb plural aayega, isliye yahan 'faces' ki jagah 'face' plural verb aayegi."
+            },
+            {
+              "id": 24,
+              "question": "Each tourist (a)/ visiting the remote island (b)/ require a special entry permit (c)/ issued by the local administration. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'require' with 'requires'\nExplanation:- Sentence mein 'require' ki jagah 'requires' aayega kyunki 'each' distributive nature ka word hai jo ek ek karke baat karta hai jiske sath noun (singular) aur verb(singular) aati hai, isliye yahan 'require' ki jagah 'requires' singular verb aayegi."
+            },
+            {
+              "id": 25,
+              "question": "A mansion near the Hoogli river (a)/ which worth more than ten million dollars, (b)/ was recently purchased by a Hollywood actor. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) put 'is' helping verb before 'worth more'\nExplanation:- Sentence mein 'worth' se pehle 'is' helping verb aayegi kyunki 'the mansion' subject ki verb 'was purchased' hai, lekin 'which' relative pronoun se clause 'mansion' ke liye likha hai, jisme verb nahi hai. kyunki 'which' singular subject 'mansion' ke liye likha hai, aur 'worth' koi verb nahi hoti, isliye yahan singular verb aayegi, isliye 'worth more' se pehle 'is' helping verb aayegi."
+            },
+            {
+              "id": 26,
+              "question": "Helping the underprivileged (a)/ during natural calamities (b)/ reflect the true spirit (c)/ of humanity and compassion. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'reflect' with 'reflects'\nExplanation:- Sentence mein 'reflect' ki jagah 'reflects' aayega kyunki sentence mein 'helping' noun/gerund hai aur 'the underprivileged' object of gerund hai. Agar 'infinitive/ gerund' subject bante hai toh singular verb lete hai, isliye yahan 'reflect' ki jagah 'reflects' singular verb aayegi."
+            },
+            {
+              "id": 27,
+              "question": "Amitabh Bachchan, the legendary icon of Indian cinema (a)/ have inspired millions (b)/ through his discipline and dedication. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'have inspired' with 'has inspired'\nExplanation:- Sentence mein 'have' ki jagah 'has' aayega kyunki 'Amitabh bachchan' subject hai aur 'the legendary of Indian cinema' yeh case in apposition hai jo subject ke liye likha hai, toh verb humesha subject ke according aati hai, kyunki subject singular hai, isliye yahan 'have' ki jagah 'has' singular verb aayegi."
+            },
+            {
+              "id": 28,
+              "question": "\"The Fast and the Furious\" (a)/ have continued to dominate the global box office (b)/ for over two decades, establishing itself as one (c)/ of the most successful action franchises in cinematic history. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'have continued' with 'has continued'\nExplanation:- Sentence mein 'have' ki jagah 'has' aayega kyunki sentence mein 'The Fast and the furious' subject hai aur movie ka naam hai, toh 'movie, novel' wagera ke naam ek proper noun hote hai, jinke sath singular verb aati hai, isliye yahan 'have' ki jagah 'has' aayega."
+            },
+            {
+              "id": 29,
+              "question": "A comprehensive study on the effects of social media consumption (a)/ show that prolonged screen time (b)/ has an adverse impact (c)/ on the cognitive performance of adolescents. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'show' with 'shows'\nExplanation:- Sentence mein 'show' ki jagah 'shows' aayega kyunki 'a comprehensive study' ek singular subject hai jiske according singular verb aayegi, isliye yahan 'show' ki jagah 'shows' singular verb aayegi."
+            },
+            {
+              "id": 30,
+              "question": "The news of the shocking incident (a)/ reported from R.G. Kar Medical College in Kolkata, (b)/ have shaken the conscience of the entire nation. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'have shaken' with 'has shaken'\nExplanation:- Sentence mein 'have' ki jagah 'has' aayega kyunki 'the news' subject ki verb 'have shaken' hai, kyunki 'the news' uncountable noun hai aur uncountable noun ke sath singular verb aati hai, isliye yahan 'have' ki jagah 'has' singular verb aayegi."
+            },
+            {
+              "id": 31,
+              "question": "The investigators wanted to know (a)/ why the forest fire in the upper Himalayan region (b)/ spreading uncontrollably (c)/ despite several days of continuous rainfall. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'spreading' with 'was spreading'\nExplanation:- Sentence mein 'spreading' ki jagah 'was spreading' aayega kyunki 'why..... continuous rainfall' waale clause mein verb nahi hai aur 'the forest fire' subject ko verb ki jarurat hai, kyunki sentence past mein aur singular subject hai, isliye yahan 'spreading' se pehle 'was' helping verb ka use karenge."
+            },
+            {
+              "id": 32,
+              "question": "There were a severe earthquake (a)/ in the northern region last winter (b)/ that caused widespread destruction (c)/ and left hundreds of families homeless for weeks. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'were' with 'was'\nExplanation:- Sentence mein 'were' ki jagah 'was' aayega kyunki 'there' yahan introductory subject aur iske baad verb uske real subject ke according aayega, kyunki sentence mein real subject 'a severe earthquake' singular subject hai, isliye yahan 'were' ki jagah 'was' singular verb aayegi."
+            },
+            {
+              "id": 33,
+              "question": "Don't order more milk because (a)/ three fourths of the milk that we brought (b)/ have not been used yet (c)/ No error. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'have not been used' with 'has not been used'.\nExplanation:- Sentence mein 'have not been used' ki jagah 'has not been used' aayega kyunki 'three fourths of the milk' ek uncountable noun (milk) ko refer karta hai, aur uncountable noun ke sath singular verb aati hai. Isliye yahan 'have' ki jagah 'has' singular verb aayegi."
+            },
+            {
+              "id": 34,
+              "question": "Out of the entire rescue team, he was the only one (a)/ that remain inside the flooded cave (b)/ until all the trapped miners were safely evacuated. (c)/ No error. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'remain' with 'remained'\nExplanation:- Sentence mein 'remain' ki jagah 'remained' aayega kyunki 'that' wala clause 'he' subject ke liye likha hai, aur 'that' relative pronoun jiske liye lagta hai uske according verb leta hai., isiliye yahan verb 'only one' ke according singular aayegi aur 'he was' se pata chal raha ki past ke kisi action ki baat ho rahi, isliye 'remain' verb bhi past indefinite tense mein aayegi, isliye yahan 'remain' ki jagah 'remained' sabse sahi answer hoga."
+            },
+            {
+              "id": 35,
+              "question": "Plenty of the news (a)/ circulating on social media platforms (b)/ are either fabricated (c)/ or exaggerated beyond reality. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'are either' with 'is either'\nExplanation:- Sentence mein 'are' ki jagah 'is' aayega kyunki 'half, most, some, all, 50%, plenty of' inn words ka koi number, gender nahi hota yeh jiske liye lagaye jaate hai uske according verb lete hai. Toh 'plenty of' 'the news' uncountable noun ke liye likha hai, jiske sath singular verb aati hai, isliye yahan 'are' ki jagah 'is' singular verb aayegi."
+            },
+            {
+              "id": 36,
+              "question": "The journalist and the photographer (a)/ was arrested by the local police (b)/ while documenting illegal mining activities (c)/ near the border of the national reserve. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'was arrested' with 'were arrested'\nExplanation:- Sentence mein 'was' ki jagah 'were' aayega kyunki sentence mein do subject hai 'journalist' aur 'photographer', aur sentence mein aisa koi hint nahi hai jisse pata chale ki dono kaam ek hee aadmi ka hai, isliye left ko base maan kar verb mein correction karenge, kyunki do subject hai isliye yahan plural verb aayegi, isliye 'was' ki jagah 'were' aayega."
+            },
+            {
+              "id": 37,
+              "question": "The whole cast of the new movie (a)/ were invited to the international film festival (b)/ for the special premiere night (c)/ along with the director. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'were invited' with 'was invited'\nExplanation:- Sentence mein 'were' ki jagah 'was' aayega kyunki 'cast' ek collective noun hai jo poore movie ki unit ko ek group ki tarah refer kar raha hai, isliye 'cast' subject ke liye singular verb aayegi, isliye 'were' ki jagah 'was' aayega."
+            },
+            {
+              "id": 38,
+              "question": "According to the experts, the rise of fuel prices (a)/ over the past six months have caused a sharp increase (b)/ in transportation costs and overall inflation: (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'have caused' with 'has caused'\nExplanation:- Sentence mein 'have' ki jagah 'has' aayega kyunki sentence mein subject 'rise' hai jiske according singular verb aayegi, isliye 'have' ki jagah 'has' aayega."
+            },
+            {
+              "id": 39,
+              "question": "The most practical way to tackle the issue of plastic pollution (a)/ are to adopt sustainable alternatives (b)/ and spread awareness about waste segregation and recycling. (c)/ No error. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'are to adopt' with 'is to adopt'\nExplanation:- Sentence mein 'are' ki jagah 'is' aayega kyunki sentence mein 'practical way' singular subject hai jiske according singular verb aayegi, isliye yahan 'are' ki jagah 'is' aayega."
+            },
+            {
+              "id": 40,
+              "question": "Everything that the municipality has planned (a)/ for the city's waste segregation system (b)/ are expected to make the recycling process more efficient (c)/ and reduce landfill pressure. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'are expected' with 'is expected'\nExplanation:- Sentence mein 'are' ki jagah 'is' aayega kyunki sentence mein 'everything' subject hai jiski verb 'are expected' hai, kyunki 'everything, anything, something, anybody etc.' ke sath singular verb aati hai, isliye yahan 'are' ki jagah 'is' aayega. 'that.....se lekar....system' tak adjectival clause hai."
+            },
+            {
+              "id": 41,
+              "question": "Only one copy of the ancient manuscript, (a)/ believed to have been written by Buddhist scholars over two thousand years ago, (b)/ remain preserved in a climate-controlled chamber of the National Archives (c)/ No error. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'remain' with 'remains'\nExplanation:- Sentence mein 'remain' ki jagah 'remains' aayega kyunki sentence mein 'only one copy' subject hai jiski verb 'remain' hai. kyunki subject singular hai isliye yahan singular verb aayegi, isliye 'remain' ki jagah 'remains' singular verb aayegi."
+            },
+            {
+              "id": 42,
+              "question": "Those who maintain transparency in their work (a)/ and communicate honestly with clients (b)/ is considered trustworthy (c)/ by their team leaders and superiors. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'is considered' with 'are considered'\nExplanation:- Sentence mein 'is' ki jagah 'are' aayega kyunki 'who.....se lekar....clients' tak yeh ek adjectival clause hai, sentence mein 'those' subject ki verb 'is considered' hai, kyunki 'those' plural subject hai isliye iski verb bhi plural aayega, isliye yahan 'is' ki jagah 'are' aayega."
+            },
+            {
+              "id": 43,
+              "question": "The principal and founder of St. (a)/ Joseph's International School were invited (b)/ to speak at the Global Educators' Conference (c)/ held in Singapore last month. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'were invited' with 'was invited'\nExplanation:- Sentence mein 'were' ki jagah 'was' aayega kyunki sentence mein 'the principal' aur 'founder' dono ek hee person ho sakta hai iska matlab ek hee subject ke baare mein baat ho rahi hai, isliye singular verb aayegi, isliye yahan 'were' ki jagah 'was' sabse sahi answer hoga.\nNote:- agar sentence mein clear ho ki dono person alag alag hai, toh dono person ke sath 'the' article use hoga aur verb bhi plural aayegi."
+            },
+            {
+              "id": 44,
+              "question": "Law and order (a)/ are maintained strictly in this city (b)/ thanks to the efficient police force. (c)/ No error. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'are maintained' with 'is maintained'\nExplanation:- Sentence mein 'are' ki jagah 'is' aayega kyunki 'law and order' subject alag alag nahi balki ek hee complementary cheez hai, toh yeh ek singular subject ke tarah likha hai, isliye iske sath singular verb aayegi, isliye yahan 'are' ki jagah 'is' aayega."
+            },
+            {
+              "id": 45,
+              "question": "Neither the police officer nor the suspect [were telling the truth] about what happened near the railway station.",
+              "options": [
+                "(a) was telling the truth",
+                "(b) were telling truth",
+                "(c) are telling the truth",
+                "(d) had told the truth"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'neither.....nor, either......or, not only......but also' ke case mein nearest subject ke according verb aati hai. sentence mein nearest 'the suspect' singular subject hai jiske according singular verb aayegi, aur sentence past ka hai isliye past ki singular verb aayegi, isliye diye gaye options mein option A 'was telling the truth' sabse sahi answer hoga."
+            },
+            {
+              "id": 46,
+              "question": "The captain, as well as his teammates, [are responsible] for maintaining discipline on the field.",
+              "options": [
+                "(a) is responsible",
+                "(b) has responsible",
+                "(c) were responsible",
+                "(d) are responsibility"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Sentence mein 'as well as' prepositional phrase hai jiska object 'teammates' hai, toh sentence mein 'the captain' singular subject hai jiske liye singular verb aayegi, isliye diye gaye options mein se option A 'is responsible' sabse sahi answer hoga. Option B galat hoga kyunki 'has' ke baad verb ki 3rd form aati hai."
+            },
+            {
+              "id": 47,
+              "question": "My father and I [was discussing] the importance of financial planning while driving to the office.",
+              "options": [
+                "(a) have discussing",
+                "(b) was discussed",
+                "(c) are discussing",
+                "(d) were discussing"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Sentence mein 'my father and I' do subject isliye yahan plural verb aayegi, sentence mein 'while driving to the office' se pata chal raha ki past ka action hai, isliye past ki plural verb aayegi, toh diye gaye options mein se option D 'were discussing' sabse sahi answer hoga."
+            },
+            {
+              "id": 48,
+              "question": "Many a brave soldier [have sacrificed their life] for the nation during the great wars of history.",
+              "options": [
+                "(a) have sacrificed his life",
+                "(b) has sacrificed his life",
+                "(c) was sacrificed his life",
+                "(d) have sacrificed their lives"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Sentence mein many a + noun(singular) + verb(singular) ka structure follow ho raha hai jiske according singular verb aayegi, isliye option A aur D galat honge. Sentence mein active wala meaning dena hai 'bahut saare soldier ne sacrifice kari', isliye option B 'has sacrificed his life' sabse sahi answer hoga. option C se passive wala meaning aayega."
+            },
+            {
+              "id": 49,
+              "question": "The sound of heavy rain [make me feels calm and sleepy] whenever I sit near the window.",
+              "options": [
+                "(a) makes me to feel calm and sleepy",
+                "(b) make me feeling calm and sleepy",
+                "(c) makes me feel calm and sleepy",
+                "(d) make me felt calm and sleepy"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Sentence mein 'the sound' subject hai isliye subject ke according singular verb aayegi, isliye option B aur D galat honge. 'make' verb ke baad bare infinitive aayega matlab bina 'to' ke, isliye diye gaye options mein se option C 'makes me feel calm and sleepy' sabse sahi answer hoga."
+            },
+            {
+              "id": 50,
+              "question": "Either of the candidates [have shown great leadership qualities during the election campaign] across the state.",
+              "options": [
+                "(a) has shown great leadership qualities during the election campaign",
+                "(b) have shown great leadership qualities in the election campaign",
+                "(c) were showing great leadership qualities during the election campaign",
+                "(d) had shown great leadership qualities during the election campaign"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Sentence mein 'either' subject hai, kyunki 'either' ek distributive nature ka pronoun hai jiske baad singular verb aati hai, isliye option B aur C galat honge. Option D bhi galat hoga kyunki past perfect tense ka past ke do action ka comparison karane ke liye hota hai. Toh diye gaye options mein option A sabse sahi answer hoga."
+            },
+            {
+              "id": 51,
+              "question": "The boy with his two friends [were caught playing games on the school computer] during class hours.",
+              "options": [
+                "(a) are caught playing games on the school computer",
+                "(b) were caught playing games in the school computer",
+                "(c) had caught playing games on the school computer",
+                "(d) was caught playing games on the school computer"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Sentence mein 'with' preposition hai jiska object 'two friends' hai, 'the boy' subject hai jiske according singular verb chahiye, isliye option A aur B galat honge. Option C bhi galat hoga kyunki past perfect tense past ke do action ka comparison karane ke liye hota hai. toh diye gaye option mein option D sabse sahi answer hoga."
+            },
+            {
+              "id": 52,
+              "question": "Playing outdoor games in the evening [improve both physical strength and mental focus] among children.",
+              "options": [
+                "(a) improves both physical strength and mental focus",
+                "(b) improve both physical strength as well as mental focus",
+                "(c) improving both physical strength and mental focus",
+                "(d) has improved both physical strength and mental focus"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Sentence mein 'playing' subject hai gerund hai aur 'outdoor games' gerund ke object hai. toh 'playing' gerund ke according singular verb aayegi, isliye option B galat hoga. option C bhi galat hoga kyunki 'v1+ing' bina helping verb ki galat hai. sentence mein kahi gayi baat ek fact ki tarah hai isliye isse present indefinite tense mein likhenge, isliye diye gaye options mein se option A sabse sahi answer hoga."
+            },
+            {
+              "id": 53,
+              "question": "She, the victim of the recent kidnapping incident, [were rescued safely by the police near the city border] early this morning.",
+              "options": [
+                "(a) was rescued safely by the police near the city border",
+                "(b) were rescuing safely by the police near the city border",
+                "(c) has rescued safely by the police near the city border",
+                "(d) had rescuing safely by the police near the city border"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Sentence mein 'the victim.....incident' yeh case in apposition hai jo 'she' subject ke liye likha hai, 'she' subject ke according singular verb chahiye, isliye option B galat hoga. option C bhi galat hoga kyunki isse passive wala meaning aayega. option D bhi galat hoga kyunki 'had' ke baad verb ki 3rd form aati hai, toh diye gaye options mein se option A sabse sahi answer hoga."
+            },
+            {
+              "id": 54,
+              "question": "The tension between the two rival gangs [have intensified over the past few weeks] after the murder incident in the city.",
+              "options": [
+                "(a) have been intensified over the past few weeks",
+                "(b) have intensified since the past few weeks",
+                "(c) has intensify over the past few weeks",
+                "(d) has intensified over the past few weeks"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Sentence mein 'between' preposition hai jiska object 'rival gangs' hai, 'tension' subject hai jiske according singular aayega, isliye option A aur B galat honge. Option C bhi galat hoga kyunki 'has' ke baad verb ki 3rd form aati hai. Toh diye gaye options mein se option D sabse sahi answer hoga."
+            },
+            {
+              "id": 55,
+              "question": "The chances of survival after the plane crash [has improved because of quick rescue operations] near the forest area.",
+              "options": [
+                "(a) have improved because of quick rescue operations",
+                "(b) has improving because of quick rescue operations",
+                "(c) have improving because of quick rescue operations",
+                "(d) had improve because of quick rescue operations"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Sentence mein 'chances' plural subject hai jiske according plural verb aayegi, isliye option B galat hoga. Option C aur D dono galat honge kyunki 'have, had' ke baad verb ki 3rd form aati hai. toh diye gaye options mein se option A sabse sahi answer hoga."
+            },
+            {
+              "id": 56,
+              "question": "The Times of India [were published] from multiple cities across the country during the colonial period.",
+              "options": [
+                "(a) has published",
+                "(b) were publishing",
+                "(c) have published",
+                "(d) was published"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Sentence mein 'the times of india' newspaper ka naam hai, ek proper noun hai jiske sath singular verb aati hai, isliye option B aur C galat honge. Sentence mein 'during colonial period' se pata chal raha ki past ki baat ho rahi hai, isliye option D 'was published' sabse sahi answer hoga."
+            },
+            {
+              "id": 57,
+              "question": "Nothing but a few old memories [remain] in the deserted house after the terrible murder that happened years ago.",
+              "options": [
+                "(a) have remained",
+                "(b) were remaining",
+                "(c) remains",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Sentence mein 'nothing but + noun + verb(singular)' ka structure follow ho raha hai jiske according singular verb aayegi, toh diye gaye options mein option C 'remains' singular verb sabse sahi answer hoga."
+            },
+            {
+              "id": 58,
+              "question": "Not only the victim's family but also the police officers [was searching for clues in the dense jungle] after the murder.",
+              "options": [
+                "(a) No improvement",
+                "(b) has searched for clues in the dense jungle",
+                "(c) are searching for clues in the dense jungle",
+                "(d) were searching for clues in the dense jungle"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- 'neither.....nor, either.....or, not only..... but also' ke case mein nearest subject ke according verb aati hai. sentence mein nearest 'police officers' plural subject hai isliye yaha plural verb aayegi, isliye option A aur B galat honge. Option C bhi sahi ho sakta hai lekin sentence ke according jabardasti tense change karne ke jarurat nahi hai, isliye diye gaye options mein option D sabse sahi answer hoga."
+            },
+            {
+              "id": 59,
+              "question": "None of the rescuers [were willing to climb down into the collapsed mine] because of the heavy smoke.",
+              "options": [
+                "(a) were willing for climbing down into the collapsed mine",
+                "(b) was willing to climb down into the collapsed mine",
+                "(c) had willing to climb down into the collapsed mine",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Sentence mein 'none' subject hai jiske sath verb singular, plural dono aa sakti hai, lekin formal English mein singular ko prefer karte hai, kyunki sentence improvement karna hai, isliye options mein singular verb prefer kar sakte hai. isliye diye gaye options mein se option B 'was' singular verb wala sabse sahi answer hoga."
+            },
+            {
+              "id": 60,
+              "question": "Each flower and each leaf in the garden [were shining beautifully after the morning rain] when the sun appeared.",
+              "options": [
+                "(a) were shined beautifully after the morning rain",
+                "(b) was shining beautifully after the morning rain",
+                "(c) was shining beautifully after morning rain",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Sentence mein bhale hee 'flower' aur 'leaf' do subject ho lekin 'each' distributive nature ke word ke lage hone ke kaaran yahan singular verb aayegi, isliye option A aur D galat honge. Sentence mein particular kisi din ki morning ki baat hui hai toh morning se pehle 'the' specific article ka use hoga, isliye diye gaye options mein se option B sabse sahi answer hoga."
+            },
+            {
+              "id": 61,
+              "question": "[Every of these paintings is displayed] beautifully in the art exhibition near the city museum.",
+              "options": [
+                "(a) Every of these paintings are displayed",
+                "(b) All of these paintings is displayed",
+                "(c) Each of these paintings are displayed",
+                "(d) Each of these paintings is displayed"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Option A nahi hoga kyunki 'every' ek adjective hota hai yeh subject nahi ban sakta. Option B bhi galat hoga kyunki 'all' subject ke sath plural verb aati hai. 'each' ek distributive nature ka word hai subject hai jiske sath singular verb aati hai, isliye diye gaye options mein option D sabse sahi answer hoga."
+            },
+            {
+              "id": 62,
+              "question": "There [has been] several complaints about the poor condition of the city roads after the heavy rainfall last week.",
+              "options": [
+                "(a) have being",
+                "(b) has being",
+                "(c) have been",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Sentence mein 'there' introductory subject hai aur real subject 'several complaints' plural subject hai jiske according plural verb aayegi, isliye option B aur D galat honge. Option A galat hoga kyunki 'have' ke baad verb ki 3rd form aati hai, isliye diye gaye options mein se option C 'have been' sabse sahi answer hoga."
+            },
+            {
+              "id": 63,
+              "question": "A number of vehicles [was parked] outside the stadium despite strict no-parking rules during the final match.",
+              "options": [
+                "(a) No improvement",
+                "(b) has been parked",
+                "(c) were being parked",
+                "(d) were parked"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Sentence mein 'a number of' quantitative adjective hai aur 'vehicles' subject hai jiske according plural verb aayegi, isliye option A aur B galat honge. Option C bhi galat hoga kyunki isse matlab 'unhe park kiya jaa raha tha', sentence mein jabardasti meaning badalne ki jarurat nahi sirf grammar theek karni hai. isliye diye gaye options mein se option D 'were parked' sabse sahi answer hoga."
+            },
+            {
+              "id": 64,
+              "question": "One of the girls [have been selected] for the national-level dance performance after a tough audition.",
+              "options": [
+                "(a) has been selected",
+                "(b) were selected",
+                "(c) have selected",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Sentence mein 'one of + noun(plural) + verb(singular)' ka structure follow ho raha hai jiske according singular verb aayegi, isliye B,C aur D teeno galat honge, isliye diye gaye options mein se option A 'has been selected' sabse sahi answer hoga."
+            },
+            {
+              "id": 65,
+              "question": "Near the riverbank [were lying] a beautiful wooden boat half-buried in the sand after the storm.",
+              "options": [
+                "(a) has lying",
+                "(b) were laying",
+                "(c) was laying",
+                "(d) was lying"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Sentence mein inversion follow ho raha hai jisme 'near' preposition hai jiska object 'the riverbank' aur real subject hai 'boat', kyunki 'boat' singular subject hai isliye yahan singular verb aayegi, isliye option B galat hoga. option A bhi galat hoga kyunki 'has' ke baad verb ki 3rd form aati hai. option C bhi nahi hoga kyunki 'laying' ka matlab hoga 'rakhna, letana' toh boat yahan kisi ko thodi leta rahi hai, isliye diye gaye options mein option D 'was lying' sabse sahi answer hoga"
+            }
+          ]
         }
       ]
     }
