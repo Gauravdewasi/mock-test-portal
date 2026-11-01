@@ -33693,6 +33693,492 @@
               "solutionHinglish": "Ans: (a) flock\nExplanation: Herd → Pashuon ka jhund, khaaskar cattle, elephant, deer ka. Flock → pakshiyon ka jhund. Sheep aur bakri ka bhi jhund 'flock' kehlata hai. Baaki options ka meaning: litter → billi, kutte ke ek saath paida hue bachche / kachra | pack → bhediyon, kutton ka jhund / cards ka 'pack' bhi hota hai | streak → lakeer, dhabba / tigers ka group bhi 'streak / ambush' kehlata hai | pride → lions ka group | school/Shoal → fish ka group"
             }
           ]
+        },
+        {
+          "id": "t_1793561725484",
+          "name": "FILL IN THE BLANKS SET-04",
+          "questions": [
+            {
+              "id": 1,
+              "question": "They are playing songs so _______ that the entire neighbourhood is disturbed.",
+              "options": [
+                "(a) lord",
+                "(b) loved",
+                "(c) laud",
+                "(d) loud"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans: (d) loud\nExplanation: Loud → Tez awaaz me, shor wala. Sentence ka matlab hai ki veh gaane itni tez awaaz me baja rahe hain ki sabhi padosi pareshan ho gaye. Baaki options ka meaning: lord → prabhu, bhagwan / zamindar | loved → pasandida, priy | laud → Prashansa karna\nNote: Vaise tho yaha par sabse accha adverb hota loudly, but vo option main nahi hai, loud generally adjective hota hai but informal main loud ko adverb ke roop main bhi use liya jata hai isliye yaha par ye hi option best hai."
+            },
+            {
+              "id": 2,
+              "question": "There are rows of chairs on either side of the _______.",
+              "options": [
+                "(a) ail",
+                "(b) isle",
+                "(c) I'll",
+                "(d) aisle"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans: (d) aisle\nExplanation: Aisle → do panktiyon ke beech ka raasta jaise theatre, plane, church ya classroom me kursiyon ke beech chalne ki jagah. Sentence ka matlab hai galiyare ke dono taraf kursiyon ki panktiyan hain. Baaki options ka meaning: ail → beemar karna, takleef dena | isle → chhota dweep"
+            },
+            {
+              "id": 3,
+              "question": "'Habitual' may be replaced by _______.",
+              "options": [
+                "(a) Stagnant",
+                "(b) Continual",
+                "(c) Temperate",
+                "(d) Holistic"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) Continual\nExplanation: Habitual → aadat se juda hua, baar-baar hone wala, niyamit | Continual → lagaatar, baar-baar hote rehne wala | Stagnant → ruka hua, thahra hua | Temperate → madhyam / not excessive or extreme | Holistic → sampurn roop se"
+            },
+            {
+              "id": 4,
+              "question": "The match schedule was disturbed due to _______ rains.",
+              "options": [
+                "(a) detestable",
+                "(b) incessant",
+                "(c) venerable",
+                "(d) soothing"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) incessant\nExplanation: Incessant → lagaatar, bina ruke. Sentence ka matlab hai lagaatar baarish ke karan match ka schedule disturb ho gaya. Isliye option (b) 'incessant' correct hoga. Baaki options ka meaning: detestable → nafrat ke layak, ghinona | venerable → aadarniya, sammaanit | soothing → sukhdayak, aaraam dene wali."
+            },
+            {
+              "id": 5,
+              "question": "Don't take the wind out of my _______ and tell me I'm going nowhere with my life.",
+              "options": [
+                "(a) boat",
+                "(b) wings",
+                "(c) sails",
+                "(d) sales"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans: (c) sails\nExplanation: Idiom 'Take the wind out of someone's sails' ka matlab kisi ka hausla tod dena, demotivate kar dena. Sentence ka matlab hai mera hausla mat todo aur ye mat bolo ki main life me kahin nahi pahunchunga. Isliye option (c) 'sails' correct hoga. Idiom 'Clip my wings' ka matlab aazadi rokna."
+            },
+            {
+              "id": 6,
+              "question": "The doctor _______ two tablets per day.",
+              "options": [
+                "(a) prescribed",
+                "(b) advised",
+                "(c) ordered",
+                "(d) proposed"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans: (a) prescribed\nExplanation: Prescribed → Doctor dwara dawa likhkar dena. Sentence ka matlab hai doctor ne roz do tablet lene ko kaha / likh kar di. Baaki options ka meaning: advised → salah dena. 'Doctor advised rest' bol sakte hai, lekin tablets ke liye 'prescribed' zyada sahi hai | ordered → aadesh dena | proposed → prastaav rakhna"
+            },
+            {
+              "id": 7,
+              "question": "I find that students nowadays are not interested in _______ letters by hand.",
+              "options": [
+                "(a) righting",
+                "(b) rioting",
+                "(c) rating",
+                "(d) writing"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans: (d) writing\nExplanation: Writing → Likhna. Sentence ka matlab hai mujhe lagta hai ki aajkal students ko haath se chitthiyan likhne me koi ruchi nahi hai. Baaki options ka meaning: righting → theek karna, seedha karna | rioting → danga karna | rating → rating dena, moolyankan karna"
+            },
+            {
+              "id": 8,
+              "question": "Eshwar Chandra Vidyasagar fought hard against _______ practices which affected Indian society of his time.",
+              "options": [
+                "(a) many evil",
+                "(b) all evil",
+                "(c) most evil",
+                "(d) more evil"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans: (a) many evil\nExplanation: 'Practices' plural countable noun hai, aur plural countable ke saath 'many' use hota hai. Sentence ka matlab hai ki Eshwar Chandra Vidyasagar ne apne samay ke Bharatiya samaj ko prabhavit karne wali kai buri prathaon ke khilaaf kathin sangharsh kia. Isliye option (a) 'many evil' correct hoga."
+            },
+            {
+              "id": 9,
+              "question": "The young one of a lion is called a _______.",
+              "options": [
+                "(a) colt",
+                "(b) chick",
+                "(c) calf",
+                "(d) cub"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans: (d) cub\nExplanation: Cub → Sher, bhalu, cheete, lomdi jaise maansahaari janwaron ka bachcha. Lion ka young one 'lion cub' kehlata hai. Baaki options ka meaning: colt → ghode ya gadhe ka nar bachcha. Male horse ka bachcha 'colt', female 'filly' | chick → chidiya, murgi ka bachcha | calf → gaay, haathi, whale, deer ka bachcha | puppy → dog ka bachcha | kitten → cat ka bachcha"
+            },
+            {
+              "id": 10,
+              "question": "Mohan _______ the charge of the Centre for Life Skills from Mustafa.",
+              "options": [
+                "(a) took out",
+                "(b) took through",
+                "(c) took off",
+                "(d) took over"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans: (d) took over\nExplanation: 'Take over' ka matlab kisi ka kaam, zimmedari ya pad sambhal lena. Jab ek vyakti doosre se charge ya control leta hai tho 'take over' use hota hai. Sentence ka matlab hai Mohan ne Mustafa se 'Centre for Life Skills' ka charge sambhala. Isliye option (d) 'took over' correct hoga. Baaki options ka meaning: took out → bahar le jana / nikalna | took through → kisi ko step-by-step samjhana | took off → kapde utarna / plane ka udna / achanak successful ho jana | Phrasal verb: Take over the charge/responsibility/control from someone."
+            },
+            {
+              "id": 11,
+              "question": "The sermon of the priest was very short and _______.",
+              "options": [
+                "(a) coned",
+                "(b) conveyance",
+                "(c) concise",
+                "(d) consisted"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans: (c) concise\nExplanation: Concise → sankshipt aur spasht vivaran. Sentence ka matlab hai priest (pujari) ka updesh bahut sankshipt aur spasht tha. Isliye option (c) 'concise' correct hoga. Baaki options ka meaning: coned → shanku ke aakar ka (ice cream cone), conveyance → saadhan / sawaari | consisted → bana hua tha / shamil tha"
+            },
+            {
+              "id": 12,
+              "question": "Tibet is our _______ country. Its people are called 'Tibetans'.",
+              "options": [
+                "(a) neighbour",
+                "(b) neighbouring",
+                "(c) neighbour's",
+                "(d) neighbourhood"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) neighbouring\nExplanation: Neighbouring → padosi, bagal wala. Adjective (neighbouring) ka use noun (country) ko describe karne ke liye kiya jata hai. Sentence ka matlab hai tibet hamara padosi desh hai. Yahan ke logon ko 'Tibetans' kaha jata hai. Isliye option (b) 'neighbouring' correct hoga. Baaki options ka meaning: neighbour (noun) → padosi vyakti | neighbour's (possessive case) → padosi ka. Eg. neighbour's car | neighbourhood → pados, mohalla"
+            },
+            {
+              "id": 13,
+              "question": "The Princess firmly held the _______ in her hands.",
+              "options": [
+                "(a) rain",
+                "(b) ran",
+                "(c) reign",
+                "(d) rein"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans: (d) rein\nExplanation: Rein → Ghode ki lagaam. Ya kisi cheez par niyantran. 'Take/hold the reins' ka matlab control apne haath me lena. Sentence ka matlab hai Princess ne lagaam ko apne haathon me mazbooti se pakad rakhi thi. Isliye option (d) 'rein' correct hoga. Idiom 'Free rein' ka matlab poori aazadi dena. Baaki options ka meaning: rain → baarish | ran → dauda | reign → shasan kaal, raaj"
+            },
+            {
+              "id": 14,
+              "question": "The details were _______ from one person to the other within no time.",
+              "options": [
+                "(a) passed away",
+                "(b) passed in",
+                "(c) passed down",
+                "(d) passed out"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans: (c) passed down\nExplanation: Phrasal verb 'passed down' ka matlab ek se doosre tak pahunchana, aage badhana. Sentence ka matlab hai details kuch hi samay me ek vyakti se doosre vyakti tak pahunch gayi. Isliye option (c) 'passed down' correct hoga. Baaki options ka meaning: passed away → mar jana | passed out → behosh ho jana / course complete karna | passed on/passed around → ek se doosre ko batana"
+            },
+            {
+              "id": 15,
+              "question": "The room was very _______.",
+              "options": [
+                "(a) quit",
+                "(b) quilt",
+                "(c) quiet",
+                "(d) quite"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans: (c) quiet\nExplanation: Quiet → Shant, jahan awaaz na ho. 'Very quiet' ka matlab bahut shant. Sentence ka matlab hai kamra bahut shant tha. Isliye option (c) 'quiet' correct hoga. Baaki options ka meaning: quit → chhod dena | quilt → rajai, lehaaf | quite → poori tarah se, kaafi."
+            },
+            {
+              "id": 16,
+              "question": "Raghav had a good _______ for stage plays.",
+              "options": [
+                "(a) trip",
+                "(b) trope",
+                "(c) troop",
+                "(d) troupe"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans: (d) troupe\nExplanation: Troupe → kalakaron ka samooh, mandali. Jo ek team ke roop me ek saath kaam karte hai. Sentence ka matlab hai Raghav ke paas stage plays ke liye ek achhi mandali thi. Isliye option (d) 'troupe' correct hoga. Baaki options ka meaning: trip → yatra / thokar khana | trope → sahitya me baar-baar use hone wala theme ya idea | troop → sainikon ka dal / scout ka group"
+            },
+            {
+              "id": 17,
+              "question": "Hundreds of firms went bankrupt during the _______.",
+              "options": [
+                "(a) recission",
+                "(b) revision",
+                "(c) remission",
+                "(d) recession"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans: (d) recession\nExplanation: Recession → aarthik mandi. Jab desh ki economy girne lagti hai, GDP kam hota hai, companies band hoti hain, berozgari badhti hai. Sentence ka matlab hai aarthik mandi ke dauran saikdon companies diwaliya ho gayi. Isliye option (d) 'recession' correct hoga. Baaki options ka meaning: recission → sahi spelling 'rescission' hota hai aur iska matlab kisi contract ya agreement ko khatam karna hota hai | revision → sanshodhan, dobara dekhna | remission → beemari ka kam hona / saza maaf karna"
+            },
+            {
+              "id": 18,
+              "question": "I take my _______ off to our freedom fighters for their service to our country.",
+              "options": [
+                "(a) boots",
+                "(b) hat",
+                "(c) gun",
+                "(d) socks"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) hat\nExplanation: Idiom 'Take one's hat off to someone' ka matlab kisi ki izzat karna, salaam karna, samman dena. Sentence ka matlab hai mai apne swatantrata senaniyon ko hamare desh ke prati unki seva ke liye salaam karta hoon. Isliye option (b) 'hat' correct hoga. Baaki options ka meaning: Take one's boots off → joote utarna | Knock your socks off → bahut impress karna"
+            },
+            {
+              "id": 19,
+              "question": "_______ droplets settled on top of leaves.",
+              "options": [
+                "(a) Due",
+                "(b) Doe",
+                "(c) Do",
+                "(d) Dew"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans: (d) Dew\nExplanation: Dew → Subah ke time patton/ghaas par jama hone wali paani ki boondein (oos). Sentence ka matlab hai patton ke upar oos ki boondein jam gayi thi. Isliye option (d) 'dew' correct hoga. Baaki options ka meaning: Due → baaki/kaaran | Doe → mada hiran | Do → karna"
+            },
+            {
+              "id": 20,
+              "question": "Stories of dolphins' saving human lives _______ throughout history.",
+              "options": [
+                "(a) have been said",
+                "(b) told",
+                "(c) have been told",
+                "(d) had been said"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans: (c) have been told\nExplanation: 'throughout history' → itihas bhar me, yaani past se lekar ab tak. Aise action ko dikhane ke liye present perfect use hota hai. Aur 'Stories' subject hai, Stories khud nahi bolti, stories ko bataya/sunaya jata hai isliye 'passive voice' bhi chahiye. Structure: has/have + been + V3. 'Stories' plural hai isliye 'have been told' correct hoga."
+            },
+            {
+              "id": 21,
+              "question": "_______ are words which have the same spelling or pronunciation but not the same meaning.",
+              "options": [
+                "(a) Acronyms",
+                "(b) Homonyms",
+                "(c) Synonyms",
+                "(d) Antonyms"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) Homonyms\nExplanation: Homonyms → Aise words jinki spelling ya pronunciation same ho, lekin meaning alag ho. Homonyms 2 type ke hote hai: (a) Homophones: pronunciation same, spelling alag. Eg. 'whole/hole', 'vain/vein', 'dose/doze'. (b) Homographs: spelling same, pronunciation ya meaning alag. Eg. 'lead (metal) / lead (guide)', 'tear (aansu) / tear (phaadna)'. Baaki options ka meaning: Acronyms → short form jo initials se bana ho. Eg. NASA - National Aeronautics and Space Administration | Synonyms → same meaning wale words | Antonyms → opposite meaning wale words | Examples of Homonyms: Bat - cricket ka bat / chamagadar | Bank - nadi ka kinara / paise wala bank | Right - sahi/daaya"
+            },
+            {
+              "id": 22,
+              "question": "We _______ off old clothes and bought new ones for Diwali.",
+              "options": [
+                "(a) cost",
+                "(b) coast",
+                "(c) caste",
+                "(d) cast"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans: (d) cast\nExplanation: Cast off → purani cheez ko utaar dena, phenk dena, discard kar dena. 'Cast off old clothes' ka matlab purane kapde hata dena. Sentence ka matlab hai humne purane kapde hata diye aur Diwali ke liye naye khareede. Isliye option (d) 'cast' correct hoga. Baaki options ka meaning: cost → keemat | coast → samundar ka kinara / bina mehnat ke aage badhna | caste → jaati | cast a vote → vote daalna | movie cast → film ke kalakar | cast a spell → jaadu karna"
+            },
+            {
+              "id": 23,
+              "question": "Anita keeps on repeating that she is innocent, but there is _______.",
+              "options": [
+                "(a) no smoke without fire",
+                "(b) no pulling up of the socks",
+                "(c) no rubbing of the shoulders",
+                "(d) no love lost between"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans: (a) no smoke without fire\nExplanation: Idiom 'no smoke without fire' ka matlab agar kisi baat ki charcha ho rahi hai, afwah fail rahi hai, to usme kuch na kuch sachchai zaroor hoti hai. Sentence ka matlab hai Anita baar-baar bol rahi hai ki wo begunah hai, lekin kahin na kahin kuch to gadbad hai, tabhi us par ilzaam lag raha hai. Isliye option (a) 'no smoke without fire' correct hoga. Baaki options ka meaning: no pulling up of the socks → sahi idiom hota hai 'pull up one's socks' → mehnat karna, sudharna | no rubbing of the shoulders → sahi idiom hota hai 'rub shoulders with' → bade logo ke saath uthna-baithna | no love lost between → Do logon ke beech nafrat/dushmani hona"
+            },
+            {
+              "id": 24,
+              "question": "Shakuntala Devi was born on 4th November 1929. In her childhood she _______ to school.",
+              "options": [
+                "(a) never gone",
+                "(b) went never",
+                "(c) had never been",
+                "(d) ever been"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans: (c) had never been\nExplanation: 'In her childhood' past ka time hai. 'Born on 4th November 1929' se pata chal raha hai ki poora context past me hai. Isliye past perfect (had + v3) sahi hai aur adverb of frequency (never) generally helping verb aur main verb ke beech me use hota hai. Isliye option (c) 'had never been' correct hoga. Sentence ka matlab hai Shakuntala Devi ka janam 4th November 1929 ko hua tha. Apne bachpan mein wo kabhi school nahi gayi thi."
+            },
+            {
+              "id": 25,
+              "question": "Soon after the doctor gave her the next _______ of the medicine, the patient began to _______.",
+              "options": [
+                "(a) dose, dozed",
+                "(b) dosed, doze",
+                "(c) dose, doze",
+                "(d) doze, dose"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans: (c) dose, doze\nExplanation: Dose → dawa ki ek khuraak. Doze → halki neend lena, jhapki lena. Sentence ka matlab hai jaise hi doctor ne dawa ki agli khuraak di, patient ko neend aane lagi. Isliye option (c) 'dose, doze' correct hoga."
+            },
+            {
+              "id": 26,
+              "question": "The actress is very _______ and takes pride in her appearance all the time.",
+              "options": [
+                "(a) vein",
+                "(b) wane",
+                "(c) vane",
+                "(d) vain"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans: (d) vain\nExplanation: Vain → Apni khoobsurti ya appearance par bahut zyada garv karna, ghamandi. Sentence ka matlab hai actress bahut ghamandi hai aur har waqt apne looks par naaz karti hai. Isliye option (d) 'vain' correct hoga. Baaki options ka meaning: vein → rag/nas | wane → dheere-dheere kam hona | vane → weathervane - hawa ki disha batane wala yantra jo chhat par lagta hai | vain → 'vyarth' bhi hota hai."
+            },
+            {
+              "id": 27,
+              "question": "The termites were just the tip of the _______, but the house was near collapsing in reality.",
+              "options": [
+                "(a) mountain",
+                "(b) iceberg",
+                "(c) shoe",
+                "(d) heel"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) iceberg\nExplanation: 'tip of the iceberg' ka matlab aisi situation jahan jo cheez dikh rahi hoti hai, woh kisi bahut badi aur hidden problem ka sirf chhota sa hissa hoti hai. Sentence ka matlab hai termites problem ka sirf chhota sa part the, jabki asal me ghar girne ke kareeb tha. Isliye option (b) 'iceberg' correct hoga. Idiom 'Achilles' heel' → kamzor nas"
+            },
+            {
+              "id": 28,
+              "question": "_______ in population is a hindrance to a country's growth.",
+              "options": [
+                "(a) Contract",
+                "(b) Decrease",
+                "(c) Reduce",
+                "(d) Increase"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans: (d) Increase\nExplanation: Increase ka matlab kisi cheez ka quantity, size ya level me badhna. Sentence ka matlab hai population me badhotri kisi desh ki growth ke liye rukawat hai. Isliye option (d) 'increase' correct hoga. Baaki options ka meaning: contract → sikudna | decrease → ghatna | reduce → kam karna"
+            },
+            {
+              "id": 29,
+              "question": "He is rich and famous and expects everyone to _______ on him.",
+              "options": [
+                "(a) tap dance like mad",
+                "(b) dead duck",
+                "(c) give a song and dance",
+                "(d) dance attendance"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans: (d) dance attendance\nExplanation: Idiom 'Dance attendance on someone' ka matlab kisi ki khushamad karna, har baat maan-na, ji-hazoori karna. Sentence ka matlab hai wo ameer aur famous hai aur chahta hai ki sab log uski khushamad karein / uski seva me lage rahein. Baaki options ka meaning: dead duck → aisi situation ya person jiske bachne ki ummeed na ho | give a song and dance → Lamba-choda bahana banana ya kisi cheez ko explain karne me unnecessary drama karna."
+            },
+            {
+              "id": 30,
+              "question": "A _______ is a female horse.",
+              "options": [
+                "(a) vixen",
+                "(b) doe",
+                "(c) mare",
+                "(d) rooster"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans: (c) mare\nExplanation: Mare → adult female horse | Baaki options ka meaning: vixen → female fox | fox/dog fox → male fox | doe → female deer, rabbit, hare | buck/stag → male deer | rooster → male chicken | hen → female chicken | ewe → female sheep | ram → male sheep | male horse is called a 'stallion' if it is uncastrated, and a 'gelding' if it is castrated. 'Castrated' ka matlab hota hai kisi male animal ki reproductive ability ko surgery ke through hata dena, yani uske testicles remove kar dena."
+            },
+            {
+              "id": 31,
+              "question": "She could easily eat the _______ biryani by herself.",
+              "options": [
+                "(a) haul",
+                "(b) whole",
+                "(c) hall",
+                "(d) hole"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) whole\nExplanation: Whole → poora, entire. Sentence ka matlab hai voh akele hi poori biryani aaraam se kha sakti thi. Baaki options ka meaning: haul → kheench kar le jana / maal dhona | hall → bada kamra/sabha-kaksh | hole → chhed / gaddha"
+            },
+            {
+              "id": 32,
+              "question": "Keats and Shelly were poets of the same period; in other words, they were _______.",
+              "options": [
+                "(a) contemporaries",
+                "(b) co-writers",
+                "(c) colleagues",
+                "(d) associates"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans: (a) contemporaries\nExplanation: Contemporaries → voh log jo ek hi time period me rahe hon / same era ke hon. Sentence me bataya gaya hai ki Keats aur Shelley aise poets the jo same time period me rahe the. Isliye option (a) 'contemporaries' correct hoga. Baaki options ka meaning: co-writers → saath me likhne wale | colleagues → ek hi jagah kaam karne wale | associates → business ya kisi kaam me jude hue log"
+            },
+            {
+              "id": 33,
+              "question": "The driver very subtly _______ the traffic violation he committed.",
+              "options": [
+                "(a) ironed through",
+                "(b) ironed in",
+                "(c) ironed out",
+                "(d) ironed aside"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans: (c) ironed out\nExplanation: Phrasal verb 'ironed out' ka matlab kisi problem, difficulty ya disagreement ko solve karna, settle karna. Sentence ka matlab hai driver ne jo traffic violation kiya tha, us problem ko usne efficiently handle/solve kiya. Isliye option (c) 'ironed out' correct hoga. Baaki options ka meaning: ironed in → permanent crease banana ya kisi cheez ko pakka karna."
+            },
+            {
+              "id": 34,
+              "question": "By this time tomorrow, I _______ the work assigned to me.",
+              "options": [
+                "(a) will have did",
+                "(b) will do",
+                "(c) will have done",
+                "(d) will be done"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans: (c) will have done\nExplanation: future perfect tab use karte hai jab kisi kaam ke complete hone ka time future me diya ho. Sentence me deadline 'by this time tomorrow' dia hai, jo future ka ek specific point batata hai. Isliye option (c) 'will have done' correct hoga."
+            },
+            {
+              "id": 35,
+              "question": "_______ that thought. It will be a great idea someday.",
+              "options": [
+                "(a) Hold onto",
+                "(b) Hold to",
+                "(c) Hold on",
+                "(d) Hold against"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans: (a) Hold onto\nExplanation: Phrasal verb 'hold onto' ka matlab kisi cheez ko sambhal kar rakhna. Sentence ka matlab hai uss thought ko sambhal kar rakho, kyunki voh kabhi na kabhi ek bahut achha idea ban sakta hai. Isliye option (a) 'Hold onto' correct hoga. Baaki options ka meaning: Hold onto → kisi cheez ko pakad ke rakhna, yaad rakhna, sambhal kar rakhna | Hold on → ruko, intezaar karna | Hold against → Kisi ke khilaaf baat rakhna, dosh dena"
+            },
+            {
+              "id": 36,
+              "question": "Robin watched as the smoke _______ steadily from the chimney.",
+              "options": [
+                "(a) hung",
+                "(b) rose",
+                "(c) left",
+                "(d) went"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) rose\nExplanation: Rose → upar ki taraf uthna yaa badhna. Sentence me bataya gaya hai ki Robin ne dekha ki chimney se dhuaan lagataar upar uth raha tha. Isliye option (b) 'rose' correct hoga. Baaki options ka meaning: hung → latka hua | left → chhod kar chala gaya | went → gaya"
+            },
+            {
+              "id": 37,
+              "question": "The girl was _______ as she was drenched in the rain.",
+              "options": [
+                "(a) bolt",
+                "(b) gold",
+                "(c) cold",
+                "(d) tight"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans: (c) cold\nExplanation: Cold → thandi, normal se kam temperature hona. Sentence ka matlab hai ladki baarish me bheeg gayi thi, isliye use thand lag rahi thi. Isliye option (c) 'cold' correct hoga. Baaki options ka meaning: bolt → bijli ka girna / kundi / tezi se bhaagna | gold → sona | tight → kasa hua"
+            },
+            {
+              "id": 38,
+              "question": "You use an _______ to steer a boat.",
+              "options": [
+                "(a) are",
+                "(b) or",
+                "(c) oar",
+                "(d) ore"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans: (c) oar\nExplanation: Oar → Chappu, patvaar. Ek lambi lakdi jiske end par flat blade laga hota hai, jiska use boat ko chalane ya direction dene ke liye kiya jata hai. Sentence ka matlab hai boat ko steer karne ke liye oar ka use hota hai. Isliye option (c) 'oar' correct hoga. Baaki options ka meaning: ore → kachcha loha, mineral"
+            },
+            {
+              "id": 39,
+              "question": "Vishal is going to read the story _______.",
+              "options": [
+                "(a) load",
+                "(b) allow",
+                "(c) aloud",
+                "(d) allowed"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans. (c) Aloud\nExplanation: Ye question Vocab based hai, yahan Sahi meaning ke according humein yhan fill karna hoga Sentence mein bola jaa raha ki 'Vishal Story padne baala hai' yaani iske liye humein Option mein se Option(c) Aloud ko select karna hoga kyuki 'aloud' jiska Use 'Jor se padne/bolne' k liye hota hai, baaki Options ka Meaning: load → iska meaning bhar / weight, allow → Permission / izzajat, allowed → izzajat / anumati de dena. lekin Option(c) aloud ka use karne par Sentence ka meaning \"Vishal jor se Story padne bala hai\" ho jayega jo sahi Meaning dega."
+            },
+            {
+              "id": 40,
+              "question": "The friends decided to play cards to _______ time while waiting for the cab.",
+              "options": [
+                "(a) ignore",
+                "(b) kill",
+                "(c) move",
+                "(d) ease"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans. (b) Kill\nExplanation: Sentence mein bola gya ki 'Dosto ne Cab ka wait karte huye Time-pass / samay guzarne ke liye Cards khelne ka Decide kiya' yaani iss Sentence ko sahi meaning dene ke liye humein yhan ek Correct Idiomatic Phrase likhna hai jo ki diye Options mein se sirf Option(b) Kill ko select karne par hoga jisse yahan ek idiomatic Phrase 'to kill time' banega jiska meaning 'Time-pass / samay guzarna' hota hai jab ham kisi cheez ka wait karte hai."
+            }
+          ]
         }
       ]
     }
