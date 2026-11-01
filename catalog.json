@@ -23452,6 +23452,1032 @@
               "solutionHinglish": "Ans (b)\nExplanation:- Jab aap kisi cheez ke andar ho toh 'in' preposition sahi hoti hai, lekin jab motion dikhana ho toh 'into' ka use karte hai jaise 'jump into the pool, ran into the class', toh sentence ke according 'into the classroom' option B sahi answer hoga."
             }
           ]
+        },
+        {
+          "id": "t_1793558340905",
+          "name": "TENSE LEVEL - 01",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Newspapers told us about the events that happen all over the world.",
+              "options": [
+                "(a) Newspapers told us",
+                "(b) about the events that",
+                "(c) happen all over the world.",
+                "(d) No error"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'tell' in place of 'told'.\nExplanation:- Yeh ek fact hai isliye 'present indefinite tense' ka use kiya jaayega."
+            },
+            {
+              "id": 2,
+              "question": "Usually, Ratheesh hasn't take part in these types of events because of his hectic schedule.",
+              "options": [
+                "(a) take part in these types",
+                "(b) of events because of",
+                "(c) his hectic schedule",
+                "(d) Usually, Ratheesh hasn't"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'doesn't' instead of 'hasn't'\nExplanation:-kyunki yahan usually se pata chal rha hai ki yahan Ratheesh ka habitual action hai isliye ise present indefinite tense me likhenge."
+            },
+            {
+              "id": 3,
+              "question": "I am waiting for you for the last two hours but you did not bother to turn up in time.",
+              "options": [
+                "(a) I am waiting for you for",
+                "(b) the last two hours but you",
+                "(c) did not bother to turn up in time.",
+                "(d) No error"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use had been in place of am\nExplanation:- yahan per 'did not bother' se pata chal raha hai ki yeh past ki baat aur 'wait' karne bala action isse bhi pahle hua tha, isliye usko present perfect continuous nahi balki past perfect continuous (had been waiting) mein likhna padega."
+            },
+            {
+              "id": 4,
+              "question": "He allowed his son to drive but he warn him of the danger.",
+              "options": [
+                "(a) his son to drive",
+                "(b) of the danger",
+                "(c) but he warn him",
+                "(d) He allowed"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'warned' instead of 'warn'\nExplanation:- kyunki sentence ka meaning ye hai ki usne uske bete ko khatre ke liye warn kiya tha. Isliye past tense ka use hoga."
+            },
+            {
+              "id": 5,
+              "question": "Did you baked the chocolate cake yourself this time?",
+              "options": [
+                "(a) yourself this time",
+                "(b) No error",
+                "(c) Did you baked",
+                "(d) the chocolate cake"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'bake' instead of 'baked'\nExplanation:- kyunki do/does/did ke baad verb ki first form ka use kiya jaata hai."
+            },
+            {
+              "id": 6,
+              "question": "As it has been raining heavily since two hours, the children are at home.",
+              "options": [
+                "(a) at home",
+                "(b) since two hours,",
+                "(c) As it has been raining heavily",
+                "(d) the children are"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'for' instead of 'since'\nExplanation:- kyunki 'since' ka use 'point of time' ke liye kiya jaata hai aur 'for' ka use duration of time ke liye."
+            },
+            {
+              "id": 7,
+              "question": "Torrential rains and winds of up to 170 km per hour swept away roads, homes and bridges and knocking down power and communication lines.",
+              "options": [
+                "(a) Knocking down",
+                "(b) homes and bridges",
+                "(c) swept away roads",
+                "(d) winds of upto"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'knocked' instead of 'knocking'\nExplanation:- kyunki 'swept' verb hai and sentence ke meaning se pta chal rha ki sentence past me likha gya isliye and conjunction se connected verb 'knocked' bhi past me likhi jaayegi."
+            },
+            {
+              "id": 8,
+              "question": "How long are you learning English for?",
+              "options": [
+                "(a) How long",
+                "(b) are you learning",
+                "(c) English for?",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use have you been learning in place of are you learning.\nExplanation:- kyunki 'for+duration' ke sath present perfect continuous ka use kiya jaata hai.\nNote:- bhale hi 'how long' sentence ke shuru me likha hai lekin structure for+time wala ban rha hai."
+            },
+            {
+              "id": 9,
+              "question": "Vidya put on her mask, sanitise her hands and walked into the shop.",
+              "options": [
+                "(a) and walked into the shop",
+                "(b) No error",
+                "(c) Vidya put on her mask",
+                "(d) sanitise her hands"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'sanitised' instead of 'sanitise'\nExplanation:-kyunki poora sentence past me hai isliye teeno verbs 'put', 'sanitised' and 'walked' past tense me likhi gayi hai."
+            },
+            {
+              "id": 10,
+              "question": "I had walked for most of the day to Kanpur and then get on the train by Mumbai.",
+              "options": [
+                "(a) I had walked",
+                "(b) to Kanpur and then",
+                "(c) get on the train by Mumbai",
+                "(d) for most of the day"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'got' instead of 'get' and 'to' instead of 'by'\nExplanation:- kyunki had walked se pata chal rha hai ki sentence past me chal rha hai isiliye get ko got krna hoga aur direction ke liye 'to preposition ka use krte hai."
+            },
+            {
+              "id": 11,
+              "question": "This is indeed, the first time in my life that I hear such an interesting story.",
+              "options": [
+                "(a) This is indeed, the first",
+                "(b) time in my life that I hear",
+                "(c) such an interesting story.",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'have heard' before 'hear'.\nExplanation:- 'the first time' phrase ke sath present tense me generally present perfect ka use kiya jaata hai kyunki iska indirect meaning hota hai aaj tak aisa nhi hua ye pehli baar hai. Joki perfect tense wala meaning hota hai."
+            },
+            {
+              "id": 12,
+              "question": "When the train pulled in at the station, it take Joseph some time to get off.",
+              "options": [
+                "(a) When the train pulled in",
+                "(b) at the station, it take",
+                "(c) Joseph some time",
+                "(d) to get off"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'took' instead of 'take'\nExplanation:- kyunki 'when' conjunction and sentence ke meaning se pata chal rha hai ye dono actions past tense me likhe jayenge."
+            },
+            {
+              "id": 13,
+              "question": "He came on the bicycle in order that he may reach there in time.",
+              "options": [
+                "(a) He came on the",
+                "(b) bicycle in order that",
+                "(c) he may reach there in time.",
+                "(d) No error"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'might' in place of 'may'.\nExplanation:- yahan main clause past me hai toh sub clause bhi past me likha jaayega."
+            },
+            {
+              "id": 14,
+              "question": "The article that she wrote for the last week's Sunday Supplement rightly criticises the abuse of mobile phones.",
+              "options": [
+                "(a) The article that she wrote",
+                "(b) for the last week's Sunday Supplement",
+                "(c) the abuse of mobile phones.",
+                "(d) rightly criticises"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'criticised' instead of 'criticises'\nExplanation:- yahan main clause past me hai toh sub clause bhi past me likha jaayega. Aur meaning ke according bhi yhan last week likhe gye article ki baat ho rhi hai."
+            },
+            {
+              "id": 15,
+              "question": "My daughter never would write to me so I don't know what she is doing.",
+              "options": [
+                "(a) My daughter never",
+                "(b) would write to me so",
+                "(c) I don't know what she is doing.",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use writes in place of would write.\nExplanation:- yahan meaning ye dena hai ki meri daughter muje letter nhi likhti hai isliye...' ye meaning present ke habitual action ko refer kar rha hai isliye present indefinite tense use hoga."
+            },
+            {
+              "id": 16,
+              "question": "They were having a birthday party at home next week.",
+              "options": [
+                "(a) They were having",
+                "(b) a birthday party",
+                "(c) at home next week.",
+                "(d) No error"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'will have/are having/will be having/are going to have' in place of 'were having.'\nExplanation:- next week se pta chal rha hai ki action future me hoga.\nNote:- Iss sentence ke meaning ke according yhan 'will have/are having/will be having/are going to have' ye sab structures future dikhane ke liye use kiye jaa sakte hai. Aur 'have' verb ki form yhan possession ko dikhane ke liye ni balki 'organising' wala meaning de rhi hai isliye ye yhan stative verb nhi hai aur 'having' word me koi dikkat nhi hai."
+            },
+            {
+              "id": 17,
+              "question": "\"Mrs. Pooja is very busy at the moment.\" \"All right. I had been waiting.\"",
+              "options": [
+                "(a) the moment.\"",
+                "(b) \"All right. I had been waiting.\"",
+                "(c) very busy at",
+                "(d) \"Mrs. Pooja is"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'will wait' instead of 'had been waiting'\nExplanation:- kyunki yahan meaning ye dena hai ki 'theek hai main wait karungi'."
+            },
+            {
+              "id": 18,
+              "question": "Sonia came to the meeting much later than the boss expected.",
+              "options": [
+                "(a) Sonia came to",
+                "(b) the meeting much later",
+                "(c) than the boss expected.",
+                "(d) No error"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use had expected in place of expected.\nExplanation:- 'later' comparative degree se pta chal rha ki yahan past ke 2 actions ke time ka comparison karna hai isliye 1st action yaani expectation wale action ko past perfect me likhna padega."
+            },
+            {
+              "id": 19,
+              "question": "We have not met some of our friends since six months.",
+              "options": [
+                "(a) since six months",
+                "(b) We have",
+                "(c) not met",
+                "(d) some of our friends"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'for' instead of 'since'\nExplanation:- kyunki 'since' ka use 'point of time' ke liye kiya jaata hai aur 'for' ka use 'duration of time' ke liye."
+            },
+            {
+              "id": 20,
+              "question": "Nowadays, common people take interest in the manner in which they were governed.",
+              "options": [
+                "(a) they were governed",
+                "(b) Nowadays common people take",
+                "(c) interest in the manner",
+                "(d) in which"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'are governed' instead of 'were governed'\nExplanation:- kyunki nowadays se pta chal rha hai ki sentence present me likha jaana chahiye. 'are governed' yhan passive form hai present indefinite tense ki.\nNote:- Nowdays word ke sath present continuous bhi aa sakta hai isliye 'take' ki jagah 'are taking' bhi sahi hota but ye koi error nhi hai kyuki iss sentence me present ka fact type meaning bhi nikal rha hai isliye 'take bhi theek hai."
+            },
+            {
+              "id": 21,
+              "question": "Smita lived in this house since she was five years old.",
+              "options": [
+                "(a) five years old",
+                "(b) in this house",
+                "(c) since she was",
+                "(d) Smita lived"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'has been living' instead of 'lived'\nExplanation:- kyunki 'since' ke sath jab ek past ka action 'point of time' ka kaam kare toh main clause present perfect continuous tense me likha jaata hai."
+            },
+            {
+              "id": 22,
+              "question": "Since the trip to home was expensive I did not went home during the holidays.",
+              "options": [
+                "(a) Since the trip to home",
+                "(b) was expensive I did not went",
+                "(c) home during the holidays.",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use go in place of went.\nExplanation:- 'did' ke baad main verb ki base form aati hai.\nNote: yahan 'since' wala rule isliye nahi lag rha hai kyunki yahan 'since' preposition nahi hai yahan ye conjunction hai jiska meaning 'kyunki' hai. Yahan sentence ka meaning ye hai ki kyunki ghar jaane ki trip mehengi thi wo chhuttiyon me ghar nahi gya tha'."
+            },
+            {
+              "id": 23,
+              "question": "I visited my friend with whom I have made an appointment.",
+              "options": [
+                "(a) I visited my friend",
+                "(b) I have made",
+                "(c) with whom",
+                "(d) an appointment"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'had made' instead of 'have made'\nExplanation:- sentence past me hai aur appointment lene ka action pehle hua hai isliye yhan past perfect tense 'had made' use hoga."
+            },
+            {
+              "id": 24,
+              "question": "Suchitra will have to wait another month before she received any reply to her letter.",
+              "options": [
+                "(a) before she received",
+                "(b) any reply to her letter",
+                "(c) Suchitra will have",
+                "(d) to wait another month"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'receives' instead of 'received'\nExplanation:- kyunki agar main clause future tense me ho toh sub clause usually present tense me hota hai. Sentence ka meaning yeh hai ki - Suchitra ko ek month aur wait karna padega, use uske letter ka reply milne se pehle."
+            },
+            {
+              "id": 25,
+              "question": "In its August 1992 issue, the highly respected British Journal of Addiction [describe] three unusual cases of carrot dependence.",
+              "options": [
+                "(a) In its August 1992 issue, the highly respected British Journal of Addiction was describing three unusual cases of carrot dependence.",
+                "(b) In its August 1992 issue, the highly respected British Journal of Addiction describing three unusual cases of carrot dependence.",
+                "(c) In its August 1992 issue, the highly respected British Journal of Addiction described three unusual cases of carrot dependence.",
+                "(d) In its August 1992 issue, the highly respected British Journal of Addiction has been described three unusual cases of carrot dependence."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'described' instead of 'describe'\nExplanation:- kyunki yeh sentence past tense ka hai isliye described ka use kiya jayega."
+            },
+            {
+              "id": 26,
+              "question": "[He sees us coming, and unaware that we had learned of his treachery, greeted us with a smile.]",
+              "options": [
+                "(a) He saw us come, and unaware that we had learned of his treachery, greets us with a smile.",
+                "(b) He saw us coming, and unaware that we had learned of his treachery, greeted us with a smile.",
+                "(c) He saw us coming, and unaware that we were learning of his treachery, greeted us with a smile.",
+                "(d) He saw us coming, and unaware that we learned of his treachery, greeted us with a smile."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'saw' instead of 'sees'\nExplanation:- kyunki sentence me aage 2 verb 'had learned' and 'greeted' past me likhi hain isliye meaning ke according 'saw' ka use kiya jaayega. Yhan meaning ye hai ki usne hume aate hue dekha aur iss baat se anjaan ki hume uski dhokhadhadi ka pta pehle hi chal gya tha, usne humein greet kiya tha'"
+            },
+            {
+              "id": 27,
+              "question": "As long as there was corruption in India, there can be no progress.",
+              "options": [
+                "(a) in India",
+                "(b) there was corruption",
+                "(c) there can be no progress",
+                "(d) As long as"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'is' instead of 'was'\nExplanation:- kyunki sentence ka meaning yeh hai ki jab tak India me corruption hai progress nahi ho sakti."
+            },
+            {
+              "id": 28,
+              "question": "The construction of the new business school is led to a sudden rise of population in our area.",
+              "options": [
+                "(a) a sudden rise of population in our area",
+                "(b) The construction of",
+                "(c) the new business school",
+                "(d) is led to"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'led to/has led to/is leading to' instead of 'is led'\nExplanation:- kyunki yahan passive voice nahi active voice ka use hoga, kyunki sentence ka meaning yeh hai ki:- \"naye business school ki construction ki wajah se area ki population me sudden rise aaya hai.\""
+            },
+            {
+              "id": 29,
+              "question": "When I was at school I found my class teacher to be the best mentor as she always have time to listen and guide.",
+              "options": [
+                "(a) to be the best mentor",
+                "(b) as she always have time to listen and guide",
+                "(c) When I was at school",
+                "(d) I found my class teacher"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'had' instead of 'have'\nExplanation:- sentence ke meaning ke according yahan 'past tense' use hoga."
+            },
+            {
+              "id": 30,
+              "question": "My brother lost his job during the lockdown, but he had got a new job now.",
+              "options": [
+                "(a) his job during the lockdown",
+                "(b) but he had got",
+                "(c) a new job now",
+                "(d) My brother lost"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'has' instead of 'had'\nExplanation:- kyunki 'now' se pta chal raha hai ki 'present tense' use hoga.\nNote: Yahan wo 'main clause past - sub clause past' wala concept isliye apply nahi ho rha hai kyunki yahan coordinate conjuction 'but' use hua hai."
+            },
+            {
+              "id": 31,
+              "question": "The Prime Minister chair a high-level meeting with senior officials to review the Covid situation.",
+              "options": [
+                "(a) with senior officials",
+                "(b) The Prime Minister chair a high-level meeting",
+                "(c) to review the Covid situation",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'chaired' instead of 'chair'\nExplanation:- kyunki 'the prime minister' subject singular hai toh 'chair' plural verb toh nahi aa sakti. 'chairs' bhi nahi aaayega kyunki yahan koi habitual action ki baat nahi ho rahi hai kisi particular meaning ki baat ho rahi hai."
+            },
+            {
+              "id": 32,
+              "question": "Cyclone Amphan roared into West Bengal on Wednesday leave behind a trail of devastation across a large area of the State.",
+              "options": [
+                "(a) leave behind",
+                "(b) a trail of devastation",
+                "(c) roared into West Bengal",
+                "(d) across a large area"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'leaving' instead of 'leave'\nExplanation:- kyunki meaning and grammar ke according yahan 'leave' verb ki nahi balki 'leaving' present participle ki zarurat hai.\nEg. He went outside, slamming the door. (veh bahar chala gya, darwaja patak kar)\nNote :- waise yhan 'leave' ki jagah 'and left Iga ke bhi sentence theek kiya ja sakta hai."
+            },
+            {
+              "id": 33,
+              "question": "Please switch off all the lights before you are leaving the room.",
+              "options": [
+                "(a) Please switch off",
+                "(b) before you",
+                "(c) all the lights",
+                "(d) are leaving the room"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'leave' instead of 'are leaving'\nExplanation:- kyunki yahan meaning dena hai ki:- 'Room se bahar jaane se pehle, kripya saari lights band kar den. yahan kisi action ki continuity show nahi karni hai isliye continuous tense nhi aayega."
+            },
+            {
+              "id": 34,
+              "question": "All of us were a little nervous when we came into this room today.",
+              "options": [
+                "(a) a little nervous when",
+                "(b) No error",
+                "(c) when we came into this room today",
+                "(d) All of us were"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) No error\nExplanation:- Note:- 'Today' ko dekh ke kuch students ko Igta hai ki past galat ho jaayega but aisa nhi hai. Example se samajho :- I watched a movie today. (maine aaj ek movie dekhi thi) ye sentence bilkul sahi hai."
+            },
+            {
+              "id": 35,
+              "question": "Sh! Someone listens to our conversation.",
+              "options": [
+                "(a) Sh! Someone",
+                "(b) our conversation",
+                "(c) No error",
+                "(d) listens to"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'is listening' instead of 'listens'\nExplanation:-kyunki 'sh!' word se pata chal raha hai ki speaker abhi current me chup hone ko keh raha hai kyunki use esa lagta hai ki koi unki baatein sun raha hai, na ki yahan koi habitual action btaya jaa rha hai. Isliye continuous tense ka use hoga."
+            },
+            {
+              "id": 36,
+              "question": "She misplaced her spectacles and now finding it difficult to read.",
+              "options": [
+                "(a) her spectacles",
+                "(b) difficult to read",
+                "(c) and now finding it",
+                "(d) She misplaced"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'and now finds or and now is finding' instead of 'finding'\nExplanation:- kyunki grammar ke according finding (v1+ing) se pehle helping verb lagani zaruri hai aur sentence ka meaning ye dena hai ki 'usne apna chasma gum kar diya tha aur ab use read karne me problem ho rhi hai ya hoti hai."
+            },
+            {
+              "id": 37,
+              "question": "Three hours will have passed when the bell will ring.",
+              "options": [
+                "(a) will ring",
+                "(b) Three hours",
+                "(c) when the bell",
+                "(d) will have passed"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'rings' instead of 'will ring'\nExplanation:- kyunki 2 future tenses ek sath nahi likhe jaate aur condition waale part ko generally present tense me likhte hain."
+            },
+            {
+              "id": 38,
+              "question": "The concert has started when he reached the venue.",
+              "options": [
+                "(a) reached the venue",
+                "(b) The concert",
+                "(c) has started",
+                "(d) when he"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'had started/started' instead of 'has started'\nExplanation:- 'when' conjunction se pta chal rha hai ki dono actions past me likhe jayenge. grammatically toh 'started' and 'had started' dono theek hain par prefer karne ki baat aaye toh meaning wise 'had started se better meaning aaayega. 'started' Igane se ye meaning aayega concert shuru hua tha jab wo venue par pahuncha tha. 'had started' Igane se ye meaning aayega - concert shuru ho chuka tha jab wo venue par pahuncha tha. Clearly yhan 'had started Igane se better meaning aa rha hai."
+            },
+            {
+              "id": 39,
+              "question": "She is not as smart as I think at first.",
+              "options": [
+                "(a) as smart as",
+                "(b) I think",
+                "(c) at first",
+                "(d) She is not"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'thought' instead of 'think'\nExplanation:- kyunki 'at first' se pta chal rha hai ki yahan meaning ye dena hai ki:- \"veh utni smart nahi hai jitna maine pehle socha tha.\" Isliye past tense ka use hoga."
+            },
+            {
+              "id": 40,
+              "question": "Freedom of expression meaning the right to express one's own convictions and beliefs.",
+              "options": [
+                "(a) Freedom of expression",
+                "(b) meaning the right",
+                "(c) to express one's own",
+                "(d) convictions and beliefs"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'means' instead of 'meaning'\nExplanation:- kyunki \"v1+ing\" main verb bina helping verb ke liye nahi aati aur hume yahan koi continuity nahi dikhani hai balki fact batana hai."
+            },
+            {
+              "id": 41,
+              "question": "My domestic help was taking ill the day I had a party in my house.",
+              "options": [
+                "(a) the day I had a party",
+                "(b) was taking ill",
+                "(c) My domestic help",
+                "(d) in my house"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'was taken ill' instead of 'was taking ill'\nExplanation:- kyunki 'take ill' ek phrase hai jiska meaning hota hai achanak se bimaar pad jaana. aise phrase reading se hi pta chalte hain ya yaad hi karne padte hain."
+            },
+            {
+              "id": 42,
+              "question": "A Delhi bound aircraft has to make an emergency landing at Mumbai airport as a woman passenger suddenly developed a serious breathing problem.",
+              "options": [
+                "(a) suddenly developed",
+                "(b) as a woman passenger",
+                "(c) has to make",
+                "(d) a serious breathing problem"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'had' instead of 'has'\nExplanation:- kyunki aage ke sentence ko padh kar pata chal raha hai ki past ka meaning dena hai. 'aircraft ko landing karni padi thi'"
+            },
+            {
+              "id": 43,
+              "question": "Firecrackers have seized by the government went off while being defused on the banks of the river Ganga, in a town in West Bengal.",
+              "options": [
+                "(a) while being defused",
+                "(b) on the banks of the river Ganga",
+                "(c) Firecrackers have seized by the government",
+                "(d) in a town in West Bengal"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Remove 'have seized' with 'seized'\nExplanation:- kyunki 'fire crackers' subject ke liye main verb 'went off hai na ki 'have seized' meaning se bhi dekhein toh 'fire crackers kisi ko seize nahi krenge, fire crackers seize kiye jayege' meaning ye dena hai ki 'government ke dwara seize kiye gaye firecrackers fatt gaye'. Yahan seized koi verb nahi 'fire crackers' noun ke liye adjective (past participle) ka kaam kar raha hai."
+            },
+            {
+              "id": 44,
+              "question": "A 12 year old archer was airlifted to Delhi when he met with an accident while practice for the Khelo India Games in Guwahati.",
+              "options": [
+                "(a) was airlifted to Delhi",
+                "(b) when he met with an accident",
+                "(c) A 12 year old archer",
+                "(d) while practice for the Khelo India Games"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'practising' instead of 'practice'\nExplanation:- kyunki 'while' continuity ko show karta hai isliye iske baad 'practise' ko 'v1+ing' form me likha jaayega. while practising = while he was practising\nNote:-Practice(noun) Practise(verb) Gerund ya present participle verb+ing se bante hain isliye spelling 'practising' hoti hai."
+            },
+            {
+              "id": 45,
+              "question": "Often hailed as one of the greatest industry leaders of India, Ratan Tata take across the reins of the company, leading from the front.",
+              "options": [
+                "(a) leading from the front",
+                "(b) Often hailed as one of",
+                "(c) the greatest industry leaders from India,",
+                "(d) Ratan Tata take across the reins of the company"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'took over' instead of 'take across'\nExplanation:- kyunki 'Ratan tata' singular subject hain toh 'take across' plural verb toh aaayega nahi aur ye koi habitual action nahi hai isliye past tense lagana meaning wise better rahega aur phrasal verb me bhi galti hai.\ntake across - kisi vastu ko kisi cheez ke dusri chhor (end) tak le jana\ntake over kisi company etc. ka control apne hath me lena."
+            },
+            {
+              "id": 46,
+              "question": "I don't think I meet him before.",
+              "options": [
+                "(a) no error",
+                "(b) him before",
+                "(c) I meet",
+                "(d) I don't think"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'I have met' instead of 'meet'\nExplanation:- kyunki 'before' adverb ke sath perfect tense ka use hoga. Meaning yeh dena hai ki:- mujhe nahi lagta main isse pehle kabhi mila hun."
+            },
+            {
+              "id": 47,
+              "question": "Plogging is an international trend, in which someone picking up the trash while jogging or brisk walking.",
+              "options": [
+                "(a) while jogging or brisk walking",
+                "(b) picking up trash",
+                "(c) 'Plogging' is an international trend",
+                "(d) in which someone"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'picks' instead of 'picking'\nExplanation:- kyunki 'v1+ing' main verb bina helping verb ke nahi aati aur yahan waise bhi hume yahan ek definition ek fact btana hai isliye present indefinite tense ka use hoga."
+            },
+            {
+              "id": 48,
+              "question": "We will have to walk now since we had missed the bus.",
+              "options": [
+                "(a) since we had",
+                "(b) We will have to",
+                "(c) walk now",
+                "(d) No error"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'have missed' instead of 'had missed'\nExplanation:- kyunki yahan koi past ke do actions ka comparison nahi karna hai yahan meaning yeh dena hai ki:- \"ab hume chalna padega kyunki hum apni bus miss kar chuke hain.\"\nNote: 'since' yahan preposition nahi hai yahan ye conjuction hai jiska matlab hai 'kyunki'"
+            },
+            {
+              "id": 49,
+              "question": "When they started, they had great ideas but lack the business know-how.",
+              "options": [
+                "(a) When they started",
+                "(b) they had great ideas",
+                "(c) but lack",
+                "(d) the business know-how"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'lacked' instead of 'lack'\nExplanation: kyunki sentence me past ka meaning dena hai:- 'unke paas business kaise chalaya jaata hai is knowledge ki kami thi'\nNote:- business know how' ek phrase hai jiska matlab hai 'knowledge of how to run a business'"
+            },
+            {
+              "id": 50,
+              "question": "Are you having your own transport to go home from work?",
+              "options": [
+                "(a) to go home",
+                "(b) from work",
+                "(c) Are you having",
+                "(d) your own transport"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'do you have' instead of 'are you having'\nExplanation:- kyunki 'have' jab possession ko dikhata hai toh wo ek stative verb hota hai 'Stative verbs' esi verbs hoti hain jinko generally ing form me use nahi kiya jaata hai, jaise hear, look, see, feel, smell, love, like, believe, possess, have etc."
+            },
+            {
+              "id": 51,
+              "question": "It is reported that [she has win] a prize money of ten lakhs at a reality show.",
+              "options": [
+                "(a) she will won",
+                "(b) she had win",
+                "(c) No substitution",
+                "(d) she has won"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Sentence present me hai aur 'has' helping verb ke baad verb ki third form aayegi isliye D 'has won' sahi hai."
+            },
+            {
+              "id": 52,
+              "question": "[I don't wear] the sunglasses at the moment.",
+              "options": [
+                "(a) I didn't wear",
+                "(b) I wore",
+                "(c) I was wearing",
+                "(d) I'm not wearing"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- 'at the moment' hint hai ki yhan present continuous ka use hoga isliye D 'I am not wearing' sahi hai."
+            },
+            {
+              "id": 53,
+              "question": "The Karaoke programme [was planned by the club] was a grand success.",
+              "options": [
+                "(a) were planned by the club",
+                "(b) No substitution",
+                "(c) has been planned by the club",
+                "(d) planned by the club"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation: yhan planned verb nhi past participle (adjective) ka kaam karega jo programme noun ke liye aaya hai kyuki verb 'was' aage di hui hai. isliye D sahi hai."
+            },
+            {
+              "id": 54,
+              "question": "The man was convicted for murder by the jury but he [is not committed it].",
+              "options": [
+                "(a) have not committed it",
+                "(b) has not committed it",
+                "(c) had not committed it",
+                "(d) am not committed it"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Convict hone wala action past indefinite me likha gya hai aur ab uss se bhi pehle ki baat karni hai aur past of past ke liye past perfect ka use hota hai isliye C option sahi hai."
+            },
+            {
+              "id": 55,
+              "question": "He [had given me] that book in 1999.",
+              "options": [
+                "(a) did given me",
+                "(b) was given me",
+                "(c) gives me",
+                "(d) gave me"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Yhan koi past ke 2 action ka comparison nhi ho rha hai. Past ka point of time 'in 1999' diya hai isliye past indefinite ka use hoga aur D sahi hai."
+            },
+            {
+              "id": 56,
+              "question": "Our guests [arrived]; they are sitting in the garden.",
+              "options": [
+                "(a) shall arrive",
+                "(b) have arrived",
+                "(c) are arriving",
+                "(d) might arrive"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- yhan meaning ye dena hai ki 'guests aa chuke hain wo garden me baithe hai' isliye grammar and meaning ke according yhan present perfect ka use hoga aur B sahi hai."
+            },
+            {
+              "id": 57,
+              "question": "Abu said that [he saw the picture].",
+              "options": [
+                "(a) he has seen the picture",
+                "(b) he will have seen the picture",
+                "(c) he would have seen the picture",
+                "(d) he had seen the picture"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation: Yhan main clause past me hai to sub clause bhi past me aayega aur ye kaam pehle hi ho chuka tha isliye past perfect wala D sahi hai"
+            },
+            {
+              "id": 58,
+              "question": "During my Goa tour, I [had visited] beaches in Vasco, Baga and Vagator.",
+              "options": [
+                "(a) visited",
+                "(b) have visited",
+                "(c) was visited",
+                "(d) am visited"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:-yhan koi past ke 2 actions ka comparison nhi hai. Past ka ek fact btaya ja rha hai isliye past indefinite tense wala A option sahi hai.\nNote:- waise yhan 'have visited bhi galat nhi hai but 'during my Goa tour' ek type se past ka time dikha rha hai isliye past indefinite lagana prefer karenge"
+            },
+            {
+              "id": 59,
+              "question": "I [have reached the hotel], by the time you call me.",
+              "options": [
+                "(a) will be reaching the hotel",
+                "(b) No substitution",
+                "(c) will have reached the hotel",
+                "(d) had reached the hotel"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation: Yhan meaning ye dena hai ki - 'Main hotel pahunch chuka hounga jab tak tum muje call karoge' isliye meaning hai tense ke according yhan future perfect tense wala C sahi hai."
+            },
+            {
+              "id": 60,
+              "question": "The bus is now full of passengers; it [will leave] soon.",
+              "options": [
+                "(a) leaves",
+                "(b) is leaving",
+                "(c) is going to leave",
+                "(d) has to leave"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- A option isliye nhi hoga kyuki ye koi planned official action nhi hai. B,C,D grammatically theek hain but meaning wise C best hai.\nNote:- 'is leaving' Igane se meaning aayega ye jaldi hi chal rhi hai. is going to leave Igane se meaning aayega ye jaldi hi chalne wali hai. 'has to leave Igane se meaning aayega isko jaldi hi chalna padega."
+            },
+            {
+              "id": 61,
+              "question": "When the weather is hot, [I will like to eat] ice cream.",
+              "options": [
+                "(a) I shall like to eat",
+                "(b) I liked to eat",
+                "(c) I like to eat",
+                "(d) I should like to eat"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation: yhan habitual action ki baat ho rhi hai isliye present indefinite wala C sahi hai."
+            },
+            {
+              "id": 62,
+              "question": "By the time his friends woke up, he had already [begun] his journey.",
+              "options": [
+                "(a) begin",
+                "(b) No substitution",
+                "(c) began",
+                "(d) beginning"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- past perfect me 'had +v3' ka use hota hai isliye question me diya gya 'had already begun' sahi hai."
+            },
+            {
+              "id": 63,
+              "question": "His last trip around the world [taking a toll] on his health.",
+              "options": [
+                "(a) took a toll",
+                "(b) taken a toll",
+                "(c) No substitution",
+                "(d) take a toll"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- V3 and V1+ ing bina helping verb ke nhi aati isliye B and C galat hai, yhan koi habitual action ki baat nhi ho rhi isliye D galat hai. yhan past ke action ki baat ho rhi hai isliye meaning ke according yhan A 'took a toll' sahi hai."
+            },
+            {
+              "id": 64,
+              "question": "Sheila always [went to get] ice cream with her dad on Tuesdays.",
+              "options": [
+                "(a) had gotten",
+                "(b) gone to get",
+                "(c) went to got",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- yhan present indefinite tense option me hi nhi hai isliye ye clear hai ki yhan past hi habit ki baat karni hai aur past ki habit past indefinite tense ke sath adverb of frequency laga ke dikhai ja sakti hai isliye D sahi hai."
+            },
+            {
+              "id": 65,
+              "question": "[You are failed to be achieved] high enough sales to earn a bonus this month.",
+              "options": [
+                "(a) You will fail to achieve",
+                "(b) You failed to achieve",
+                "(c) You have fail achieving",
+                "(d) You fails to achieve"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Have' helping verb ke baad V3 aati hai isliye C galat hai. You ke sath plural verb aati hai isliye D galat hai. Yhan future ka meaning nhi dena hai isliye A galat hai. Meaning and grammar ke according B 'you failed...' sahi hai."
+            },
+            {
+              "id": 66,
+              "question": "Doctor Bayley [tripped under some large roots and cuts] her head on a rock.",
+              "options": [
+                "(a) No improvement required",
+                "(b) tripped over some large roots and cut",
+                "(c) tripped over and above some large roots and cut",
+                "(d) tripped upon some larger roots and cuts"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation: Yhan meaning dena hai ki Doctor Bayley kisi badi root me paer fas ke trip ho gyi unke forhead pe injury aa gyi' iss meaning ke 'tripped over' phrasal verb ka use hoga aur dono verb past me ayengi isliye B sahi hai."
+            },
+            {
+              "id": 67,
+              "question": "Desert flowers bloom [whenever it raining], and the sight can be rewarding",
+              "options": [
+                "(a) whenever it rains",
+                "(b) No improvement",
+                "(c) when it rained",
+                "(d) when its raining"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation: yhan meaning ye dena hai ki 'desert flowers bloom karte hain jab bhi barsaat hoti hai' yani yhan ek fact btana hai isliye present indefinite tense wala A sahi hai."
+            },
+            {
+              "id": 68,
+              "question": "He indicated that a vigorous recovery programme was being carried out; 90,000 reminders [had been issued and thousands of summons sent].",
+              "options": [
+                "(a) has been issued and thousands of summons sent",
+                "(b) No improvement required",
+                "(c) has been issued and thousands of summonses sent",
+                "(d) had been issued and thousands of summonses were sent"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Noun chapter ke concept ke according 'Summonses' sahi plural noun hai aur verb passive me aayegi isliye 'were sent' ka use hoga. Isliye D sahi hai."
+            },
+            {
+              "id": 69,
+              "question": "In the nineteenth century, many new ideas about education and learning [were being emerged].",
+              "options": [
+                "(a) was emerging",
+                "(b) have emerging",
+                "(c) No improvement",
+                "(d) emerged"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- yhan past ka point of time hai isliye past indefinite tense ka use hoga aur 'emerge' ek happening verb hai isliye iska passive nhi hoga. Isliye grammar and meaning ke according D sahi hai."
+            },
+            {
+              "id": 70,
+              "question": "My uncle [is doing] business in Hyderabad for the last 10 years.",
+              "options": [
+                "(a) has been doing",
+                "(b) No substitution",
+                "(c) did",
+                "(d) doing"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'for + duration' ke sath present perfect continuous ka use hoga. isliye A sahi hai."
+            },
+            {
+              "id": 71,
+              "question": "He [was knowing] her for a long time before he finally married her.",
+              "options": [
+                "(a) has been knowing",
+                "(b) No improvement",
+                "(c) had known",
+                "(d) had knew"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Before ke aage clause past use hua hai isliye yhan past ke 2 actions ka comparison hai. isliye past perfect wala C 'had known' sahi hai.\nNote:- 'know' stative verb hai iski ing form nhi use hogi."
+            },
+            {
+              "id": 72,
+              "question": "I don't think we can talk to him at all. He [wasn't listening].",
+              "options": [
+                "(a) didn't listen",
+                "(b) doesn't listen",
+                "(c) hadn't listened",
+                "(d) will not listening"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- will modal ke baad base form hi aa sakti hai isliye D galat hai. Yhan past ke actions ka comparison nhi hai isliye C galat hai. Meaning ye dena hai ki 'wo sunta hi nhi hai' matlb uski habit btani hai isliye present indefinite tense wala B sahi hai."
+            },
+            {
+              "id": 73,
+              "question": "These days my parents [are been taking] great care of my health and want me to eat nuts and seeds, which are rich in vitamins and minerals.",
+              "options": [
+                "(a) are taking",
+                "(b) No substitution",
+                "(c) were taking",
+                "(d) will have taken"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation- 'these days' hint hai ki present continuous tense use hoga isliye A sahi hai."
+            },
+            {
+              "id": 74,
+              "question": "The accused [has been tortured] before he was brought to the court.",
+              "options": [
+                "(a) was being tortured",
+                "(b) has tortured",
+                "(c) had tortured",
+                "(d) had been tortured"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation-yhan past ke 2 actions ka comparison kiya ja rha hai aur subject 'the accused' receiver hai isliye passive voice chahiye. Isliye D 'had been tortured' sahi hai."
+            },
+            {
+              "id": 75,
+              "question": "One of the rooms in the new house [had not yet been completed].",
+              "options": [
+                "(a) is not yet been completed",
+                "(b) are not yet been completed",
+                "(c) has not yet been completed",
+                "(d) have not yet been completed"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'yet' se hint mil rha hai ki present perfect tense ka use hoga. Room receiver banega isliye voice passive aayegi. Subject 'one' isliye verb singular aayegi. Inn sab points ke according C sahi hai."
+            },
+            {
+              "id": 76,
+              "question": "I [practised for] the debate; that's why I am late.",
+              "options": [
+                "(a) No substitution",
+                "(b) am practising for",
+                "(c) was practising for",
+                "(d) have practised for"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation: yhan meaning ye dena hai ki 'main debate ke liye practice kar rha tha isliye late ho gya' isliye meaning ke according yhan C sahi hai."
+            },
+            {
+              "id": 77,
+              "question": "The young man [lifts] weights at the gym when he pulled a muscle.",
+              "options": [
+                "(a) was lifting",
+                "(b) has lifted",
+                "(c) is lifting",
+                "(d) No substitution"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- yhan meaning ye dena hai ki -' young man weight utha rha tha jab uski muscle khich gyi' isliye past continuous wale A 'was lifting' ka use hoga."
+            },
+            {
+              "id": 78,
+              "question": "I [have been working] with children before, so I know what to expect.",
+              "options": [
+                "(a) am working",
+                "(b) have worked",
+                "(c) work",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation: yhan meaning ye dena hai ki -' main bacchon ke sath pehle kaam kar chuka hun....' isliye B 'have worked' sahi hai."
+            },
+            {
+              "id": 79,
+              "question": "The Arabian Sea region is very important for India as several major ports [are locating] there.",
+              "options": [
+                "(a) No improvement",
+                "(b) are located",
+                "(c) have been locating",
+                "(d) was locating"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- yhan meaning ye dena hai ki 'bhut saare major ports wha located hain' isme koi action nhi ho rha yhan 'are' linking verb hai aur 'located' past participle (adjective) ki tarah kaam karega. isliye B 'are located' sahi hai."
+            },
+            {
+              "id": 80,
+              "question": "After walking a few steps in the forest, our guide [sensing] some sort of movement in the foliage behind us.",
+              "options": [
+                "(a) had been senses",
+                "(b) sensed",
+                "(c) No improvement",
+                "(d) was sensed"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- yhan meaning ye dena hai ki 'humare guide ne kuch movement sense kari...' isliye meaning ke according past indefinite tense ka use hoga aur active voice lagegi isliye B 'sensed' sahi hai."
+            },
+            {
+              "id": 81,
+              "question": "One evening, when father was coming home from work, I [played] in the front garden.",
+              "options": [
+                "(a) no improvement",
+                "(b) play",
+                "(c) am playing",
+                "(d) was playing"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- yhan ye dono past ke actions sath me continuity me the isliye past continuous tense ka use hoga. isliye D 'was playing' sahi hai."
+            },
+            {
+              "id": 82,
+              "question": "His employees [were asking him for a raise] for a long time now.",
+              "options": [
+                "(a) asked him for a rise",
+                "(b) No substitution",
+                "(c) are asking him of a raise",
+                "(d) have been asking him for a raise"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- yhan 'for + duration' structure ka use hua hai isliye present perfect continuous tense ka use hoga isliye D sahi hai."
+            },
+            {
+              "id": 83,
+              "question": "Many people [are becoming aware of] the advantages of preventive health care nowadays",
+              "options": [
+                "(a) are become aware of",
+                "(b) will be becoming aware to",
+                "(c) have becoming aware for",
+                "(d) no improvement"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- 'nowadays' hint hai ki present continuous ka use hoga aur 'aware' ke sath 'of preposition ka use hota hai. isliye question me diya gya structure sahi hai."
+            },
+            {
+              "id": 84,
+              "question": "Don't stay in school after 2 p.m. All the teachers [have been leaving] by then.",
+              "options": [
+                "(a) are leave",
+                "(b) will have left",
+                "(c) must left",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation- 'by then' (by +time) hint hai aur meaning ye dena hai ki -' uss samay tak sab teachers ja chuke honge' isliye yhan future perfect tense ka use hoga. B 'will have left' sahi hai."
+            },
+            {
+              "id": 85,
+              "question": "Shyamalan's movie 'The Sixth Sense' starring Bruce Willis was a great success [but doesn't win all] Academy Award as expected.",
+              "options": [
+                "(a) No improvement.",
+                "(b) but didn't win any",
+                "(c) but did win most",
+                "(d) although it won some"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:-yhan meaning ye dena hai ki :- ' lekin iss movie ne koi academy award nhi jita' meaning and grammar ke structure ke according B sahi hai."
+            }
+          ]
         }
       ]
     }
