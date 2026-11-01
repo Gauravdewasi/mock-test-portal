@@ -22606,6 +22606,852 @@
               "solutionHinglish": "Ans (d)\nExplanation:- 'access' ke sath generally 'to' preposition ka use hota hai. isliye D option 'access to' sahi hai."
             }
           ]
+        },
+        {
+          "id": "t_1793550751825",
+          "name": "PREPOSITION LEVEL - 02",
+          "questions": [
+            {
+              "id": 1,
+              "question": "If a sudden sandstorm starts in the middle of a desert safari, (a)/ travellers should quickly sit above (b)/ the protective tent cover (c)/ and keep their faces covered until the wind slows down. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'above' with 'under'\nExplanation:- 'above' ki jagah 'under' aayega kyunki jab desert safari mein storm aayega toh protective tent ke andar bethenge naa ki bahar, isliye yahan 'under' sahi preposition hogi."
+            },
+            {
+              "id": 2,
+              "question": "After months of planning, our college council proposed the principal (a)/ that we should organise a national student-startup expo (b)/ to showcase innovative ideas (c)/ and build collaboration with industry mentors. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'proposed the principal' with 'proposed to the principal'\nExplanation:- Kuch verb jaise 'announce, propose, suggest, apologize, listen, write, etc. inke baad 'to' preposition ka use hota hai kyunki inke baad indirect object aate hai, isliye 'proposed to the principal sahi hoga."
+            },
+            {
+              "id": 3,
+              "question": "Select the sentence with the appropriate use of preposition.",
+              "options": [
+                "(a) He has been waiting by the morning hours, hoping the office would open early.",
+                "(b) He has been waiting from the morning time, expecting someone to come and meet him.",
+                "(c) He has been waiting till the morning since he wanted to be the first one there.",
+                "(d) He has been waiting since the early morning hours to submit his documents at the office."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Correct answer is 'he has been waiting since the early morning hours to submit his documents at the office'\nExplanation:- Sentence mein 'present perfect tense ka use hua hai, agar 'duration' ki baat ho toh 'for' ka use karte hai aur 'point of time' ki baat ho toh 'since' ka use karte hai. option D mein 'early morning hours' point of time ke liye 'since ka use perfect tense ke sath hua hai, isliye option D sahi answer hoga."
+            },
+            {
+              "id": 4,
+              "question": "When the chef opened the lid of the boiling soup, (a)/ hot steam began to rise instantly, (b)/ spreading to the entire kitchen. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'spreading to' with 'spreading through'\nExplanation:- Kahin pahuchne ke liye 'to' preposition ka use karte hai, lekin koi cheez particular area mein feil jaaye, toh uske liye 'through preposition ka use karte hai, isliye 'spreading through sabse sahi hoga."
+            },
+            {
+              "id": 5,
+              "question": "When I reached the main road yesterday evening, (a)/ I saw my childhood friend waiting in the bus stop, (b)/ holding an umbrella. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'waiting in' with 'waiting at'\nExplanation:- Public transport waali jagah pe hone ke liye 'at' preposition ka use hota hai, jaise 'at the railway station, at the bus stop, at the airport', isliye 'waiting at the bus stop' sahi answer hoga."
+            },
+            {
+              "id": 6,
+              "question": "Although she earns a decent salary, (a)/ she has a habit of spending against her means (b)/ by purchasing expensive designer clothes and gadgets (c)/ that she doesn't need. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'against' with 'beyond'\nExplanation:- 'against' ka matlab 'khilaaf, lekin sentence ka matlab hai 'apni salary se jyada kharch karti hai', jiske liye 'beyond' preposition ka use hoga jiska matlab limit se jyada', isliye 'beyond her means' sahi answer hoga."
+            },
+            {
+              "id": 7,
+              "question": "Last summer on this day (a)/ our whole group was strolling in the beach (b)/ taking pictures (c)/ and chatting happily. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'in the beach' with 'on the beach'\nExplanation:- Kisi cheez ki surface pe hone ke liye 'on' preposition ka use hota hai aur kisi cheez ke andar ke liye 'in' preposition ka use hota hai, toh 'beach pe tehelne' ke liye 'on' preposition sahi hogi."
+            },
+            {
+              "id": 8,
+              "question": "She has not travelled outside her country by the last five years, (a)/ even though she always talks (b)/ about exploring different cultures and experiencing life (c)/ in other parts of the world. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'by the last five' with 'for the last five'\nExplanation:- Sentence mein 'present perfect tense' ka use hua hai, agar 'duration' ki baat ho toh 'for' ka use karte hai aur 'point of time' ki baat ho toh since' ka use karte hai. last five year duration hai, isliye 'for' preposition sahi hogi."
+            },
+            {
+              "id": 9,
+              "question": "They returned home in Tuesday morning, (a)/ just before sunrise, and quietly unpacked their bags (b)/ so they wouldn't wake the children, (c)/ who were still sleeping peacefully. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'in Tuesday' with 'on Tuesday'\nExplanation:- Generally morning' ke sath 'in' preposition aati hai, lekin kisi particular morning ki baat hogi toh 'on' preposition ka use hoga, isliye on Tuesday morning' sabse sahi answer hoga."
+            },
+            {
+              "id": 10,
+              "question": "They were travelling overnight to reach their hometown (a)/ and planned to stop to breakfast at a popular dhaba on the highway, (b)/ where the fresh parathas and chai are famous among travellers. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'to breakfast' with 'for breakfast'\nExplanation:- Sentence ka matlab hai 'wo breakfast karne ke liye ruke', toh 'ke liye waale meaning ke liye 'for' preposition ka use hota hai, isliye 'for breakfast' sahi answer hoga."
+            },
+            {
+              "id": 11,
+              "question": "For almost five years, (a)/ Ayaan lived in the northern part off Canada, (b)/ where the snow-covered landscapes looked breathtaking, (c)/ but adjusting to the freezing temperatures was always a challenge for him. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'part off Canada' with 'part of Canada'\nExplanation:- Sentence ka matlab hai Aayan Canada ke northern part mein raha, toh 'off preposition 'separation' ke liye use hoti hai, jabki 'ka, kii, ke waale meaning ke liye of preposition ka use hota hai, isliye 'part of Canada' sahi answer hoga."
+            },
+            {
+              "id": 12,
+              "question": "On his way back from work (a)/ Ravi rode his small boat through the river (b)/ to reach his farmland. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'through' with 'across'\nExplanation:- 'through' ka use kisi cheez ke andar se jaane ke liye hota hai generally 3D, jabki 'across' ka use kisi cheez ke uper se jaane ke liye generally 2D. 'boat' river ke uper se jaayegi, isliye 'across the river' sahi answer hoga."
+            },
+            {
+              "id": 13,
+              "question": "The conference was held upon for nearly forty-five minutes (a)/ because several key speakers were stuck in traffic (b)/, which led to frustration among the attendees (c)/ who had arrived early. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'held upon' with 'held up'\nExplanation:- Sentence mein 'held upon' ki jagah 'held up aayega kyunki koi cheez postpone ho jaane ke liye, ruk jaane ke liye, rukaawat aajane ke liye 'held up' phrasal verb ka use hota hai, sentence ke meaning ke according 'held up' phrasal verb sahi answer hogi."
+            },
+            {
+              "id": 14,
+              "question": "No arguing on the dining table is tolerated in our house, (a)/ as my grandparents firmly believe (b)/ that mealtime should remain peaceful and respectful (c)/ for everyone sitting together. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'arguing on' with 'arguing at'\nExplanation:- Sentence mein 'on' ki jagah 'at' aayega kyunki 'on' ka matlab 'kisi cheez ke uper', lekin dining table ke uper beth kar discussion nahi hoga, isliye yahan 'at' sahi hoga jiska matlab 'near' matlab 'table ke pass', isliye 'arguing at sahi answer hoga."
+            },
+            {
+              "id": 15,
+              "question": "There might be ancient fossils and rare minerals (a)/ in the surface of this rocky hill, (b)/ hidden for thousands of years and waiting to be discovered by researchers. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'in the surface' with 'under the surface'\nExplanation:- Sentence mein 'in' ki jagah 'under' aayega kyunki 'in' ka matlab 'kisi cheez ke andar', lekin matlab chahiye 'rocky hill ke surface ke neeche', jiske liye 'under' ka use hoga jiska matlab 'kisi cheez ke neeche', isliye 'under the surface' sahi answer hoga."
+            },
+            {
+              "id": 16,
+              "question": "Two ambitious brothers fought by the family estate (a)/ after their father passed away, (b)/ leading to years of bitterness and legal battles (c)/ that affected not only them but also the entire extended family. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'fought by' with 'fought over/for'\nExplanation:- Sentence mein 'fought by ki jagah 'fought over/for aayega kyunki 'fight over ka matlab 'kisi cheez ki wazah se ladna aur 'fight for ka matlab 'kisi cheez ke liye ladne', sentence ke according dono ke meaning sahi hai, isliye 'fought over/for dono sahi answer honge."
+            },
+            {
+              "id": 17,
+              "question": "The customers were completely put off by the unhygienic condition of the restaurant, (a)/ as the tables were sticky, the plates were poorly cleaned, (b)/ and the unpleasant smell instantly ruined their appetite. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) No error\nExplanation:- put off ka matlab 'kisi vyakti ki ruchi yaa utsaaah ko kam kar dena'."
+            },
+            {
+              "id": 18,
+              "question": "Her approach to solving problems is different (a)/ and far more efficient than mine, (b)/ as she always thinks creatively and carefully analyses every detail (c)/ before reaching a conclusion. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) put 'from' after 'different'\nExplanation:- Sentence mein 'different' ke baad 'from' aayega kyunki 'different' aur 'more efficient' adjectives ko 'and' conjunction se joda hai aur dono ke liye 'than' common preposition lagayi hai, 'efficient' ke sath 'than' ka use sahi hai, lekin 'different ke sath 'than' ka use galat hai kyunki different ke sath 'from' ka use hota hai, isliye 'different from sabse sahi answer hoga.\nNote:- jis word se related problem hai error wahi mark hogi"
+            },
+            {
+              "id": 19,
+              "question": "During his university years abroad, (a)/ he enjoyed all the comforts to life, (b)/ from living in a spacious apartment (c)/ to having access to all modern facilities. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'comforts to' with 'comforts of'\nExplanation:- Sentence mein 'to' ki jagah 'of aayega kyunki 'ka, kii, ke' waale meaning ke liye 'of preposition ka use karte hai, sentence ka matlab hai 'zindgi ke comfort'. Isliye 'comforts of sahi answer hoga."
+            },
+            {
+              "id": 20,
+              "question": "When the guests arrived late at night (a)/ they entered into the banquet hall (b)/ and were amazed by the beautiful decorations and lights (c)/ arranged for the anniversary celebration. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove 'into' after 'entered'\nExplanation:- Sentence mein 'entered' ke baad 'into' nahi aayega kyunki 'jab aap kisi jagah enter hote ho', toh 'enter' transitive verb hoti hai jise object ki jarurat hoti hai. lekin jab 'enter' ka matlab ho involve hona' toh aise meaning ke liye 'enter' ke sath 'into' sahi hota hai jaise enter into relationship, enter into fight ."
+            },
+            {
+              "id": 21,
+              "question": "Before starting his private clinic, (a)/ he served as a cardiac surgeon of (b)/ one of the top multi-specialty hospitals in the region (c)/ handling critical emergency cases regularly. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'surgeon of' with 'surgeon at'\nExplanation:- Sentence mein 'of ki jagah 'at' aayega kyunki kahin pe kaam karne ke liye 'at' preposition ka use hota hai, isliye 'surgeon at sahi answer hoga."
+            },
+            {
+              "id": 22,
+              "question": "Among the lawyer and the client (a)/ there was a clear misunderstanding (b)/ regarding the final terms of the property agreement (c)/ signed last week. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'among' with 'between'\nExplanation:- 'among' ka use 'do se jyada logon/cheezon' ke liye hota hai aur 'between' ka use 'do logon/cheezon' ke liye hota hai, sentence mein 'lawyer aur client do logon ki baat ho rahi hai, isliye 'between' sahi answer hoga."
+            },
+            {
+              "id": 23,
+              "question": "Traditional folk songs (a)/ are passed down effortlessly (b)/ from one generation through another (c)/ as children learn them by listening to elders at festivals and family gatherings. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'through' with 'to'\nExplanation:- Sentence mein 'through ki jagah 'to' aayega kyunki 'from' ke sath 'to' ka pair hota hai. sentence hoga 'from one generation to another' sahi answer hoga."
+            },
+            {
+              "id": 24,
+              "question": "The teacher politely requested to the students (a)/ not to make noise (b)/ as the examination was going on (c)/ in the adjacent classroom. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) remove 'to' after 'requested'\nExplanation:- Sentence mein 'requested ke baad 'to' nahi aayega kyunki order, advice, request' yeh di-transitive verb hoti hai jinka structure 'order, advice, request somebody to do something hota hai, isliye 'requested verb ke baad 'to' preposition ka use nahi hoga. somebody' indirect object hota hai aur 'something direct object hota hai."
+            },
+            {
+              "id": 25,
+              "question": "Many luxury hotels (a)/ offer to their regular guests (b)/ complimentary spa vouchers, room upgrades, and private lounge access (c)/ as a gesture of appreciation for their loyalty. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove 'to' after 'offer'\nExplanation:- Sentence mein 'offer' ke baad 'to nahi aayega kyunki offer' ek di-transitive verb hai jiska structure 'offer somebody something jaise 'they offered me a job', isliye 'offer' ke baad 'to' nahi aayega."
+            },
+            {
+              "id": 26,
+              "question": "After attending the late-night cultural event (a)/ with my friends, I went to home, (b)/ had dinner and went to bed. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove 'to' after 'went'\nExplanation:- Sentence mein 'went' ke baad 'to' nahi aayega kyunki 'home 'adverb or noun' dono ban sakta hai, noun ke case mein 'her home, my home, their home iss type se likha hota, lekin aisa kuch nahi hai aur 'went' intransitive verb ke baad likha hai, isliye yeh adverb banega, isliye 'I went home' sahi hoga.\nNote:- agar noun likha hota toh 'to' preposition sahi hoti jaise I went to rahul's home ."
+            },
+            {
+              "id": 27,
+              "question": "Despite of facing several technical glitches (a)/ during the online exam, (b)/ she managed to attempt all the questions. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) remove 'of' after 'despite'\nExplanation:- Sentence mein 'of nahi aayega kyunki 'despite ke baad of ka use nahi hota. 'in spite of/despite dono ka matlab 'ke baavjood' hota hai."
+            },
+            {
+              "id": 28,
+              "question": "While rushing to catch the early morning bus (a)/ my wallet suddenly slipped with my pocket (b)/ and fell on the pavement. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'with' with 'from'\nExplanation:- 'with' se sentence ka matlab hoga pocket ke sath gir gaya', lekin sentence ka matlab hai 'pocket mein se gir gaya', toh 'se' waale meaning ke liye 'from' preposition ka use sahi hoga."
+            },
+            {
+              "id": 29,
+              "question": "Our yoga instructor has been conducting (a)/ free early-morning sessions at the community park (b)/ since the past eight months (c)/ to help people improve their physical and mental well-being. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'since' with 'for'\nExplanation:- Sentence mein 'perfect continuous tense ka use hua hai jiske sath 'since' aur 'for' ka use karte hai, 'the past eight months se pata chal raha ki duration ki baat ho rahi hai, duration ke liye 'for' ka use karte hai, point of time ke liye 'since' ka, sentence mein duration hai isliye 'for the past eight months sabse sahi answer hoga."
+            },
+            {
+              "id": 30,
+              "question": "The travel agency promised that (a)/ the visa approval process would be completed by ten working days (b)/ so that the customers could plan their holidays accordingly. (c)/ No error(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'by ten' with 'within ten'\nExplanation:- Sentence mein 'by' ki jagah 'within' aayega kyunki jab point batana ho toh 'by' ka use karte hai, jaise Sunday tak de dunga toh 'by Sunday', lekin jab aapko duration batani ho toh 'within' ka use karte hai. sentence mein 'ten working days' se pata chal raha ki duration ki baat ho rahi hai, isliye 'within ten working days' sahi answer hoga."
+            },
+            {
+              "id": 31,
+              "question": "The man besides me in the crowded metro (a)/ was talking to his friend very loudly (b)/ without realizing that everyone was getting disturbed. (c)/ No error(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'besides' with 'beside'\nExplanation:- 'besides' ka matlab hota hai 'in addition to something, ke alawa', 'beside' ka matlab 'ke bagal mein', sentence mein bagal wala meaning chahiye, isliye 'beside me' sahi answer hoga."
+            },
+            {
+              "id": 32,
+              "question": "At the hill resort near Mussoorie (a)/ our room had a stunning view of the clouds floating over the mountains (b)/ in the wide glass window that covered the entire wall. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'in the wide glass' with 'through the wide glass'\nExplanation:- Sentence mein 'in' ki jagah 'through' aayega kyunki 'in' se matlab glass window mein view tha', lekin matlab chahiye 'glass window ke paar dekhne par view tha', toh 'kisi cheez ke dusri taraf dekhne ke liye', 'through' preposition ka use karte hai, isliye 'through the wide glass sahi answer hoga."
+            },
+            {
+              "id": 33,
+              "question": "Did you tell to your sister (a)/ that the parcel she was waiting (b)/ for finally arrived this afternoon. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) remove 'to' after 'tell'\nExplanation: Sentence mein 'tell' ke baad 'to' preposition nahi aayega kyunki 'tell' di-transitive verb hai, jiske baad indirect object aate hai, isliye yahan 'tell' ke baad 'to' preposition galat hai."
+            },
+            {
+              "id": 34,
+              "question": "Riya called an urgent team meeting (a)/ and discussed about the sudden drop in customer feedback scores (b)/ on various online platforms. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove 'about' after 'discussed'\nExplanation: discussed verb ke baad 'about' preposition nahi aayegi kyunki 'discussed' transitive verb hai jiske baad object aate hai, isliye 'discussed' ke baad 'about' preposition ka use galat hai."
+            },
+            {
+              "id": 35,
+              "question": "Many NGOs are working tirelessly to (a)/ create better employment opportunities to unemployed artists (b)/ so they can sustain themselves and continue their passion without financial pressure. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'to unemployed' with 'for unemployed'\nExplanation:- Sentence ka matlab hai 'NGO's behtar employment opportunities create kar rahe hai unemployed artist ke liye', toh 'ke liye' waale meaning ke liye 'for' preposition sahi hogi, isliye 'for unemployed artists' sahi answer hoga."
+            },
+            {
+              "id": 36,
+              "question": "Even though the twin puppies were born on the same day (a)/ they do not resemble to one another (b)/ as one has fluffy brown fur (c)/ while the other has black fur. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove 'to' after 'resemble'\nExplanation:- 'resemble ke baad 'to' nahi aayega kyunki resemble transitive verb hai jiske baad object aata hai, isliye 'resemble' ke baad 'to' preposition galat hogi."
+            },
+            {
+              "id": 37,
+              "question": "In about forty-five minutes the flight to Dubai will take off (a)/ and passengers are requested (b)/ to reach the boarding gate without any delay. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) No error"
+            },
+            {
+              "id": 38,
+              "question": "Across his early morning jog in the community park (a)/ Rahul often stops near the lake (b)/ to feed stray dogs and greet elderly walkers (c)/ who enjoy sharing stories from their youth. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'across' with 'during'\nExplanation:- 'across' generally 'ek point se dusre point tak jaane ke liye use hota hai', lekin sentence ka matlab hai 'early morning jog ke dauraan wo lake ke pass stray dogs ko feed karata hai', toh 'dauraan' waale meaning ke liye 'during' preposition sahi hogi, isliye across ki jagah 'during' aayega."
+            },
+            {
+              "id": 39,
+              "question": "The central health ministry has deployed additional (a)/ medical teams at flood-affected Bihar to monitor outbreaks of water-borne diseases (b)/ and ensure that relief camps receive proper sanitation facilities. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'at flood' with 'in flood'\nExplanation:- Sentence mein 'at' ki jagah 'in' aayega kyunki sentence ka matlab hai 'additional medical teams deploy kari gayi bihar mein', toh 'mein' waale matlab ke liye 'in' preposition sahi hogi. Jaise:- he lives in delhi, not at delhi"
+            },
+            {
+              "id": 40,
+              "question": "After a long drought, farmers hoped to be back at the valley (a)/ cultivating their fields again (b)/ as the government released water from the nearby dam (c)/ ensuring proper irrigation for the new harvest season. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'at the valley' with 'in/to the valley'\nExplanation:- Sentence ka matlab hai 'ek lambe sookhe ke baad farmer valley mein lautkar kheti karne ki umeed kar rahe the', toh 'mein' waale meaning ke liye 'in' preposition sahi hogi, general phrase hota hai 'back/return to the place, toh yahan 'in/to' dono preposition sahi hogi."
+            },
+            {
+              "id": 41,
+              "question": "While reviewing resumes, the HR manager (a)/ compared each candidate's previous work performance to the required skills (b)/ and selected only those who demonstrated consistent achievements (c)/ in their respective fields. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'performance to' with 'performance with'\nExplanation:- Agar compare' verb hoti hai toh iske sath 'with' preposition aati hai, lekin 'compare jab adjective hota hai tab iske sath 'to preposition aati hai, iss sentence mein 'manager subject hai aur 'compared' verb hai, isliye yahan 'with' preposition sabse sahi hoga."
+            },
+            {
+              "id": 42,
+              "question": "To attend my cousin's wedding in Jaipur (a)/ we decided to travel on bus (b)/ because flight tickets were very costly (c)/ and we needed to save some money. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'on bus' with 'by bus'\nExplanation:- Kisi means of transport se travel karne ke liye 'by preposition ka use karte hai, jaise 'by bus, by train, by aeroplane etc. lekin jab yeh batana ho 'kahan ho' toh 'on/in' preposition ka use karte hai jaise 'on a bus, on a train, in a car'."
+            },
+            {
+              "id": 43,
+              "question": "When the journalist exposed a major corruption case (a)/ involving several local leaders (b)/ a group of hired goons attacked on him outside his office (c)/ to silence him so he couldn't report further. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) remove 'on' after 'attacked'\nExplanation:- 'attacked' ke baad 'on' preposition nahi aayegi kyunki 'attack' ek transitive verb hai jiske baad object aata hai, isliye yahan 'attacked ke baad 'on' preposition nahi aayegi. Lekin 'attack' jab noun hota hai toh iske sath 'on' preposition ka use hota hai."
+            },
+            {
+              "id": 44,
+              "question": "She insisted on preparing for the competitive exam in home (a)/ rather than joining a coaching institute (b)/ because she believed she could discipline herself better (c)/ and save travel time as well. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'in home' with 'at home'\nExplanation:- Sentence ka matlab hai wo preparation karegi apne ghar pe , kyunki 'home' yahan noun hai aur 'ghar pe waale matlab ke liye 'home' se pehle 'at' preposition sahi hogi."
+            },
+            {
+              "id": 45,
+              "question": "Tight security measures were arranged for the upcoming visit to the (a)/ President of France as several international agreements are expected (b)/ to be signed during the bilateral discussions. (c)/No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'visit to' with 'visit of'\nExplanation: Sentence ka matlab hai 'france ke president ki visit ke liye tight security measures arrange kiye gaye hai', toh 'kaa, ki, kee waale meaning ke liye 'of preposition ka use hota hai, isliye 'visit of sahi answer hoga."
+            },
+            {
+              "id": 46,
+              "question": "Normally, it takes me around an hour (a)/ to reach the city hospital where I work (b)/ because the roads are packed with vehicles in week day. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'in week day' with 'on week days'\nExplanation:- Sentence mein 'in' ki jagah 'on' aayega kyunki 'week' ke sath day' likha ho toh 'on' preposition aati hai aur 'week day' countable noun hai, kyunki 'week' ke saare dino ki baat karni hai, isliye isse 'week days' plural mein likhenge, isliye 'on week days' sahi answer hoga."
+            },
+            {
+              "id": 47,
+              "question": "All vehicles entering the toll plaza (a)/ will be inspected along they pass through the security gate (b)/ in order to prevent illegal transportation (c)/ during the festival season. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'along' with 'before'\nExplanation:- Sentence mein 'along' ki jagah 'before' aayega kyunki 'along' preposition hoti hai jiska matlab 'sath-sath' hota hai, lekin sentence mein clause jodne ke liye conjunction ki jarurat hai, kyunki inspection security gate se pass hone se pehle hogi, isliye 'before' sabse sahi answer hoga."
+            },
+            {
+              "id": 48,
+              "question": "Whether it is cooking traditional dishes or experimenting with fusion cuisines, (a)/ my grandmother is completely with home in the kitchen (b)/ and never fails to impress us (c)/ with her creativity and flavours. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans. (b) replace 'with home' with 'at home'\nExplanation:- Sentence mein 'at home' aayega kyunki 'at home with something ek prepositional phrase hai jiska matlab 'kisi kaam mein comfortable hona', sentence ka matlab hai 'uski grandmother comfortable hai kitchen mein', isliye yahan 'at home' sabse sahi answer hoga."
+            },
+            {
+              "id": 49,
+              "question": "We must patiently await for the final judgement (a)/ in the court case (b)/ as both parties have presented strong evidence (c)/ and the decision could set a new legal precedent. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) remove 'for' after 'await'\nExplanation:- Sentence mein 'await' ke baad 'for' nahi aayega kyunki 'await' transitive verb hoti hai jiske baad object aate hai, isliye yahan 'await ke baad 'for' preposition galat hai. await = wait for'."
+            },
+            {
+              "id": 50,
+              "question": "We camped in the desert of Jaisalmer (a)/ enjoying the folk music, warm bonfire, and star-studded sky (b)/ in a chilly winter night (c)/ before returning to the fort the next morning. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'in a chilly' with 'on a chilly'\nExplanation:- Sentence mein 'in' ki jagah 'on' aayega kyunki 'night' ke sath 'at' preposition aati hai, lekin kisi specific night ki baat karni ho toh 'on' preposition aati hai, sentence mein specific 'chilly winter night ki baat ho rahi hai, isliye 'on a chilly winter night' sahi answer hoga."
+            },
+            {
+              "id": 51,
+              "question": "Even after continuous warnings issued by the central bank, a large number of investors are still not [beware of] the fraudulent schemes being circulated through social media platforms.",
+              "options": [
+                "(a) aware of",
+                "(b) aware at",
+                "(c) beware to",
+                "(d) beware for"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'beware = be aware hota hai, lekin sentence mein 'are' helping verb pehle hee aa chuki hai, isliye 'beware galat hota aur iski jagah aware aayega jiske sath 'of preposition aati hai, isliye option A 'aware of sabse sahi answer hoga."
+            },
+            {
+              "id": 52,
+              "question": "Every winter morning, the farmers in the remote village wake up before sunrise and continue ploughing their fields [after the fog becomes too dense] to work comfortably.",
+              "options": [
+                "(a) till the fog becomes too dense",
+                "(b) by the fog becomes too dense",
+                "(c) still the fog becomes too dense",
+                "(d) utmost the fog becomes too dense"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Sentence ka matlab dena hai 'tab tak kaam karte hai jab tak fog dense nahi ho jaata', toh 'tab tak waale meaning ke liye 'till' ka use karte hai, isliye option A 'till the fog becomes too dense sahi answer hoga."
+            },
+            {
+              "id": 53,
+              "question": "After the announcement of the civil services results, all his relatives visited his home to [congratulate him with] securing such a prestigious rank in the examination.",
+              "options": [
+                "(a) congratulate him at",
+                "(b) congratulate him on",
+                "(c) congratulate him along",
+                "(d) congratulate him to"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation: 'congratulate' ke sath 'on' preposition aati hai jiska structure 'congratulate somebody on something'. Isliye 'congratulate him on option B sahi hoga."
+            },
+            {
+              "id": 54,
+              "question": "The audience response to the newly released documentary went [out all our assumptions], as people appreciated the depth of research and praised the filmmaker's effort across social media platforms.",
+              "options": [
+                "(a) beyond all our assumptions",
+                "(b) under all our assumptions",
+                "(c) besides all our assumptions",
+                "(d) over all our assumptions"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Sentence ka matlab hai 'audience ka jo response tha new documentary ko lekar wo unki umeed se paar ho gaya', toh 'ke paar/ se jyada' waale meaning ke liye 'beyond' preposition ka use karte hai, isliye option A beyond all our assumptions sahi answer hoga."
+            },
+            {
+              "id": 55,
+              "question": "In order to improve your vocabulary effectively, you should read quality books and newspapers every day [instead rely only] on online videos.",
+              "options": [
+                "(a) instead of relying only",
+                "(b) instead at relying only",
+                "(c) instead rely only",
+                "(d) instead for rely only"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Sentence ka matlab hai 'online videos ki bajaaye quality books aur newspaper read karna chahiye', toh 'ki bajaaye' waale meaning ke liye 'instead of preposition ka use hota hai, aur preposition ke baad preposition ka object aate hai, isliye 'rely' verb ko 'relying' gerund(noun) mein change karna padega, isliye option A 'instead of relying only' sahi answer hoga."
+            },
+            {
+              "id": 56,
+              "question": "Ramesh has been [suffering with chronic back pain from] the day he had that major accident ten years ago, and the doctors have advised him to continue physiotherapy regularly.",
+              "options": [
+                "(a) suffering with chronic back pain from",
+                "(b) suffering from chronic back pain from when",
+                "(c) suffering from chronic back pain since",
+                "(d) No improvement required"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'suffer' ke sath 'from' preposition aati hai aur sentence mein present perfect continuous tense diya hai jiske sath 'since' aur 'for ka use hota hai, 'duration' ke liye 'for', 'point of time' ke liye 'since', sentence mein point of time ki baat hui hai, isliye 'since' aayega, isliye option C suffering from chronic back pain since sahi answer hoga."
+            },
+            {
+              "id": 57,
+              "question": "The government has recently focused [on promote] renewable energy sources to reduce dependence on fossil fuels and minimize environmental pollution.",
+              "options": [
+                "(a) on promoting",
+                "(b) on promotion",
+                "(c) to promoting",
+                "(d) no improvement"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'focus' ke sath 'on' preposition aati hai aur preposition ke baad object aate hai, isliye 'promote' verb ko promoting' gerund(noun) mein change karna padega, isliye option A 'on promoting sahi answer hoga."
+            },
+            {
+              "id": 58,
+              "question": "Since the farmland includes irrigation facilities, good soil quality and fencing protection, the farmer pays the landowner [five thousand rupees the month of that] agricultural plot.",
+              "options": [
+                "(a) five thousand rupees the month for those",
+                "(b) five thousand rupees a month for that",
+                "(c) five thousand rupees month of that",
+                "(d) five thousand rupees a month over this"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Sentence ka matlab 'farmer landowner ko har mahine 5 hazaar agriculture plot ke liye deta hai', toh 'har mahine' ke liye 'a month/per month' ka use karte hai aur 'ke liye' waale meaning ke liye 'for' preposition ka use karte hai, isliye option B 'five thousand rupees a month for that sahi answer hoga."
+            },
+            {
+              "id": 59,
+              "question": "After completing a hectic shift at the hospital and attending an urgent emergency call, Dr. Meera finally returned [from duty in] 7:30 p.m., looking completely exhausted yet satisfied with her work.",
+              "options": [
+                "(a) from duty on",
+                "(b) from duty at",
+                "(c) duty from at",
+                "(d) no improvement"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Sentence mein '7:30' time diya hai aur clock time ke sath 'at' preposition aati hai, aur 'return' ke sath 'from' preposition ka use hota hai, isliye option B 'returned from duty at sabse sahi answer hoga."
+            },
+            {
+              "id": 60,
+              "question": "For effective fermentation in yogurt production, the milk [is warm into] the required temperature and then mixed with a culture before being allowed to set for several hours.",
+              "options": [
+                "(a) is warmed into",
+                "(b) is warmed for",
+                "(c) is warmed to",
+                "(d) is warming at"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Sentence ka matlab hai 'milk ko ek required temperature tak garam kiya jata hai', toh kisi cheez ko certain limit tak lejane ke liye 'to' preposition ka use karte hai, isliye option C is warmed to' sabse sahi answer hoga."
+            },
+            {
+              "id": 61,
+              "question": "The student needed patience and consistent practice [beyond textbooks], because language learning demands real-life usage and exposure as well.",
+              "options": [
+                "(a) beyond textbooks",
+                "(b) besides textbooks",
+                "(c) beneath textbooks",
+                "(d) beside textbooks"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Sentence ka matlab hai 'students ko patience aur consistent practice chahiye textbooks ke alawa', toh 'ke alawa' waale matlab ke liye 'besides' preposition ka use hota hai, isliye option B 'besides textbooks' sabse sahi answer hoga. 'beside' ka matlab 'ke bagal mein'"
+            },
+            {
+              "id": 62,
+              "question": "At family gatherings, my aunt always tries to look superior and spends most of her time [ordering about the household helpers], even when there is no urgent work to be done.",
+              "options": [
+                "(a) ordering the household helpers at",
+                "(b) ordering about the household helpers",
+                "(c) ordering the household helpers about",
+                "(d) no substitution required"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'order somebody about' ek phrasal verb hoti hai jiska matlab 'kisi ko lagatar hukum dena jaise aapke pass unn par adhikaar ho', sentence ka matlab hai 'uski aunt superior banne ke chakkar mein helpers ko order deti rehti hai, isliye diye gaye options mein se option C ordering the household helpers about' sahi answer hoga."
+            },
+            {
+              "id": 63,
+              "question": "The education board has recently announced new homework guidelines to reduce academic pressure and ensure balanced learning hours [towards the senior secondary students].",
+              "options": [
+                "(a) towards the senior secondary students",
+                "(b) for the senior secondary students",
+                "(c) from the senior secondary students",
+                "(d) into the senior secondary students"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation: Sentence ka matlab hai homework guidelines announce kari hai senior sec. students ke liye', toh 'ke liye waale meaning ke liye 'for' preposition ka use hota hai, isliye option B 'for the senior secondary students sahi answer hoga."
+            },
+            {
+              "id": 64,
+              "question": "Your silver jewellery will look as good as new if you [rub by baking soda] and gently clean it under warm water, since baking soda naturally removes tarnish.",
+              "options": [
+                "(a) rub by baking soda",
+                "(b) rub it with baking soda",
+                "(c) rubbed it by baking soda",
+                "(d) rubbing it by baking soda"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Sentence ka matlab hai 'silver jewellery acchi dikhne lagegi jab tum isse rub karo baking soda se', toh 'rub' verb ke sath 'with' preposition aati hai jiska structure 'rub something with something', isliye option B rub it with baking soda' sabse sahi answer hoga."
+            },
+            {
+              "id": 65,
+              "question": "[Among] all the delicious dishes prepared at the family gathering, Arjun loved the homemade biryani the most, as it had a rich aroma and perfectly balanced spices.",
+              "options": [
+                "(a) Between",
+                "(b) Except",
+                "(c) Amongst",
+                "(d) Over"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Agar sentence mein aage vowel sound ka word hai toh 'amongst aata hai aur consonant sound ke sath 'among' aata hai, 'all' vowel word hai, isliye yahan 'amongst option C sahi answer hoga."
+            },
+            {
+              "id": 66,
+              "question": "After the scandal came to light, the company's senior management ensured that every transaction made by the finance team was [kept at] continuous scrutiny to prevent any further misuse of funds.",
+              "options": [
+                "(a) kept by",
+                "(b) kept under",
+                "(c) kept with",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Jab kisi ko kisi ke daayre mein rakha jaata hai toh 'under' preposition ka use karte hai, isliye option B 'kept under' sabse sahi answer hoga.\nEg:- under CCTV surveillance, under scrutiny'"
+            },
+            {
+              "id": 67,
+              "question": "Parents repeatedly warned their children [in] playing dangerous online games that encourage harmful behaviour and addiction.",
+              "options": [
+                "(a) to",
+                "(b) with",
+                "(c) against",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Kisi cheez ke khilaaf 'warn' karne ke liye against preposition ka use hota, aur kisi khatre wagera ke baare mein bataane ke liye 'of/about' preposition ka use hota hai, sentence mein 'parents dangerous online games ke khilaf keh rahe hai', isliye yahan option C 'against' sahi answer hoga."
+            },
+            {
+              "id": 68,
+              "question": "The judge stated that if the accused continued to threaten the witnesses, the court would have no hesitation in [convicting him by] tampering with crucial evidence.",
+              "options": [
+                "(a) convicting him at",
+                "(b) convicting him by",
+                "(c) convicting him of",
+                "(d) No substitution"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation: 'convict/ accuse verb ke sath of preposition aati hai jiska structure 'convict/accuse somebody of something', isliye option C convicting him of sabse sahi answer hoga."
+            },
+            {
+              "id": 69,
+              "question": "To hang the festival lights, the workers rested a long metal ladder [on the wall] and climbed up carefully to decorate the top portion of the entrance gate.",
+              "options": [
+                "(a) on the wall",
+                "(b) against the wall",
+                "(c) over the wall",
+                "(d) No substitution"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Jab bhi 'ladder(sidi) ko wall ke sahare lagaya jaata hai toh 'against' preposition ka use karte hai, isliye 'against the wall' option B sahi answer hoga."
+            },
+            {
+              "id": 70,
+              "question": "As soon as the alarm was raised, the children panicked and suddenly ran [in the classroom], seeking safety from the chaos happening in the corridor.",
+              "options": [
+                "(a) in the classroom",
+                "(b) into the classroom",
+                "(c) on the classroom",
+                "(d) to the classroom"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Jab aap kisi cheez ke andar ho toh 'in' preposition sahi hoti hai, lekin jab motion dikhana ho toh 'into' ka use karte hai jaise 'jump into the pool, ran into the class', toh sentence ke according 'into the classroom' option B sahi answer hoga."
+            }
+          ]
         }
       ]
     }
