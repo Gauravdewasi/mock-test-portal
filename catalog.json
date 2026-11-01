@@ -28300,6 +28300,372 @@
               "solutionHinglish": "Ans (b) remove 'kindly'\nExplanation:- 'request' and 'kindly' sath mein superfluous maane jaate hain. 'I request you to help me...', 'Kindly help me in....' Inme se ek structure ka use sahi hota hai. Yahan sentence parts mein divided hai isliye b part mein se 'kindly' ko remove karna hi option hai."
             }
           ]
+        },
+        {
+          "id": "t_1793560083188",
+          "name": "SUPERFLUOUS + MISCELLANEOUS LEVEL-02",
+          "questions": [
+            {
+              "id": 1,
+              "question": "While finalising the (a)/ lengthy rental agreement, the landlord (b)/ requested the tenant to put her sign (c)/ on each page of the contract. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'sign' with 'signature'\nExplanation:- 'sign' ki jagah 'signature' hoga kyunki 'sign' verb hoti hai aur 'signature noun hota hai, sentence mein 'her' adjective hai jiske baad noun ki jarurat hai, isliye 'signature' noun sahi answer hoga."
+            },
+            {
+              "id": 2,
+              "question": "His elder sister has been (a)/ working in foreign for more than (b)/ five years, although she frequently visits home (c)/ to spend time with her parents. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'in foreign' with 'abroad'\nExplanation: Sentence mein 'in foreign' ki jagah 'abroad' aayega kyunki 'in' preposition ke baad object ki jarurat hai, lekin 'foreign' adjective hota hai, isliye 'in foreign ko hatake 'abroad' adverb of place se bhi wahi meaning aayega, isliye 'abroad' sahi answer hoga."
+            },
+            {
+              "id": 3,
+              "question": "While conducting a practice session, (a)/ the English teacher advised the students to revise the grammar rules (b)/ thoroughly before attempting the practice questions. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'the English teacher' with 'the teacher of English'\nExplanation:- 'the English teacher ka matlab hoga 'angrej teacher', lekin sentence mein matlab chaiye 'english padhane wala teacher jiske liye 'the teacher of english sahi term hoga. Ex:- 'the german teacher' ka matlab 'aisa teacher jo Germany se belong karta ho'"
+            },
+            {
+              "id": 4,
+              "question": "Unless she doesn't submit (a)/ all the required documents her application (b)/ for the scholarship will not be processed. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'doesn't submit' with 'submits'\nExplanation:- 'unless ka matlab hota hai 'agar nahi jisme 'not' pehle se hee hota hai, isliye 'doesn't' yahan superfluous hoga, isliye 'she ke according 'submits' singular verb sahi hogi."
+            },
+            {
+              "id": 5,
+              "question": "He warned them that the boy (a)/ they were making fun of was his cousin brother (b)/ and that such behaviour would not be tolerated by him. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove 'brother' after 'cousin'\nExplanation:- 'cousin' ke sath brother yaa sister ka use nahi hota kyunki 'cousin' pehle se hee noun hai, isliye 'cousin' ke sath 'brother yaa sister superfluous hota hai, isliye yahan 'brother' nahi aayega, sentence mein 'boy' se pata chal gaya hai."
+            },
+            {
+              "id": 6,
+              "question": "You need not worry (a)/ because the finance department (b)/ has assured that it will reimburse back all the travel expenses. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) remove 'back' after 'reimburse'\nExplanation:- 'reimburse ka matlab hee hota hai 'give back, waapas lautana', isliye iske sath 'back' superfluous hota hai, isliye yahan 'back' nahi aayega."
+            },
+            {
+              "id": 7,
+              "question": "These programmes which play a crucial (a)/ role in enhancing employment opportunities (b)/ in several underdeveloped regions. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) remove 'which'\nExplanation:- Sentence mein 'which' nahi aayega kyunki 'which' se adjectival clause bana hai jiski verb 'play' hai, lekin 'programs' subject ko verb nahi mili poore sentence mein, isliye yahan 'which' relative pronoun ho hata denge, jisse 'play' verb 'programs' subject ke liye verb ban jaayegi."
+            },
+            {
+              "id": 8,
+              "question": "A student who has worked consistently (a)/ throughout the year he will surely perform well (b)/ in the final examinations that the university conducts annually. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove 'he' after 'year'\nExplanation:- Sentence mein 'he' pronoun nahi aayega kyunki 'who....se lekar... the year' tak clause bana hai, aur 'student subject ki verb 'will' banegi, isliye yahan 'he' pronoun ko hatana padega, jisse 'will' verb 'student' subject ko mil paaye."
+            },
+            {
+              "id": 9,
+              "question": "The villagers decided to rebuild (a)/ the old community hall again after (b)/ it got damaged in the heavy storm. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove 'again' after 'hall'\nExplanation: Sentence mein 'again' nahi aayega kyunki 'rebuild' ka matlab hee hota hai dubara banana', isliye 'again' adverb superfluous hoga."
+            },
+            {
+              "id": 10,
+              "question": "The athlete was very (a)/ strong enough to complete the entire marathon (b)/ despite the harsh weather conditions. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) remove 'very'\nExplanation:- Sentence mein 'very' aur 'enough' sath mein nahi aapayenge kyunki yaa toh 'very strong' hota yaa 'strong enough', lekin aage infinitive likhna hai aur infinitive ke sath 'enough' sahi hota hai, isliye yahan 'very' ko hatana padega."
+            },
+            {
+              "id": 11,
+              "question": "The students are angry because (a)/ the passing marks have been increased to fifty percent (b)/ by the institution just before the final examinations (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'passing marks' with 'pass marks'\nExplanation:- 'passing marks' ka matlab hota hai 'pass hote hue marks', lekin hume yeh kehna hai ki pass hone ke liye marks' isliye yahan 'pass marks' sahi term hoti hai, isliye 'pass marks sahi hoga."
+            },
+            {
+              "id": 12,
+              "question": "They worked in (a)/ this remote village for a brief period of time (b)/ before shifting to the nearby town (c)/ to start their new business venture. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove 'of time' before 'period'\nExplanation:- Sentence mein 'of time' nahi aayega kyunki 'period' ka matlab hee 'time' hota hai, isliye yahan 'a brief period' ke sath 'of time' nahi aayega."
+            },
+            {
+              "id": 13,
+              "question": "The coach forbade (a)/ the players not to (b)/ consume junk food during the training period (c)/ as it could negatively affect their performance. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove 'not'\nExplanation:- 'forbade' verb mein 'not pehle se hee understood hai aur iska matlab 'kisi ko kuch kaam karne se rokna/mana karna', isliye iske sath 'not' nahi aayega."
+            },
+            {
+              "id": 14,
+              "question": "At the end of the semester (a)/ the professor will leave the institute (b)/ for his hometown with bag and baggage. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) remove 'with'\nExplanation:- Sentence mein bag and baggage ek adverb ki tarah se kaam karne wala structure hai, aur isse pehle preposition nahi aati, isliye yahan 'with' preposition nahi aayegi."
+            },
+            {
+              "id": 15,
+              "question": "The final report (a)/ should not exceed more than fifty pages (b)/ as the committee has instructed all researchers (c)/ to keep the documentation concise and precise. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove 'more than'\nExplanation:- Sentence mein 'more than' nahi aayega kyunki 'exceed' ka matlab hee hota hai 'kisi cheez se jyada , isliye iske sath more than superfluous ho jaayega, isliye yahan 'more than' nahi aayega."
+            },
+            {
+              "id": 16,
+              "question": "Rohit mentioned that (a)/ his company had recently signed a mutual agreement (b)/ with a logistics firm of Mumbai (c)/ to streamline deliveries across Maharashtra. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove 'mutual'\nExplanation:- Jab bhi koi agreement sign hote hai wo mutually he sign hota hai, isliye 'agreement' ke sath 'mutual' superfluous hoga. aur 'mutual' ko hatane se 'agreement' ke according 'an' article bhi aayega."
+            },
+            {
+              "id": 17,
+              "question": "Anjali doesn't hardly remember anything (a)/ about the chain-snatching incident (b)/ that took place when she was ten years old. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) remove either 'hardly' or 'doesn't'\nExplanation:- 'hardly' ka matlab he hota hai 'naa ke barabar isme pehle se hee not understood hota hai, isliye 'hardly' yaa 'doesn't' mein se koi ek word aayega."
+            },
+            {
+              "id": 18,
+              "question": "The reason why many youngsters (a)/ fall for online investment scams (b)/ is because they blindly trust influencers (c)/ who promise unrealistic returns in a few days. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'because' with 'that'\nExplanation:- Sentence mein 'because ki jagah 'that' aayega kyunki 'reason' ka matlab he hota hai 'kaaran' aur 'because' ka bhi 'kaaran' matlab hota hai, isliye yahan 'because' ki jagah 'that' aayega kyunki yahan 'kii' wala meaning chaiye, general structure 'the reason is that hota hai. isliye yahan 'because ki jagah 'that' sahi hoga."
+            },
+            {
+              "id": 19,
+              "question": "He reiterated his point again (a)/ during the discussion hoping that the committee (b)/ would finally pay attention to his proposal. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) remove 'again'\nExplanation:- reiterated ka matlab hee hota hai 'say again, dohraana', isliye iske sath 'again' superfluous hoga, isliye 'again' nahi aayega."
+            },
+            {
+              "id": 20,
+              "question": "While travelling to Pune for an official meeting, (a)/ I came across by chance (b)/ an old schoolmate, Rohan, at the railway food stall. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove 'by chance'\nExplanation:- 'came across ka matlab hee hota hai 'kisi se achanak milna', isliye iske sath 'by chance(achanak)' superfluous hoga."
+            },
+            {
+              "id": 21,
+              "question": "Meera asked her brother (a)/ that why he had not attended (b)/ their cousin's engagement ceremony. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove 'that'\nExplanation:- Sentence indirect speech mein likha hai, toh 'asked' verb ke saath 'how, why, where, when' yehi conjunction ka kaam karte hai, aur iss sentence mein do clause ko jodne ke liye ek hee conjunction ki jarurat hai, isliye yahan 'that' conjunction nahi aayegi."
+            },
+            {
+              "id": 22,
+              "question": "Kavya doesn't have sufficient enough savings (a)/ to manage her rent and groceries in Bengaluru (b)/ if she gets fired from her job. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) remove either 'sufficient' or 'enough'\nExplanation:- 'sufficient' ka matlab hee 'enough' hota hai, isliye inn dono mein se koi ek ka use hoga."
+            },
+            {
+              "id": 23,
+              "question": "Muskan asked her brother (a)/ supposing if their train to Kolkata got cancelled due to heavy rains (b)/ what alternative route they could take (c)/ to reach there on time for the ceremony. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove either 'supposing' or 'if'\nExplanation:- 'supposing' aur 'if dono ek sath nahi aate, kyunki inn dono ka matlab same hota hai, isliye dono mein se ek hi lagayenge."
+            },
+            {
+              "id": 24,
+              "question": "Not until the results were announced (a)/ did she understand how well she (b)/ had performed in the examination. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) No error\nExplanation:- 'Until' as a conjunction aajaye toh verb ke sath 'not' nahi aata, lekin 'until' ko qualify karne ke liye 'not' aa sakta hai, 'not until structure use hota hai."
+            },
+            {
+              "id": 25,
+              "question": "The investigation revealed the true fact (a)/ that the fire in the Surat textile market (b)/ broke out owing to faulty wiring (c)/ and negligence of shop owners. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) remove 'true'\nExplanation:- 'fact' humesha bolte usi ko hai jo true ho, isliye 'fact' ke sath 'true' superfluous hai."
+            },
+            {
+              "id": 26,
+              "question": "While travelling to Lucknow (a)/ Priya got stuck for hours (b)/ as it suddenly started raining like cats and dogs (c)/ near the Barabanki highway toll plaza. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) remove 'like'\nExplanation:- 'raining cats and dogs ka matlab hai 'raining heavily' matlab 'moosladhaar baarish', jisme 'cats and dogs' ka matlab 'heavily hai matlab yeh adverb hai aur adverb se pehle 'like' preposition galat hogi."
+            },
+            {
+              "id": 27,
+              "question": "Radhika had prepared extensively for (a)/ her CGL mains but because she fell sick (b)/ on the morning of the (c)/ exam, she couldn't give the test. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) replace 'give' with 'take'\nExplanation: Sentence ka matlab 'wo test nahi de paayi', toh grammar mein iske liye sahi word 'take' hai, isliye yahan 'she couldn't take the test sahi answer hoga."
+            },
+            {
+              "id": 28,
+              "question": "The HR representative informed the (a)/ applicants that the team would revert back (b)/ to each of them individually (c)/ after thoroughly examining all the submitted documents. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove 'back'\nExplanation:- 'revert' ka matlab hee hota hai 'answer back', isliye iske saath 'back' superfluous hoga."
+            },
+            {
+              "id": 29,
+              "question": "While driving late at night on the (a)/ Ahmedabad-Vadodara Expressway he slowed (b)/ down his bike when he (c)/ approached near the police barricade. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) remove 'near'\nExplanation:- 'approached' ek transitive verb hai jiske baad object aayega, isliye 'approached' ke baad 'near' preposition galat hogi."
+            },
+            {
+              "id": 30,
+              "question": "Before leaving for his night shift (a)/ Raghav requested his neighbour to kindly (b)/ look after his elderly father who(c)/ had been feeling unwell since the previous evening. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove 'kindly'\nExplanation:- 'requested' ke sath 'kindly ka use nahi hota kyunki dono ka meaning same hota hai, agar 'requested' pehle likha hai toh 'kindly' hatana padega."
+            }
+          ]
         }
       ]
     }
