@@ -32235,6 +32235,492 @@
               "solutionHinglish": "Ans (d) Correct answer is 'Compound-Complex'\nExplanation:- Sentence mein teen clause hai jo ek coordinate conjunction 'and' aur ek subordinate conjunction 'if' se jude hai, isliye yeh 'compound-complex' sentence hoga."
             }
           ]
+        },
+        {
+          "id": "t_1793561588990",
+          "name": "FILL IN THE BLANKS SET-01",
+          "questions": [
+            {
+              "id": 1,
+              "question": "The ancient manuscript was so fragile that the historian handled it with _______ care.",
+              "options": [
+                "(a) utmost",
+                "(b) most",
+                "(c) almost",
+                "(d) mostly"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans: (a) utmost\nExplanation: 'Utmost' ka matlab hota hai atyadhik ya sabse zyada. Sentence me bataya gaya hai ki manuscript bahut fragile (bahut nazuk) thi, isliye historian ne use bahut hi zyada saavdhani se handle kiya. Isliye option (a) 'utmost' correct hoga."
+            },
+            {
+              "id": 2,
+              "question": "The abstruse philosophical treatise delved _______ the very essence of existentialism.",
+              "options": [
+                "(a) into",
+                "(b) onto",
+                "(c) beside",
+                "(d) above"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans: (a) into\nExplanation: \"delve into\" ek fixed preposition hai jiska matlab hota hai gehraai se kisi cheez ko explore karna / investigate karna. Sentence me bataya gaya hai ki \"abstruse philosophical treatise\" (yaani ek mushkil philosophical kitab) existentialism ke core ya essence ko deeply explore kar rahi thi. Isliye option (a) 'into' correct hoga."
+            },
+            {
+              "id": 3,
+              "question": "Despite initial optimism, the second attempt at the experiment was _______ successful than the first.",
+              "options": [
+                "(a) little",
+                "(b) less",
+                "(c) least",
+                "(d) much"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) less\nExplanation: 'Less' actually 'little' ka comparative form hota hai, aur yahan iska use second attempt ki success ko first attempt se compare karne ke liye kiya gaya hai. Sentence clearly dikhata hai ki second attempt me success ka level pehle se kam tha (reduced level). Isliye option (b) 'less' correct hoga."
+            },
+            {
+              "id": 4,
+              "question": "You can either submit your research paper today _______ by the end of the week.",
+              "options": [
+                "(a) so",
+                "(b) but",
+                "(c) or",
+                "(d) not"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans: (c) or\nExplanation: 'Either...or' ek fixed conjunction pair hota hai. Isliye option (c) 'or' correct hoga."
+            },
+            {
+              "id": 5,
+              "question": "The venerable professor, _______ lectures always captivated his students, announced his retirement.",
+              "options": [
+                "(a) what",
+                "(b) whom",
+                "(c) whose",
+                "(d) that"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans: (c) whose\nExplanation: 'Whose' ek relative adjective hai jo kisi person ya cheez ke liye possession (yaani \"kiska\") dikhata hai. Is sentence me \"lectures\" professor ke hain (professor ke lectures). Isliye option (c) 'whose' correct hoga."
+            },
+            {
+              "id": 6,
+              "question": "The incessant debate began to _______ the enthusiasm of even the most dedicated participants.",
+              "options": [
+                "(a) bolster",
+                "(b) invigorate",
+                "(c) enervate",
+                "(d) dislodge"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans: (c) enervate\nExplanation: 'Enervate' ka matlab hota hai kisi ki energy ya strength ko kam kar dena, ya use weak/thaka hua feel karana. Sentence me bataya gaya hai ki lagataar chal rahi debate ne even sabse dedicated participants ka enthusiasm bhi dheere-dheere kam kar diya. Isliye option (c) 'enervate' correct hoga. Baaki options ka meaning: bolster → support dena / strong banana | invigorate → energy dena / fresh aur active feel karana | dislodge → jagah se hata dena / hila dena"
+            },
+            {
+              "id": 7,
+              "question": "So intricate _______ the machinery that even experts took hours to assemble it.",
+              "options": [
+                "(a) is",
+                "(b) was",
+                "(c) are",
+                "(d) were"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) was\nExplanation: Yeh sentence inversion (emphasis ke liye) ka example hai, jahan verb subject se pehle aati hai. Subject \"machinery\" ek singular (uncountable noun) hai, isliye iske saath singular verb 'was' use hoga."
+            },
+            {
+              "id": 8,
+              "question": "His explanation was _______ than confusing; it was a tangled mess of ideas.",
+              "options": [
+                "(a) less",
+                "(b) more",
+                "(c) other",
+                "(d) rather"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) more\nExplanation: Yahaan word 'more' ka use emphasis dene ke liye hua hai ki explanation sirf confusing hi nahi, balki usse bhi zyada messy, aur unclear thi. Matlab ideas itne uljhe hue the ki properly samajh nahi aa rahe the. Isliye option (b) 'more' correct hoga."
+            },
+            {
+              "id": 9,
+              "question": "The leader's speech, meant to inspire unity, instead managed to _______ further division among the already fractured factions.",
+              "options": [
+                "(a) assuage",
+                "(b) foment",
+                "(c) mitigate",
+                "(d) appease"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) foment\nExplanation: \"foment\" ka matlab hota hai bhadkana ya badhava dena, especially negative cheezon ko (jaise conflict ya division). Sentence me leader ka speech unity (ekta) lane ke liye tha, lekin usne ulta aur zyada division create kar diya. Isliye option (b) 'foment' correct hoga. Baaki options ka meaning: assuage → kam karna | mitigate → reduce karna | appease → shaant karna / satisfy karna"
+            },
+            {
+              "id": 10,
+              "question": "Hardly ever _______ the opportunity to witness such a rare celestial event.",
+              "options": [
+                "(a) we have",
+                "(b) do we have",
+                "(c) we had",
+                "(d) did have we"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) do we have\nExplanation: \"Hardly ever\" ek negative adverbial phrase hai. Jab sentence ki shuruaat aise negative words se hoti hai (jaise hardly, rarely, scarcely, seldom, never), tab inversion lagta hai, yani auxiliary verb subject se pehle aata hai. Isliye option (b) 'do we have' correct hoga."
+            },
+            {
+              "id": 11,
+              "question": "The detective's unwavering commitment to justice often led him to pursue cases with unbridled _______.",
+              "options": [
+                "(a) zealot",
+                "(b) zealous",
+                "(c) zealotry",
+                "(d) zealand"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans: (c) zealotry\nExplanation: 'Zealotry' ka matlab hota hai bahut zyada bhakti ya extreme devotion/junoon. Is sentence me yeh bataya gaya hai ki justice ke liye detective ki unwavering commitment usse aksar cases ko unbridled zealotry (bina control ke junoon) ke saath pursue karne ke liye motivate karti thi. Isliye option (c) 'zealotry' correct hoga. Baaki options ka meaning: zealot → andhi bhakti wala aadmi / over-extreme supporter | zealous → bahut hi enthusiastic / josh se bhara hua | zealand → ek place ka naam hai"
+            },
+            {
+              "id": 12,
+              "question": "The constant dripping of water began to _______ the stone, eroding it slowly over centuries.",
+              "options": [
+                "(a) strengthen",
+                "(b) solidify",
+                "(c) abrade",
+                "(d) dilute"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans: (c) abrade\nExplanation: \"Abrade\" ka matlab hota hai ghisna ya friction (gharsan) ke through surface ko dheere-dheere rub karke khatam karna. Sentence ka matlab hai ki pani ke lagataar tapakne (dripping) se patthar ghisne laga aur sadiyon tak dheere-dheere uska erosion hota raha. Isliye option (c) 'abrade' correct hoga. Baaki options ka meaning: strengthen → majboot banana | solidify → jamna/sakht banana | dilute → patla karna (liquid ke liye use hota hai, stone ke liye nahi)."
+            },
+            {
+              "id": 13,
+              "question": "Although the expedition was fraught with peril, they encountered _______ challenges than anticipated.",
+              "options": [
+                "(a) fewer",
+                "(b) less",
+                "(c) much",
+                "(d) many"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans: (a) fewer\nExplanation: 'Fewer' ek comparative degree hai jiska use plural countable nouns ke saath kiya jata hai. Yahan sentence me 'challenges' ek plural countable noun hai (kyunki ise count kiya ja sakta hai). Isliye option (a) 'fewer' correct hoga. Baaki options ka meaning: \"Less\" uncountable nouns ke liye use hota hai. \"Much\" bhi uncountable ke liye use hota hai. \"Many\" countable ke liye use hota hai, lekin sentence me comparison hai (\"than anticipated\"), isliye comparative form 'fewer' use hoga."
+            },
+            {
+              "id": 14,
+              "question": "The new software promised to streamline operations; _______, initial implementation proved unexpectedly complex.",
+              "options": [
+                "(a) therefore",
+                "(b) moreover",
+                "(c) however",
+                "(d) consequently"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans: (c) however\nExplanation: 'However' ek adverb hai jiska use kisi aise statement ko introduce karne ke liye hota hai jo pehle kahi gayi baat ke vipreet ya contradictory (opposite) ho. Is sentence me pehle bataya gaya hai ki software operations ko streamline (easy aur smooth) karega, lekin baad me likha hai ki uska initial implementation unexpectedly complex nikla. Yani dono parts ke beech clear contrast hai - expectation kuch aur thi, reality kuch aur nikli. Isliye option (c) 'however' correct hoga. Baaki options ka meaning: therefore → result dikhata hai (isliye) | moreover → extra/additional point add karta hai | consequently → result dikhata hai (natija)"
+            },
+            {
+              "id": 15,
+              "question": "If not for the early warning system, the city would have _______ significant damage from the tsunami.",
+              "options": [
+                "(a) sustained",
+                "(b) avoided",
+                "(c) prevented",
+                "(d) circumvented"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans: (a) sustained\nExplanation: 'Sustained' ka matlab hota hai kisi damage, injury ya loss ko jhelna / suffer karna. Sentence ka matlab hai ki agar early warning system nahi hota, toh city ko tsunami se kaafi nuksaan hota. Isliye option (a) 'sustained' correct hoga. Baaki options ka meaning: Avoided → bach jana/taal dena | Prevented → rok dena | Circumvented → chal se bach nikalna / bypass karna"
+            },
+            {
+              "id": 16,
+              "question": "The constant criticism from his peers _______ him to rethink his approach.",
+              "options": [
+                "(a) motivate",
+                "(b) have motivated",
+                "(c) were motivating",
+                "(d) motivates"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans: (d) motivates\nExplanation: Is sentence me \"the constant criticism\" ek singular subject hai, isliye iske saath singular verb 'motivates' ka use hoga."
+            },
+            {
+              "id": 17,
+              "question": "The diplomat was adept _______ negotiating complex international treaties.",
+              "options": [
+                "(a) at",
+                "(b) in",
+                "(c) of",
+                "(d) to"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans: (a) at\nExplanation: \"adept at\" ek fixed preposition hai, jiska matlab hota hai kisi kaam me bahut skilled ya expert hona. Sentence me \"negotiating complex international treaties\" ek skill ko show karta hai, isliye option (a) 'at' correct hoga."
+            },
+            {
+              "id": 18,
+              "question": "Fill in the blank with the most appropriate verb to make the sentence grammatically and contextually correct.\nBy the time the rescue team _______ at the site, most of the villagers had already been evacuated to safer ground.",
+              "options": [
+                "(a) will arrive",
+                "(b) had arrived",
+                "(c) arrives",
+                "(d) arrived"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans: (d) arrived\nExplanation: Jab past me do actions hote hain, to jo pehla action hota hai usko Past Perfect (had + V3) me likhte hain, aur jo dusra action hota hai usko Simple Past (V2) me likhte hain. Is sentence me 'evacuation' (villagers ka safe jagah par le jana) pehla action hai, jabki 'arrival' (rescue team ka aana) dusra action hai. Isliye option (d) 'arrived' correct hoga."
+            },
+            {
+              "id": 19,
+              "question": "The committee reviewed all the proposals, none of _______ met the required criteria.",
+              "options": [
+                "(a) who",
+                "(b) which",
+                "(c) them",
+                "(d) those"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) which\nExplanation: \"Which\" ek relative pronoun hai jiska use non-restrictive clause ko introduce karne ke liye hota hai. Ye things ya animals ko refer karta hai. Is sentence me \"which\", \"proposals\" ko refer kar raha hai. Isliye option (b) 'which' correct hoga."
+            },
+            {
+              "id": 20,
+              "question": "Hardly _______ the team completed the report when the boss called them for a presentation.",
+              "options": [
+                "(a) did",
+                "(b) have",
+                "(c) had",
+                "(d) was"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans: (c) had\nExplanation: Agar koi sentence negative word se start hota hai jaise hardly / barely / scarcely / rarely / no sooner / not only / never / little, to usme inversion lagta hai. 'Correct structure: Negative word + Helping verb + Subject + Main verb'. Yeh sentence do past actions ko dikhata hai jisme ek action dusre se pehle complete hota hai. Isliye yahan Past Perfect (had + V3) use hoga. Isliye option (c) 'had' correct hoga."
+            },
+            {
+              "id": 21,
+              "question": "The scientist's conclusions were entirely _______ to the data presented in the report.",
+              "options": [
+                "(a) contradictory",
+                "(b) conducive",
+                "(c) conforming",
+                "(d) correspondent"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans: (a) Contradictory\nExplanation: \"Contradictory\" ka matlab hota hai kisi cheez ke opposite ya uske against hona. Sentence me bataya gaya hai ki scientist ke conclusions report ke data se match nahi kar rahe the, balki uske against ja rahe the. Isliye option (a) 'contradictory' correct hoga. Baaki options ka meaning: conducive → helpful / favourable | conforming → follow karna / rules ya standards ke according hona | correspondent → related / aligned"
+            },
+            {
+              "id": 22,
+              "question": "No sooner had the curtain fallen _______ the audience erupted into applause.",
+              "options": [
+                "(a) when",
+                "(b) before",
+                "(c) than",
+                "(d) after"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans: (c) than\nExplanation: \"No sooner...than\" ek fixed pair (correlative conjunction) hota hai. Isliye option (c) 'than' correct hoga."
+            },
+            {
+              "id": 23,
+              "question": "_______ having been warned about the risks, she proceeded with the experimental procedure.",
+              "options": [
+                "(a) In spite of",
+                "(b) Due to",
+                "(c) As",
+                "(d) Since"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans: (a) In spite of\nExplanation: \"In spite of\" ek prepositional phrase hai jiska meaning hota hai 'despite' / 'regardless of'. Yeh tab use hota hai jab do situations ke beech contrast ho. Is sentence me warning milne ke baad bhi aage badhna ek opposite situation dikhata hai. Isliye option (a) 'In spite of' correct hoga. Baaki options ka meaning: Due to → reason batata hai (because of). As / Since → yeh conjunctions hain, inke baad subject + verb aata hai."
+            },
+            {
+              "id": 24,
+              "question": "The committee recommended that the new policy _______ implemented immediately.",
+              "options": [
+                "(a) is",
+                "(b) was",
+                "(c) be",
+                "(d) will be"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans: (c) be\nExplanation: Sentence me \"recommended that\" use hua hai. Jab bhi aise verbs aate hain jaise recommend, suggest, demand, insist, tab hum subjunctive mood use karte hain. Subjunctive mood me verb ka base form (V1) use hota hai - chahe subject singular ho ya plural. Isliye option (c) 'be' correct hoga."
+            },
+            {
+              "id": 25,
+              "question": "The new manager promised to _______ the old and inefficient procedures.",
+              "options": [
+                "(a) do up",
+                "(b) do without",
+                "(c) do for",
+                "(d) do away with"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans: (d) do away with\nExplanation: Phrasal verb 'do away with' ka matlab hota hai kisi cheez se chhutkaara paana / usse hata dena. Sentence me kaha gaya hai ki new manager ne purani, inefficient procedures se chhutkaara paane aur unhe zyada modern methods se replace karne ka promise kiya. Isliye option (d) 'do away with' correct hoga. Baaki options ka meaning: do up → renovate ya decorate karna | do without → kisi cheez ke bina kaam chalana | do for → destroy kar dena / nuksaan pahunchana"
+            },
+            {
+              "id": 26,
+              "question": "The party leader appealed to the electorate to consider the long-term implications _______ the proposed reforms.",
+              "options": [
+                "(a) for",
+                "(b) of",
+                "(c) against",
+                "(d) about"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) of\nExplanation: 'Of' ka matlab hota hai kisi cheez se sambandhit (related to). Iss sentence me proposed reforms se sambandhit implications ki baat ki gayi hai. Isliye option (b) 'of' correct hoga."
+            },
+            {
+              "id": 27,
+              "question": "The new policy proved to be entirely _______ to the needs of the working class, exacerbating existing inequalities.",
+              "options": [
+                "(a) harm",
+                "(b) hazard",
+                "(c) detrimental",
+                "(d) detriment"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans: (c) detrimental\nExplanation: 'Entirely' ek adverb hai jo uske baad aane wale adjective ko qualify karta hai. 'Detrimental' ek adjective hai aur iske saath preposition 'to' ka use hota hai. Isliye option (c) 'detrimental' correct hoga. Baaki options ka meaning: harm → nuksaan, damage | hazard → khatra, risk ya danger | detrimental → nuksaan pahunchane wala, harmful | detriment → haani, nuksaan"
+            },
+            {
+              "id": 28,
+              "question": "Not until the results were officially announced _______ the students celebrate.",
+              "options": [
+                "(a) they did",
+                "(b) did they",
+                "(c) had they",
+                "(d) were they"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) did they\nExplanation: \"Not until...\" ek negative expression hai aur jab sentence negative expression se start hota hai, tab inversion lagta hai (yaani auxiliary verb 'did' subject 'they' se pehle aayega). Isliye option (b) 'did they' correct hoga."
+            },
+            {
+              "id": 29,
+              "question": "The scientist, _______ discovery changed the course of modern medicine, was awarded the Nobel Prize.",
+              "options": [
+                "(a) who",
+                "(b) whom",
+                "(c) whose",
+                "(d) which"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans: (c) whose\nExplanation: \"Whose\" ek possessive pronoun hai, jo scientist ki discovery (khoj) ko dikhata hai. Yahan possession (kiski discovery?) batani hai, isliye 'whose' ka use hoga."
+            },
+            {
+              "id": 30,
+              "question": "The committee reached a _______ decision after hours of intense discussion.",
+              "options": [
+                "(a) well-thought",
+                "(b) well-thought of",
+                "(c) well-thought-out",
+                "(d) thought-well"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans: (c) well-thought-out\nExplanation: Sentence me hume ek aisa adjective chahiye jo \"decision\" ko describe kare. \"well-thought-out\" ka matlab hota hai achhi tarah se soch-samajh kar liya gaya (carefully planned or considered) decision. Isliye option (c) 'well-thought-out' correct hoga."
+            },
+            {
+              "id": 31,
+              "question": "The proposal, _______ was initially dismissed, later gained widespread approval.",
+              "options": [
+                "(a) who",
+                "(b) which",
+                "(c) that",
+                "(d) whom"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) which\nExplanation: Relative pronoun 'which' ka use non-living things (jaise proposal) ke liye hota hai. Aur comma (,) laga hua hai iska matlab non-defining relative clause hai. Is type ke clause me 'that' use nahi hota, sirf 'which' use hota hai."
+            },
+            {
+              "id": 32,
+              "question": "Had he arrived on time, he _______ the beginning of the presentation.",
+              "options": [
+                "(a) would catch",
+                "(b) would have caught",
+                "(c) will catch",
+                "(d) had caught"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) would have caught\nExplanation: Yeh sentence Third conditional ka example hai aur \"had + V3... would/could/might + have + V3\" iska correct structure hota hai. Isliye option (b) 'would have caught' correct hoga."
+            },
+            {
+              "id": 33,
+              "question": "Despite ample resources being allocated, bureaucratic inefficiencies continued to _______ the project's progress.",
+              "options": [
+                "(a) accelerate",
+                "(b) catalyse",
+                "(c) facilitate",
+                "(d) impede"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans: (d) impede\nExplanation: 'Impede' ka matlab hota hai kisi kaam ki progress me rukawat dalna ya usse slow kar dena. Sentence me bataya gaya hai ki ample resources hone ke bawajood bureaucratic inefficiencies project ki progress me badha dal rahi thi. Isliye option (d) 'impede' correct hoga. Baaki options ka meaning: accelerate → tez karna | catalyse → process ko fast/start karna | facilitate → asaan banana"
+            },
+            {
+              "id": 34,
+              "question": "The health of an ecosystem is directly proportional _______ the diversity of species it supports.",
+              "options": [
+                "(a) yet",
+                "(b) but",
+                "(c) to",
+                "(d) via"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans: (c) to\nExplanation: 'proportional to' ek fixed preposition hota hai jo batata hai ki ek cheez badhegi to dusri bhi uske saath badhegi. Isliye option (c) 'to' correct hoga."
+            },
+            {
+              "id": 35,
+              "question": "Choose the correct phrasal verb:\nAfter hours of discussion, they finally _______ a reasonable solution.",
+              "options": [
+                "(a) came up with",
+                "(b) went through",
+                "(c) took over",
+                "(d) fell back on"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans: (a) came up with\nExplanation: Phrasal verb 'came up with' ka matlab hota hai koi idea ya solution sochna ya nikalna. Sentence ka matlab hai ki bahut der discussion ke baad unhone finally ek reasonable solution socha / find kiya. Isliye option (a) 'came up with' correct hoga. Baaki options ka meaning: went through → kisi process ya situation ko experience karna | took over → control ya responsibility le lena | fell back on → backup option use karna"
+            },
+            {
+              "id": 36,
+              "question": "The scientist's theory was praised for its originality but criticized for the _______ of supporting evidence.",
+              "options": [
+                "(a) paucity",
+                "(b) abundance",
+                "(c) clarity",
+                "(d) rigidity"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans: (a) paucity\nExplanation: Word \"paucity\" ka matlab hota hai kisi cheez ki kami ya kam matra. Sentence me kaha gaya hai ki scientist ki theory ko uski originality ke liye praise kiya gaya, lekin supporting evidence ki kami ke liye criticize bhi kiya gaya. Isliye option (a) 'paucity' correct hoga. Baaki options ka meaning: Abundance → Zyada hona / prachur | Clarity → spashtata | Rigidity → sakhti ya kathorpan"
+            },
+            {
+              "id": 37,
+              "question": "She had to _______ her previous statements after new evidence emerged.",
+              "options": [
+                "(a) take back",
+                "(b) give away",
+                "(c) hold off",
+                "(d) turn down"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans: (a) take back\nExplanation: \"Take back\" ka matlab hota hai apni kahi hui baat ko wapas lena ya retract karna. Sentence me diya hai ki new evidence aane ke baad usse apne pehle wale statements wapas lene pade. Isliye option (a) 'take back' correct hoga. Baaki options ka meaning: give away → free me de dena / secret reveal kar dena | hold off → delay karna/temporarily rokna | turn down → reject karna"
+            },
+            {
+              "id": 38,
+              "question": "Select the correct part of speech to fill in the blank:\nDespite the unexpected challenges, the team remained _______ focused on their objective.",
+              "options": [
+                "(a) resolve",
+                "(b) resolutely",
+                "(c) resolution",
+                "(d) more resolute"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans: (b) resolutely\nExplanation: Adjective 'focused' ko qualify karne ke liye ek adverb ki zarurat hai. 'Resolutely' ek adverb hai, jiska matlab hota hai dridh tareeke se / firmly. Isliye option (b) 'resolutely' correct hoga."
+            },
+            {
+              "id": 39,
+              "question": "Seldom _______ so many people interested in a poetry reading.",
+              "options": [
+                "(a) have I seen",
+                "(b) I have seen",
+                "(c) was I seeing",
+                "(d) had I seen"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans: (a) have I seen\nExplanation: \"Seldom\" ek negative-type adverb hai. Aur jab sentence Seldom, Never, Rarely, Hardly jaise words se start hota hai, tab inversion rule lagta hai, matlab auxiliary verb subject se pehle aata hai. Isliye option (a) 'have I seen' correct hoga."
+            },
+            {
+              "id": 40,
+              "question": "Not until the evidence was re-examined did the scientist fully _______ the implications of her discovery.",
+              "options": [
+                "(a) apprehend",
+                "(b) improvise",
+                "(c) invalidate",
+                "(d) replicate"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans: (a) apprehend\nExplanation: \"Apprehend\" ka matlab hota hai kisi cheez ka meaning samajhna ya usse properly grasp karna. Sentence me bataya gaya hai ki scientist apni discovery ke implications (nateeje/asar) ko tab tak poori tarah samajh nahi paayi thi jab tak evidence ko dobara examine nahi kiya gaya. Isliye option (a) 'apprehend' correct hoga. Baaki options ka meaning: improvise → bina planning ke kuch karna | invalidate → galat sabit karna | replicate → copy/reproduce karna"
+            }
+          ]
         }
       ]
     }
