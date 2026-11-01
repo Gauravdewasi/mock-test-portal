@@ -20308,6 +20308,2304 @@
               "solutionHinglish": "Ans (d)\nExplanation:- Sentence mein comparison karna hai ki 'jitna socha tha usse jyada', isliye yahan 'more' ayega aur 'thoda sa' ke liye 'a bit' phrase use hota hai, isliye yahan 'a bit more tiring' option D sabse sahi answer hoga."
             }
           ]
+        },
+        {
+          "id": "t_1793550726887",
+          "name": "PREPOSITION LEVEL-01",
+          "questions": [
+            {
+              "id": 1,
+              "question": "During an earthquake, / it is advised to take / cover above a table / to save your life.",
+              "options": [
+                "(a) cover above a table",
+                "(b) During an earthquake,",
+                "(c) it is advised to take",
+                "(d) to save your life."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'under' instead of 'above'\nExplanation:- kyunki 'earthquake' ke case me table ke neeche chhupa jaayega."
+            },
+            {
+              "id": 2,
+              "question": "This test comprises of grammar, vocabulary and reading comprehension.",
+              "options": [
+                "(a) grammar, vocabulary",
+                "(b) This test",
+                "(c) and reading comprehension",
+                "(d) comprises of"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Remove 'of'\nExplanation:- Kyunki 'comprise' ek transitive verb hai, iske saath kisi bhi preposition ka use nahi kiya jaata hai"
+            },
+            {
+              "id": 3,
+              "question": "They will go to bed / early since they / have to get up / at five on the morning.",
+              "options": [
+                "(a) have to get up",
+                "(b) at five on the morning",
+                "(c) They will go to bed",
+                "(d) early since they"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'in' instead of 'on'\nExplanation:- Kyunki correct phrase 'in the morning' hota hai."
+            },
+            {
+              "id": 4,
+              "question": "Select the sentence with the appropriate use of preposition.",
+              "options": [
+                "(a) It has been raining till morning.",
+                "(b) It has been raining from morning.",
+                "(c) It has been raining by morning.",
+                "(d) It has been raining since morning."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:-'point of time' ke liye 'since' preposition ka use hota hai."
+            },
+            {
+              "id": 5,
+              "question": "She, often, accuses him for a lack of morality.",
+              "options": [
+                "(a) She often",
+                "(b) a lack of morality",
+                "(c) No error",
+                "(d) accuses him for"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'of' instead of 'for'\nExplanation:- Kyunki 'accuse' verb ka fix structure ye hota hai:- accuse somebody of something"
+            },
+            {
+              "id": 6,
+              "question": "To my point of view he should not have behaved in such a manner.",
+              "options": [
+                "(a) should not have",
+                "(b) behaved",
+                "(c) To my point of view",
+                "(d) in such a manner"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'from' instead of 'to'\nExplanation:- Kyunki correct phrase is 'from my point of view'."
+            },
+            {
+              "id": 7,
+              "question": "There is a whole world / out there that / is invisible from / the naked eye.",
+              "options": [
+                "(a) the naked eye",
+                "(b) is invisible from",
+                "(c) There is a whole world",
+                "(d) out there that"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'to' instead of 'from'\nExplanation:- kyunki 'Invisible to something/somebody' correct phrase hai."
+            },
+            {
+              "id": 8,
+              "question": "Not complying by any of the laws can land you into serious trouble.",
+              "options": [
+                "(a) Not complying by",
+                "(b) any of the laws",
+                "(c) into serious trouble",
+                "(d) can land you"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'with' instead of 'by'\nExplanation:- Kyunki 'comply' ke sath 'with' ka use kiya jaata hai."
+            },
+            {
+              "id": 9,
+              "question": "Amla juice / is rich with / Vitamin C. / No error",
+              "options": [
+                "(a) Vitamin C.",
+                "(b) Amla juice",
+                "(c) No error",
+                "(d) is rich with"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'in' instead of 'with'\nExplanation:-Rich in something - having a lot of money or valuable possessions."
+            },
+            {
+              "id": 10,
+              "question": "The jury was not happy with the performance / and was quite harsh. / The singer took / their criticism in heart.",
+              "options": [
+                "(a) The jury was not happy with the performance",
+                "(b) The singer took",
+                "(c) their criticism in heart.",
+                "(d) and was quite harsh"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'to' instead of 'in'\nExplanation:- Take something to heart (Idiom) - take criticism seriously and be affected or upset by it."
+            },
+            {
+              "id": 11,
+              "question": "Darkness spilled like ink and began to spread at everything.",
+              "options": [
+                "(a) Darkness spilled",
+                "(b) and began to",
+                "(c) spread at everything",
+                "(d) like ink"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:-use 'over' instead of 'at'\nOver everything - covering everything."
+            },
+            {
+              "id": 12,
+              "question": "Select the option that contains a grammatical error in the underlined portion.\nThere are no tables at the classroom.",
+              "options": [
+                "(a) [There are] no tables at the classroom.",
+                "(b) There are [no tables] at the classroom.",
+                "(c) There are no tables at [the classroom.]",
+                "(d) There are no tables [at] the classroom."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'in' instead of 'at'\nExplanation:- In inside a container, place, or area, or surrounded or closed off by something."
+            },
+            {
+              "id": 13,
+              "question": "The prisoner was / accused for stealing / from his landlord.",
+              "options": [
+                "(a) accused for stealing",
+                "(b) The prisoner was",
+                "(c) from his landlord",
+                "(d) No error"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'of' instead of 'for'\nExplanation:- Accuse somebody of something. Be accused of something."
+            },
+            {
+              "id": 14,
+              "question": "The Japanese artist Yoh Nagao was busy splashing the wall from colours.",
+              "options": [
+                "(a) splashing the wall",
+                "(b) was busy",
+                "(c) from colours",
+                "(d) The Japanese artist"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'with' instead of 'from'\nExplanation:- Splash kisi vyakti ya vastu par (taral padarth ke) cheente padna ya daalna. Splash somebody/something with something\nNote: busy splashing me koi error nahi hai. 'Busy' ke baad bina preposition ke direct 'v1 + ing' form allowed hai."
+            },
+            {
+              "id": 15,
+              "question": "Select the sentence with the appropriate use of preposition.",
+              "options": [
+                "(a) Children are fond to sweets.",
+                "(b) Children are fond off sweets.",
+                "(c) Children are fond with sweets.",
+                "(d) Children are fond of sweets"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:-'fond' ke saath 'of preposition fix hai."
+            },
+            {
+              "id": 16,
+              "question": "I am having trouble / deciding in / a gift for them. / No error",
+              "options": [
+                "(a) a gift for them.",
+                "(b) No error",
+                "(c) I am having trouble",
+                "(d) deciding in"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'upon/on' instead of 'in'\nExplanation:- Decide on/upon (phrasal verb) meaning = Chhantna. to choose something from a number of possibilities."
+            },
+            {
+              "id": 17,
+              "question": "Select the sentence with the appropriate use of preposition.",
+              "options": [
+                "(a) Ashok was in the bus stop.",
+                "(b) Ashok was to the bus stop.",
+                "(c) Ashok was on the bus stop.",
+                "(d) Ashok was at the bus stop"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:-At used to show an exact position or particular place."
+            },
+            {
+              "id": 18,
+              "question": "She has / a habit of / spending against / her means.",
+              "options": [
+                "(a) her means",
+                "(b) She has",
+                "(c) spending against",
+                "(d) a habit of"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'beyond' instead of 'against'\nExplanation:- Beyond - outside or after a stated limit"
+            },
+            {
+              "id": 19,
+              "question": "She has not written / a single novel / by three years.",
+              "options": [
+                "(a) not written",
+                "(b) She has",
+                "(c) by three years",
+                "(d) a single novel"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'for/in' instead of 'by'\nExplanation:- For used to refer to the duration of time."
+            },
+            {
+              "id": 20,
+              "question": "Select the sentence with the appropriate use of preposition.",
+              "options": [
+                "(a) He arrived to Sunday morning.",
+                "(b) He arrived at Sunday morning.",
+                "(c) He arrived in Sunday morning.",
+                "(d) He arrived on Sunday morning."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:-'On' is used before days."
+            },
+            {
+              "id": 21,
+              "question": "I will stop to refreshments at the next restaurant on the highway.",
+              "options": [
+                "(a) on the highway",
+                "(b) I will stop",
+                "(c) at the next restaurant",
+                "(d) to refreshments"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'for' instead of 'to'\nExplanation:- purpose ko dikhane ke liye infinitive (to + v1) ya 'for + noun' structure ka use hota hai."
+            },
+            {
+              "id": 22,
+              "question": "Huda lived in / the southern part / off Germany.",
+              "options": [
+                "(a) off Germany",
+                "(b) the southern part",
+                "(c) No error",
+                "(d) Huda lived in"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'of' instead of 'off'\nExplanation:- Of - used to show possession, belonging, or origin Off - away from a place or position, especially the present place, position, or time."
+            },
+            {
+              "id": 23,
+              "question": "The meeting was held upon / for an hour / due to non-availability / of the committee members.",
+              "options": [
+                "(a) of the committee members.",
+                "(b) due to non-availability",
+                "(c) for an hour",
+                "(d) The meeting was held upon"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'up' instead of 'upon'\nExplanation:-\nHold up - to delay someone or something."
+            },
+            {
+              "id": 24,
+              "question": "No talking / on the dinner table / is an absolute rule.",
+              "options": [
+                "(a) No talking",
+                "(b) No Error",
+                "(c) on the dinner table",
+                "(d) is an absolute rule."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'at' instead of 'on'\nExplanation:- At used to show an exact position or particular place\nNote:- 'No talking' me 'talking' gerund yahan subject ka kaam kar rha hai."
+            },
+            {
+              "id": 25,
+              "question": "Select the sentence with the appropriate use of preposition.",
+              "options": [
+                "(a) Are you interested along with modern art?",
+                "(b) Are you interested into modern art?",
+                "(c) Are you interested with modern art?",
+                "(d) Are you interested in modern art?"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:-'interested' ka ye structure hota hai :- Be interested in something."
+            },
+            {
+              "id": 26,
+              "question": "There can be precious / diamonds and metals / in the surface / just below you.",
+              "options": [
+                "(a) diamonds and metals",
+                "(b) just below you.",
+                "(c) in the surface",
+                "(d) There can be precious"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'under' instead of 'in'.\nExplanation:- in the surface = surface me.\nunder the surface = surface ke neeche. Yahan meaning ye dena hai ki:- 'diamonds and metals' ho sakte hain just tumhare neeche jo surface hai uske neeche."
+            },
+            {
+              "id": 27,
+              "question": "Select the sentence with the appropriate use of preposition.",
+              "options": [
+                "(a) The lion and the unicorn fought between the crown.",
+                "(b) The lion and the unicorn fought for the crown.",
+                "(c) The lion and the unicorn fought by the crown.",
+                "(d) The lion and the unicorn fought up the crown."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:-Yahan meaning ye dena hai ki 'lion and unicorn' crown ke liye lade the. Purpose ko dikhane ke liye 'for' preposition ka use kiya jaata hai."
+            },
+            {
+              "id": 28,
+              "question": "Lack of formal education did not prevent Lincoln to become a great leader.",
+              "options": [
+                "(a) did not prevent",
+                "(b) a great leader",
+                "(c) to become",
+                "(d) Lack of"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'from becoming' instead of 'to become'\nExplanation:- Kyunki 'prevent' ke sath 'from' ka use kiya jaata hai."
+            },
+            {
+              "id": 29,
+              "question": "The investors were / put off by the dirty / visage of the workshop.",
+              "options": [
+                "(a) visage of the workshop",
+                "(b) put off by the dirty",
+                "(c) No error",
+                "(d) The investors were"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c). No error\nExplanation:-put off cause someone to lose interest or enthusiasm. (kisi ka interest khatam kar dena)"
+            },
+            {
+              "id": 30,
+              "question": "He took a hurried glance / on the newspaper / and swiftly left for work.",
+              "options": [
+                "(a) and swiftly left for work",
+                "(b) He took a hurried glance",
+                "(c) on the newspaper",
+                "(d) No error"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'at' instead of 'on'\nExplanation:- Glance at something"
+            },
+            {
+              "id": 31,
+              "question": "Fortunately, he passed the exams / with dint of / sheer hard work and diligence.",
+              "options": [
+                "(a) sheer hard work and diligence",
+                "(b) with dint of",
+                "(c) No error",
+                "(d) Fortunately, he passed the exams"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'by' instead of 'with'\nExplanation:- By dint of something (ke bal par) as a result of something."
+            },
+            {
+              "id": 32,
+              "question": "He has always been / quite careless for / his own safety.",
+              "options": [
+                "(a) quite careless for",
+                "(b) He has always been",
+                "(c) No error",
+                "(d) his own safety"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'of/about' instead of 'for'\nExplanation:- Careless of/about something"
+            },
+            {
+              "id": 33,
+              "question": "His cell phone is / different and costlier / than mine.",
+              "options": [
+                "(a) No error",
+                "(b) than mine",
+                "(c) His cell phone is",
+                "(d) different and costlier"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'different from' instead of 'different'\nExplanation:- Kyunki agar 2 words kisi conjunction se connected ho toh dono apne according preposition lete hain."
+            },
+            {
+              "id": 34,
+              "question": "She persisted / to doing / what she wanted / despite opposition.",
+              "options": [
+                "(a) to doing",
+                "(b) what she wanted",
+                "(c) She persisted",
+                "(d) despite opposition"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'in' instead of 'to'\nExplanation:- Persisted in doing something."
+            },
+            {
+              "id": 35,
+              "question": "The unseasonal rain / caused a lot of damage / to the crops.",
+              "options": [
+                "(a) The unseasonal rain",
+                "(b) to the crops",
+                "(c) No error",
+                "(d) caused a lot of damage"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) No error\nExplanation:-'damage' ke sath 'to' preposition hi aati hai isliye ye 'no error' hai."
+            },
+            {
+              "id": 36,
+              "question": "Take care / for keep / your valuables safely.",
+              "options": [
+                "(a) Take care",
+                "(b) your valuables safely",
+                "(c) for keep",
+                "(d) No error"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'to' instead of 'for'\nExplanation:- Take care to do something - to be careful"
+            },
+            {
+              "id": 37,
+              "question": "I had all / the comforts to life / in my childhood.",
+              "options": [
+                "(a) No error",
+                "(b) the comforts to life",
+                "(c) I had all",
+                "(d) in my childhood"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'of' instead of 'to'\nExplanation:-\nOf- used to show possession, belonging, or origin:"
+            },
+            {
+              "id": 38,
+              "question": "The increase in irrigated areas / has resulted on achieving / record food grain production.",
+              "options": [
+                "(a) The increase in irrigated areas",
+                "(b) has resulted on achieving",
+                "(c) record food grain production",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'in' instead of 'on'\nExplanation:- Kyunki 'result' verb ke sath 'in' preposition ka use kiya jaata hai."
+            },
+            {
+              "id": 39,
+              "question": "She performed / the task / at the best / of her ability.",
+              "options": [
+                "(a) the task",
+                "(b) of her ability",
+                "(c) She performed",
+                "(d) at the best"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'to' instead of 'at'\nExplanation:- To the best of one's ability as well as one can."
+            },
+            {
+              "id": 40,
+              "question": "I was angry / on myself / for making / such a silly mistake.",
+              "options": [
+                "(a) such a silly mistake",
+                "(b) for making",
+                "(c) on myself",
+                "(d) I was angry"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'with' instead of 'on'\nExplanation:- Angry with someone."
+            },
+            {
+              "id": 41,
+              "question": "He was formerly / a doctor of the corporate hospital.",
+              "options": [
+                "(a) No error",
+                "(b) He was formerly",
+                "(c) the corporate hospital",
+                "(d) a doctor of"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'at' instead of 'of'\nExplanation:- At used to show an exact position or particular place."
+            },
+            {
+              "id": 42,
+              "question": "This hall is / badly to need / of repair.",
+              "options": [
+                "(a) badly to need",
+                "(b) No error",
+                "(c) This hall is",
+                "(d) of repair"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'in' instead of 'to'\nExplanation:- In need of something"
+            },
+            {
+              "id": 43,
+              "question": "They ordered the whole area / to be disinfected / on the earliest.",
+              "options": [
+                "(a) to be disinfected",
+                "(b) They ordered the whole area",
+                "(c) on the earliest",
+                "(d) No error"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'at' instead of 'on'\nExplanation:- At the earliest- jitna jaldi ho sake."
+            },
+            {
+              "id": 44,
+              "question": "Vivek should be excited / on the promotion / he's got.",
+              "options": [
+                "(a) No error",
+                "(b) on the promotion",
+                "(c) Vivek should be excited",
+                "(d) he's got"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'about' instead of 'on'\nExplanation:- Excited about something."
+            },
+            {
+              "id": 45,
+              "question": "Among you and me / she is quite rude / to the boy.",
+              "options": [
+                "(a) to the boy",
+                "(b) she is quite rude",
+                "(c) Among you and me",
+                "(d) No error"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'between' instead of 'among'\nExplanation:- Between you and me what I am about to say should be kept secret."
+            },
+            {
+              "id": 46,
+              "question": "He conceded / a very crucial / point at / his opponent.",
+              "options": [
+                "(a) a very crucial",
+                "(b) point at",
+                "(c) his opponent",
+                "(d) He conceded"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'to' instead of 'at'\nExplanation:- Concede something to somebody = to allow somebody to take something although you do not want to. Dusre ki bina ichcha hone ke baad bhi kuchh le jaane ka adhikar pradaan karna."
+            },
+            {
+              "id": 47,
+              "question": "The river / flowed besides / the hillock / in our village.",
+              "options": [
+                "(a) the hillock",
+                "(b) flowed besides",
+                "(c) in our village",
+                "(d) The river"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'beside' instead of 'besides'\nExplanation:- Beside at the side of, next to:\nBesides in addition to; also:"
+            },
+            {
+              "id": 48,
+              "question": "Whenever he is / on a holiday, / he travels by foot / to the temple nearby.",
+              "options": [
+                "(a) on a holiday",
+                "(b) he travels by foot",
+                "(c) Whenever he is",
+                "(d) to the temple nearby"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'on' instead of 'by'\nExplanation:- On foot walking."
+            },
+            {
+              "id": 49,
+              "question": "The notice / that the office / posted over the wall / is very appropriate.",
+              "options": [
+                "(a) is very appropriate",
+                "(b) that the office",
+                "(c) posted over the wall",
+                "(d) The notice"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'on' instead of 'over'\nExplanation:- On used to show that something is in a position above something else and touching it, or that something is moving into such a position:\nOver - above or higher than something else, sometimes so that one thing covers the other, above:"
+            },
+            {
+              "id": 50,
+              "question": "Going to the weekly market / in every Tuesday / is a ritual that has been followed / by generations in my family.",
+              "options": [
+                "(a) Going to the weekly market",
+                "(b) in every Tuesday",
+                "(c) by generations in my family",
+                "(d) is a ritual that has been followed"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'on' instead of 'in' / Remove 'in' from 'in every tuesday'\nExplanation:- 'in every tuesday' galat hai. Aur 'every tuesday' best option hai halanki 'on every tuesday' bhi chal sakta hai kyunki 'days' ke naam se pehle 'on' ka use kiya jaata hai. Lekin dono mese 'every tuesday' best option hai."
+            },
+            {
+              "id": 51,
+              "question": "Investing on real estate / can earn you quick profit / but it comes with a certain amount of risk attached to it.",
+              "options": [
+                "(a) but it comes with",
+                "(b) Investing on real estate",
+                "(c) can earn you quick profit",
+                "(d) a certain amount of risk attached to it"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'in' instead of 'on'\nExplanation:- Invest in something"
+            },
+            {
+              "id": 52,
+              "question": "Lack of required / vitamins and minerals / lead against / several complications / in the human body.",
+              "options": [
+                "(a) in the human body",
+                "(b) Lack of required",
+                "(c) lead against",
+                "(d) several complications"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'leads to' instead of 'lead against'\nExplanation:- Kyunki 'lead' ke baad 'to' ka use kiya jaata hai."
+            },
+            {
+              "id": 53,
+              "question": "The recruiters / were pleased to John's / domain knowledge and personality.",
+              "options": [
+                "(a) The recruiters",
+                "(b) to John's",
+                "(c) domain knowledge and personality",
+                "(d) were pleased"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'with' instead of 'to'\nExplanation:- Pleased with something/somebody."
+            },
+            {
+              "id": 54,
+              "question": "Will you please come / to help me / along this heavy box?",
+              "options": [
+                "(a) will you",
+                "(b) to help me",
+                "(c) along this heavy box",
+                "(d) please come"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'with' instead of 'along'\nExplanation:- Help verb ke structures:- Help someone in doing something. Help someone with something."
+            },
+            {
+              "id": 55,
+              "question": "We don't really / want a large house; / we are looking for some comfort / and some convenience on a moderate price.",
+              "options": [
+                "(a) and some convenience on a moderate price",
+                "(b) want a large house",
+                "(c) We don't really",
+                "(d) we are looking for some comfort"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'at/for' instead of 'on'\nExplanation:- 'price' ke liye 'at' ya 'for' preposition ka use hota hai. I bought it at/for a decent price."
+            },
+            {
+              "id": 56,
+              "question": "The visitors complained / at the poor accommodation / they were provided / during the tour.",
+              "options": [
+                "(a) they were provided",
+                "(b) at the poor accommodation",
+                "(c) The visitors complained",
+                "(d) during the tour"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'of' instead of 'at'\nExplanation:- Complain of something.\nComplain about/against someone"
+            },
+            {
+              "id": 57,
+              "question": "At the last meeting / which took place in November, / half the members submitted / their resignations on protest.",
+              "options": [
+                "(a) At the last meeting",
+                "(b) their resignations on protest",
+                "(c) half the members submitted",
+                "(d) which took place in November"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'in' instead of 'on'\nExplanation:- In protest kisi cheez ke virodh me.\nNote: Half the members = half of the members ye dono structures allowed hain."
+            },
+            {
+              "id": 58,
+              "question": "Mithila art tradition is passed on / from one generation through a next / by children watching and helping / their mothers and grandmothers.",
+              "options": [
+                "(a) from one generation through a next",
+                "(b) Mithila art tradition is passed on",
+                "(c) their mothers and grandmothers",
+                "(d) by children watching and helping"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'to' instead of 'through'\nExplanation:- From.. to"
+            },
+            {
+              "id": 59,
+              "question": "Employees were given incentives based at their performance.",
+              "options": [
+                "(a) given incentives",
+                "(b) based at",
+                "(c) Employees were",
+                "(d) their performance"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'on' instead of 'at'\nExplanation:- Kyunki 'based' ke sath 'on' ka use kiya jaata hai."
+            },
+            {
+              "id": 60,
+              "question": "Thousands of people / in Telangana are employed on / the granite companies.",
+              "options": [
+                "(a) Thousands of people",
+                "(b) in Telangana are employed on",
+                "(c) No error",
+                "(d) the granite companies"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'in' instead of 'on'\nExplanation:- Yahan meaning ye dena hai ki:- granite companies mein"
+            },
+            {
+              "id": 61,
+              "question": "The guards in the colony always keep an eye in things going on around.",
+              "options": [
+                "(a) The guards in the colony",
+                "(b) going on around",
+                "(c) always keep",
+                "(d) an eye in things"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'on' instead of 'in'\nExplanation:- Keep an eye on something- to watch or take care of something or someone."
+            },
+            {
+              "id": 62,
+              "question": "Please give me / a kilo of potatoes, / two kilos of tomatoes and / a bunch coriander leaves.",
+              "options": [
+                "(a) a bunch coriander leaves",
+                "(b) a kilo of potatoes",
+                "(c) Please give me",
+                "(d) two kilos of tomatoes and"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'of' before coriander.\nExplanation:- bunch of something Of used to show possession, belonging, or origin."
+            },
+            {
+              "id": 63,
+              "question": "Most hotels / offer for their guests / complimentary breakfast / during their stay there.",
+              "options": [
+                "(a) complimentary breakfast",
+                "(b) during their stay there",
+                "(c) offer for their guests",
+                "(d) Most hotels"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Remove 'for'\nExplanation:- Kyunki 'offer' ek transitive verb hai iske sath preposition ka use nahi hota."
+            },
+            {
+              "id": 64,
+              "question": "A probe has been ordered / by the incident / that occurred at the celebrations.",
+              "options": [
+                "(a) A probe has been ordered",
+                "(b) that occurred at the celebrations",
+                "(c) by the incident",
+                "(d) No error"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'into' instead of 'by'\nExplanation:- Probe into something."
+            },
+            {
+              "id": 65,
+              "question": "Who all are not desirous (a)/to get a well paid job (b)/and a beautiful lady to live life with? (c)/ No error (d)",
+              "options": [
+                "(a) Who all are not desirous",
+                "(b) to get a well paid job",
+                "(c) and a beautiful lady to live life with?",
+                "(d) no error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use of getting in place of to get\nExplanation:- 'Desirous' ke saath 'of preposition fix hai."
+            },
+            {
+              "id": 66,
+              "question": "I am going / to home / soon after the / programme gets over.",
+              "options": [
+                "(a) soon after the",
+                "(b) to home",
+                "(c) I am going",
+                "(d) programme gets over"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Remove 'to'\nExplanation:- Kyunki yahan 'home' adverb hai aur adverb ke pehle koi preposition ka use nahi hota."
+            },
+            {
+              "id": 67,
+              "question": "There is constant friction / between the executive members / of the Association.",
+              "options": [
+                "(a) There is constant friction",
+                "(b) No error",
+                "(c) between the executive members",
+                "(d) of the Association"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'among' instead of 'between'\nExplanation:- Kyunki 'between' ka use 2 ke liye aur 'among' ka use 2 se zyada ke liye."
+            },
+            {
+              "id": 68,
+              "question": "Please refrain to going out without a face mask.",
+              "options": [
+                "(a) without a",
+                "(b) going out",
+                "(c) Please refrain to",
+                "(d) face mask"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'from' instead of 'to'\nExplanation:- Kyunki 'refrain' ke sath 'from' ka use kiya jaata hai."
+            },
+            {
+              "id": 69,
+              "question": "You need to sign / these important documents / by ink.",
+              "options": [
+                "(a) these important documents",
+                "(b) to sign",
+                "(c) by ink",
+                "(d) You need"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'in' instead of 'by'\nExplanation:- Kyunki 'ink' ke saath 'in' ka use kiya jaata hai."
+            },
+            {
+              "id": 70,
+              "question": "He could not / get a job / despite of / his best efforts.",
+              "options": [
+                "(a) his best efforts",
+                "(b) get a job",
+                "(c) despite of",
+                "(d) He could not"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Remove 'of'\nExplanation:- Kyunki 'despite' ke sath 'of ka use nahi kiya jaata hai."
+            },
+            {
+              "id": 71,
+              "question": "He is / afraid from / all insects / that crawl.",
+              "options": [
+                "(a) He is",
+                "(b) that crawl",
+                "(c) all insects",
+                "(d) afraid from"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'of' instead of 'from'\nExplanation:- Kyunki 'afraid' ke sath 'of ka use kiya jaata hai."
+            },
+            {
+              "id": 72,
+              "question": "I saw several / French colonial villas / within my visit / to Puducherry.",
+              "options": [
+                "(a) French colonial villas",
+                "(b) within my visit",
+                "(c) I saw several",
+                "(d) to Puducherry"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'during' instead of 'within'\nExplanation:- During - ke dauraan."
+            },
+            {
+              "id": 73,
+              "question": "The bottle slipped with my hand and broke into a thousand pieces.",
+              "options": [
+                "(a) The bottle slipped",
+                "(b) broke into",
+                "(c) with my hand",
+                "(d) into a thousand pieces"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'from' instead of 'with'\nExplanation: From used to show the place where someone or something starts."
+            },
+            {
+              "id": 74,
+              "question": "She has been working with me on this project from two years.",
+              "options": [
+                "(a) with me",
+                "(b) She has been working",
+                "(c) from two years",
+                "(d) on this project"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'for' instead of 'from'\nExplanation:- Kyunki 'duration of time' btane ke liye 'for' ka use kiya jaata hai."
+            },
+            {
+              "id": 75,
+              "question": "I am sorry I haven't learnt the poem at heart.",
+              "options": [
+                "(a) I haven't",
+                "(b) learnt the poem",
+                "(c) I am sorry",
+                "(d) at heart"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'by' instead of 'at'\nExplanation:- By heart - learned in such a way that you can repeat it from memory."
+            },
+            {
+              "id": 76,
+              "question": "My grandmother is quite concerned to my progress at school.",
+              "options": [
+                "(a) My grandmother",
+                "(b) to my progress",
+                "(c) is quite concerned",
+                "(d) at school"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'about' instead of 'to'\nExplanation:- Concern about something."
+            },
+            {
+              "id": 77,
+              "question": "I want you to complete this work by two days.",
+              "options": [
+                "(a) by two days",
+                "(b) I want you",
+                "(c) this work",
+                "(d) to complete"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'within' instead of 'by'\nExplanation:- Kyunki 'time limit' ko btane ke liye 'within' ka use kiya jaata hai."
+            },
+            {
+              "id": 78,
+              "question": "Poor people have run down of food supplies during the lockdown.",
+              "options": [
+                "(a) food supplies",
+                "(b) during the lockdown",
+                "(c) Poor people have",
+                "(d) run down of"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'out' instead of 'down'\nExplanation:- Run out of something to finish, use, or sell all of something, so that there is none left."
+            },
+            {
+              "id": 79,
+              "question": "This jewellery box is made from silver and is an antique piece.",
+              "options": [
+                "(a) This jewellery box",
+                "(b) an antique piece.",
+                "(c) and is",
+                "(d) is made from silver"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'of' instead of 'from'\nExplanation: kyunki physical changes ke case me 'make' ke sath 'of ka use kiya jaata hai."
+            },
+            {
+              "id": 80,
+              "question": "He thinks that he can get away among lying and cheating.",
+              "options": [
+                "(a) He thinks that",
+                "(b) and cheating",
+                "(c) among lying",
+                "(d) he can get away"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation: 'among' ki jagah yahan 2 preposition possible hain 'by' aur 'with' dono lagane se alag-alag meaning aayega.\nEg: He thinks that he can get away by lying and cheating. usko lagta hai ki wo jhoot bolna ya cheating ka use karke bach jayega.\nEg: He thinks that he can get away with lying and cheating, usko lagta hai ki wo bachke nikal sakta hai jo usne jhoot bola hai aur cheating kari hai uski punishment se. get away with something: escape blame, punishment, or undesirable consequences for an act that is wrong. (kisi apradh se bina saza ke nikal jaana)"
+            },
+            {
+              "id": 81,
+              "question": "He has shattered his neighbour's window by purpose.",
+              "options": [
+                "(a) He has",
+                "(b) shattered his",
+                "(c) by purpose",
+                "(d) neighbour's window"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'on' instead of 'by'\nExplanation:- On purpose - intentionally."
+            },
+            {
+              "id": 82,
+              "question": "The girl besides you in high heels is my younger sister.",
+              "options": [
+                "(a) The girl besides you",
+                "(b) is my",
+                "(c) younger sister",
+                "(d) in high heels"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'beside' instead of 'besides'\nExplanation:- Beside - at the side of, next to:\nBesides in addition to; also:"
+            },
+            {
+              "id": 83,
+              "question": "I looked him at the eye and told him all I knew.",
+              "options": [
+                "(a) all I knew",
+                "(b) and told him",
+                "(c) I looked him",
+                "(d) at the eye"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'in' instead of 'at'\nExplanation:- look someone in the eye look directly at someone without showing embarrassment, fear, or shame."
+            },
+            {
+              "id": 84,
+              "question": "My hotel in Goa had a wonderful view of the sea in the window.",
+              "options": [
+                "(a) My hotel in Goa",
+                "(b) had a wonderful view",
+                "(c) of the sea",
+                "(d) in the window"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'through' instead of 'in'\nExplanation:- Window ke through dekhne par view tha na ki window me."
+            },
+            {
+              "id": 85,
+              "question": "A panel has been formed to look within the security needs of college students.",
+              "options": [
+                "(a) the security needs",
+                "(b) of college students",
+                "(c) to look within",
+                "(d) has been formed"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'into' instead of 'within'\nExplanation:- Look into to investigate."
+            },
+            {
+              "id": 86,
+              "question": "Did you tell to your mother that you saw her friend at the theatre?",
+              "options": [
+                "(a) at the theatre",
+                "(b) your mother that",
+                "(c) you saw her friend",
+                "(d) did you tell to"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Remove 'to'\nExplanation:- Kyunki 'tell' ek transitive verb hai iske sath kisi preposition ka use nahi kiya jaata hai."
+            },
+            {
+              "id": 87,
+              "question": "The country has the lowest per capita income and needs to create jobs to the youth.",
+              "options": [
+                "(a) needs to create",
+                "(b) the lowest per capita income",
+                "(c) the country has",
+                "(d) jobs to the youth"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'for' instead of 'to'\nExplanation:- kyunki 'for' ke liye yahan meaning dena hai ki:- 'Youth ke liye job'"
+            },
+            {
+              "id": 88,
+              "question": "Though she was able to finish the work on time, she couldn't do that out in fear.",
+              "options": [
+                "(a) finish the work on time,",
+                "(b) she couldn't do that",
+                "(c) out in fear",
+                "(d) Though she was able to"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'of' instead of 'in'\nExplanation:- Out of fear a feeling of distress, apprehension, or alarm caused by impending danger, pain, etc."
+            },
+            {
+              "id": 89,
+              "question": "It is difficult to make out that they are twins because they do not resemble to each other.",
+              "options": [
+                "(a) because they do not",
+                "(b) that they are twins",
+                "(c) It is difficult to make out",
+                "(d) resemble to each other"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Remove 'to'\nExplanation:- Kyunki 'resemble' ek transitive verb hai iske sath kisi preposition ka use nahi kiya jaata hai."
+            },
+            {
+              "id": 90,
+              "question": "The manager was referring about the previous instances of loss to the employees during his address.",
+              "options": [
+                "(a) during his address",
+                "(b) The manager was referring about",
+                "(c) the previous instances",
+                "(d) of loss to the employees"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'to' instead of 'about'\nExplanation:- Kyunki 'refer' ke sath 'to' ka use kiya jaata hai"
+            },
+            {
+              "id": 91,
+              "question": "Deepa walked down the road slowly without looking anybody.",
+              "options": [
+                "(a) Deepa walked",
+                "(b) down the road",
+                "(c) looking anybody",
+                "(d) slowly without"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'at' before anybody\nExplanation:- Kyunki 'look' ke sath 'at' preposition ka use kiya jaata hai.\nNote:- walked down me koi galti nahi hai."
+            },
+            {
+              "id": 92,
+              "question": "One of the greatest responsibilities of a scientist is that his discoveries and inventions are utilized to the overall development of the nation.",
+              "options": [
+                "(a) are utilized to the overall",
+                "(b) One of the greatest responsibilities of a scientist",
+                "(c) is that his discoveries and inventions",
+                "(d) development of the nation"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'for' instead of 'to'\nExplanation:- kyunki for ke liye Yahan meaning ye dena hai ki:- discoveries and inventions nation ki overall development ke liye use kiya jaaye"
+            },
+            {
+              "id": 93,
+              "question": "We had a long discussion at a cup of coffee.",
+              "options": [
+                "(a) We had",
+                "(b) of coffee",
+                "(c) at a cup",
+                "(d) a long discussion"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'over' instead of 'at'\nExplanation: Ye ek fix phrase hai."
+            },
+            {
+              "id": 94,
+              "question": "All employees of the National Sugar Factory differ from their boss on the medical and pension policy.",
+              "options": [
+                "(a) All employees",
+                "(b) on the medical and pension policy",
+                "(c) of the National Sugar Factory",
+                "(d) differ from their boss"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'with' instead of 'from'\nExplanation:- Differ with-to disagree with somebody."
+            },
+            {
+              "id": 95,
+              "question": "He married with a rich heiress last year.",
+              "options": [
+                "(a) with a rich heiress",
+                "(b) No error",
+                "(c) He married",
+                "(d) last year"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Remove 'with'\nExplanation:- Kyunki 'marry' ek transitive verb hai iske sath kisi preposition ka use nahi kiya jaata hai."
+            },
+            {
+              "id": 96,
+              "question": "He succeeded to get / a decent job soon / after his graduation.",
+              "options": [
+                "(a) He succeeded to get",
+                "(b) a decent job soon",
+                "(c) after his graduation.",
+                "(d) No error"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use in getting in place of to get.\nExplanation:- succeed in doing something"
+            },
+            {
+              "id": 97,
+              "question": "Sita has no taste in classical dance.",
+              "options": [
+                "(a) classical dance",
+                "(b) in",
+                "(c) no taste",
+                "(d) Sita has"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'for' instead of 'in'\nExplanation:- Taste for to have interest Koi cheez pasand hona ya usme interest hona."
+            },
+            {
+              "id": 98,
+              "question": "In about two weeks our holidays will start.",
+              "options": [
+                "(a) In about two weeks",
+                "(b) No error",
+                "(c) Our holidays",
+                "(d) will start"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) No error\nExplanation:- Note: 'about' yahan 'two' adjective ke liye adverb hai na ki preposition."
+            },
+            {
+              "id": 99,
+              "question": "Across his morning walk on a beach in Mamallapuram, Prime Minister Modi was seen picking up plastic litter, bottles and other items.",
+              "options": [
+                "(a) picking up plastic litter",
+                "(b) Across his morning walk",
+                "(c) Prime Minister Modi was seen",
+                "(d) on a beach in Mamallapuram"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'during' instead of 'across'\nExplanation:- During - ke dauran"
+            },
+            {
+              "id": 100,
+              "question": "The Government is setting up a special surveillance cell for epidemic-prone diseases at flood-ravaged Bihar.",
+              "options": [
+                "(a) The Government is setting up",
+                "(b) a special surveillance cell",
+                "(c) for epidemic-prone diseases",
+                "(d) at flood-ravaged Bihar"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'in' instead of 'at'\nExplanation:- 'state' ke name se pehle 'at' nahi 'in' ka use hoga- 'in Bihar'"
+            },
+            {
+              "id": 101,
+              "question": "After two months the phone signals were back at the valley.",
+              "options": [
+                "(a) were back",
+                "(b) the phone signals",
+                "(c) at the valley",
+                "(d) after two months"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'in' instead of 'at'\nExplanation:- Note: ye dono structures theek hain 'go back to a place' he went back to his hometown. 'be + back in a place' we are back in our hometown"
+            },
+            {
+              "id": 102,
+              "question": "If he wants to recover, he must abstain for alcohol.",
+              "options": [
+                "(a) No error",
+                "(b) wants to recover",
+                "(c) he must",
+                "(d) abstain for alcohol"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'from' instead of 'for'\nExplanation:- Kyunki 'abstain' ke sath 'from' ka use kiya jaata hai."
+            },
+            {
+              "id": 103,
+              "question": "These facts should not have been disclosed for the public.",
+              "options": [
+                "(a) No error",
+                "(b) not have been disclosed",
+                "(c) for the public",
+                "(d) These facts should"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'to' instead of 'for'\nExplanation:- Disclose something to somebody."
+            },
+            {
+              "id": 104,
+              "question": "The detective compared the forged signature to the original.",
+              "options": [
+                "(a) the forged signature",
+                "(b) to the original",
+                "(c) The detective compared",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'with' instead of 'to'\nExplanation:- kyunki compare (verb) with compare (adj) - to Iss sentence me 'compare' verb hai."
+            },
+            {
+              "id": 105,
+              "question": "The day before yesterday he left for Europe by the air.",
+              "options": [
+                "(a) The day before yesterday",
+                "(b) No error",
+                "(c) by the air",
+                "(d) he left for Europe"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Remove 'the'\nExplanation:- Kyunki 'means of transportation' se pehle kisi article ka use nahi kiya jaata hai, 'by + transport ka use kiya jaata hai."
+            },
+            {
+              "id": 106,
+              "question": "Fate smiled above him in all his business ventures.",
+              "options": [
+                "(a) No error",
+                "(b) in all his",
+                "(c) business ventures",
+                "(d) Fate smiled above him"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'on' instead of 'above'\nExplanation:- Fate smiled on someone (idiom) - kisi par kismat meherbaan hona."
+            },
+            {
+              "id": 107,
+              "question": "He knocked the door for a few minutes and when he got / no response, he got back immediately.",
+              "options": [
+                "(a) He knocked the door for",
+                "(b) a few minutes and when he got",
+                "(c) no response, he got back immediately.",
+                "(d) No error"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use knocked at the door in place of knocked the door.\nExplanation:- knock at - darwaaza khatkhataana."
+            },
+            {
+              "id": 108,
+              "question": "Each student will have to carry his own lunch on the picnic.",
+              "options": [
+                "(a) Each student",
+                "(b) his own lunch",
+                "(c) on the picnic",
+                "(d) will have to carry"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'to' instead of 'on'\nExplanation:- carry something to a place"
+            },
+            {
+              "id": 109,
+              "question": "The actor smiled to me when I entered the room as if she knew me.",
+              "options": [
+                "(a) The actor smiled to me",
+                "(b) knew me",
+                "(c) as if she",
+                "(d) when I entered the room"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'at' instead of 'to'\nExplanation:- Kyunki 'smile' ke saath 'at' ka use kiya jaata hai."
+            },
+            {
+              "id": 110,
+              "question": "We reserved tickets for a journey on train for the next morning for my sisters and me.",
+              "options": [
+                "(a) for a journey on train",
+                "(b) for my sisters and me",
+                "(c) for the next morning",
+                "(d) We reserved tickets"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'by' instead of 'on'\nExplanation:- Kyunki 'means of transportation' se pehle kisi article ka use nahi kiya jaata hai 'by + transport' ka use kiya jaata hai."
+            },
+            {
+              "id": 111,
+              "question": "I am sorry to say that / I am not familiar with you and / with such types of things.",
+              "options": [
+                "(a) I am sorry to say that",
+                "(b) I am not familiar with you and",
+                "(c) with such types of things.",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use familiar to you in place of familiar with you."
+            },
+            {
+              "id": 112,
+              "question": "I won't be here next week as I'm going to Mumbai to a conference.",
+              "options": [
+                "(a) I won't",
+                "(b) be here",
+                "(c) to a conference",
+                "(d) as I'm going"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'for' instead of 'to'\nExplanation:- For - ke liye Yahan meaning ye dena hai ki Main Mumbai jaa raha hun ek conference ke liye."
+            },
+            {
+              "id": 113,
+              "question": "What shall we do on ourselves this evening?",
+              "options": [
+                "(a) this evening",
+                "(b) on ourselves",
+                "(c) What shall",
+                "(d) we do"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'with' instead of 'on'\nExplanation:- Yeh ek fix phrase hai:- what shall we do with ourselves this evening - hum aaj shaam ko kya karenge?"
+            },
+            {
+              "id": 114,
+              "question": "Instead of studying in home I went to my friend's house.",
+              "options": [
+                "(a) in home",
+                "(b) I went",
+                "(c) Instead of studying",
+                "(d) to my friend's house."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'at' instead of 'in'\nExplanation:- At used to show an exact position or particular place,"
+            },
+            {
+              "id": 115,
+              "question": "High level security arrangements were made for the forthcoming visit to a Japanese Prime Minister.",
+              "options": [
+                "(a) security arrangements",
+                "(b) were made",
+                "(c) for the forthcoming",
+                "(d) visit to a"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'of' instead of 'to' and use 'The Prime Minister' instead of 'Prime Minister'\nExplanation:- visit of the Japanese Prime minister = Japanese Prime minister ki visit"
+            },
+            {
+              "id": 116,
+              "question": "It takes me one hour to get to work in the morning in week day.",
+              "options": [
+                "(a) in week day",
+                "(b) in the morning",
+                "(c) takes me",
+                "(d) to get to work"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'on a week day ya on week days' instead of 'in week day'\nExplanation:- Kyunki 'days' se pehle 'on' ka use kiya jaata hai, aur ya toh 'day' se pehle article lagega ya use plural karenge."
+            },
+            {
+              "id": 117,
+              "question": "We have sufficient food and clothing about the flood victims in Kerala.",
+              "options": [
+                "(a) We have sufficient",
+                "(b) in Kerala",
+                "(c) about the flood victims",
+                "(d) food and clothing."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'for' instead of 'about'\nExplanation:- Sufficient for somebody/something."
+            },
+            {
+              "id": 118,
+              "question": "The Social Media Department is headless at the moment and many are vying to the post.",
+              "options": [
+                "(a) is headless at the moment",
+                "(b) The Social Media Department",
+                "(c) to the post",
+                "(d) and many are vying"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'for' instead of 'to'\nExplanation:- Vie for something - compete for something vie for (phrasal verb) kisi cheez ke liye compete karna."
+            },
+            {
+              "id": 119,
+              "question": "I am going to a holiday to Panchmukhi tomorrow.",
+              "options": [
+                "(a) tomorrow",
+                "(b) to a holiday",
+                "(c) to Panchmukhi",
+                "(d) I am going"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'on' instead of 'to'\nExplanation:- Kyunki 'go on a holiday' ek fix phrase hai."
+            },
+            {
+              "id": 120,
+              "question": "Each film will be checked by a government-appointed censor board along public exhibition.",
+              "options": [
+                "(a) along public exhibition.",
+                "(b) each film",
+                "(c) by a government-appointed censor board",
+                "(d) will be checked"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'before' instead of 'along'\nExplanation: kyunki 'before' pehle Aur yahan meaning ye dena hai ki: public exhibition se pehle."
+            },
+            {
+              "id": 121,
+              "question": "Instead of helping her mother at the kitchen, Rekha was on her mobile talking to her friend.",
+              "options": [
+                "(a) talking to her friend",
+                "(b) of helping",
+                "(c) at the kitchen",
+                "(d) on her mobile."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'in' instead of 'at'\nExplanation:- In inside a container, place, or area, or surrounded or closed off by something."
+            },
+            {
+              "id": 122,
+              "question": "We have observed that / many good programmers suffer of / shortage of funds and other resources.",
+              "options": [
+                "(a) We have observed that",
+                "(b) many good programmers suffer of",
+                "(c) shortage of funds and other resources.",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use suffer from in place of suffer of."
+            },
+            {
+              "id": 123,
+              "question": "Whether it is English / or Hindi I am with home / with both the languages.",
+              "options": [
+                "(a) Whether it is English",
+                "(b) or Hindi I am with home",
+                "(c) with both the languages.",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use at home in place of with home.\nExplanation:- at home comfortable with something. Eg. I am at home with this concept = Main is concept ko achchi tarah se samjhta hun ya iske sath comfortable hun."
+            },
+            {
+              "id": 124,
+              "question": "The servant was beaten through his master with a stick.",
+              "options": [
+                "(a) No error",
+                "(b) with a stick",
+                "(c) through his master",
+                "(d) The servant was beaten"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'by' instead of 'through'\nExplanation:- Kyunki passive voice me 'by + doer' ka use kiya jaata hai."
+            },
+            {
+              "id": 125,
+              "question": "The city of Banaras is widely known from its ghats and temples.",
+              "options": [
+                "(a) ghats and temples",
+                "(b) The city of Banaras",
+                "(c) from its",
+                "(d) is widely known"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'for' instead of 'from'\nExplanation:- Known for something- kisi cheez ke liye mashhoor hona."
+            },
+            {
+              "id": 126,
+              "question": "In the evening he likes to read books and articles that have nothing to do of his work.",
+              "options": [
+                "(a) do of his work",
+                "(b) In the evening he likes",
+                "(c) that have nothing to",
+                "(d) to read books and articles"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'with' instead of 'of'\nExplanation:- have nothing to do with something = not related to something. Eg. - This argument has nothing to do with me."
+            },
+            {
+              "id": 127,
+              "question": "A friend of mine is working as a photographer of the local newspaper.",
+              "options": [
+                "(a) A friend of mine",
+                "(b) the local newspaper",
+                "(c) is working as a",
+                "(d) photographer of"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'for' instead of 'of'\nExplanation:- Work for somebody/something.\nNote:- Agar 'the local newspaper' ko 'as an institution' maane toh 'at' bhi laga sakte hain but meaning ke according yahan 'for' better hai."
+            },
+            {
+              "id": 128,
+              "question": "There is no point of arguing over something so unimportant.",
+              "options": [
+                "(a) over something",
+                "(b) There is no",
+                "(c) point of arguing",
+                "(d) so unimportant"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'in' instead of 'of'\nExplanation:- No point in doing something = Yeh kaam karne se koi fayda nahi hai."
+            },
+            {
+              "id": 129,
+              "question": "We may have to await for / a new political order to restructure / our economy by adopting a model of development closer to our needs.",
+              "options": [
+                "(a) We may have to await for",
+                "(b) a new political order to restructure",
+                "(c) our economy by adopting a model of development closer to our needs.",
+                "(d) No error"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use await in place of await for.\nExplanation:- await wait for. 'await' ek transitive verb hai iske aur object ke beech me preposition nahi aayegi."
+            },
+            {
+              "id": 130,
+              "question": "After playing cricket / till 2 o'clock / the children ate their lunch / and left to home.",
+              "options": [
+                "(a) the children ate their lunch",
+                "(b) till 2 o'clock",
+                "(c) After playing cricket",
+                "(d) and left to home"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'for' instead of 'to'\nExplanation: Leave for a place kisi jagah ke liye nikalna."
+            },
+            {
+              "id": 131,
+              "question": "I went to see / the Taj Mahal in a / moonlit night.",
+              "options": [
+                "(a) I went to see",
+                "(b) the Taj Mahal in a",
+                "(c) moonlit night.",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use on in place of in.\nExplanation:-\nNote:- 'generally night' se pehle 'at' preposition ka use hota hai. Par agar koi 'specific night' ki baat ho rhi ho toh 'on' ka use karte hain. Eg. On the Christmas night. On the Diwali night"
+            },
+            {
+              "id": 132,
+              "question": "She was the best singer / on the country / who had sung / more than 5,000 songs.",
+              "options": [
+                "(a) who had sung",
+                "(b) on the country",
+                "(c) She was the best singer",
+                "(d) more than 5,000 songs"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'in' instead of 'on'"
+            },
+            {
+              "id": 133,
+              "question": "My friends proposed me / that we should go to the movie / and then have dinner at a hotel.",
+              "options": [
+                "(a) My friends proposed me",
+                "(b) that we should go to the movie",
+                "(c) and then have dinner at a hotel.",
+                "(d) No error"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use proposed to me in place of proposed me.\nExplanation:- 'propose' verb ka object 'human being' nahi banega."
+            },
+            {
+              "id": 134,
+              "question": "The robbers broke in the house at night.",
+              "options": [
+                "(a) at night",
+                "(b) the house",
+                "(c) The robbers",
+                "(d) broke in"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'into' instead of 'in'\nExplanation: Break into enter or open a place, vehicle, or container forcibly, especially for the purposes of theft."
+            },
+            {
+              "id": 135,
+              "question": "While she was returning / from college, a ruffian / attacked on her with a dagger.",
+              "options": [
+                "(a) While she was returning",
+                "(b) from college, a ruffian",
+                "(c) attacked on her with a dagger.",
+                "(d) No error"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Remove on.\nExplanation:- attack transitive verb hai"
+            },
+            {
+              "id": 136,
+              "question": "To escape floods, a tigress took refuge at a vegetable garden.",
+              "options": [
+                "(a) took refuge",
+                "(b) at a vegetable garden",
+                "(c) a tigress",
+                "(d) To escape floods,"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'in' instead of 'at'"
+            },
+            {
+              "id": 137,
+              "question": "People living in low-lying / areas find it difficult to / cope up with the floods.",
+              "options": [
+                "(a) People living in low-lying",
+                "(b) areas find it difficult to",
+                "(c) cope up with the floods.",
+                "(d) No error"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use cope with in place of cope up with.\nExplanation:- cope with to deal successfully with a difficult matter or situation. Kathin sthiti se safaltapurvak nipatna."
+            },
+            {
+              "id": 138,
+              "question": "Diksha has been in a grumpy mood from she got up.",
+              "options": [
+                "(a) from she got up",
+                "(b) Diksha has",
+                "(c) grumpy mood",
+                "(d) been in a"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'since' instead of 'from'\nExplanation:- Kyunki 'point of time' ko refer karne ke liye 'since' ka use kiya jaata hai.\nNote:- yahan 'she got up' ye past ka action 'point of time' ka kaam kar rha hai."
+            },
+            {
+              "id": 139,
+              "question": "The month of / January takes its name of / the Roman god Janus.",
+              "options": [
+                "(a) The month of",
+                "(b) January takes its name of",
+                "(c) the Roman god Janus.",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use name from in place of name of.\nExplanation:- Jab kisi person ya cheez ka naam kisi se liya jaata hai tab ye from ka use karte hain. Eg. She takes his name from a flower."
+            },
+            {
+              "id": 140,
+              "question": "The travel agent is making the arrangements from my trips.",
+              "options": [
+                "(a) the arrangements",
+                "(b) is making",
+                "(c) from my trips",
+                "(d) The travel agent"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'for' instead of 'from'\nExplanation:- for ke liye Yahan meaning ye dena hai ki:- trips ke liye arrangements"
+            },
+            {
+              "id": 141,
+              "question": "The Committee is thinking / of not bringing around any / change in the basic structure.",
+              "options": [
+                "(a) The Committee is thinking",
+                "(b) of not bringing around any",
+                "(c) change in the basic structure.",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use about in place of around.\nExplanation:- bring about - cause something to happen. \"she brought about a revolution in the field of swimming\""
+            },
+            {
+              "id": 142,
+              "question": "Pallavi was relaxing in the beach at this time yesterday.",
+              "options": [
+                "(a) beach at this",
+                "(b) Pallavi was",
+                "(c) time yesterday",
+                "(d) relaxing in"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'on' instead of 'in'"
+            },
+            {
+              "id": 143,
+              "question": "It seems that my watch / is not working properly so / will you please tell me what's the time in your watch.",
+              "options": [
+                "(a) It seems that my watch",
+                "(b) is not working properly so",
+                "(c) will you please tell me what's the time in your watch.",
+                "(d) No error"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Replace 'in your watch' with 'by your watch'.\nExplanation:- Yeh ek 'fixed phrase' hai 'time by one's watch' jiska meaning hai 'kisi ki ghadi ke hisaab se time'"
+            },
+            {
+              "id": 144,
+              "question": "Sakshi discussed about the problem with her manager very briefly.",
+              "options": [
+                "(a) with her manager",
+                "(b) about the problem",
+                "(c) Sakshi discussed",
+                "(d) very briefly"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Remove 'about'\nExplanation:- Kyunki 'discuss' ek transitive verb hai iske sath kisi bhi preposition ka use nahi kiya jaata hai."
+            },
+            {
+              "id": 145,
+              "question": "I have just come to know / that Mr. Ray, one of my favorite / teachers died with cancer recently.",
+              "options": [
+                "(a) I have just come to know",
+                "(b) that Mr. Ray, one of my favorite",
+                "(c) teachers died with cancer recently.",
+                "(d) No error"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use died of in place of died with.\nExplanation:- disease - die of"
+            },
+            {
+              "id": 146,
+              "question": "Tilak rowed through the river and tied his boat on the other side.",
+              "options": [
+                "(a) and tied his boat",
+                "(b) on the other side",
+                "(c) Tilak rowed",
+                "(d) through the river"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'across' instead of 'through'\nExplanation:- Across from one side to the other of something 2 dimensional with clear limits, such as an area of land, a road, or a river."
+            },
+            {
+              "id": 147,
+              "question": "The Principal requested to the Chief Guest to inaugurate the sports meet.",
+              "options": [
+                "(a) The Principal requested",
+                "(b) the sports meet",
+                "(c) to the Chief Guest",
+                "(d) to inaugurate"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Remove 'to'\nExplanation:- Kyunki 'request' ek transitive verb hai iske sath kisi bhi preposition ka use nahi kiya jaata hai."
+            },
+            {
+              "id": 148,
+              "question": "The man who was / blind with the right eye was a / notorious criminal of this area.",
+              "options": [
+                "(a) The man who was",
+                "(b) blind with the right eye was a",
+                "(c) notorious criminal of this area.",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use blind in in place of blind with.\nExplanation:- blind to negligent. blind in- one eye. blind of both eyes"
+            },
+            {
+              "id": 149,
+              "question": "On September 11, 2001, two hijacked aircraft crashed to the World Trade Centre in New York.",
+              "options": [
+                "(a) two hijacked aircraft",
+                "(b) On September 11, 2001",
+                "(c) crashed to the",
+                "(d) World Trade Centre in New York"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'into' instead of 'to'\nExplanation:- Crash into something."
+            },
+            {
+              "id": 150,
+              "question": "He was very much engaged / in his work when the thieves / entered into the house and took away a lot of things.",
+              "options": [
+                "(a) He was very much engaged",
+                "(b) in his work when the thieves",
+                "(c) entered into the house and took away a lot of things.",
+                "(d) No error"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use entered in place of entered into.\nExplanation:- 'enter, visit and reach' ke baad me noun bhale hi 'where' ka reply lage, in verbs ko transitive manana hai aur aage likhe noun ko inka object."
+            },
+            {
+              "id": 151,
+              "question": "The management is not [beware of] this fact.",
+              "options": [
+                "(a) aware of",
+                "(b) awaking to",
+                "(c) beware to",
+                "(d) watchful with"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation: yhan meaning ye dena hai ki 'management iss fact ko leke aware nhi hai' aur aware ke sath of aati hai aur 'is' linking verb ke baad adjective chahiye isliye A option 'aware of sahi hai."
+            },
+            {
+              "id": 152,
+              "question": "The young boy displayed an [aptitude on] scientific research.",
+              "options": [
+                "(a) aptitude for",
+                "(b) aptitude at",
+                "(c) aptitude by",
+                "(d) aptitude in"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Aptitude for something- Natural tendency or inclination. Isliye grammar and meaning ke according A option 'aptitude for sahi hai."
+            },
+            {
+              "id": 153,
+              "question": "Solomon always refers [in the dictionary] for clearing doubts about words.",
+              "options": [
+                "(a) on the dictionary",
+                "(b) No substitution",
+                "(c) to the dictionary",
+                "(d) with the dictionary"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'Refer verb ke sath generally 'to' preposition aati hai. isliye C option refers to the dictionary' sahi hai."
+            },
+            {
+              "id": 154,
+              "question": "Select the sentence with the appropriate use of preposition.",
+              "options": [
+                "(a) They rise with the morning lark and labour till almost dark.",
+                "(b) They rise with the morning lark and labour utmost almost dark.",
+                "(c) They rise with the morning lark and labour by almost dark.",
+                "(d) They rise with the morning lark and labour still almost dark."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:-yhan meaning ye dena hai ki 'wo andhera hone tak kaam karte hain' iss meaning ke liye 'till' preposition ka use hoga."
+            },
+            {
+              "id": 155,
+              "question": "The banker warned me not to be [careless from] my ATM card.",
+              "options": [
+                "(a) careless beside",
+                "(b) careless with",
+                "(c) careless across",
+                "(d) careless on"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Careless with/about something- kisi cheez ko leke careless hona. Isliye meaning ke according yhan B option 'careless with' sahi hai."
+            },
+            {
+              "id": 156,
+              "question": "We [congratulated him at] his new job. He was delighted.",
+              "options": [
+                "(a) congratulate him up",
+                "(b) congratulated him on",
+                "(c) congratulate him with",
+                "(d) congratulate him along"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- congratulate verb generally iss structure me use ki jati hai 'congratulate somebody on something' - kisi ko kisi cheez par badhai dena. isliye B option sahi hai."
+            },
+            {
+              "id": 157,
+              "question": "The rate of interest for the loan went [out all our calculations].",
+              "options": [
+                "(a) under all our calculations",
+                "(b) No substitution",
+                "(c) beyond all our calculations",
+                "(d) besides all our calculations"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation: yhan meaning ye dena hai ki 'rate of interest humari saari calculations se paar chala gya' iss meaning ke liye C option 'beyond all our calculations' sahi hai."
+            },
+            {
+              "id": 158,
+              "question": "In order to succeed in life, we need to work [instead waste time].",
+              "options": [
+                "(a) despite wasting time",
+                "(b) No improvement required",
+                "(c) in spite of wasting time",
+                "(d) instead of wasting time"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation: yhan meaning ye dena hai ki 'tumhe kaam karna chahiye, time waste karne ki bjaye' iss meaning ke liye D option 'instead of...' sahi hai."
+            },
+            {
+              "id": 159,
+              "question": "Saroj has been suffering [with osteoporosis from when] she was fifty years old.",
+              "options": [
+                "(a) from osteoporosis since",
+                "(b) from osteoporosis from when",
+                "(c) with osteoporosis since",
+                "(d) no improvement required"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'suffer from an illness' sahi structure hota hai aur aage past ka action point of time ki tarah kaam kar rha hai jiske liye 'since' preposition ka use hoga. isliye A option sahi hai."
+            },
+            {
+              "id": 160,
+              "question": "I take pride [to serve] my country.",
+              "options": [
+                "(a) to be serving",
+                "(b) No Improvement",
+                "(c) to have served",
+                "(d) in serving"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- 'take pride in doing something' sahi structure hai iska meaning hota hai kisi kaam ko karne me garv mehsoos karna. isliye D option sahi hai."
+            },
+            {
+              "id": 161,
+              "question": "This statue of Lord Buddha is carved [in] jade.",
+              "options": [
+                "(a) as of",
+                "(b) out of",
+                "(c) besides",
+                "(d) by of"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'carved out of something' kisi cheez ko kaat ke bnaya gya. isliye meaning ke according yhan B option 'out of' sahi hai."
+            },
+            {
+              "id": 162,
+              "question": "I'll try to phone you [in the meeting].",
+              "options": [
+                "(a) at the meeting",
+                "(b) during the meeting",
+                "(c) in meeting",
+                "(d) No substitution"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation: yhan best possible meaning ye hoga ki 'mai try karunga tumhe call karne ki meeting ke dauraan' isliye B option 'during the meeting' sahi hai."
+            },
+            {
+              "id": 163,
+              "question": "The scientists have so far focused on [improve cropped] yields.",
+              "options": [
+                "(a) improving crop",
+                "(b) improvement crop",
+                "(c) No improvement",
+                "(d) improve cropping"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'on' preposition ke baad object ayega aur object gerund bnana padega taki aage likha 'yields' noun uss gerund ka object ban sake. isliye A option- 'improving crop yields' sahi hai."
+            },
+            {
+              "id": 164,
+              "question": "He pays me six dollars [the month of this] house.",
+              "options": [
+                "(a) No improvement",
+                "(b) an month for these",
+                "(c) a month over this",
+                "(d) a month for this"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- yhan 'six dollars a month 'ka meaning hai 'six dollars per month' aur 'house' singular hai isliye 'this' ayega. isliye D option sahi hai."
+            },
+            {
+              "id": 165,
+              "question": "Subhash had just returned from [work in] 9 p.m.",
+              "options": [
+                "(a) work at",
+                "(b) the work on",
+                "(c) working in",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Particular time jaise 8pm, 9 am etc ke liye 'at' preposition ka use hota hai isliye 'returned from work at 9pm' sahi hai."
+            },
+            {
+              "id": 166,
+              "question": "He went to bed early to [get up on time] to attend his morning lecture.",
+              "options": [
+                "(a) get up over time",
+                "(b) No improvement",
+                "(c) get up for time",
+                "(d) get up at time"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- yhan meaning ye dena hai ki 'subh time se uthne ke liye ' iss meaning ke liye B option 'to get up on time' ka use hoga."
+            },
+            {
+              "id": 167,
+              "question": "The eggs [are warm into] a suitable temperature for the larvae to hatch from eggs.",
+              "options": [
+                "(a) No improvement",
+                "(b) are warmed for",
+                "(c) are warmed to",
+                "(d) is warmed at"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'to' preposition limit ko show karne ke liye bhi use kari jati hai isliye The eggs are warmed to a suitable temperature' sahi hoga."
+            },
+            {
+              "id": 168,
+              "question": "The old lady needed love and care [beyond] money.",
+              "options": [
+                "(a) besides",
+                "(b) No substitution",
+                "(c) beside",
+                "(d) beneath"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- yhan meaning ye dena hai ki' old lady ko love and care ki jarurat thi paise ke alawa' iss meaning ke liye A option 'besides' ka use hoga kyunki 'besides' = in addition to something"
+            },
+            {
+              "id": 169,
+              "question": "My father was always [ordering about my sister].",
+              "options": [
+                "(a) ordering on my sister",
+                "(b) ordering my sister about",
+                "(c) No improvement required",
+                "(d) giving order for my sister"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation: ye phrasal based question hai. 'order somebody about' ka meaning hota hai - kisi ko baar baar rude manner me ye btana ki unhe kya karna chahiye. isliye meaning and grammar ke according yhan B option sahi hai."
+            },
+            {
+              "id": 170,
+              "question": "When Sirisha [knock at the door] someone peeped through the window.",
+              "options": [
+                "(a) knocked door",
+                "(b) knocked at the door",
+                "(c) knocked on door",
+                "(d) No substitution"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Sentence ke meaning ke according yhan past tense use hoga aur 'knock' verb ke sath 'at' preposition ka use hoga isliye B option sahi hai."
+            },
+            {
+              "id": 171,
+              "question": "The shopkeeper was obliged to dispense [to the service] of his salesman.",
+              "options": [
+                "(a) with the services",
+                "(b) by the services",
+                "(c) away the service",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'dispense with something/somebody' ka matlb hota hai kisi cheez ya person ka use karna band kar dena kyuki ab unki jarurat nhi ho. Yhan meaning ye dena hai ki 'shopkeeper ne salesman ko hta dia ya uski services ka use band kar dia' isliye meaning ke according yhan A option sahi hai."
+            },
+            {
+              "id": 172,
+              "question": "Once Birbal was forbidden [for attending] the king's free lunch.",
+              "options": [
+                "(a) from attending",
+                "(b) in attending",
+                "(c) No substitution",
+                "(d) to be attending"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'forbid' verb ke sath generally 'from' preposition ka use hota hai. isliye A option 'from attending' sahi hai."
+            },
+            {
+              "id": 173,
+              "question": "I have online science classes [for Wednesdays].",
+              "options": [
+                "(a) on Wednesdays",
+                "(b) from Wednesdays",
+                "(c) in Wednesdays",
+                "(d) at Wednesdays"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Days ke name ke sath generally 'on' preposition ka use hota hai. isliye A option 'on Wednesdays' ka use hoga.\nNote: yhan Wednesdays jo plural me use hua hai wo sahi hai iska meaning hai har wednesday ko."
+            },
+            {
+              "id": 174,
+              "question": "Our school has been issued instructions to restrict online classes to two hours [towards] the primary classes.",
+              "options": [
+                "(a) from",
+                "(b) No substitution",
+                "(c) for",
+                "(d) into"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Yhan meaning dena hai ki 'primary classes ke liye' iss meaning ke liye C option 'for' preposition sahi hai."
+            },
+            {
+              "id": 175,
+              "question": "This silver glass will shine if you [rub by] lemon peel.",
+              "options": [
+                "(a) No substitution",
+                "(b) rub it with",
+                "(c) rubbed it by",
+                "(d) rubbing it by"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Tense ke according yhan present indefinite ka use hoga aur 'lemon peel' yhan ek instrument ki tarah use kiya ja rha hai isliye 'with' preposition ka use hoga. Isliye B option sahi hai."
+            },
+            {
+              "id": 176,
+              "question": "[From] all her birthday presents, Vanya liked the alphabetical mat the most.",
+              "options": [
+                "(a) Except",
+                "(b) Between",
+                "(c) No substitution",
+                "(d) Amongst"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation: yhan meaning dena hai uske sab birthday presents me se...' isliye D option 'amongst' sahi hai."
+            },
+            {
+              "id": 177,
+              "question": "There were many options to [choose for] and I decided to study International Policy.",
+              "options": [
+                "(a) choose from",
+                "(b) No substitution",
+                "(c) choose by",
+                "(d) choose with"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'choose from the options' structure generally use kiya jata hai isliye A option sahi hai."
+            },
+            {
+              "id": 178,
+              "question": "The prisoners are [kept at] constant surveillance.",
+              "options": [
+                "(a) kept by",
+                "(b) kept under",
+                "(c) kept with",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- The prisoners are kept under constant surveillance' ka matlb hai prisoners constant nigrani me rakhe jaate hain. ye structure grammatically and meaning wise sahi hai."
+            },
+            {
+              "id": 179,
+              "question": "It is wise to insure one's home [on] fire.",
+              "options": [
+                "(a) No improvement",
+                "(b) in",
+                "(c) by",
+                "(d) against"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- 'Insure against something' ka matlb hota hai uske emergency ke liye insurance karana. Eg. insure against fire aag lagne ka Insurance krana, insure against damage - damage ke liye insurance krana. isliye D option 'against' sahi hai."
+            },
+            {
+              "id": 180,
+              "question": "A heavy fine [will be inflicted with them] if they do not pay the taxes in time.",
+              "options": [
+                "(a) will be inflicted for them",
+                "(b) will be inflicted of them",
+                "(c) No substitution required",
+                "(d) will be inflicted on them"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- 'inflict' verb ke sath generally 'on' preposition ka use hota hai. isliye D option ka use hoga."
+            },
+            {
+              "id": 181,
+              "question": "The students were [warned on] coming late to school.",
+              "options": [
+                "(a) warned against",
+                "(b) warned at",
+                "(c) warned in",
+                "(d) warned with"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'warn against' ka matlb hota hai koi kaam karne ke liye strongly mna karna. isliye meaning ke according yhan A option ka use hoga."
+            },
+            {
+              "id": 182,
+              "question": "He [was sitting besides his] best friend during the event.",
+              "options": [
+                "(a) was sitting about his",
+                "(b) was sitting beside his",
+                "(c) were sitting besides his",
+                "(d) was sitting besides her"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- beside next to someone or something (kisi ke bagal me ). Besides in addition to something. Iss liye meaning ke according yhan B option ka use hoga."
+            },
+            {
+              "id": 183,
+              "question": "We want to divide the expenses [between] the three of us.",
+              "options": [
+                "(a) at",
+                "(b) among",
+                "(c) from",
+                "(d) for"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- yhan 2 se jyada logon ki baat ho rhi hai isliye 'among' preposition ka use hoga."
+            },
+            {
+              "id": 184,
+              "question": "There was enough evidence to [convict him of] selling adulterated food.",
+              "options": [
+                "(a) convict him in",
+                "(b) convict him into",
+                "(c) No substitution",
+                "(d) convict him by"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Convict verb ka structure hota hai - 'convict someone of something' isliye question me diya structure sahi hai."
+            },
+            {
+              "id": 185,
+              "question": "Every year the family goes [for a pilgrim] to the temple at Tirupati.",
+              "options": [
+                "(a) at the pilgrim",
+                "(b) from the pilgrimage",
+                "(c) No substitution",
+                "(d) on a pilgrimage"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- yhan meaning dena hai ki ' har saal wo family ek dharmik yatra pe jaati thi Tirupati mandir ko.' isliye D option 'on a pilgrimage' sahi hai."
+            },
+            {
+              "id": 186,
+              "question": "The child put a ladder [on the wall] and climbed up.",
+              "options": [
+                "(a) above the wall",
+                "(b) over a wall",
+                "(c) No improvement",
+                "(d) against the wall"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- ladder wall ke inclined position me Igai jaati hai uske liye 'against' preposition ka use hota hai. isliye D option 'against the wall' sahi hai."
+            },
+            {
+              "id": 187,
+              "question": "I bet you can't beat me [by chess].",
+              "options": [
+                "(a) on chess",
+                "(b) in the chess",
+                "(c) at chess",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- sahi structure hota hai 'beat someone at something' isliye C option 'at chess' sahi hai."
+            },
+            {
+              "id": 188,
+              "question": "The director will [agree with the proposal] if we do not exceed the budget.",
+              "options": [
+                "(a) agree to the proposal",
+                "(b) agree on a proposal",
+                "(c) No improvement",
+                "(d) agreed by the proposal"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- kisi cheez ko accept karne ke liye agree hone ke liye agree ke sath 'to' preposition ka use hota hai. isliye A option 'agree to the proposal sahi hoga."
+            },
+            {
+              "id": 189,
+              "question": "The diver [dive in the pool] from a great height.",
+              "options": [
+                "(a) dived at the pool",
+                "(b) No improvement",
+                "(c) dives to a pool",
+                "(d) dived into the pool"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:-yhan motion ko show karne ke liye 'into' preposition ka use hoga isliye D option 'dived into the pool' sahi hai."
+            },
+            {
+              "id": 190,
+              "question": "The old lady nearly [dead from fright].",
+              "options": [
+                "(a) dead out of fright",
+                "(b) died of fright",
+                "(c) died with frightening",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Disease ke die - of. Accident ke liye die - in and hunger, thirst, fright etc ke liye die from/die of dono use hote hain but competitive exams me 'die of ka hi use dekha gya isliye exam me die of ko mark karen."
+            },
+            {
+              "id": 191,
+              "question": "Food and water are the two basic necessities that citizens should have [accessing in].",
+              "options": [
+                "(a) access for",
+                "(b) access at",
+                "(c) No improvement",
+                "(d) access to"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- 'access' ke sath generally 'to' preposition ka use hota hai. isliye D option 'access to' sahi hai."
+            }
+          ]
         }
       ]
     }
