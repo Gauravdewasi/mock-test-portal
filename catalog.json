@@ -11254,6 +11254,612 @@
               "solutionHinglish": "Ans (a) Correct answer is 'conjunction, demonstrative adjective, possessive pronoun'\nExplanation:- First 'that' दो clauses ko jodne wali conjunction hai, second 'that' 'cow' noun ke liye demonstrative adjective hai, aur 'his' bina noun ke aaya possessive pronoun hai."
             }
           ]
+        },
+        {
+          "id": "t_1793535188697",
+          "name": "Parts of Speech Level-02",
+          "questions": [
+            {
+              "id": 1,
+              "question": "[The] cat loves comfort.",
+              "options": [
+                "(a) Indefinite article",
+                "(b) Definite article",
+                "(c) Intensifier",
+                "(d) Subject"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'definite article'\nExplanation:- 'a, an' indefinite article hote hai, aur 'the' definite article hota hai."
+            },
+            {
+              "id": 2,
+              "question": "Life is a [solo] fight, and each person makes his or her own journey.",
+              "options": [
+                "(a) Noun",
+                "(b) Adjective",
+                "(c) Intensifier",
+                "(d) Adverb"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'adjective'\nExplanation:- 'solo' adjective hai jo 'fight' noun ko qualify kar raha hai."
+            },
+            {
+              "id": 3,
+              "question": "[Being] seriously ill, He was taken to hospital.",
+              "options": [
+                "(a) gerund",
+                "(b) main verb",
+                "(c) present participle",
+                "(d) Infinitive"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'present participle'\nExplanation:- 'Being seriously ill' mein 'Being' present participle hai jo 'He' ke liye aaya hai."
+            },
+            {
+              "id": 4,
+              "question": "For the next generation of interior architects and design graduates, work [opportunities] are immense.",
+              "options": [
+                "(a) Adverb",
+                "(b) Adjective",
+                "(c) Noun",
+                "(d) Pronoun"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'noun'\nExplanation:- 'opportunities' subject (noun) hai jiske liye 'are' linking verb aayi hai."
+            },
+            {
+              "id": 5,
+              "question": "Rakesh is [too] old to run fast.",
+              "options": [
+                "(a) Adverb",
+                "(b) Conjunction",
+                "(c) Intensifier",
+                "(d) Noun"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'intensifier'\nExplanation:- 'too' 'old' adjective ki intensity badha raha hai, isliye 'intensifier' (adverb of degree) choose karna behtar rahega."
+            },
+            {
+              "id": 6,
+              "question": "I got the news of his [being] arrested.",
+              "options": [
+                "(a) gerund",
+                "(b) present participle",
+                "(c) passive",
+                "(d) main verb"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'gerund'\nExplanation:- 'of' preposition hai jiska object 'being' gerund (noun) hai."
+            },
+            {
+              "id": 7,
+              "question": "I know very well [what] you want.",
+              "options": [
+                "(a) Emphatic pronoun",
+                "(b) Interrogative pronoun",
+                "(c) Relative pronoun",
+                "(d) Personal pronoun"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'Relative pronoun'\nExplanation:- Yahan 'what' relative pronoun hai jo pronoun + conjunction ka kaam kar raha hai."
+            },
+            {
+              "id": 8,
+              "question": "You are paying [less] attention to your studies these days.",
+              "options": [
+                "(a) Adverb",
+                "(b) Adjective",
+                "(c) Intensifier",
+                "(d) Noun"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'adjective'\nExplanation:- 'attention' noun hai jisko qualify 'less' kar raha hai, isliye 'less' adjective hai."
+            },
+            {
+              "id": 9,
+              "question": "Public culture is associated with [extremely] new civil societies.",
+              "options": [
+                "(a) Adverb",
+                "(b) Intensifier",
+                "(c) Adjective",
+                "(d) Noun Clause"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'intensifier'\nExplanation:- 'extremely' adverb of degree (intensifier) hai jo 'new' adjective ki intensity badha raha hai."
+            },
+            {
+              "id": 10,
+              "question": "We went away [after] they had left.",
+              "options": [
+                "(a) Pronoun",
+                "(b) Adjective",
+                "(c) Intensifier",
+                "(d) Conjunction"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Correct answer is 'conjunction'\nExplanation:- 'after' yahan conjunction hai jo 'We went away' aur 'they had left' do clauses ko jod raha hai."
+            },
+            {
+              "id": 11,
+              "question": "They wandered [around] aimlessly.",
+              "options": [
+                "(a) Verb",
+                "(b) Adjective",
+                "(c) Adverb",
+                "(d) preposition"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'adverb'\nExplanation:- 'around' ke baad koi object (noun) nahi hai balki yeh 'wandered' verb ko qualify kar raha hai, isliye yahan 'around' adverb hai."
+            },
+            {
+              "id": 12,
+              "question": "The conclusions that they came to are highly [questionable].",
+              "options": [
+                "(a) Noun",
+                "(b) Adjective",
+                "(c) Adverb",
+                "(d) Gerund"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'adjective'\nExplanation:- 'are' linking verb hai aur 'questionable' subject complement (adjective) hai."
+            },
+            {
+              "id": 13,
+              "question": "This year marks the [quincentenary] of Columbus's voyage to America.",
+              "options": [
+                "(a) Noun",
+                "(b) Adjective",
+                "(c) Adverb",
+                "(d) Article"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'Noun'\nExplanation:- 'the' article ke baad 'quincentenary' (500th anniversary) noun hai."
+            },
+            {
+              "id": 14,
+              "question": "I still cherish the memories of those [far-off] days.",
+              "options": [
+                "(a) Preposition",
+                "(b) Conjunction",
+                "(c) Adjective",
+                "(d) Adverb"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'adjective'\nExplanation:- 'days' noun ko qualify 'far-off' kar raha hai, isliye 'far-off' adjective hai."
+            },
+            {
+              "id": 15,
+              "question": "I don't think I'll come on Saturday. I have a lot of work to do. [Besides], I don't really like parties.",
+              "options": [
+                "(a) Adjective",
+                "(b) Adverb",
+                "(c) Preposition",
+                "(d) Conjunction"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'adverb'\nExplanation:- 'Besides' sentence ke starting mein comma ke sath poore sentence ko modify kar raha hai, isliye yahan adverb hai."
+            },
+            {
+              "id": 16,
+              "question": "The [bottom line] is that we have to make a decision today.",
+              "options": [
+                "(a) Noun",
+                "(b) Pronoun",
+                "(c) Adverb",
+                "(d) Adjective"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'noun'\nExplanation:- 'The' article ke baad 'bottom line' subject (noun) hai."
+            },
+            {
+              "id": 17,
+              "question": "Try to knock that vase [over].",
+              "options": [
+                "(a) Preposition",
+                "(b) Conjunction",
+                "(c) Adjective",
+                "(d) Adverb"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Correct answer is 'adverb'\nExplanation:- 'knock over' phrasal verb mein 'over' ke baad koi object nahi hai, isliye 'over' yahan adverb particle hai."
+            },
+            {
+              "id": 18,
+              "question": "I'd like an ice cream. Will you have [one] too?",
+              "options": [
+                "(a) Noun",
+                "(b) Pronoun",
+                "(c) Adjective",
+                "(d) Adverb"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'pronoun'\nExplanation:- 'one' yahan 'an ice cream' noun ki jagah aaya pronoun hai."
+            },
+            {
+              "id": 19,
+              "question": "My parents lent me the money. [Otherwise], I could not have afforded the trip.",
+              "options": [
+                "(a) Adjective",
+                "(b) Adverb",
+                "(c) Conjunction",
+                "(d) Participle"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'adverb'\nExplanation:- 'Otherwise' sentence ke starting mein comma lagake poore sentence ko qualify kar raha hai (conjunctive adverb)."
+            },
+            {
+              "id": 20,
+              "question": "She wrote me an [anguished] letter from her prison cell.",
+              "options": [
+                "(a) Noun",
+                "(b) Verb",
+                "(c) Adjective",
+                "(d) Adverb"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'adjective'\nExplanation:- 'anguished' yahan 'letter' noun ko qualify kar raha hai, isliye adjective hai."
+            },
+            {
+              "id": 21,
+              "question": "There is [a] visitor for you.",
+              "options": [
+                "(a) Relation Pronoun",
+                "(b) Definite Article",
+                "(c) Indefinite Article",
+                "(d) Adverb"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'indefinite article'\nExplanation:- 'a, an' indefinite article hote hai."
+            },
+            {
+              "id": 22,
+              "question": "He headed the Indian freedom struggle [which] paved the way for non violent struggle for other countries in the 20th century.",
+              "options": [
+                "(a) Relative pronoun",
+                "(b) Adjective",
+                "(c) Interrogative",
+                "(d) Assertive"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'relative pronoun'\nExplanation:- 'which' relative pronoun hai jo 'the Indian freedom struggle' ko refer kar raha hai."
+            },
+            {
+              "id": 23,
+              "question": "[Where] there is peace for some time, there will be prosperity.",
+              "options": [
+                "(a) Interrogative",
+                "(b) Adverb",
+                "(c) Adjective",
+                "(d) Relative pronoun"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'adverb'\nExplanation:- 'Where' yahan place bata raha hai (relative adverb of place)."
+            },
+            {
+              "id": 24,
+              "question": "[Alas!] We have been defeated.",
+              "options": [
+                "(a) Adjective",
+                "(b) Connector",
+                "(c) Interjection",
+                "(d) Interrogative"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'interjection'\nExplanation:- 'Alas!' dukh ya shok prakat karne wala interjection hai."
+            },
+            {
+              "id": 25,
+              "question": "A zero is a [zero] always.",
+              "options": [
+                "(a) Noun",
+                "(b) Compound noun",
+                "(c) Pronoun",
+                "(d) Adjective"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'noun'\nExplanation:- 'a' article ke baad 'zero' subject complement (noun) hai."
+            },
+            {
+              "id": 26,
+              "question": "When we entered his home, we saw him [sleeping] on the floor.",
+              "options": [
+                "(a) present participle",
+                "(b) gerund",
+                "(c) continuous tense verb",
+                "(d) subject complement"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'present participle'\nExplanation:- 'saw' verb ke object 'him' ke baad 'sleeping' present participle (object complement) ki tarah kaam kar raha hai."
+            },
+            {
+              "id": 27,
+              "question": "The lake is one of the most [beautiful] ones in the country.",
+              "options": [
+                "(a) Adjective",
+                "(b) Adverb",
+                "(c) Quantifier",
+                "(d) Noun"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'adjective'\nExplanation:- 'beautiful' adjective hai jo 'ones' pronoun ko qualify kar raha hai."
+            },
+            {
+              "id": 28,
+              "question": "[Honesty] is the best policy.",
+              "options": [
+                "(a) Countable noun",
+                "(b) Pronoun",
+                "(c) Common noun",
+                "(d) Uncountable noun"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Correct answer is 'uncountable noun'\nExplanation:- 'Honesty' ek abstract noun hota hai, jise uncountable noun ki category mein rakhte hai."
+            },
+            {
+              "id": 29,
+              "question": "There is many a slip [between] the cup and the lip.",
+              "options": [
+                "(a) Preposition",
+                "(b) Adverb",
+                "(c) Connector",
+                "(d) Conjunction"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'preposition'\nExplanation:- 'between' yahan preposition hai aur 'the cup and the lip' iske objects hai."
+            },
+            {
+              "id": 30,
+              "question": "Ravi and Megha reached first, [but] Guha and Saavi finished third.",
+              "options": [
+                "(a) Interjection",
+                "(b) Conjunction",
+                "(c) Connector",
+                "(d) Pronoun"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'conjunction'\nExplanation:- 'but' coordinating conjunction hai jo do clauses ko jod raha hai."
+            },
+            {
+              "id": 31,
+              "question": "He is [the] most sought after teacher in the school.",
+              "options": [
+                "(a) Determiner",
+                "(b) Adverb",
+                "(c) Adjective",
+                "(d) Interjection"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'determiner'\nExplanation:- Articles ('a, an, the') determiners ki category mein aate hai."
+            },
+            {
+              "id": 32,
+              "question": "She sings [much] better than I do.",
+              "options": [
+                "(a) Adjective",
+                "(b) Adverb",
+                "(c) Verb",
+                "(d) Conjunction"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'adverb'\nExplanation:- 'better' comparative adverb ko qualify karne wala 'much' bhi adverb hai."
+            },
+            {
+              "id": 33,
+              "question": "The story was in all the [dailies].",
+              "options": [
+                "(a) Noun",
+                "(b) Adjective",
+                "(c) Adverb",
+                "(d) Determiner"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'noun'\nExplanation:- 'the' article ke baad 'dailies' (daily newspapers) plural noun hai."
+            },
+            {
+              "id": 34,
+              "question": "[Smoking] is injurious to health.",
+              "options": [
+                "(a) Participle",
+                "(b) Infinitive",
+                "(c) Gerund",
+                "(d) Verb"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'gerund'\nExplanation:- 'Smoking' yahan 'is' verb ka subject (gerund/verbal noun) hai."
+            },
+            {
+              "id": 35,
+              "question": "What made you choose this [one] rather than the other?",
+              "options": [
+                "(a) Pronoun",
+                "(b) Verb",
+                "(c) Number",
+                "(d) Adverb"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'pronoun'\nExplanation:- 'this' demonstrative adjective ke baad 'one' pronoun hai."
+            },
+            {
+              "id": 36,
+              "question": "There is still [some] water in the bottle.",
+              "options": [
+                "(a) Adverb",
+                "(b) Conjunction",
+                "(c) Determiner",
+                "(d) Verb"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'determiner'\nExplanation:- 'some' yahan 'water' noun ke liye determiner (quantifier) hai."
+            },
+            {
+              "id": 37,
+              "question": "I have already told you that you [need] not come tomorrow.",
+              "options": [
+                "(a) main verb",
+                "(b) auxiliary verb",
+                "(c) stative verb",
+                "(d) transitive verb"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'auxiliary verb'\nExplanation:- 'need not come' mein 'need' ke baad 'not' aur bare infinitive 'come' hai, isliye 'need' modal auxiliary verb hai."
+            },
+            {
+              "id": 38,
+              "question": "[Having finished] her work, Sharmila left home at 8:00 p.m.",
+              "options": [
+                "(a) Perfect Participle",
+                "(b) Auxiliary verb",
+                "(c) Adverb",
+                "(d) Conjunction"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'perfect participle'\nExplanation:- 'Having + V3' ('Having finished') ke structure ko perfect participle kehte hai."
+            },
+            {
+              "id": 39,
+              "question": "My teacher always moves [around] in her class while teaching.",
+              "options": [
+                "(a) Verb",
+                "(b) Adverb",
+                "(c) Conjunction",
+                "(d) Noun"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'adverb'\nExplanation:- 'around' yahan adverb hai jo 'moves' verb ko qualify kar raha hai."
+            },
+            {
+              "id": 40,
+              "question": "The [cantankerous] men of the town roar around the marketplace.",
+              "options": [
+                "(a) Verb",
+                "(b) Adverb",
+                "(c) Determiner",
+                "(d) Adjective"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Correct answer is 'adjective'\nExplanation:- 'cantankerous' (jhgadalu/bad-tempered) qualitative adjective hai jo 'men' noun ko qualify kar raha hai."
+            },
+            {
+              "id": 41,
+              "question": "India is revered as the [fountainhead] of democracy in the world today.",
+              "options": [
+                "(a) Noun",
+                "(b) Adjective",
+                "(c) Adverb",
+                "(d) Interjection"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'noun'\nExplanation:- 'the' definite article ke baad 'fountainhead' (source/origin) noun hai."
+            },
+            {
+              "id": 42,
+              "question": "She got angry and asked him [to go] away. Here infinitive is acting as?",
+              "options": [
+                "(a) Adverb",
+                "(b) object",
+                "(c) adjective",
+                "(d) subject"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'object'\nExplanation:- 'asked' di-transitive verb ka indirect object 'him' hai aur 'to go' (infinitive) direct object hai."
+            },
+            {
+              "id": 43,
+              "question": "[Having slept] for 8 hours, he started his journey again.",
+              "options": [
+                "(a) present participle",
+                "(b) perfect tense",
+                "(c) perfect participle",
+                "(d) gerund + v3"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'perfect participle'\nExplanation:- 'Having + V3' ('Having slept') perfect participle hota hai."
+            },
+            {
+              "id": 44,
+              "question": "When he saw his father, he started [studying] Mathematics.",
+              "options": [
+                "(a) Gerund",
+                "(b) present participle",
+                "(c) present continuous",
+                "(d) Subject of verb"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'gerund'\nExplanation:- 'started' verb ka object 'studying' gerund (verbal noun) hai."
+            },
+            {
+              "id": 45,
+              "question": "[In spite of] having high fever Radhika kept doing her task.",
+              "options": [
+                "(a) noun phrase",
+                "(b) prepositional phrase",
+                "(c) Preposition",
+                "(d) conjunction"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'preposition'\nExplanation:- 'In spite of' compound preposition hota hai jiska object 'having' gerund hai."
+            },
+            {
+              "id": 46,
+              "question": "He will help you financially [provided] you return the money on time.",
+              "options": [
+                "(a) Verb",
+                "(b) particle",
+                "(c) Adjective",
+                "(d) conjunction"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Correct answer is 'conjunction'\nExplanation:- 'provided' (basharte/if) conditional conjunction hai jo do clauses ko jod raha hai."
+            },
+            {
+              "id": 47,
+              "question": "Call me [in case] there is any problem.",
+              "options": [
+                "(a) prepositional phrase",
+                "(b) conjunction",
+                "(c) Adverb",
+                "(d) preposition"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'conjunction'\nExplanation:- 'in case' yahan conjunction hai jo do clauses ko jod raha hai."
+            },
+            {
+              "id": 48,
+              "question": "They are used to [travelling] in trains.",
+              "options": [
+                "(a) continuous tense verb",
+                "(b) gerund",
+                "(c) present participle",
+                "(d) perfect participle"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'gerund'\nExplanation:- 'be used to' mein 'to' preposition hota hai aur 'travelling' preposition ka object (gerund) hai."
+            },
+            {
+              "id": 49,
+              "question": "He claims [to have scored] 90% marks in the exam.",
+              "options": [
+                "(a) gerund",
+                "(b) infinitive",
+                "(c) perfect tense",
+                "(d) perfect infinitive"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Correct answer is 'perfect infinitive'\nExplanation:- 'to + have + V3' ('to have scored') ke structure ko perfect infinitive kehte hai."
+            },
+            {
+              "id": 50,
+              "question": "He felt [lonely] when his friends went to the party without him.",
+              "options": [
+                "(a) adjective",
+                "(b) adverb",
+                "(c) Noun",
+                "(d) verb"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'adjective'\nExplanation:- 'felt' linking verb ke baad 'lonely' subject complement (adjective) hai."
+            }
+          ]
         }
       ]
     }
