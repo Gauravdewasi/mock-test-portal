@@ -14992,6 +14992,1092 @@
               "solutionHinglish": "Ans (b)\nExplanation:- Past reflection inversion '\"Little did I realize what consequences my words would have,\" he said.' (option B) mein tense unchanged rahega."
             }
           ]
+        },
+        {
+          "id": "t_1793548487250",
+          "name": "CONJUNCTION LEVEL-01",
+          "questions": [
+            {
+              "id": 1,
+              "question": "One can never imagine / how hot it gets in Delhi / unless one doesn't go / there in person.",
+              "options": [
+                "(a) One can never imagine",
+                "(b) unless one doesn't go",
+                "(c) how hot it gets in Delhi",
+                "(d) there in person."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'goes' instead of 'doesn't go'\nExplanation:- 'unless' ka matlab 'agar nahi', 'until' ka matlab 'jab tak nahi', 'Unless/until' mein 'not' already hota hai, isliye jis clause mein 'unless' yaa 'until' ka use hota hai usme 'not' ka use nahi karte. isliye yahan 'doesn't go' ki jagah 'goes' aayega"
+            },
+            {
+              "id": 2,
+              "question": "Both the rich along with the poor /are responsible for a great many /vices with which our society as well as country is inflicted.",
+              "options": [
+                "(a) Both the rich along with the poor",
+                "(b) are responsible for a great many",
+                "(c) vices with which our society as well as country is inflicted.",
+                "(d) No error"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'and' in place of 'along with'.\nExplanation:- 'along' ki jagah 'and' aayega kyunki 'both' ke sath 'and' ka pair hota hai jab do cheezon ko connect karna hota hai, isliye yahan 'both the rich and the poor' sahi hoga."
+            },
+            {
+              "id": 3,
+              "question": "He knows that / he has no other option / but to work hard.",
+              "options": [
+                "(a) He knows that",
+                "(b) but to work hard",
+                "(c) he has no other option",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'than' instead of 'but'\nExplanation:- 'but' ki jagah 'than' aayega kyunki 'other' ke sath 'than' ka pair hota hai."
+            },
+            {
+              "id": 4,
+              "question": "As soon as he /opened the old wooden box/then a rat jumped out of it.",
+              "options": [
+                "(a) As soon as he",
+                "(b) opened the old wooden box",
+                "(c) then a rat jumped out of it.",
+                "(d) No error"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Remove 'then'.\nExplanation:- sentence mein 'then' ka use nahi hoga kyunki 2 clauses ko join karne ke liye 'as soon as' conjunction ka use kiya hai. 'as soon as' ka matlab 'jaise hi' hota hai aur 'then' ka matlab 'tab' hota hai, sentence ka maltab hai 'jaise hee usne box khola, ek rat jump maarke bahaar aa gaya', toh meaning aur grammar wise 'then' adverb ka use galat hai."
+            },
+            {
+              "id": 5,
+              "question": "We stayed in Jim's flat / during he was / on holiday.",
+              "options": [
+                "(a) in Jim's flat",
+                "(b) on holiday",
+                "(c) We stayed",
+                "(d) during he was"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'while' instead of 'during'\nExplanation:- 'during' ek preposition hai aur yahan 2 clauses ko join karne ke liye conjunction ki zarurat hai, sentence ka matlab chahiye hum Jim ke flat pe ruke the jab wo holiday pe gaya tha, toh duration refer karne ke liye 'while' conjunction ka use krenge.\nNote:- 'While' ke baad bhale hi 'continuous tense' nahi likha hai lekin 'while he was on a holiday' duration ko hi refer kar raha hai."
+            },
+            {
+              "id": 6,
+              "question": "He asked me that why /I was not preparing for the /Civil Service Examinations.",
+              "options": [
+                "(a) He asked me that why",
+                "(b) I was not preparing for the",
+                "(c) Civil Service Examinations.",
+                "(d) No error"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Remove 'that'.\nExplanation:- Sentence mein 'that' ka use nahi hoga kyunki yeh interrogative sentence hai jo indirect speech mein likha hai, matlab question pucha jaa raha hai. Toh indirect speech mein 'how, why, where, when' yeh word khud conjunction ki tarah kaam kar dete hai, isliye 'asked' verb ke clause jodne ke liye 'how, why, where, when' ka use hoga aur 'that' ka use galat hota hai."
+            },
+            {
+              "id": 7,
+              "question": "No sooner did / the child start crying / then the mother/hugged him.",
+              "options": [
+                "(a) No sooner did",
+                "(b) then the mother",
+                "(c) hugged him",
+                "(d) the child start crying"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'then' with 'than'\nExplanation:- 'no sooner' ke sath 'than' ka pair hota hai jo ek correlative conjunction hoti hai."
+            },
+            {
+              "id": 8,
+              "question": "She is as intelligent, if not /more intelligent than one/of the students of that institute.",
+              "options": [
+                "(a) She is as intelligent, if not",
+                "(b) more intelligent than one",
+                "(c) of the students of that institute.",
+                "(d) No error"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'as intelligent as' in place of 'as intelligent'.\nExplanation:- sentence mein 'as intelligent as' ka use hoga kyunki 'simile' ka pura structure likha jaayega. Iss sentence ka real structure yeh hai 'She is as intelligent as one of the students of that institute is, if she is not more intelligent than one of the students of that institute is' Yahan same 2 cheezon ka 2 baar comparison hua hai, isliye 'subject + verb' understood ho gaye hain. lekin simile toh poori likhni padegi, isliye yahan 'as intelligent as' sahi hoga."
+            },
+            {
+              "id": 9,
+              "question": "Alex picked up the boxes quite easily even they were heavy.",
+              "options": [
+                "(a) the boxes",
+                "(b) quite easily",
+                "(c) even they were heavy",
+                "(d) Alex picked up"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'though' instead of 'even'\nExplanation:- sentence mein 'even' ki jagah 'though' aayega kyunki sentence ka matlab chahiye Alex ne boxes aasaani se uttha liya haalanki wo heavy the, toh sentence mein contradiction show karna ke liye conjunction ki jarurat hai, jabki 'even' adverb hota hai, isliye yahan 'even' ki jagah 'though' contradiction waali conjunction ka use sahi hoga."
+            },
+            {
+              "id": 10,
+              "question": "The college library is /not only equipped with very good/books but also with the latest journals.",
+              "options": [
+                "(a) The college library is",
+                "(b) not only equipped with very good",
+                "(c) books but also with the latest journals.",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'equipped not only' in place of 'not only equipped'.\nExplanation:- kyunki 'not only-but also' ek aise co-relative conjunction ka pair hai jo same rank ke words ko join karta hai. 'but also' ke sath 'with' preposition hai 'verb' nahi hai, jabki 'not only' ke sath 'verb' likhi hai, toh yahan 'not only' ko 'with' preposition ke sath likh denge, jisse dono word preposition ke sath sahi honge, isliye yahan 'equipped not only with' sahi hoga."
+            },
+            {
+              "id": 11,
+              "question": "They had hardly completed / half of the work / than the boss called them.",
+              "options": [
+                "(a) half of the work",
+                "(b) No error",
+                "(c) They had hardly completed",
+                "(d) than the boss called them"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'when' instead of 'than'\nExplanation:- 'hardly/scarcely' ke sath 'when' ka pair hota hai joki ek co-relative conjunction hoti hai"
+            },
+            {
+              "id": 12,
+              "question": "A mother said to her children/\"Walk carefully, lest you /may fall down or hurt yourself\".",
+              "options": [
+                "(a) A mother said to her children.",
+                "(b) \"Walk carefully, lest you",
+                "(c) may fall down or hurt yourself\".",
+                "(d) No error"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'should' in place of 'may'.\nExplanation:- 'lest' ke sath 'should' ka pair hota hai joki ek co-relative conjunction hai"
+            },
+            {
+              "id": 13,
+              "question": "No sooner did Priya / get her report card / when she started jumping/ with joy.",
+              "options": [
+                "(a) No sooner did Priya",
+                "(b) with joy",
+                "(c) get her report card",
+                "(d) when she started jumping"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'than' instead of 'when'\nExplanation:- 'no sooner' ke sath 'than' ka pair hota hai joki ek co-relative conjunction hoti hai."
+            },
+            {
+              "id": 14,
+              "question": "I work hard and study well /that I may pass in the /examination and make my parents proud.",
+              "options": [
+                "(a) I work hard and study well",
+                "(b) that I may pass in the",
+                "(c) examination and make my parents proud.",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'so that' in place of 'that'.\nExplanation:- 'so that' ka matlab 'taaki' hota hai, yahan meaning yeh dena hai ki 'maine bahut mehnat se kaam kiya aur acche se padhai kari taaki mein exam pass kar saku or mere parents ko proud feel kara saku', toh sahi meaning ke according 'so that' conjunction sahi hogi. 'that' conjunction ka matlab 'ki' hota hai."
+            },
+            {
+              "id": 15,
+              "question": "It is misleading / to imagine that / computers can think /same like human beings.",
+              "options": [
+                "(a) computers can think",
+                "(b) same like human beings",
+                "(c) It is misleading",
+                "(d) to imagine that"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'the same as' instead of 'same like'\nExplanation:- 'like' ki jagah 'as' aayega kyunki 'like' ka maltab 'kisi cheez yaa vyakti ke jaise', lekin 'computer' aur 'human being' ek jaise nahi ho sakte, 'as' ka use 'logon yaa cheezon ka compare' karne ke liye use hota hai, joki sentence mein karna hai, aur waise bhi 'the same as' ek phrase hota hai jiska matlab 'do cheezein ek jaise yaa bilkul same tarike se ho', isliye yahan meaning ke according 'the same as' sahi hoga."
+            },
+            {
+              "id": 16,
+              "question": "Supposing if a number of ghosts/meet us in the forest, will we be able to get rid of them easily without that magical wand?",
+              "options": [
+                "(a) Supposing if a number of ghosts",
+                "(b) meet us in the forest, will we be",
+                "(c) able to get rid of them easily without that magical wand?",
+                "(d) No error"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use either 'Supposing' or 'if' in place of 'Supposing if'.\nExplanation:- kyunki 'supposing' aur 'if' dono ka same meaning hota hai aur dono conjunction hoti hain aur hume yahan ek hi conjunction chahiye, isliye dono mein se koi ek use karenge. Dono ka use sath mein superfluous ki category mein aata hai"
+            },
+            {
+              "id": 17,
+              "question": "Until I was / still a little weak, / I decided to walk home / from the metro station.",
+              "options": [
+                "(a) from the metro station",
+                "(b) I decided to walk home",
+                "(c) still a little weak",
+                "(d) until I was"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Use 'Although' in place of 'Until'.\nExplanation:- sentence ka meaning yeh dena hai ki 'halaanki main abhi bhi thoda kamzor tha, maine metro station se ghar paidal gaya', toh sentence mein contradiction dikhaana hai ki kamjor hone ke baad bhi paidal gaya, isliye yahan 'halaanki' waale meaning ke liye 'until' nahi 'although' conjunction ka use sahi hoga."
+            },
+            {
+              "id": 18,
+              "question": "Since Dipawali is around the /corner, Manjeet and Preeti have /brought some fire crackers as lauki, rockets, etc.",
+              "options": [
+                "(a) Since Dipawali is around the",
+                "(b) corner, Manjeet and Preeti have",
+                "(c) brought some fire crackers as lauki, rockets, etc.",
+                "(d) No error"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'like' or 'such as' in place of 'as'.\nExplanation:- kyunki 'like' aur 'such as' preposition ki tarah kaam karte hain aur 'as' ek conjunction ki tarah. Yahan hume preposition ki requirement hai. Sentence ka maltab hai 'Preeti fatake leke aayi jaise ki lauki, rocket etc', toh 'jaise ki' waale meaning ke liye 'like' yaa 'such as' preposition ka use sahi hoga."
+            },
+            {
+              "id": 19,
+              "question": "If you rent a house near your office, it will save you time as well as also money.",
+              "options": [
+                "(a) If you rent a house",
+                "(b) as well as also money",
+                "(c) near your office",
+                "(d) it will save you time"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Remove 'also'\nExplanation:- kyunki 'as well as' ek preposition phrase hai jo 2 nouns ko connect karta hai iska meaning 'aur' hota hai isliye iske sath 'also' lagana superfluous ho jaayega.\nNote:- 'it will save you time' mein koi galti nahi hai. yahan 'save' di-transitive verb hai. 'You' indirect object hai aur 'time' direct object agar 'it will save your time' likha hota toh wo bhi sahi hota."
+            },
+            {
+              "id": 20,
+              "question": "You are still a very weak /friend of mine, so you must/take fruit as apples, orange, mangoes bananas, etc.",
+              "options": [
+                "(a) You are still a very weak",
+                "(b) friend of mine, so you must",
+                "(c) take fruit as apples, orange, mangoes bananas, etc.",
+                "(d) No error"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'such as / like' in place of 'as'.\nExplanation:- kyunki 'like' aur 'such as' preposition ki tarah kaam karte hain aur 'as' ek conjunction ki tarah. Yahan hume preposition ki requirement hai. Sentence ka matlab hai 'tumhe fruits lene chahiye jaise ki apple, orange, mango etc', toh 'jaise ki' waale meaning ke 'like' yaa 'such as' preposition ka use sahi hoga."
+            },
+            {
+              "id": 21,
+              "question": "Notwithstanding we were / all busy that weekend / we had to /cancel the outing.",
+              "options": [
+                "(a) cancel the outing",
+                "(b) we had to",
+                "(c) Notwithstanding we were",
+                "(d) all busy that weekend"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'Since or as' instead of 'notwithstanding'\nExplanation:- 'notwithstanding' ek adverb hoti hai jiska matlab hota hai 'fir bhi', lekin hume 'we were' aur 'we had' do clause ko jodne ke liye yahan ek conjunction ki jarurat hai, sentence ka matlab chahiye 'kyunki hum busy the uss weekend hume outing cancel karni padi', toh 'kyunki' waale meaning ke liye 'since' yaa 'as' conjunction ka use sahi hoga."
+            },
+            {
+              "id": 22,
+              "question": "Many of the founding fathers /of our constitution are so /revered as Ambedkar if not more.",
+              "options": [
+                "(a) Many of the founding fathers",
+                "(b) of our constitution are so",
+                "(c) revered as Ambedkar if not more.",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'as' in place of 'so'\nExplanation:- sentence mein 'simile' ki jarurat hai. yahan meaning yeh dena hai 'constitution ke founding fathers mein se bahut saare Ambedkar ke jitne hi respected hain agar unse zyada nahi toh'. toh 'so....as' ka use negative comparison ke liye hota hai aur 'as....as' dono positive aur negative dono ke liye, sentence mein positive comparison karna hai, isliye 'as revered as' sahi hoga."
+            },
+            {
+              "id": 23,
+              "question": "The farmers are using HYV seeds so then they can get a better yield.",
+              "options": [
+                "(a) The farmers are using",
+                "(b) so then they can get",
+                "(c) a better yield",
+                "(d) HYV seeds"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'so that' instead of 'so then'\nExplanation:- 'so that' ka matlab 'taaki' hota hai, Yahan meaning yeh dena hai ki 'kisaan HYV seeds ka use karte hain taaki unki paida waar zyada ho sake'. Toh meaning ke according 'so that' ka use sahi hoga."
+            },
+            {
+              "id": 24,
+              "question": "If he is very good at /mathematics, his brother is /absolutely hopeless.",
+              "options": [
+                "(a) If he is very good at",
+                "(b) mathematics, his brother is",
+                "(c) absolutely hopeless.",
+                "(d) No error"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'While' in place of 'If'.\nExplanation:- sentence mein dono bhaiyon ke difference ko dikhana hai aur sentence ka matlab hai 'wo maths mein bahut accha hai jabki uska bhai bilkul hopeless hai', toh yahan 'jabki' waala meaning dena hai naa ki 'agar' waala. Toh 'jabki' waale meaning ke liye 'while' conjunction ka use sahi hoga."
+            },
+            {
+              "id": 25,
+              "question": "As soon he heard / the sound of thunder, / he hid / under the bed.",
+              "options": [
+                "(a) the sound of thunder",
+                "(b) As soon he heard",
+                "(c) he hid",
+                "(d) under the bed"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'as soon as' instead of 'as soon'\nExplanation:- sentence ka matlab hai 'jaise he usne thunder ki awaz suni, wo bed ke neche chuph gaya', toh 'jaise hi' waale meaning ke liye 'as soon as' ka use sahi hoga."
+            },
+            {
+              "id": 26,
+              "question": "Such individuals who/take up this role often /find life frustrating.",
+              "options": [
+                "(a) Such individuals who",
+                "(b) take up this role often",
+                "(c) find life frustrating.",
+                "(d) No error"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'as' in place of 'who'.\nExplanation:- sentence ka matlab hai 'aise individual jo yeh role nibhaate hai aksar unhe jeevan mein niraasha ka saamna karna padta hai'. Toh 'such....as' ka pair 'jo, jaisa, jisne' waale meaning ke taur pe use hota hai. Sentence mein 'jo' waala meaning chahiye, isliye yahan 'such individual as' sahi hoga."
+            },
+            {
+              "id": 27,
+              "question": "He is/too immature / for handle / the situation.",
+              "options": [
+                "(a) He is",
+                "(b) too immature",
+                "(c) the situation",
+                "(d) for handle"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'to handle' instead of 'for handle'\nExplanation:- sentence ka matlab hai 'wo abhi bahut immature hai iss situation ko handle karne ke liye', toh sentence mein negative meaning convey karna jiske liye 'too.......to + v1' ka structure use hota hai, isliye yahan 'too' ke sath 'to handle' infinitive ka use hoga."
+            },
+            {
+              "id": 28,
+              "question": "By the end of the day we /were tired and happy because /our efforts did not go in vain.",
+              "options": [
+                "(a) By the end of the day we",
+                "(b) were tired and happy because",
+                "(c) our efforts did not go in vain.",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'but' in place of 'and'.\nExplanation:- Kyunki 'tired' aur 'happy' contradictory adjective hain, toh contradiction dikhaane ke liye 'and' nahi 'but' conjunction ka use hoga. Yahan meaning yeh dena hai ki 'hum thake hue the lekin khush the kyunki.....', toh meaning ke according 'but' sahi hoga."
+            },
+            {
+              "id": 29,
+              "question": "You cannot lead a healthy life although you stop smoking.",
+              "options": [
+                "(a) stop smoking",
+                "(b) although you",
+                "(c) You cannot lead",
+                "(d) a healthy life"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'unless/until' instead of 'although'\nExplanation:- sentence mein 'although' ki jagah 'unless/until' aayega kyunki yahan 'agar nahi/jab tak nahi' waala meaning convey karna hai. Sentence ka meaning yeh dena hai 'tum ek healthy life nahi jee sakte agar/jabtak tum smoking band nahi karoge'. Toh meaning ke according 'unless/until' dono ka use sahi hai."
+            },
+            {
+              "id": 30,
+              "question": "Smartphone cameras can now take pictures of near-professional quality, so they also have limitations.",
+              "options": [
+                "(a) pictures of",
+                "(b) so they also have limitations",
+                "(c) can now take",
+                "(d) near-professional quality"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'but' instead of 'so'\nExplanation:- sentence ke meaning ke according contradiction show karna hai, yahan meaning yeh dena hai ki 'Smartphone ke camera professional quality picture le sakte hai, lekin unki limitation hoti hai', toh meaning ke according 'but' conjunction sahi hogi."
+            },
+            {
+              "id": 31,
+              "question": "The construction of multi-storey/buildings near the airport is going/on yet the airport authority has objected to it.",
+              "options": [
+                "(a) The construction of multi-storey",
+                "(b) buildings near the airport is going",
+                "(c) on yet the airport authority has objected to it.",
+                "(d) No error"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'though/ although' in place of 'yet'.\nExplanation:- 'although/though' ka maltab 'haalanki' hota hai, 'Yet' conjunction ka matlab 'phir bhi, iske babjood', Yahan meaning yeh dena hai ki 'construction chal rha hai haalanki airport authority objection kar chuki hai', toh opposite reason bataane ke liye 'though/although' ka use sahi hoga."
+            },
+            {
+              "id": 32,
+              "question": "Miss Marple is neither a good singer or the good stage artist.",
+              "options": [
+                "(a) or the good",
+                "(b) stage artist",
+                "(c) neither a good singer",
+                "(d) Miss Marple is"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'nor' instead of 'or'\nExplanation:- 'neither' ke sath 'nor' ka pair hota hai joki ek co-relative conjunction hai. Aur yeh same rank ke words ko connect karte hai."
+            },
+            {
+              "id": 33,
+              "question": "Immediately after boarding /the bus, Mukesh asked the conductor /that he knew where the museum was.",
+              "options": [
+                "(a) Immediately after boarding",
+                "(b) the bus Mukesh asked the conductor",
+                "(c) that he knew where the museum was.",
+                "(d) No error"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Use 'if' in place of 'that'.\nExplanation:- 'if' ka matlab 'kya' aur 'that' jab conjuction hoti hai toh iska matlab 'ki' hota hai. Yahan meaning yeh dena hai ki 'Mukesh ne conductor se puchha tha kya usse pata hai museum kahan hai', toh meaning ke according 'kya' waala meaning sahi hoga, isliye yahan 'if' ka use sahi hoga."
+            },
+            {
+              "id": 34,
+              "question": "She will come to work though it doesn't rain tomorrow.",
+              "options": [
+                "(a) She will come",
+                "(b) though it doesn't",
+                "(c) rain tomorrow",
+                "(d) to work"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'if' instead of 'though'\nExplanation:- 'if' ka matlab 'agar' hota hai aur 'though' ka matlab 'haalaki'. Yahan meaning yeh dena hai ki 'wo kaam par aayegi agar kal barsaat nahi hogi'. Toh sentence ke according 'agar' waale meaning ke liye 'if' ka use sahi hoga."
+            },
+            {
+              "id": 35,
+              "question": "[Not only children have] fewer chances of surviving and are underfed, but they also lack educational opportunities.",
+              "options": [
+                "(a) Not only did children have",
+                "(b) Not only do children have",
+                "(c) Not only does the child has",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'not only' se sentence shuru hua hai isliye inversion lagega. Aur inversion mein verb subject se pehle aati hai, jiska structure 'not only + H.V. + subject + M.V.' hota hai, sentence mein 'are underfed' se pata chal raha hai ki present tense ki baat ho rahi hai, aur 'children' plural subject hai isliye verb plural aayegi, isliye yahan 'not only do children have' wala option B sahi hoga."
+            },
+            {
+              "id": 36,
+              "question": "The reason for visiting Meerut was because my mother needed to be looked after.",
+              "options": [
+                "(a) The reason for visiting",
+                "(b) was because",
+                "(c) to be looked after",
+                "(d) my mother needed"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'that' in place of 'because'.\nExplanation:- 'the reason' aur 'because' dono 'kaaran' batane ke liye use hote hai, agar sentence mein 'the reason' laga diya hai toh 'because' nahi aayega. Sentence ka matlab dena hai 'Meerut jaane ka yeh kaaran tha ki usse apni mother ki dekhbhaal karni thi', toh 'ki' waale meaning ke according 'that' conjunction ka use hoga."
+            },
+            {
+              "id": 37,
+              "question": "When he fell down the ditch, he shouted with all his might [so that to catch] someone's attention.",
+              "options": [
+                "(a) Such that to catch",
+                "(b) So as to catch",
+                "(c) So that to catching",
+                "(d) So then to catch"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'so that' aur 'so as' dono hi structure ka use 'taaki' waale meaning ke liye hota hai yaa hum keh sakte hain ki kisi action ka reason batane ke liye kiya jaata hai, lekin 'so that' ke baad 'clause' banta hai, jabki 'so as' ke sath 'to + V1(Infinitive)' ka use hota hai, option C mein 'so that' ke baad clause nahi ban raha aur sentence mein 'taaki' wala meaning bhi chahiye, isliye yahan 'so as to catch' wala option B sahi hoga. 'such that' ka matlab 'aisa hai ki' aur 'so then' ka matlab 'toh phir'"
+            },
+            {
+              "id": 38,
+              "question": "I shall buy this book if you like it or not.",
+              "options": [
+                "(a) I shall buy",
+                "(b) or not",
+                "(c) this book",
+                "(d) if you like it"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'whether' instead of 'if'\nExplanation:- 'whether' ke sath 'or' ka pair hota hai jo co-relative conjunction hoti hai."
+            },
+            {
+              "id": 39,
+              "question": "He gave such a long speech but everybody felt bored.",
+              "options": [
+                "(a) felt bored",
+                "(b) but everybody",
+                "(c) He gave such",
+                "(d) a long speech"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'that' instead of 'but'\nExplanation:- 'such as' ka use (jo, jisne, jisko) waale meaning ke liye hota hai aur 'such that' ka use 'ki' waale meaning ke liye hota hai, sentence ka matlab hai 'usne itni lambi speech di ki sab bore ho gaye', toh 'ki' waale meaning ke liye 'such' ke sath 'that' ka use sahi hoga."
+            },
+            {
+              "id": 40,
+              "question": "She lost a big order from a known showroom in case of her own carelessness.",
+              "options": [
+                "(a) in case of",
+                "(b) her own carelessness",
+                "(c) She lost a big order",
+                "(d) from a known showroom"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'because of' instead of 'in case of'\nExplanation:- 'because of' ka matlab 'iss cheez ki wajah se' aur 'in case of' ka matlab 'iss situation mein'. Sentence ka matlab hai 'usne bada order khoyaa apni carelessness ki wazah se', isliye yahan 'because of' ka use sahi hoga. Note:- 'because' conjunction hoti hai, aur 'because of' preposition. Sentence mein koi clause nahi jodna isliye yahan meaning aur grammar wise 'because of' sahi hoga."
+            },
+            {
+              "id": 41,
+              "question": "Zoya won the first prize in the race unless she stumbled and fell.",
+              "options": [
+                "(a) unless she",
+                "(b) stumbled and fell",
+                "(c) prize in the race",
+                "(d) Zoya won the first"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'although' instead of 'unless'.\nExplanation:- 'unless' ki jagah 'although' aayega kyunki 'unless' se meaning 'Zoya first prize jeet gayi thi agar wo giri nahi hoti', lekin meaning mein samajh aa raha hai wo race jeet gayi thi, toh sahi matlab hona chahiye 'Zoya race mein first prize jeeti thi haalanki wo ladkhadai aur giri thi', matlab wo girne ke baad bhi first prize jeet gayi, isliye yahan contradiction dikhaane ke liye 'although' ka use sahi hoga."
+            },
+            {
+              "id": 42,
+              "question": "Aren't you such young to travel by yourself?",
+              "options": [
+                "(a) to travel",
+                "(b) by yourself",
+                "(c) such young",
+                "(d) Aren't you"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'too young' or 'young enough' instead of 'such young'\nExplanation:- 'to + v1' infinitive ke sath 'too' yaa 'enough' ka pair hota hai. 'too young to travel' se negative meaning aayega 'kya tum jyada chote nahi ho akele travel karne ke liye', aur 'young enough to travel' se positive meaning aayega 'kya tum akele travel karne ke liye kaafi chote nahi ho?', meaning ke according 'too young', 'young enough' dono sahi honge."
+            },
+            {
+              "id": 43,
+              "question": "As such you need any money, just write to me.",
+              "options": [
+                "(a) As such you",
+                "(b) to me",
+                "(c) need any money",
+                "(d) just write"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'if' instead of 'as such'\nExplanation:- 'if' ka matlab 'agar' hota hai 'as such' ka matlab 'Sahi maayne mein'. Sentence ka matlab chahiye 'agar tumhe paison ki jarurat ho, toh mujhe likh dena', toh sahi meaning ke according 'if' ka use sahi hoga.\nSome examples to understand the meaning 'as such'. 1. There wasn't much vegetarian food as such, although there were several different types of cheese. 2. We don't have a secretary as such, but we have a student who helps us."
+            },
+            {
+              "id": 44,
+              "question": "It's raining heavily, so you should take an umbrella, but you will get wet.",
+              "options": [
+                "(a) It's raining heavily",
+                "(b) should take an umbrella",
+                "(c) but you will get wet",
+                "(d) so you"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'otherwise' instead of 'but'\nExplanation:- 'otherwise' ka matlab 'warna' hota hai, aur 'but' ka matlab 'lekin'. Yahan meaning yeh dena hai ki '.....warna tum bheeg jaoge'. Toh sahi meaning ke according 'otherwise' sahi hoga."
+            },
+            {
+              "id": 45,
+              "question": "I was surprised to see as Avika could write such good poems in Hindi.",
+              "options": [
+                "(a) to see as Avika",
+                "(b) I was surprised",
+                "(c) such good poems in Hindi",
+                "(d) could write"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'that' instead of 'as'\nExplanation:- 'that' ka matlab 'ki' hota hai jab yeh conjunction hoti hai aur 'as' ka matlab 'kyunki', Yahan meaning yeh hai ki 'mai yeh dekh kar hairaan tha ki Avika hindi mein itni acchi poem likhti hai', toh 'ki' waale meaning ke liye 'that' conjunction ka use sahi hoga."
+            },
+            {
+              "id": 46,
+              "question": "Unless you prepare well, you will not get a first class.",
+              "options": [
+                "(a) No error",
+                "(b) a first class",
+                "(c) Unless you prepare well",
+                "(d) you will not get"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) No error 'unless' ka maltab 'agar nahi'"
+            },
+            {
+              "id": 47,
+              "question": "It is easier to preach then to follow.",
+              "options": [
+                "(a) to preach",
+                "(b) It is easier",
+                "(c) No Error",
+                "(d) then to follow"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'than' instead of 'then'\nExplanation:- kyunki comparative degree ke sath 'than' ka use kiya jaata hai, 'then' time ko batane ke liye use kiya jaata hai."
+            },
+            {
+              "id": 48,
+              "question": "Do not let the opportunity slip away and you will repent.",
+              "options": [
+                "(a) No error",
+                "(b) and you will repent",
+                "(c) Do not let the",
+                "(d) opportunity slip away"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'otherwise' instead of 'and'\nExplanation:- 'otherwise' ka maltab 'warna', aur 'and' ka matlab 'aur' hota hai Yahan meaning yeh dena hai ki 'iss opportunity ko jaane mat do warna tum pachtaoge.', toh sahi meaning ke according 'otherwise' sahi hoga."
+            },
+            {
+              "id": 49,
+              "question": "If they said nothing, she could sense their disapproval of her suggestion.",
+              "options": [
+                "(a) If they said nothing",
+                "(b) her suggestion",
+                "(c) their disapproval of",
+                "(d) she could sense"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'although' instead of 'if'\nExplanation:- 'if' ka matlab 'agar', aur 'although' ka matlab 'haalaki' hota hai. Yahan sentence ka meaning yeh hai ki 'haalanki unhone kuch nahi kaha, wo bhaanp sakti thi unka disapproval', toh sahi meaning ke liye 'although' ka use sahi hoga."
+            },
+            {
+              "id": 50,
+              "question": "Put off the air conditioner unless you will catch a cold.",
+              "options": [
+                "(a) you will",
+                "(b) Put off the air conditioner",
+                "(c) unless",
+                "(d) catch a cold"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'otherwise' instead of 'unless'\nExplanation:- 'unless' ka matlab 'agar nahi', aur 'otherwise' ka matlab 'warna' hota hai Yahan meaning yeh dena hai ki '....warna tumhe thand lag jayegi.', toh sahi meaning ke liye 'otherwise' ka use sahi hoga."
+            },
+            {
+              "id": 51,
+              "question": "Sushmita's youngest sister is not only beautiful but even intelligent also.",
+              "options": [
+                "(a) but even intelligent also",
+                "(b) is not only beautiful",
+                "(c) No Error",
+                "(d) Sushmita's youngest sister"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'but also intelligent' instead of 'but even intelligent also'\nExplanation:- sentence ka matlab hai 'Sushmita ki choti sister sirf sundar he nahi balki intelligent bhi hai', toh 'not only' ke sath 'but also' ka pair hota hai joki co-relative conjunction hai aur same rank ke words ko connect karti hai, agar 'not only' ke baad 'beautiful' adjective hai, toh 'but also' ke baad bhi 'intelligent' adjective aayega, isliye yahan 'but also intelligent' sahi hoga."
+            },
+            {
+              "id": 52,
+              "question": "Preeti is absent from the meeting due to she is out of station.",
+              "options": [
+                "(a) Preeti is absent",
+                "(b) due to she is",
+                "(c) from the meeting",
+                "(d) out of station"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use 'because' instead of 'due to'\nExplanation:- sentence mein 'due to' ki jagah 'because' aayega, kyunki yahan 'Preeti is' aur 'she is' do clause ko jodne ke liye conjunction ki jarurat hai aur 'reason' ko batane waali conjunction ki need hai, 'because' ek conjunction hoti hai, jabki 'due to' ek prepositional phrase hota hai, isliye yahan 'because' conjunction ka use sahi hoga."
+            },
+            {
+              "id": 53,
+              "question": "The soldiers had no choice when to obey the commander.",
+              "options": [
+                "(a) when to obey",
+                "(b) had no choice",
+                "(c) The soldiers",
+                "(d) the commander"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'but' instead of 'when'\nExplanation:- sentence mein 'when' ki jagah 'but' aayega kyunki sentence mein ek hee clause hai, toh conjunction ki jarurat nahi hai, aur 'when' conjunction ka kaam kar raha hai. Sentence ka matlab hai 'soldier ke pass commander ki baat manane ke sivaay koi aur option nahi tha', toh 'no choice but to' phrase hota hai jiska matlab 'ek hee option hona, aur koi choice naa hona' hota hai, jisme 'but' preposition ka kaam kar raha hai aur iska matlab 'ke sivaay' hota hai, isliye yahan 'but to obey' sahi hoga.\nNote:- 'but' jab conjunction hota hai toh iska matlab 'lekin' hota hai."
+            },
+            {
+              "id": 54,
+              "question": "He is not such a clever boy that you are.",
+              "options": [
+                "(a) clever boy",
+                "(b) such a",
+                "(c) that you are",
+                "(d) He is not"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'as' instead of 'that'\nExplanation:- sentence mein 'that' ki jagah 'as' aayega kyunki 'such-as' ka use 'Jo, jaisa, jisne, jisko' waale meaning ke liye use hota hai. Aur 'such-that' ka use 'ki' waale meaning ke liye hota hai. yahan meaning yeh dena hai ki 'wo waisa clever boy nahi hai jaise tum ho', toh meaning ke accoding 'jaisa' waale meaning ke liye 'such' ke sath 'as' ka use sahi hoga."
+            },
+            {
+              "id": 55,
+              "question": "We have not only come to meet you/ but also to congratulate/ you on your victory.",
+              "options": [
+                "(a) We have not only come",
+                "(b) to meet you",
+                "(c) but also to congratulate",
+                "(d) you on your victory."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'not only' after 'come'\nExplanation:- 'not only' ki position 'come' ke baad hogi, kyunki 'either...or, neither...nor, not only...but also, both....and' yeh aise co-relative conjunctions hain jo same rank ke words ko join karti hain. 'not only' ke baad 'come' verb likhi hai aur 'but also' ke baad 'to congratulate' infinitive likha, toh 'but also' ko change nahi kar payenge kyunki iske pass verb nahi hai, isliye 'not only' ko 'come' verb ke baad likh denge, jiske 'not only' 'to meet' infinitive se aur 'but also' 'to congratulate' infinitive se jude jayege, isliye yahan 'come not only' sahi hoga."
+            },
+            {
+              "id": 56,
+              "question": "Inspite Smita had taken part in many television serials earlier, this was the first time she was going to host a live show.",
+              "options": [
+                "(a) in many television serials earlier",
+                "(b) she was going to host",
+                "(c) this was the first time",
+                "(d) Inspite Smita had taken part"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) use 'although/though' instead of 'inspite'\nExplanation:- sentence mein 'inspite' ki jagah 'although/though' aayega kyunki sentence ka matlab chahiye 'haalanki wo bahut TV serial mein part le chuki, yeh pehli baar hoga ki wo live show ko host karegi', toh 'haalanki' waale meaning ek liye 'inspite' ka nahi 'although' ka use sahi hoga."
+            },
+            {
+              "id": 57,
+              "question": "Our nation can make significant growth but if we all work collectively.",
+              "options": [
+                "(a) but if we all",
+                "(b) make significant growth",
+                "(c) Our nation can",
+                "(d) work collectively"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'only if' instead of 'but if'\nExplanation:- sentence mein 'but if' ki jagah 'only if' aayega kyunki 'but' ka use contradiction dikhaane ke liye hota hai, lekin sentence mein contradiction nahi balki agle clause ki baat ko jodne hai. Yahan meaning yeh dena hai ki 'humara nation tabhi acchi growth kar sakta hai sirf agar hum sab mil kar kaam karein.' Toh sahi meaning ke liye 'only if' ka use sahi hoga. waise bhi 2 clause ko jodne ke liye 'but' aur 'if' do conjunction ka use sath mein galat hai, aur 'only if' ek conditional phrase hai, isliye iska use yahan sahi hoga"
+            },
+            {
+              "id": 58,
+              "question": "We had to decline several orders in case that the production was held up due to labour strike.",
+              "options": [
+                "(a) in case that",
+                "(b) the production was held up",
+                "(c) due to labour strike",
+                "(d) We had to decline"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) use 'because' instead of 'in case that'\nExplanation:- sentence mein 'in case that' ki jagah 'because' aayega kyunki sentence mein reason batana hai, jiske liye reason batane waali conjunction ka use hoga. sentence ka matlab 'hume bahut order decline karne pade kyunki labour strike ki wazah se production band tha', isliye meaning ke according 'because' ka use sahi hoga. 'in case that' ka use future possibility ke liye use hota hai,"
+            },
+            {
+              "id": 59,
+              "question": "Cyclone Idai killed at least 157 people in Zimbabwe and Mozambique although it tore across Southern Africa.",
+              "options": [
+                "(a) Cyclone Idai killed",
+                "(b) it tore across",
+                "(c) although",
+                "(d) at least 157 people"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'as/when' instead of 'although'\nExplanation:- sentence mein 'although' ki jagah 'as/when' ka use hoga kyunki 'although' ka use contradiction dikhaane ke liye hota hai, lekin sentence mein aage reason batana hai sentence ka matlab hai 'cyclone Idai ne 157 log maare jab yeh southern Africa mein tabaahi macha raha tha', toh 'jab' waale meaning ke liye yahan 'as/when' conjunction ka use sahi hoga.\nNote:- 'as' ka ek meaning 'jab' wala bhi hota hai."
+            },
+            {
+              "id": 60,
+              "question": "She got two quick promotions in order that she has good communication skills.",
+              "options": [
+                "(a) two quick promotions",
+                "(b) she has good communication skills",
+                "(c) in order that",
+                "(d) She got"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) use 'because' instead of 'in order that'\nExplanation:- sentence mein 'in order that' ki jagah 'because' aayega kyunki 'in order that' ka matlab 'taaki' hota hai aur 'because' ka matlab 'kyunki' hota hai. Yahan meaning yeh dena hai ki 'usko do quick promotion mile kyunki uske paas acchi communication skills hai'. Toh sahi meaning ke according 'because' ka use sahi hoga."
+            },
+            {
+              "id": 61,
+              "question": "Either you [and he] will have to pay for this damage.",
+              "options": [
+                "(a) or he",
+                "(b) with he",
+                "(c) but he",
+                "(d) nor he"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'either' ke sath 'or' ka pair hota hai aur yeh correlative conjunction hoti hai, isliye option A sahi hoga."
+            },
+            {
+              "id": 62,
+              "question": "[While he saw the bear], he ran to the nearest tree, dropped his gun and climbed to a safe place.",
+              "options": [
+                "(a) When he saw the bear",
+                "(b) No Substitution",
+                "(c) No sooner did he see",
+                "(d) Hardly he saw the bear"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Option C galat hai kyunki 'no sooner' ke sath 'than' ka pair hota hai. D option bhi galat hoga kyunki 'hardly' ke sath 'when' ka pair hota hai. Sentence ka matlab hai 'jab unse bear ko dekha, toh apne pass waale tree ki taraf bhaag gaya', toh B option bhi galat hai kyunki 'while' duration ko refer karta hai aur yahan ek fix point of time ki baat karni hai. Isliye A option 'when he saw the bear' sahi hoga"
+            },
+            {
+              "id": 63,
+              "question": "The secretary to my boss is very efficient as he not only gives him the required information [and also handles] correspondence independently.",
+              "options": [
+                "(a) yet also handles",
+                "(b) but also handles",
+                "(c) along with also handles",
+                "(d) not also handles"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'not only' ke sath 'but also' ka pair hota hai joki correlative conjunction hoti hai, aur yeh same rank ke words ko connect karte hai, isliye B option sahi hai."
+            },
+            {
+              "id": 64,
+              "question": "[Last before year], Shirley got very good grades.",
+              "options": [
+                "(a) The last year before",
+                "(b) Before last year",
+                "(c) The year before last",
+                "(d) Before year last"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- A and D option grammatically sahi structure nahi hai. B option tab lagta agar yahan yeh meaning diya hota ki 'Last year se pehle Shirley ke kaffi acche marks aate the', matlab 'last year se pehle jitne bhi year the', tab yeh baat habitual action ho jaati, aur past ke habitual action ke liye 'used to' model ka use hota. C option 'the year before last' ka matlab hai 'pichle year se 1 year pichewala year'. Toh yeh meaning wise and grammatically option C sahi hoga."
+            },
+            {
+              "id": 65,
+              "question": "The soldiers had [no choice to] report the loss to their commander.",
+              "options": [
+                "(a) no choice as to",
+                "(b) no choice how to",
+                "(c) No substitution",
+                "(d) no choice but to"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- yahan meaning yeh dena hai ki 'soldiers ke paas commander ko report karne ke sivay koi choice nahi thi..', toh 'no choice but to' phrase hota hai jiska matlab 'ek hee option hona, aur koi choice naa hona' hota hai, jisme 'but' preposition ka kaam kar raha hai aur iska matlab 'ke sivaay' hota hai, isliye 'no choice but to' option D sahi hoga.\nNote:- 'but' jab conjunction hota hai toh iska matlab 'lekin' hota hai.."
+            },
+            {
+              "id": 66,
+              "question": "Keep the dog tied indoors; [however], it may bite some stranger.",
+              "options": [
+                "(a) No Improvement",
+                "(b) else",
+                "(c) yet",
+                "(d) still"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- yeh meaning pe based error hai. 'however' ka matlab 'halaanki', 'yet' ka matlab 'fir bhi', 'still' ka matlab 'fir bhi', 'else' ka maltab 'warna'. Sentence ka matlab hai 'dog ko andar rakho warna yeh kisi anjaan ko kaat lega'. Toh sahi meaning ke according 'else' ka use sahi hoga."
+            },
+            {
+              "id": 67,
+              "question": "She is [as good] if not better than her sister.",
+              "options": [
+                "(a) No Improvement.",
+                "(b) as good as",
+                "(c) good as",
+                "(d) more good"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- yahan 'she' ka 'her sister' se comparison hai yeh sentence ka complete structure aisa hai 'She is as good as her sister is if she is not better than her sister is'. yahan same 2 logon ka 2 baar comparison hua hai isliye subject and verbs understood hogye hain, lekin simile (conj) ka poora structure hi likha jaayega. isliye B option 'as good as' sahi hai."
+            },
+            {
+              "id": 68,
+              "question": "Keep him at arm's length [lest you may not] repent in the long run.",
+              "options": [
+                "(a) or you may not",
+                "(b) No Improvement",
+                "(c) unless you may",
+                "(d) lest you should"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- option D sahi hoga kyunki 'lest' ke sath 'should' ka pair hota hai."
+            },
+            {
+              "id": 69,
+              "question": "He is interested neither in business [or on the] job.",
+              "options": [
+                "(a) not on a",
+                "(b) nor in a",
+                "(c) nor to the",
+                "(d) No Improvement"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'neither' ke sath 'nor' ka pair hota hai aur yeh ek correlative conjunction hoti hai jo 'same rank' ke words ko connect karti hai, isliye 'nor in a job' wala option B sahi hoga."
+            },
+            {
+              "id": 70,
+              "question": "You can have a comfortable journey [only then you are getting] your seats reserved in advance.",
+              "options": [
+                "(a) only then you get",
+                "(b) no improvement required",
+                "(c) only when you are getting",
+                "(d) only if you get"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- yahan meaning yeh dena hai ki 'sirf agar tum apni ticket advance mein reserve karao', toh 'sirf agar' waale meaning ke liye 'only if' ka use hoga joki conjunction ki tarah kaam karega, isliye D option 'only if you get' sahi hoga. baaki 'only then', 'only when' yeh adverbial phrase hota hai, yeh conjunction ka kaam nahi karte."
+            },
+            {
+              "id": 71,
+              "question": "Turn left outside the library door and walk down the corridor [then you came to] the main staircase.",
+              "options": [
+                "(a) No improvement required",
+                "(b) until you come to",
+                "(c) when you are come to",
+                "(d) until you will come at"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- yahan meaning yeh dena hai 'corridor mein chalte raho jab tak tum main staircase tak naa pahunch jao', toh 'jab tak nahi' waale meaning ke liye 'until' ka use hoga, aur 'turn' aur 'walk' se pata chal raha ki present tense ki baat karni hai, isliye 'until' aur present tense 'come' wala 'until you come to' option B sahi hoga."
+            },
+            {
+              "id": 72,
+              "question": "He's not [so friendly like] she is.",
+              "options": [
+                "(a) so friendly as",
+                "(b) as friendly like",
+                "(c) so friendly that",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- sentence mein negative comparison karna hai, sentence ka matlab hai 'wo utna friendly nahi hai jitni tum ho'. Toh 'as....as' ka use 'positive aur negative' comparison ke liye hota hai, lekin 'so....as' ke use sirf negative comparison ke liye hota hai. Options mein 'as.....as' wala option nahi hai, isliye 'so friendly as' wala option A sahi hoga."
+            },
+            {
+              "id": 73,
+              "question": "[In spite of my niece's] dog Casper is very mischievous, he is lovable.",
+              "options": [
+                "(a) Nevertheless my niece",
+                "(b) No substitution required",
+                "(c) Although my niece's",
+                "(d) However my nieces"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- sentence ka matlab hai 'uski niece ka dog Casper' matlab 'dog' pe possession banana hai, jiske liye 'my niece' pe apostrophe 's' ka use hoga, isliye option A aur D galat honge hai. B option bhi galat hai kyunki 'inspite of' ek preposition hoti hai aur yahan 2 clauses ko join karne ke liye 'conjunction' chahiye. Option C se matlab hoga 'halaanki meri niece ka dog sharaarti hai, sab usse pyar karte hai' isliye meaning and grammar ke according C option 'Although my niece's' sahi hai."
+            },
+            {
+              "id": 74,
+              "question": "[Such was] his performance that the audience gave a standing ovation.",
+              "options": [
+                "(a) So was",
+                "(b) Much was",
+                "(c) No substitution",
+                "(d) Such as"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Yahan meaning yeh dena hai ki 'Aisi thi uski performance ki audience ne standing ovation di', toh 'ki' waale meaning ke liye 'such' ke sath 'that' ka use hota hai, sentence mein aage 'that' likha hai, isliye 'such was' 'no substitution required' option C sahi hoga."
+            },
+            {
+              "id": 75,
+              "question": "[Unless] you carry a Covid-19 negative report, you can travel by air.",
+              "options": [
+                "(a) Only",
+                "(b) Provided",
+                "(c) No improvement",
+                "(d) Until"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'provided' or 'provided that' yeh conjunction hoti hai jiska meaning 'basharte, agar(if)' hota hai. yahan meaning yeh dena hai ki 'Agar apke paas covid ki negative report hai to aap by air travel kar sakte hain' iss meaning liye B option 'provided' sahi hoga."
+            },
+            {
+              "id": 76,
+              "question": "[Unless we are not sure] of our goals, we cannot achieve them.",
+              "options": [
+                "(a) No improvement required",
+                "(b) Unless we are sure",
+                "(c) Not until we are sure",
+                "(d) Except if we are not sure"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'unless' ka matlab 'agar nahi' hota hai, aur 'unless' jiss clause ke sath lagta hai uss clause mein 'not' ka use nahi hota kyunki 'unless' se wo 'not' understood ho jata hai, yahan meaning yeh dena hai ki 'agar hum apne goals ko leke sure nahi hai toh hum unhe achieve nahi kar sakte', toh meaning ke according 'unless' ka use sahi hai, isliye 'unless we are sure' wala option B sahi hoga."
+            },
+            {
+              "id": 77,
+              "question": "Hurry up, [in case] you will be late for your school.",
+              "options": [
+                "(a) otherwise",
+                "(b) even if",
+                "(c) No substitution",
+                "(d) so that"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- yeh meaning based error hai. yahan meaning yeh dena ki 'jaldi karo warna tum school ke liye late ho jayoge', toh 'warna' waale meaning ke liye A option 'otherwise' sahi hoga"
+            },
+            {
+              "id": 78,
+              "question": "Cakes are Jaya's favourite snack, [even samosas is] Aparna's preferred choice.",
+              "options": [
+                "(a) but samosas be",
+                "(b) while samosas are",
+                "(c) No substitution",
+                "(d) either samosa are"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- sentence mein do clause ko jodne ke liye conjunction chahiye, lekin 'even' toh adverb hota hai, isliye option C galat hoga. option D bhi galat hoga kyunki 'either' ke sath 'or' ka pair hota hai. Sentence mein 'samosas' subject plural hai, isliye plural verb ayegi aur sentence ka matlab chahiye 'cake Jaya ka favourite food hai, jabki Aparna samosa prefer karti hai', toh plural verb aur 'jabki' waale meaning ke liye 'while samosas are' option B sahi hoga."
+            },
+            {
+              "id": 79,
+              "question": "[No sooner] I get the message; I shall pass it on to you.",
+              "options": [
+                "(a) As soon as",
+                "(b) Although",
+                "(c) No substitution",
+                "(d) Hardly"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'No sooner' ke sath 'than' ka pair hota hai aur 'hardly' ke sath 'when' ka joki dono option mein nahi hai isliye C and D options galat hain. yahan meaning dena hai ki 'jaise hi muje message milega, waise he tumhe pass kar dunga', toh 'jaise he' waale meaning ke liye 'as soon as' option A sahi hoga. baaki 'although' ka matlab 'halaanki' hota hai jo contradiction dikhaane ke kaam aata hai."
+            },
+            {
+              "id": 80,
+              "question": "[Just when I] sit down, than the doorbell rang.",
+              "options": [
+                "(a) No sooner did I",
+                "(b) No substitution",
+                "(c) Hardly when I",
+                "(d) As soon as I did"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'No sooner' ke sath 'than' ka pair hota hai joki ek correlative conjunction hai, 'no sooner' ke sath inversion bhi follow hota hai, toh meaning ke according option A 'No sooner did I' sahi hoga"
+            },
+            {
+              "id": 81,
+              "question": "She had grown [too thin which] she looked like Scarecrow.",
+              "options": [
+                "(a) very thin that",
+                "(b) too thin or",
+                "(c) so thin that",
+                "(d) No substitution"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'too' ke sath infinitive ka pair hota hai, isliye option B aur D galat honge. Option A bhi galat hoga kyunki 'that' ke sath 'such' yaa 'so' ka pair banta hai. Sentence ka matlab chahiye 'wo itni patli ho gayi thi ki wo scarecrow ki tarah dikhne lagi', toh meaning ke according 'so thin that' wala option C sahi hoga."
+            },
+            {
+              "id": 82,
+              "question": "I cannot help you [if you tell me] your problem.",
+              "options": [
+                "(a) No substitution required",
+                "(b) unless you don't tell me",
+                "(c) until you don't tell me",
+                "(d) unless you tell me"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- yahan meaning yeh dena hai ki 'mai tumhari help nahi kar sakta agar tum mujhe apni problem nahi bataoge', 'unless' ka matlab 'agar nahi' hota hai aur 'until/unless' jiss clause ke sath lagta hai usme 'not' ka use galat hota hai. isliye 'unless you tell me' wala D option sahi hoga."
+            },
+            {
+              "id": 83,
+              "question": "[Unless someone makes a complaint], they will not clear the garbage from the street.",
+              "options": [
+                "(a) Without someone makes a complaint",
+                "(b) No substitution required",
+                "(c) Despite someone makes a complaint",
+                "(d) Except someone makes a complaint"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'Without, Despite, Except' yeh sab prepositions hai, lekin sentence mein 2 clauses ko join karne ke liye conjunction ka use karte hai. isliye meaning and grammar ke according question mein diya 'unless.....' sahi hoga."
+            },
+            {
+              "id": 84,
+              "question": "[Because] she didn't love him, she had to marry him.",
+              "options": [
+                "(a) No substitution",
+                "(b) Although",
+                "(c) Since",
+                "(d) Despite"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- option A aur C galat honge kyunki 'because' aur 'since' conjunction ka use reason bataane ke liye hota, lekin sentence mein contradiction dikhaana hai. Option D bhi galat hoga kyunki 'despite' preposition hoti hai, jabki humhe yahan conjunction chahiye do clause ke liye. Option B sahi hoga jisse matlab hoga 'halaanki wo usse pyar nahi karti thi, usse shadi karni padi', toh meaning ke according 'although' option B sahi hoga."
+            },
+            {
+              "id": 85,
+              "question": "The train was delayed [in order to] an accident.",
+              "options": [
+                "(a) because",
+                "(b) No substitution",
+                "(c) since",
+                "(d) owing to"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- sentence mein 'train was' ek hee clause hai, toh yahan conjunction ki jarurat nahi hai isliye A and C options galat hain. B option bhi galat hai kyunki 'In order to + verb' sahi structure hota hai. isliye meaning aur grammar ke according D option sahi hai.\nNote:- 'owing to' ka meaning 'because of' hota hai. Joki prepositional phrase hota hai."
+            },
+            {
+              "id": 86,
+              "question": "She was smiling [but looking] pleased about something.",
+              "options": [
+                "(a) but look",
+                "(b) so looking",
+                "(c) No improvement",
+                "(d) and looked"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- yahan koi contradiction nhi dikhana hai, isliye option A aur C galat honge. Option B bhi galat hoga kyunki 'so' ka matlab 'isliye' hota hai, joki meaning ke according galat hai. Sentence ka matlab chahiye 'wo smile kar rahi thi aur khush thi kisi cheez ko leke' isliye meaning ke according yahan D option 'and looked' sahi hai."
+            },
+            {
+              "id": 87,
+              "question": "She was [so tall to] reach the top shelf.",
+              "options": [
+                "(a) No improvement",
+                "(b) so tall that",
+                "(c) too tall for",
+                "(d) tall enough to"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- sentence mein 'reach' verb hai lekin subject nahi hai matlab second clause nahi banega, isliye option B 'so tall that' galat hoga kyunki yeh clauses ko jodne ke liye kaam aata hai, option A bhi galat hoga kyunki 'so' ke sath 'to' ka use galat hai, option C bhi galat hoga kyunki 'too' ke sath infinitive ka pair banta hai. Option D 'tall enough to' sahi hoga jisse matlab hoga 'wo upper shelf tak pahuchne ke liye paryapt lambi thi', aur 'to reach' se infinitive bhi banega, jo meaning wise aur grammar wise sahi hoga, toh option D sahi hoga."
+            },
+            {
+              "id": 88,
+              "question": "[But for their] valour, they would have been defeated.",
+              "options": [
+                "(a) But about their",
+                "(b) Because of their",
+                "(c) No improvement",
+                "(d) Except with their"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- yahan meaning yeh dena hai ki 'unki bahaduri ke bina wo haar gaye hote', toh 'but for' ek phrase hota hai jiska matlab 'ke bina (without)' hota hai, isliye question mein diya structure sahi hai."
+            },
+            {
+              "id": 89,
+              "question": "[So much as] you behave like this, the decision of the management against you cannot be revoked.",
+              "options": [
+                "(a) As long to",
+                "(b) As long as",
+                "(c) As much to",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- option A aur C galat honge kyunki 'as' ke sath 'to' ka structure grammatically galat hai. Option D bhi galat hoga kyunki 'much' ka use quantity ka refer karne ke liye hota hai. yahan meaning yeh dena hai ki 'jab tak tum aise hi behave karoge.....', iss meaning ke liye B option 'as long as' ka use hoga."
+            },
+            {
+              "id": 90,
+              "question": "Hardly had he [sit on the chair than] it broke.",
+              "options": [
+                "(a) No substitution",
+                "(b) sat on the chair when",
+                "(c) sat onto a chair then",
+                "(d) sit in the chair when"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'hardly' ke sath 'when' ka pair hota hai joki correlative conjunction hoti hai. aur 'had' ke baad v3 ka use hoga isliye B option 'sat on the chair when' sahi hai."
+            }
+          ]
         }
       ]
     }
