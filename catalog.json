@@ -19582,6 +19582,732 @@
               "solutionHinglish": "Ans (c)\nExplanation:- A option galat hai kyuki yahan behaved verb ke liye adverb chahiye aur 'cowardly' ek adjective hai. B option galat hai kyuki 'manner' noun ko qualify karne ke liye 'cowardly' adjective hona chahiye tha. D option 'like coward' galat hai kyuki 'coward' ek noun hota hai aur singular countable noun se pehle yahan 'a' article hona chahiye tha. Isliye C option 'like a coward' sahi hai. ye pura ek adverbial phrase of manner banega 'behaved' verb ke liye."
             }
           ]
+        },
+        {
+          "id": "t_1793548713505",
+          "name": "ADVERB LEVEL - 02",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Select the sentence with the appropriate use of adverb of manner.",
+              "options": [
+                "(a) He completed the assignment efficiently.",
+                "(b) He finished the task on time.",
+                "(c) He completes the assignment every day.",
+                "(d) He is working on the assignment at the new site."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'he completed the assignment efficiently'\nExplanation:- Option A sahi hoga kyunki 'efficiently' adverb of manner hai, option B mein 'on time' adverb of time hai, option C mein 'every day' adverb of frequency hai, option D mein 'at the new site' adverb of place hai."
+            },
+            {
+              "id": 2,
+              "question": "He seldom or ever (a)/ visits his relatives (b)/ during the festival season (c)/ as he hates social gatherings (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'seldom or ever' with 'seldom or never'\nExplanation:- 'seldom or ever' jaise koi adverb nahi hoti. 2 adverb hoti hai 'seldom if ever' ka matlab 'kabhi kabaar', 'seldom or never' ka matlab 'naa ke barabaar', sentence mein bataya ki 'usse social gathering se nafrat hai', isliye yahan 'seldom or never' sabse sahi adverb hogi."
+            },
+            {
+              "id": 3,
+              "question": "Though she is intelligent (a)/ she could not handle (b)/ the challenges in her career confident. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'confident' with 'confidently'\nExplanation:- Sentence mein 'confident' ki jagah 'confidently' ayega kyunki 'handle' verb ke liye adverb of manner ki jarurat hai, 'confident' adjective hota hai, isliye yahan 'confidently' sabse sahi answer hoga."
+            },
+            {
+              "id": 4,
+              "question": "Select the sentence with the appropriate use of adverb of frequency.",
+              "options": [
+                "(a) She works at the hospital with full dedication.",
+                "(b) She works at the hospital to help the patients.",
+                "(c) She usually works at the hospital from 9 am to 5pm.",
+                "(d) She works at the hospital with her friends."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'she usually works at the hospital from 9am to 5pm'\nExplanation:- Option C sahi hoga kyunki 'usually' adverb of frequency hota hai. option A mein 'with full dedication' adverb of manner hai. option B mein 'to help' adverb of reason hai. option D mein koi adverb nahi hai."
+            },
+            {
+              "id": 5,
+              "question": "They were luckily (a)/ not travelling in the train (b)/ which met with an accident (c)/ last night (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'they were luckily' with 'luckily, they were'\nExplanation:- Sentence mein 'luckily' starting mein ayega kyunki 'fortunately, generally, luckily' yeh 'sentence adverb' hoti hai jo kisi word ko nahi poore sentence ko qualify karne ke liye likhi jaati hai, isliye inhe starting mein likhte hai, toh 'luckily, they were' sabse sahi answer hoga."
+            },
+            {
+              "id": 6,
+              "question": "I know this dress looks very (a)/ elegant but it is too much (b)/ tight to wear (c)/ comfortably (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'too much' with 'much too'\nExplanation:- Sentence mein 'tight' word adjective hai, adjective ko qualify karne ke liye adverb ki jarurat hoti hai, 'too much' adjective hota hai aur 'much too' adverb. Isliye yahan 'tight' adjective se pehle 'much too' adverb sahi hoga."
+            },
+            {
+              "id": 7,
+              "question": "Since her birth, her parents (a)/ have always encouraged (b)/ her to aim highly (c)/ and never give up. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'highly' with 'high'\nExplanation:- Iss sentence mein 'highly' ki jagah par 'high' ayega kyunki 'highly' adverb hoti hai jiska matlab 'bahut jyada', aur 'high' bhi adverb hoti hai jiska matlab 'uncha' hota hai, toh sentence ka matlab hoga 'uncha aim karna aur kabhi haar naa maanna', toh sahi meaning ke liye 'high' adverb sahi hogi."
+            },
+            {
+              "id": 8,
+              "question": "Hardly they visit (a)/ their relatives (b)/ after the dispute (c)/ that arose over the property last year(d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'hardly they visit' with 'hardly do they visit'\nExplanation:- Sentence mein 'hardly' ke baad 'do' helping verb ayegi, kyunki partial inversion mein helping verb subject se pehle aati hai. agar sentence ki starting 'seldom, hardly, scarcely, rarely etc.' adverb of frequency se hoti hai toh inversion follow hota hai jisme 'verb' subject se pehle aati hai. isliye yahan 'hardly' ke baad 'do they' sabse sahi hoga."
+            },
+            {
+              "id": 9,
+              "question": "This smartphone is (a)/ very costlier than the previous model (b)/ because of its advanced features (c)/ and upgraded camera system (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'very' with 'much'\nExplanation:- Comparative degree adjective ki intensity badhaane ke liye 'much, far' adverb ka use kiya jata hai, isliye yahan 'very' ki jagah 'much' ka use sahi hoga."
+            },
+            {
+              "id": 10,
+              "question": "Although she only earns (a)/ a few hundred rupees every month (b)/ yet she manages to pay (c)/ her child's school fees and household bills (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'only earns' with 'earns only'\nExplanation:- Sentence mein 'only' ki position galat hai kyunki, sentence mein batana hai ki 'wo sirf kuch hundred kamati hai har mahine', isliye 'only' 'earns' ke baad ayega. aur 'only earns' se matlab niklega ki 'wo kamati hai', toh sahi matlab ke liye 'earns only a few hundred' sahi hoga."
+            },
+            {
+              "id": 11,
+              "question": "She was very praised (a)/ by the teachers (b)/ for her dedication and hard work (c). no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'very praised' with 'praised a lot, praised highly'\nExplanation:- Sentence mein 'praised' se pehle 'very' adverb nahi ayegi, kyunki 'very' adverb ka use generally adjective ke sath hota hai, yeh verb ko qualify karne ke liye nahi aata. Isliye 'praised' ki intensity badhaane ke liye 'praised a lot, praised highly' sahi hoga."
+            },
+            {
+              "id": 12,
+              "question": "She was (a)/ quite completely (b)/ sure about her decision (c)/ to move abroad for higher studies (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove 'completely'\nExplanation:- Sentence mein 'completely' ka use nahi hoga kyunki 'quite' adverb ka matlab hee 'completely' hota hai, toh 'quite' ke sath 'completely, absolutely' galat hote hai, aur yeh superfluous ki category mein aate hai, isliye sentence mein 'quite' ke sath 'completely' ka use galat hoga."
+            },
+            {
+              "id": 13,
+              "question": "She was (a)/ rewarded generously for (b)/ her efforts to manage (c)/ the entire event efficient (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) replace 'efficient' with 'efficiently'\nExplanation:- Sentence mein 'efficient' adjective ki jagah par 'efficiently' adverb ayegi kyunki 'to manage' infinitive hai jisme 'verb' bhi hoti hai, verb ko qualify karne ke liye adverb ki jarurat hoti hai, isliye yahan 'efficiently' adverb sahi hoga."
+            },
+            {
+              "id": 14,
+              "question": "I never remember (a)/ to have seen a more dedicated (b)/ teacher in my entire life (c)/. No error (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'never remember' with 'don't remember, remember never'\nExplanation:- 'I never remember' se meaning ho jayega ki 'mai kabhi yaad nahi rakhta' joki sahi meaning nahi hai. yahan meaning dena hai ki 'mujhe yaad hai mein kabhi nahi mila', 'yaa mujhe yaad nahi ke mein kabhi mila hoo', yeh do meaning sahi nikal sakte hai, jiske liye 'I don't remember, I remember never' ka use kare.\nNote:- jab 'I remember never' likhte hai toh 'never' aage likhe 'to have seen' perfect infinitive mein aayi verb ki liye 'adverb' ka kaam karta hai."
+            },
+            {
+              "id": 15,
+              "question": "She does not even (a)/ know how to cut the fabric (b)/straightly so I won't be able (c)/ to hire her(d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'straightly' with 'straight'\nExplanation:- Sentence mein 'straightly' ki jagah par 'straight' ayega kyunki kuch words 'straight, right, late, fast, low etc.' aise hote hai jinka adjective aur adverb form same hoti hai, isliye yahan 'straight' sabse sahi answer hoga."
+            },
+            {
+              "id": 16,
+              "question": "He is a quiet talented musician (a)/ who has composed (b)/ many beautiful melodies (c)/ without any formal training (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'a quiet talented' with 'quite a talented'\nExplanation:- Sentence mein 'quiet' ki jagah 'quite' ayega, kyunki 'quiet' ka matlab 'shaant', aur 'quite' ka use intensity badhaane ke liye aata hai. agar 'quite' ke baad adjective hai toh simply 'quite + adjective' sahi hota hai, lekin agar 'adverb+adjective' ke baad noun hota hai toh 'quite' article ke pehle chala jaata hai, toh sentence mein 'musician' noun hai, isliye 'quite a talented musician' sabse sahi answer hoga."
+            },
+            {
+              "id": 17,
+              "question": "He told me that his brother (a)/ who is a soldier got injured (b)/ in a battle (c)/ about six months behind (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) replace 'behind' with 'ago'\nExplanation:- Sentence mein 'behind' ki jagah par 'ago' ayega kyunki 'behind' preposition hoti hai, aur 'koi cheez itne time pehle hui' yeh batane ke liye 'ago' adverb ka use hota hai, isliye yahan 'ago' adverb sabse sahi hogi."
+            },
+            {
+              "id": 18,
+              "question": "People praised (a)/ his several (b)/ attempts fearlessly (c)/ to rescue the children trapped inside the bus (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'attempts fearlessly' with 'fearless attempts'\nExplanation:- Sentence mein 'praise' karne waali baat uske attempts ke liye likhi hai, toh sentence mein 'attempts' noun hai jisko qualify karne ke liye adjective ki jarurat hai, toh 'fearless' adjective hota hai jo ki noun se pehle ayega, isliye 'fearless attempts' sabse sahi answer hoga."
+            },
+            {
+              "id": 19,
+              "question": "She was not enough confident (a)/ to deliver the speech (b)/ in front of such a huge audience (c)/ no error (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'enough confident' with 'confident enough'\nExplanation:- Sentence mein 'enough confident' ki jagah par 'confident enough' ayega, kyunki 'enough' ek aise adverb hai, jis adjective ko qualify karti hai uske peche aati hai, toh 'confident' adjective hai, isliye yahan 'confident enough' sabse sahi answer hoga."
+            },
+            {
+              "id": 20,
+              "question": "The city has become (a)/ very much noisy these days (b)/ because of the constant traffic jams, (c)/ though people have learnt to adjust somehow (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'very much' with 'very / too'\nExplanation:- Sentence mein 'noisy' ek positive degree adjective hai aur 'much' adverb ka use comparative degree adjective se pehle hota hai naa ki positive degree adjective ke liye, isliye 'noisy' ki intensity badhaane ke liye 'too' yaa 'very' adverb sahi hogi, toh 'too noisy, very noisy' dono sahi answer honge."
+            },
+            {
+              "id": 21,
+              "question": "She is (a)/ the very intelligent student (b)/ I have ever (c)/ taught in my teaching career (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'very' with 'most'\nExplanation:- Sentence mein 'very' ki jagah par 'most' ka use hoga kyunki sentence mein ek bacche ka comparison sab bacchon se karna hai, jiske liye superlative degree ka use hoga. 'more intelligent' comparative degree hoti hai, 'most intelligent' superlative degree hoti hai, isliye yahan 'the most intelligent' sabse sahi answer hoga."
+            },
+            {
+              "id": 22,
+              "question": "The principal almost punished every student (a)/ who was involved in the violent argument (b)/ during the annual function. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'almost punished' with 'punished almost'.\nExplanation:- Yahan meaning ye dena hai ki principal ne punish kia almost har ek student ko 'almost' yahan 'every' adjective ko qualify karne ke liye aaya hai tho uski position every se pehle honi chahiye thi."
+            },
+            {
+              "id": 23,
+              "question": "Of course, you will get (a)/ a promotion soon, (b)/ if you keep working (c)/ with the same level of commitment (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'of course' with 'certainly'\nExplanation:- Sentence mein 'ofcourse' ki jagah par 'certainly' ayega kyunki jab 'koi cheez future mein hogi' yeh batane ke liye 'certainly' ka use karte hai aur 'of course' ka use 'koi obvious baat ke liye' karte hai, sentence mein 'will' se pata chal raha ki 'promotion' future mein hoga, isliye yahan 'certainly' sabse sahi answer hoga."
+            },
+            {
+              "id": 24,
+              "question": "I have presently got to know (a)/ that Shalini is moving abroad, (b)/ but I am not able to decide (c)/ how to react to this news (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'presently' with 'recently'\nExplanation:- 'presently' ka matlab hota hai 'jaldi hee, soon', lekin sentence ke meaning se pata chal raha ki 'usse abhi hee pata chala hai ki shalini abroad jaa rahi hai', toh 'abhi hee' waale matlab ke liye 'recently' sabse sahi answer hoga."
+            },
+            {
+              "id": 25,
+              "question": "Many drones were seen flying exact (a)/ above the army base (b)/ during the early hours (c)/ of the operation (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'exact' with 'exactly'\nExplanation:- 'exact' adjective hota hai, lekin sentence mein 'above' preposition hai jisko qualify karne ke liye adverb ki jarurat hai, isliye yahan adverb 'exactly' sabse sahi answer hoga."
+            },
+            {
+              "id": 26,
+              "question": "Ravi looked tired (a)/ as he had not (b)/ properly slept (c)/ for the last two nights (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'properly slept' with 'slept properly'\nExplanation:- Sentence mein 'properly' adverb of manner hai aur adverb of manner, agar transitive verb ho toh object ke baad lagte hai, agar object nahi ho toh verb ke baad lagte hai, isliye 'properly' adverb verb ke baad ayega, isliye 'slept properly' sabse sahi answer hoga."
+            },
+            {
+              "id": 27,
+              "question": "The young athlete completed the marathon (a)/ with hardly no sign of fatigue (b)/ even after running continuously (c)/ for more than four hours (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'no sign' with 'any sign'\nExplanation:- Sentence mein 'no' ki jagah 'any' ayega kyunki 'hardly' pehle hee negative word hai jiske baad ek aur negative 'no' galat hoga, isliye 'no' ki jagah neutral word 'any' ayega, isliye 'hardly any sign of fatigue' sabse sahi answer hoga."
+            },
+            {
+              "id": 28,
+              "question": "So tired (a)/ he was that he could (b)/ hardly keep his eyes open (c)/ during the late-night meeting (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'he was' with 'was he'\nExplanation:- Agar kisi sentence ki starting mein 'so +adjective/adverb of manner' ho toh inversion ka use karte hai, aur inversion mein 'verb' 'subject' ke pehle aati hai, isliye 'was he' sabse sahi answer hoga."
+            },
+            {
+              "id": 29,
+              "question": "Don't worry your student is too brave (a)/ to face the challenges of this (b)/ competition without any help (c). no error(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'too brave' with 'brave enough'\nExplanation:- Sentence mein 'too brave' ki jagah 'brave enough' ayega kyunki 'too......to' ka structure negative sense mein aata hai, lekin sentence mein positive baat kehni hai jiske sath 'too' galat hoga. Toh jisme infinitive bhi aa raha ho aur positive baat karni ho, toh uske liye 'enough' ka use karte hai, isliye 'brave enough to face' sabse sahi answer hoga."
+            },
+            {
+              "id": 30,
+              "question": "The weather during our vacation was (a)/ only too pleasant so we had to cancel (b)/ several outdoor plans (c)/ despite booking everything in advance (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'only too' with 'none too'\nExplanation:- Sentence mein 'only too pleasant' se matlab hoga ki 'vacation ke dauran mausam accha tha', agar mausam accha hota toh plan thodi cancel karte, toh sentence ke according negative word chaiye isliye 'none too' sabse sahi answer hoga."
+            },
+            {
+              "id": 31,
+              "question": "Among all the novels written by her, (a)/ this one is said to be (b)/ the much greatest achievement (c)/ of her career (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'the much' with 'by far the/much the'\nExplanation:- Sentence mein 'the much' ki jagah 'by far the/much the' ayega kyunki superlative degree ki intensity badhaane ke liye agar 'much' ka use karte hai toh 'much, by far' ko 'the' ke pehle likhte hai, isliye 'by far the/much the' sabse sahi answer hoga."
+            },
+            {
+              "id": 32,
+              "question": "The chef performed (a)/ very good in the competition (b)/ despite the limited ingredients (c)/ available in the kitchen (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'very good' with 'very well'\nExplanation:- Sentence mein 'good' ki jagah 'well' ayega kyunki 'performed' verb ko qualify karne ke liye adverb ki jarurat hai, 'good' adjective hota hai aur 'well' adverb hota hai, isliye yahan 'very well' sabse sahi answer hoga."
+            },
+            {
+              "id": 33,
+              "question": "The workers were instructed (a)/ to keep the tools (b)/ orderly before leaving (c)/ the construction site every evening (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'orderly' with 'in an orderly manner'\nExplanation:- Kuch words jaise 'orderly, manly, godly, lively etc.' yeh adjectives hote hai, lekin sentence mein adverb ki jarurat hai, isliye 'orderly' ki jagah 'in an orderly manner' adverbial phrase of manner ka use karenge."
+            },
+            {
+              "id": 34,
+              "question": "Only when the storm (a)/ was over we could (b)/ see the extent of (c)/ the destruction around us (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'we could' with 'could we'\nExplanation:- Sentence mein 'we could' ki jagah 'could we' ayega kyunki 'only' ke sath jab time diya ho, yaa clause laga ke time bataya jaaye, toh yeh inversion ka kaam karta hai, jisme verb subject se pehle aati hai, isliye yahan 'could we' sabse sahi answer hoga."
+            },
+            {
+              "id": 35,
+              "question": "The farmers (a)/ worked hardly (b)/ throughout the summer (c)/ to save their dying crops (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'hardly' with 'hard'\nExplanation:- Sentence mein 'hardly' ki jagah 'hard' ayega kyunki 'hardly' ka matlab hota hai 'naa ke barabar' jo ki adverb hota hai, aur 'hard' adjective aur adverb dono hota hai, sentence mein meaning dena 'mehnat' wala, isliye yahan 'hard' sabse sahi answer hoga."
+            },
+            {
+              "id": 36,
+              "question": "The beautiful painted mural (a)/ on the old temple wall (b)/ attracted many tourists (c)/ in the cultural festival (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'beautiful' with 'beautifully'\nExplanation:- Sentence mein 'painted' adjective ko qualify karne ke liye adverb ki jarurat hai aur 'beautiful' bhi adjective hota hai, toh adjective mein 'ly' lagane se adverb ban jata hai, isliye yahan 'beautifully' sabse sahi answer hoga."
+            },
+            {
+              "id": 37,
+              "question": "Not only he broke (a)/ the traffic rules (b)/ but he also (c)/ argued with the police officer (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'he broke' with 'did he break'\nExplanation:- Yahan sentence ki shuruaat 'Not only' se ho rahi hai jiske saath inversion use kia jaata hai, Isliye yahan par 'he broke' ki jagah 'did he break' aayega."
+            },
+            {
+              "id": 38,
+              "question": "They are yet hoping (a)/ that the situation will (b)/ improve when the (c)/ new policy gets implemented (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'yet' with 'still'\nExplanation:- Sentence mein 'yet' ki jagah 'still' ayega kyunki 'yet' ka use perfect tense mein karte hai aur generally negative yaa interrogative mein karte hai, sentence continuous mein likha hai aur positive sense mein hai, isliye yahan 'still' sabse sahi answer hoga."
+            },
+            {
+              "id": 39,
+              "question": "The manager shouted (a)/ in the meeting very angrily (b)/ when the team failed to answer(c)/ his questions (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) put 'very angrily' before 'in the meeting'\nExplanation:- 'very angrily' 'in the meeting' ke pehle ayega kyunki isme 'Manner, Place, Time' ka structure follow ho raha hai, jiske according 'very angrily' Manner, Place se pehle ayega, isliye 'very angrily in the meeting' sabse sahi answer hoga."
+            },
+            {
+              "id": 40,
+              "question": "He forgets usually (a)/ to carry his ID card (b)/ to the examination centre (c). No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) put 'usually' before 'forgets'\nExplanation:- Sentence mein 'usually' manner of frequency hai jisko verb se pehle likhte hai jaise 'often, seldom, always, rarely etc' yeh verb se pehle aate hai aur 'daily, weekly, monthly etc' yeh clause ke end mein aate hai, isliye yahan 'usually forgets' sabse sahi answer hoga."
+            },
+            {
+              "id": 41,
+              "question": "The villagers trusted (a)/ the new leader so more that (b)/ they followed all his instructions (c)/ without any question (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'more' with 'much'\nExplanation:- Sentence mein 'more' ki jagah 'much' ayega kyunki 'more' ek comparative degree hai lekin sentence mein koi comparison nahi karna, isliye yahan positive degree 'much' ayega aur 'so' 'much' ki intensity badhaane ke liye aaya hai."
+            },
+            {
+              "id": 42,
+              "question": "It was a most enjoyable evening and everyone (a)/ praised the host for arranging (b)/ such a pleasant get-together. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) no error\nExplanation:- 'a most' ka matlab 'very' hota hai."
+            },
+            {
+              "id": 43,
+              "question": "You will be surprised (a)/ to know that she hasn't apologized (b)/ for her rude behaviour, nor her brother has (c)/ No error (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) put 'has' before 'her brother'\nExplanation:- Sentence mein 'addition to statement' ka structure follow ho raha hai jisme negative sentence mein 'neither/nor + helping verb + subject' ka structure follow hota hai, isliye yahan 'has her brother' sabse sahi answer hoga."
+            },
+            {
+              "id": 44,
+              "question": "No matter she works how sincerely, (a)/ she never gets appreciated (b)/ for her efforts. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) put 'how sincerely' before 'she works'\nExplanation:- Sentence ka matlab hai 'koi farak nahi padta ki wo kitni sincerely kaam kare' iss type ke meaning ke liye yeh structure use hota hai 'no matter how sincerely she works'. Example 'no matter how hard he try', 'no matter how early I come' iss type ke meaning ke liye yeh structure use hota hai. isliye 'how sincerely' 'she works' se pehle ayega."
+            },
+            {
+              "id": 45,
+              "question": "Neem leaves are often used in making soaps (a)/ which are specially very effective (b)/ in preventing skin infections. (c)/ no error (d).",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'specially very effective' with 'very effective especially'\nExplanation:- 'specially' ka matlab 'koi special tarika' aur 'especially' ka matlab 'koi particular'. Sentence mein 'neem soaps' ki baat ho rahi aur particularly skin infection ko prevent karne mein, isliye yahan 'very effective especially' sabse sahi answer hoga."
+            },
+            {
+              "id": 46,
+              "question": "The audience clapped when the singer [graceful] bowed at the end of her mesmerizing performance.",
+              "options": [
+                "(a) gracefulness",
+                "(b) gracious",
+                "(c) gracefully",
+                "(d) graciousness"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Sentence mein 'bowed' verb ko qualify karne ke liye adverb ki jarurat hai aur 'graceful' adjective hai, isliye diye gaye options mein se 'gracefully' adverb sabse sahi answer hoga. 'gracefulness' aur 'graciousness' noun hai aur 'gracious' adjective hai."
+            },
+            {
+              "id": 47,
+              "question": "The students were [too happy] to see their favourite teacher return after a long medical leave.",
+              "options": [
+                "(a) very happy",
+                "(b) to happy",
+                "(c) so happy",
+                "(d) no improvement"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'too.......to' ka structure negative meaning convey karta hai, lekin sentence mein positive baat karni hai, aur matlab dena hai 'students bahut khush the', isliye yahan 'very happy' option A sabse sahi answer hoga."
+            },
+            {
+              "id": 48,
+              "question": "Select the appropriate option to replace the underlined word with the adverb of frequency.\nShe [did not agree] that her decision had hurt her close friends who had supported her for years.",
+              "options": [
+                "(a) never agreed",
+                "(b) yesterday agreed",
+                "(c) willingly agreed",
+                "(d) happily agreed"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Sentence mein adverb of frequency pucha hai, 'yesterday agreed' adverb of time hai, 'willingly agreed, happily agreed' adverb of manner hai, isliye diye gaye option mein se option A 'never agreed' adverb of frequency sabse sahi answer hoga."
+            },
+            {
+              "id": 49,
+              "question": "Hardly [we had reached] the examination hall when the final bell rang, and everyone rushed to their seats.",
+              "options": [
+                "(a) we are reached",
+                "(b) we have reached",
+                "(c) had we reached",
+                "(d) we will reach"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'hardly' ke sath 'when' ka pair hota hai aur inversion follow hota hai, jisme verb subject se pehle aati hai, isliye diye gaye options mein se option C 'had we reached' inversion sabse sahi answer hoga."
+            },
+            {
+              "id": 50,
+              "question": "[No sooner did the students finish] their final exams, than they began planning for a long vacation.",
+              "options": [
+                "(a) No sooner do the students finish",
+                "(b) No sooner have the students finished",
+                "(c) No substitution",
+                "(d) No sooner had the students finishing"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) No substitution"
+            },
+            {
+              "id": 51,
+              "question": "Even though both my sisters dance gracefully, [I can perform more well than both of them] on stage.",
+              "options": [
+                "(a) I can perform more good than both of them",
+                "(b) I can perform good than both of them",
+                "(c) I can perform best than both of them",
+                "(d) I can perform better than both of them"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Sentence mein ek ka comparison dono sisters se karna hai aur yahan 'sisters' ek unit maane gaye hai, isliye yahan superlative degree nahi balki comparative degree ayegi, isliye 'well' ki comparative degree 'better' sahi hogi, isliye option D 'better than both of them' sabse sahi answer hoga."
+            },
+            {
+              "id": 52,
+              "question": "The old bridge became so weak that vehicles could [none long cross] it safely during the monsoon.",
+              "options": [
+                "(a) no longer cross",
+                "(b) cross no long",
+                "(c) not cross longest",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Sentence mein jab kehna ho ki 'ab hum aage nahi jaa sakte', iske liye 'no longer' phrase ka use karte hai, isliye yahan option A 'no longer cross' sabse sahi answer hoga."
+            },
+            {
+              "id": 53,
+              "question": "The teacher [observed close] how each student responded during the practical exam.",
+              "options": [
+                "(a) closely observed",
+                "(b) close observed",
+                "(c) No improvement",
+                "(d) observe closely"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Sentence mein 'observed' ko qualify karne ke liye adverb ki jarurat hai aur 'closely' adverb hota hai, isliye option B aur C galat honge. Option D bhi galat hoga kyunki koi habitual action ki baat nahi karni. Isliye option A 'closely observed' sabse sahi answer hoga."
+            },
+            {
+              "id": 54,
+              "question": "Drinking too much green tea can act as a mild diuretic, making your body release water [more often].",
+              "options": [
+                "(a) more much often",
+                "(b) many often",
+                "(c) more oftenly",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) No improvement"
+            },
+            {
+              "id": 55,
+              "question": "The students presented their dance [in the auditorium beautifully last night].",
+              "options": [
+                "(a) beautifully in the auditorium last night",
+                "(b) last night beautifully in the auditorium",
+                "(c) in the auditorium last night beautifully",
+                "(d) beautifully last night in the auditorium"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Sentence mein Manner, Place, Time ka structure follow hoga, isliye option A 'beautifully in the auditorium last night' sabse sahi answer hoga."
+            },
+            {
+              "id": 56,
+              "question": "The speeding truck lost control on the highway, [narrowly missing] a group of school children crossing the road.",
+              "options": [
+                "(a) narrowly missed",
+                "(b) narrowly miss",
+                "(c) narrowed missing",
+                "(d) No substitution"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) No substitution"
+            },
+            {
+              "id": 57,
+              "question": "[They only invited their close friends to the private ceremony.]",
+              "options": [
+                "(a) They invited only their close friends to the private ceremony.",
+                "(b) They invited their only close friends to the private ceremony.",
+                "(c) Only they invited their close friends to the private ceremony.",
+                "(d) No improvement."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Sentence mein 'only' adverb hai jo yahan 'their' adjective ko qualify kar raha hai, isliye 'only' 'their' ke pehle ayega, isliye option A sabse sahi answer hoga."
+            },
+            {
+              "id": 58,
+              "question": "The soldier ran away from the battlefield [like coward].",
+              "options": [
+                "(a) like cowardly",
+                "(b) like a coward",
+                "(c) in a coward manner",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Sentence mein adverb ki jarurat hai, jo ki adverbial phrase of manner se banega jise 'in a cowardly manner' yaa 'like a coward' likhenge, isliye diye gaye options mein se option B 'like a coward' sabse sahi answer hoga."
+            },
+            {
+              "id": 59,
+              "question": "The officer ordered [the guards to immediately close the gates].",
+              "options": [
+                "(a) the guards to close the gates immediately",
+                "(b) the guards immediately to close the gates",
+                "(c) to the guards close immediately the gates",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Sentence mein 'immediately' ki position galat hai kyunki yeh 'infinitive' ko split kar raha hai, isliye 'immediately' ko last mein likhenge, isliye option A sabse sahi answer hoga."
+            },
+            {
+              "id": 60,
+              "question": "The journey was comfortable but [the bit tiring] than I thought it would be.",
+              "options": [
+                "(a) the bit more tiring",
+                "(b) No improvement",
+                "(c) a bit tiring",
+                "(d) a bit more tiring"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Sentence mein comparison karna hai ki 'jitna socha tha usse jyada', isliye yahan 'more' ayega aur 'thoda sa' ke liye 'a bit' phrase use hota hai, isliye yahan 'a bit more tiring' option D sabse sahi answer hoga."
+            }
+          ]
         }
       ]
     }
