@@ -27934,6 +27934,372 @@
               "solutionHinglish": "Ans: (b)\nExplanation:- Jisko tum chunte ho voh aisa kare. Kare wala meaning dena hai jo present subjunctive mood se aayega. Aur present subjunctive aayega tho verb ki base form aayegi. Tho 'support' sahi ho jayega."
             }
           ]
+        },
+        {
+          "id": "t_1793560060312",
+          "name": "SUPERFLUOUS LEVEL-01",
+          "questions": [
+            {
+              "id": 1,
+              "question": "He put his / sign on the footer of the / letter and posted it.",
+              "options": [
+                "(a) He put his",
+                "(b) sign on the footer of the",
+                "(c) letter and posted it.",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'sign' with 'signature'\nExplanation- 'sign' ki jagah 'signature' aayega kyunki 'sign' verb hoti hai aur 'signature' noun hota hai, sentence mein 'his' adjective ke baad noun ki jarurat hai, isliye yahan 'signature' sahi hoga. Note: 'sign' noun hota hai jab iska matlab koi mark, symbol, gesture' hota hai."
+            },
+            {
+              "id": 2,
+              "question": "Nowadays he is living / in foreign but / his parents live in India.",
+              "options": [
+                "(a) Nowadays he is living",
+                "(b) in foreign but",
+                "(c) his parents live in India",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'in foreign' with 'abroad'\nExplanation- 'foreign' word ek adjective hai aur 'in' preposition ka object nahi ban sakta, isliye 'in a foreign country' yaa fir 'abroad' ka use hoga kyunki 'adverb of place' banana hai. Dono mein se 'abroad' prefer karenge."
+            },
+            {
+              "id": 3,
+              "question": "The english teacher / asked us to revise / the chapter that he taught yesterday.",
+              "options": [
+                "(a) The english teacher",
+                "(b) asked us to revise",
+                "(c) the chapter that he taught yesterday",
+                "(d) No error"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'The English teacher' with 'The teacher of English'\nExplanation- 'english teacher' ka matlab 'angrez teacher', lekin sentence ka matlab chahiye 'English padhaane wala teacher' jiske liye sahi term 'the teacher of english' hogi."
+            },
+            {
+              "id": 4,
+              "question": "Unless you don't study / hard, you won't / be able to crack this exam.",
+              "options": [
+                "(a) Unless you don't study",
+                "(b) hard, you won't",
+                "(c) be able to crack this exam.",
+                "(d) no error"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'unless you don't' with 'unless you'\nExplanation:- 'unless' ka matlab 'agar nahi' hota hai, jisme 'not' pehle se understood hota hai isliye 'unless/until jis clause mein aata hai uss clause mein 'not' ka use nahi hota, isliye 'unless you study' sahi hoga"
+            },
+            {
+              "id": 5,
+              "question": "You should know / that he is my cousin brother and you should not / misbehave with him again.",
+              "options": [
+                "(a) You should know",
+                "(b) that he is my cousin brother and you should not",
+                "(c) misbehave with him again.",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove 'brother' after 'cousin'\nExplanation:- 'cousin' ke sath 'brother' yaa 'sister' ka use nahi hota kyunki 'cousin' pehle se hee noun hai, isliye 'cousin' ke sath 'brother' yaa 'sister' superfluous ki category mein aata hai."
+            },
+            {
+              "id": 6,
+              "question": "You should not worry / because the company will reimburse back / the money you spent / during your official visit to Lucknow.",
+              "options": [
+                "(a) You should not worry",
+                "(b) because the company will reimburse back",
+                "(c) the money you spent",
+                "(d) during your official visit to Lucknow"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove 'back'\nExplanation:- 'reimburse' ka matlab hee hota hai 'give back, waapas lautaana', isliye iske sath 'back' superfluous ki category mein aata hai."
+            },
+            {
+              "id": 7,
+              "question": "These firms which are / the main suppliers of electronic / components in India.",
+              "options": [
+                "(a) These firms which are",
+                "(b) the main suppliers of electronic",
+                "(c) components in India.",
+                "(d) No error"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Remove 'which'\nExplanation:- sentence mein 'which' nahi aayega kyunki 'which' relative pronoun se adjectival clause bana hai jiski verb 'are' hai. Lekin 'firms' subject ko verb nahi mili poore sentence mein, isliye yahan 'which' hata denge, jisse 'firms' subject ki verb 'are' ho jaayegi. Sentence mein ek hee clause hai."
+            },
+            {
+              "id": 8,
+              "question": "It is not difficult to believe / that a man who has lived in this city for a long time he will never feel / at home anywhere else in the world.",
+              "options": [
+                "(a) It is not difficult to believe",
+                "(b) that a man who has lived in this city for a long time he will never feel",
+                "(c) at home anywhere else in the world.",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Remove 'he'.\nExplanation:- 'will never feel' verb ka subject 'a man' banega jo 'who was...' wale adjectival clause se pehle likha hai. 'He' laga denge toh 'a man' subject ko verb hi nahi milegi. Isliye yahan 'he' hatana padega."
+            },
+            {
+              "id": 9,
+              "question": "What you had said about / the employees it was found to be / correct but it could not be proved.",
+              "options": [
+                "(a) What you had said about",
+                "(b) the employees it was found to be",
+                "(c) correct but it could not be proved.",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove 'it'\nExplanation:- 'what you had said about the employees' yeh poora noun clause hai jo 'was found' verb ka subject banega. Isliye yahan 'it' pronoun ka use superfluous hai."
+            },
+            {
+              "id": 10,
+              "question": "He was very / friendly enough to help / me when I was in distress.",
+              "options": [
+                "(a) He was very",
+                "(b) friendly enough to help",
+                "(c) me when I was in distress.",
+                "(d) no error"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Remove 'very'.\nExplanation:- 'very' and 'enough' ek sath use nahi hote yaa toh 'very friendly' hoga yaa 'friendly enough' hoga. lekin aage 'to help' infinitive diya hai jiske sath 'enough' sahi hota hai isliye yahan 'very' ko hata denge."
+            },
+            {
+              "id": 11,
+              "question": "The passing marks in / this paper are thirty three / but you have got just thirty.",
+              "options": [
+                "(a) The passing marks in",
+                "(b) this paper are thirty three",
+                "(c) but you have got just thirty.",
+                "(d) No error"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Use 'pass marks' in place of 'passing marks'.\nExplanation:- 'passing marks' ka matlab 'pass hote hue marks', lekin matlab chahiye 'pass hone ke liye marks' jiske liye 'pass marks' sahi term hoti hai."
+            },
+            {
+              "id": 12,
+              "question": "They stayed in / Kashmir for a short period / of time and / then returned home.",
+              "options": [
+                "(a) They stayed in",
+                "(b) kashmir for a short period",
+                "(c) of time and",
+                "(d) then returned home."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) remove 'of time' after period\nExplanation- 'period' ka matlab hee 'time' hota hai. Isliye iske sath 'of time' superfluous hai."
+            },
+            {
+              "id": 13,
+              "question": "The principal forbade / the students not to / stage a walk out.",
+              "options": [
+                "(a) The principal forbade",
+                "(b) the students not to",
+                "(c) stage a walk out.",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Remove 'not'\nExplanation:- 'forbid' verb mein 'not' pehle se hee understood hota hai aur iska matlab 'kisi ko kuch kaam karne se rokna/mana karna'. Isliye iske sath 'not' nahi aayega."
+            },
+            {
+              "id": 14,
+              "question": "Probably by the end / of the year he will have left / for the USA with bag and baggage.",
+              "options": [
+                "(a) Probably by the end",
+                "(b) of the year he will have left",
+                "(c) for the USA with bag and baggage.",
+                "(d) No error"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Remove 'with' before 'bag and baggage'\nExplanation:- 'bag and baggage' ka matlab 'with all your belongings' Yeh ek idiom hai jo adverb ki tarah kaam karta hai iske pehle 'with' ka use nahi karte."
+            },
+            {
+              "id": 15,
+              "question": "The short story / should not exceed more than two / hundred words.",
+              "options": [
+                "(a) The short story",
+                "(b) should not exceed more than two",
+                "(c) hundred words.",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Remove 'more than'.\nExplanation:- 'exceed' ka meaning hi hota hai 'more than something' iske sath 'more than' lagana superfluous hai."
+            },
+            {
+              "id": 16,
+              "question": "We have signed / a mutual agreement / with the other party.",
+              "options": [
+                "(a) We have signed",
+                "(b) a mutual agreement",
+                "(c) with the other party.",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Use 'an agreement' in place of 'a mutual agreement'.\nExplanation:- jab bhi koi 'agreement' sign hota hai wo mutually hee sign hota hai, isliye 'agreement' ke sath 'mutual' superfluous hota hai. aur 'agreement' ke according 'an' article aayega."
+            },
+            {
+              "id": 17,
+              "question": "He doesn't hardly know / anything about the real / factors that caused that accident.",
+              "options": [
+                "(a) He doesn't hardly know",
+                "(b) anything about the real",
+                "(c) factors that caused that accident.",
+                "(d) No error"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Replace 'doesn't hardly know' with 'hardly knows'\nExplanation:- Use either 'he hardly knows anything' or 'he does not know anything', kyunki 'hardly' ka matlab 'naa ke barabar' jisme 'not' pehle se understood hai. isliye 'hardly' ke sath negative word ka use nahi hota hai."
+            },
+            {
+              "id": 18,
+              "question": "The Reason why most / people get trapped in MLM schemes / is because that they want / to become rich overnight.",
+              "options": [
+                "(a) Reason why most",
+                "(b) people get trapped in MLM schemes",
+                "(c) is because that they want",
+                "(d) to become rich overnight."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Remove 'because'\nExplanation:- 'because' ek reason ko batane wali conjunction hai aur agar sentence mein 'reason' word ka use ho chuka hai toh 'because' nahi aayega. aur 'that' conjunction ka kaam karega."
+            },
+            {
+              "id": 19,
+              "question": "Throughout the whole year, / there was not even / a single day without / violence in this city.",
+              "options": [
+                "(a) Throughout the whole year,",
+                "(b) there was not even",
+                "(c) a single day without",
+                "(d) violence in this city."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) remove 'whole'\nExplanation- 'throughout' ka matlab hee hota hai 'poora', isliye iske sath baad 'whole' lagana superfluous ho jaayega."
+            },
+            {
+              "id": 20,
+              "question": "While walking in / the park, I came across / by chance my friend Rajat",
+              "options": [
+                "(a) While walking in",
+                "(b) the park, I came across",
+                "(c) by chance my friend Rajat",
+                "(d) No error"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) remove 'by chance'\nExplanation:- 'come across' ka matlab he hota hai 'kisi se achaanak milna' isliye iske baad 'by chance' yaa 'suddenly' lagana superfluous ho jaata hai."
+            },
+            {
+              "id": 21,
+              "question": "He asked me / that why I had not met Rajesh / after the interview.",
+              "options": [
+                "(a) He asked me",
+                "(b) that why I had not met Rajesh",
+                "(c) after the interview.",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Remove 'that'\nExplanation:- sentence indirect speech mein likha hai, toh 'asked' verb ke baad 'how, why, where, when' yehi conjunction ka kaam karte hai aur iss sentence mein do clause ko jodne ke liye ek hee conjunction ki jarurat hai, isliye yahan 'that' conjunction nahi aayegi."
+            },
+            {
+              "id": 22,
+              "question": "I asked him if / he had money sufficient enough / to pay the rent.",
+              "options": [
+                "(a) I asked him if",
+                "(b) he had sufficient enough money",
+                "(c) to pay the rent.",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use either 'sufficient' or 'enough'.\nExplanation:- dono ka meaning same hota hai 'paryapt'.\nNote:- agar yeh alag alag part mein aate toh 'enough' ko rakhte aur 'sufficient' ko remove karna prefer karte kyunki aage infinitive diya hai."
+            },
+            {
+              "id": 23,
+              "question": "He asked me / what we would do / Supposing if they didn't come.",
+              "options": [
+                "(a) He asked me",
+                "(b) Supposing if they didn't come",
+                "(c) what we would do.",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) use either 'if' or 'Supposing'\nExplanation:- kyunki yeh dono conjunctions hain aur dono ka meaning same hai toh dono mein se koi ek use karenge."
+            },
+            {
+              "id": 24,
+              "question": "They were not / able to cross the bridge / despite of their best efforts.",
+              "options": [
+                "(a) They were not",
+                "(b) able to cross the bridge",
+                "(c) despite of their best efforts.",
+                "(d) No error"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Remove 'of' after 'despite'\nExplanation- 'in spite of = despite' (ke babjood) 'despite' ke baad 'of' ka use nahi hota hai."
+            },
+            {
+              "id": 25,
+              "question": "Whether you / believe it or not / I know that it is a true fact.",
+              "options": [
+                "(a) Whether you",
+                "(b) believe it or not",
+                "(c) I know that it is a true fact.",
+                "(d) No error"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Remove 'true' before 'fact'\nExplanation:- 'fact' humesha ussi ko bolte hai jo 'true' ho. Isliye 'fact' ke sath 'true' superfluous hota hai."
+            },
+            {
+              "id": 26,
+              "question": "I couldn't come here / yesterday because / it was raining like cats and dogs.",
+              "options": [
+                "(a) I couldn't come here",
+                "(b) yesterday because",
+                "(c) it was raining like cats and dogs.",
+                "(d) No error"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) remove 'like'\nExplanation:- 'raining cats and dogs' ka matlab 'rain heavily' Yeh ek idiom hai jo adverb ki tarah kaam karta hai isliye iske pehle 'like' preposition ka use nahi karte."
+            },
+            {
+              "id": 27,
+              "question": "The teacher was angry / because the / students didn't give the test.",
+              "options": [
+                "(a) The teacher was angry",
+                "(b) because the",
+                "(c) students didn't give the test.",
+                "(d) No error"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'didn't give' with 'didn't take'\nExplanation:- hindi mein hum kehte hain 'students ne test diya' but english mein correct usage 'take the test' hoti hai.\nEg. All the students took their final exam yesterday"
+            },
+            {
+              "id": 28,
+              "question": "A light breeze / was blowing which helped / the child go to sleep.",
+              "options": [
+                "(a) A light breeze",
+                "(b) was blowing which helped",
+                "(c) the child go to sleep.",
+                "(d) No error"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Remove 'light' before 'breeze'\nExplanation:- 'breeze' ka matlab hee 'light wind' hota hai, isliye iske sath 'light' superfluous hoga. Note:- 'helped the child go to sleep' me 'go' bare infinitive hai."
+            },
+            {
+              "id": 29,
+              "question": "The speed of the / car decreased when it / approached near the toll plaza.",
+              "options": [
+                "(a) The speed of the",
+                "(b) car decreased when it",
+                "(c) approached near the toll plaza.",
+                "(d) No error"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) remove 'near'\nExplanation:- 'approach' ek transitive verb jiske baad object aate hai, isliye iske baad 'near' preposition galat hogi aur 'approach' ka matlab 'kisi ke pass pahuchna' jiske sath 'near' superfluous hota hai."
+            },
+            {
+              "id": 30,
+              "question": "I request you / to kindly help me in / decorating this room.",
+              "options": [
+                "(a) I request you",
+                "(b) to kindly help me in",
+                "(c) decorating this room.",
+                "(d) No error"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) remove 'kindly'\nExplanation:- 'request' and 'kindly' sath mein superfluous maane jaate hain. 'I request you to help me...', 'Kindly help me in....' Inme se ek structure ka use sahi hota hai. Yahan sentence parts mein divided hai isliye b part mein se 'kindly' ko remove karna hi option hai."
+            }
+          ]
         }
       ]
     }
