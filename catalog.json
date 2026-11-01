@@ -31749,6 +31749,492 @@
               "solutionHinglish": "Ans (c) Correct answer is 'adjective clause'\nExplanation:- 'why he has not passed' yeh poora clause 'the reason' noun ko define kar raha hai, toh jo clause noun ko define kare, usse 'adjective clause' kehte hai."
             }
           ]
+        },
+        {
+          "id": "t_1793561557609",
+          "name": "SENTENCE TYPE IDENTIFICATION",
+          "questions": [
+            {
+              "id": 1,
+              "question": "They wanted to go shopping, but the mall was closed.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'Compound'\nExplanation:- Sentence mein do clause 'FANBOYS' waali conjunction 'but' se jude hai, isliye yeh 'compound sentence' hoga."
+            },
+            {
+              "id": 2,
+              "question": "Because she studied hard, she passed the exam with flying colors.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'Complex'\nExplanation: Sentence mein do clause subordinate conjunction 'because' se jude hai, isliye yeh 'complex sentence' hoga."
+            },
+            {
+              "id": 3,
+              "question": "If you want to succeed in life, you must work hard.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'Complex'\nExplanation:- Sentence mein do clause subordinate conjunction 'if' se jude hai, isliye yeh 'complex sentence' hoga."
+            },
+            {
+              "id": 4,
+              "question": "She opened the window and looked outside.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'Simple'\nExplanation:- Yahan 'and' conjunction sirf do verb ko jod rahi hai, isliye yahan ek he clause hai aur ek clause waale sentence ko 'simple sentence' kehte hai."
+            },
+            {
+              "id": 5,
+              "question": "Although she was tired after working all day, she decided to attend the evening class, and she even stayed late to complete her assignment.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Correct answer is 'Compound-Complex'\nExplanation:- Sentence mein 'she was tired' 1st clause, 'she decided' 2nd clause aur 'she even stayed' 3rd clause hai, aur yeh ek subordinate conjunction 'although' aur 'FANBOYS' waali conjunction 'and' se jude hai, toh three yaa more than three clause ek subordinate aur coordinate waale conjunction se jude ho, toh unhe 'Compound-Complex sentence' kehte hai."
+            },
+            {
+              "id": 6,
+              "question": "The teacher explained the new concept in detail, but many students still struggled to understand it.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'Compound'\nExplanation:- Sentence mein do clause 'FANBOYS' waali conjunction 'but' se jude hai, isliye yeh 'compound sentence' hoga."
+            },
+            {
+              "id": 7,
+              "question": "He left early because he had an appointment with the doctor.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'Complex'\nExplanation:- Sentence mein do clause subordinate waali conjunction 'because' se jude hai, isliye yeh 'complex sentence' hoga."
+            },
+            {
+              "id": 8,
+              "question": "The train was late, so we missed the beginning of the concert.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'Compound'\nExplanation:- Sentence mein do clause 'FANBOYS' waali conjunction 'so' se jude hai, isliye yeh 'compound sentence' hoga."
+            },
+            {
+              "id": 9,
+              "question": "We visited the museum, and we took several photographs.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'Compound'\nExplanation:- Sentence mein do clause 'FANBOYS' waali conjunction 'and' se jude hai, isliye yeh 'compound sentence' hoga."
+            },
+            {
+              "id": 10,
+              "question": "The little boy was crying loudly, and his mother tried to comfort him while his father went to buy some ice cream.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Correct answer is 'Compound-Complex'\nExplanation:- Sentence mein teen clause 'the little boy was', 'his mother tried', 'his father went' hai, jo ek subordinate 'while' conjunction aur coordinate 'and' conjunction se jude hai, isliye yeh ek 'compound-complex sentence' hoga."
+            },
+            {
+              "id": 11,
+              "question": "The players were exhausted after the match, but they celebrated their victory enthusiastically because it was their final game of the season.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Correct answer is 'Compound-Complex'\nExplanation:- Sentence mein teen clause hai joki ek subordinate conjunction 'because' aur coordinate conjunction 'but' se jude hai, isliye yeh 'compound-complex sentence' hoga."
+            },
+            {
+              "id": 12,
+              "question": "The students were waiting patiently outside the classroom.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'Simple'\nExplanation:- Ek clause ke sentence ko 'simple sentence' kehte hai."
+            },
+            {
+              "id": 13,
+              "question": "We can go for a walk, or we can stay home and watch TV.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'Compound'\nExplanation:- Sentence mein do clause 'we can go' aur 'we can stay' ko 'FANBOYS' waali conjunction 'or' se jude hai, isliye yeh 'compound sentence' hoga."
+            },
+            {
+              "id": 14,
+              "question": "I couldn't hear what he said because the noise was too loud.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'Complex'\nExplanation:- Sentence mein teen clause 'I couldn't', 'he said' aur 'the noise was' hai jo subordinate conjunction 'what' aur 'because' se jude hai, jab do yaa do se jyada clause subordinate conjunction se jude ho toh, wo 'complex sentence' hota hai."
+            },
+            {
+              "id": 15,
+              "question": "She couldn't attend the party because she was unwell, but she sent a gift to her friend.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Correct answer is 'Compound-Complex'\nExplanation: Sentence mein teen clause 'she couldn't', 'she was' aur 'she sent' hai jo ek subordinate conjunction 'because' aur 'FANBOYS' waali conjunction 'but' se jude hai, isliye yeh 'compound-complex sentence' hoga."
+            },
+            {
+              "id": 16,
+              "question": "Since the weather was pleasant, the children played outside until it was dark.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'Complex'\nExplanation:- Sentence mein teen clause 'the weather was', 'the children played' aur 'it was' hai jo subordinate conjunction 'since' aur 'until' se jude hai, teeno clause subordinate se jude hai, isliye yeh 'complex sentence' hoga."
+            },
+            {
+              "id": 17,
+              "question": "We planned a picnic; nevertheless, the weather ruined our plans.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'Compound'\nExplanation:- Sentence mein do clause 'semi colon+ conjunctive adverb+ comma' se jude ho, toh isse 'compound sentence' kehte hai. conjunctive adverb - 'nevertheless, however, accordingly, furthermore, consequently etc.'"
+            },
+            {
+              "id": 18,
+              "question": "The baby looked up and smiled at her mother.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'simple'\nExplanation:- Sentence mein ek hee clause aur 'and' conjunction se do verb 'smiled' aur 'looked up' judi hui, toh ek clause ke sentence ko 'simple sentence' kehte hai."
+            },
+            {
+              "id": 19,
+              "question": "He reads novels at night, and she prefers to watch movies before going to bed.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'Compound'\nExplanation:- Sentence mein do clause 'he reads' aur 'she prefers' hai jo FANBOYS waali conjunction 'and' se jude hai, isliye yeh 'compound sentence' hoga."
+            },
+            {
+              "id": 20,
+              "question": "The old man sat quietly on the bench in the park.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'Simple'\nExplanation:- Ek clause ke sentence ko 'simple sentence' kehte hai."
+            },
+            {
+              "id": 21,
+              "question": "He wanted to join the debate competition, but he was nervous because it was his first time speaking in public.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Correct answer is 'Compound-Complex'\nExplanation:- Sentence mein teen clause hai joki ek coordinate conjunction 'but' aur ek subordinate conjunction 'because' se jude hai, isliye yeh 'compound-complex sentence' hoga."
+            },
+            {
+              "id": 22,
+              "question": "The children shouted joyfully in the playground.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'Simple'\nExplanation:- Ek clause ke sentence ko 'simple sentence' kehte hai."
+            },
+            {
+              "id": 23,
+              "question": "The rain stopped, and the sun appeared.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'Compound'\nExplanation: Sentence mein do clause FANBOYS waali conjunction 'and' se jude hai, isliye yeh 'compound sentence' hoga."
+            },
+            {
+              "id": 24,
+              "question": "I wanted to go for a walk; however, it started raining heavily.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'Compound'\nExplanation:- Sentence mein do clause 'semi colon(;) + conjunctive adverb + comma(,)' se jude ho, toh isse bhi 'compound sentence' kehte hai. conjunctive adverb 'nevertheless, however, accordingly, furthermore, consequently etc.'"
+            },
+            {
+              "id": 25,
+              "question": "While the teacher was explaining the lesson, the students were listening attentively, and the principal walked into the classroom.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Correct answer is 'Compound-Complex'\nExplanation: Sentence mein teen clause hai jo ek coordinate conjunction 'and' aur ek subordinate conjunction 'while' se jude hai, isliye yeh 'compound-complex' sentence hoga."
+            },
+            {
+              "id": 26,
+              "question": "The bird sang sweetly on the tree branch.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'Simple'\nExplanation:- Ek clause ke sentence ko 'simple sentence' kehte hai."
+            },
+            {
+              "id": 27,
+              "question": "He wanted to buy a new car, yet he decided to save money for the future.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'Compound'\nExplanation: Sentence mein do clause FANBOYS waali conjunction 'yet' se jude hai, isliye yeh 'compound sentence' hoga."
+            },
+            {
+              "id": 28,
+              "question": "She will come to the party if she finishes her work early.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'Complex'\nExplanation: Sentence mein do clause subordinate waali conjunction 'if' se jude hai, isliye yeh 'complex sentence' hoga."
+            },
+            {
+              "id": 29,
+              "question": "She studied hard for the exam; therefore, she scored the highest marks.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'Compound'\nExplanation:- Sentence mein do clause 'semi colon(;) + conjunctive adverb + comma(,)' se jude ho, toh isse bhi 'compound sentence' kehte hai. conjunctive adverb 'nevertheless, however, accordingly, furthermore, consequently etc.'"
+            },
+            {
+              "id": 30,
+              "question": "The dog barked loudly at the stranger.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'Simple'\nExplanation:- Ek clause ke sentence ko 'simple sentence' kehte hai."
+            },
+            {
+              "id": 31,
+              "question": "She washed the dishes, and he cleaned the table.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'Compound'\nExplanation: Sentence mein do clause FANBOYS waali conjunction 'and' se jude hai, isliye yeh 'compound sentence' hoga."
+            },
+            {
+              "id": 32,
+              "question": "Because the movie was interesting, we stayed until the end.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'Complex'\nExplanation:- Sentence mein do clause subordinate waali conjunction 'because' se jude hai, isliye yeh 'complex sentence' hoga."
+            },
+            {
+              "id": 33,
+              "question": "The students clapped loudly after the speech, and the teacher smiled proudly because they had shown good manners.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Correct answer is 'Compound-Complex'\nExplanation:- Sentence mein teen clause hai jo ek coordinate conjunction 'and' aur ek subordinate conjunction 'because' se jude hai, isliye yeh 'compound-complex' sentence hoga."
+            },
+            {
+              "id": 34,
+              "question": "The cat slept peacefully under the warm sunlight.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'Simple'\nExplanation:- Ek clause ke sentence ko 'simple sentence' kehte hai."
+            },
+            {
+              "id": 35,
+              "question": "She is an excellent singer; moreover, she plays the piano beautifully.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'Compound'\nExplanation:- Sentence mein do clause 'semi colon(;) + conjunctive adverb + comma(,)' se jude ho, toh isse bhi 'compound sentence' kehte hai. conjunctive adverb 'moreover, however, accordingly, furthermore, consequently etc.'"
+            },
+            {
+              "id": 36,
+              "question": "She didn't join the trip because she had an important exam.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'Complex'\nExplanation: Sentence mein do clause subordinate waali conjunction 'because' se jude hai, isliye yeh 'complex sentence' hoga."
+            },
+            {
+              "id": 37,
+              "question": "He finished his homework quickly, and then he went to play football because his friends were waiting for him.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Correct answer is 'Compound-Complex'\nExplanation: Sentence mein teen clause hai jo ek coordinate conjunction 'and' aur ek subordinate conjunction 'because' se jude hai, isliye yeh 'compound-complex' sentence hoga."
+            },
+            {
+              "id": 38,
+              "question": "The flowers in the garden are blooming beautifully.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'Simple'\nExplanation:- Ek clause ke sentence ko 'simple sentence' kehte hai."
+            },
+            {
+              "id": 39,
+              "question": "She wanted to buy a dress, but the shop was closed.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'Compound'\nExplanation: Sentence mein do clause FANBOYS waali conjunction 'but' se jude hai, isliye yeh 'compound sentence' hoga."
+            },
+            {
+              "id": 40,
+              "question": "If you work hard, you will achieve success, and people will admire your dedication.",
+              "options": [
+                "(a) Simple",
+                "(b) Compound",
+                "(c) Complex",
+                "(d) Compound-Complex"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Correct answer is 'Compound-Complex'\nExplanation:- Sentence mein teen clause hai jo ek coordinate conjunction 'and' aur ek subordinate conjunction 'if' se jude hai, isliye yeh 'compound-complex' sentence hoga."
+            }
+          ]
         }
       ]
     }
