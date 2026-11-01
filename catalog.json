@@ -26350,6 +26350,732 @@
               "solutionHinglish": "Ans (c)\nExplanation:- yahan meaning ye dena hai ki 'hum khud ho rok nhi paye hasne se' iske liye 2 structure use kiye jate hain 'could not help but + bare infinitive' or 'could not help + gerund', ye dono hi structures sahi hote hain. Dono ek sath options mein nhi aate. C option mein sahi structure hai isliye wo sahi hai."
             }
           ]
+        },
+        {
+          "id": "t_1793558467377",
+          "name": "ADVANCE VERB LEVEL - 02",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Having been finished his early-morning workout routine and meditation session, (a)/ he enjoyed a healthy breakfast (b)/ and left for his office. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) remove 'been'\nExplanation:- Sentence ka matlab hai 'early morning routine aur meditation finish karne ke baad, usne enjoy kiya breakfast', toh sentence mein 'he' 'having been finished' kaam ka doer hai, isliye perfect participle passive mein nahi active voice mein likhenge, isliye 'having finished' sahi answer hoga."
+            },
+            {
+              "id": 2,
+              "question": "She felt deeply ashamed for interrupt (a)/ the speaker during the serious discussion (b)/ as she didn't realize the importance of the topic (c)/ and spoke without thinking about the consequences. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'interrupt' with 'interrupting'\nExplanation:- 'for' preposition hai jiske baad preposition ka object aata hai jo ki noun yaa pronoun hota hai, 'interrupt verb hai isliye isse gerund(noun) 'interrupting' mein change karna padega."
+            },
+            {
+              "id": 3,
+              "question": "The security team remained alert while checked the identities of the visitors (a)/ entering the research facility, to ensure no unauthorized individual (b)/ entered the restricted area. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'checked' with 'checking'\nExplanation:-Sentence ka matlab hai 'security team alert thi visitors ki identity check karne ke dauran', toh sentence mein continuity show karni hai, isliye yahan 'checked' ki jagah 'checking' aaayega, jo ki short form hoti hai 'while they were checking' ki, isliye yahan 'checking' sahi answer hoga."
+            },
+            {
+              "id": 4,
+              "question": "Do you recall (a)/ to meet Arjun and his startup team at the tech summit in Bengaluru last month, (b)/ where they were explaining their AI-based flood-prediction system? (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'to meet' with 'meeting'\nExplanation:- Sentence mein 'last month' 'meet' ke liye aaya hai, 'do you recall' se pata chal raha hai ki milne ka action pehle hee ho chuka hai, agar koi action pehle ho chuka ho yaa sath-sath ho toh 'gerund' ka use karte hai, aur future mein hone ke liye 'infinitive ka use karte hai, sentence mein 'milna' past mein hua hai, isliye yahan gerund 'meeting' sahi answer hoga."
+            },
+            {
+              "id": 5,
+              "question": "Regular morning meditation helps (a)/ students improving their concentration and memory, (b)/ especially when they are preparing for demanding competitive exams like SSC and UPSC. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'improving' with 'improve'\nExplanation:- 'help' verb ke sath 'bare infinitive(improve)/ infinitive (to improve)/gerund(in improving) teeno structure sahi hote hai, lekin 'bare infinitive ko prefer karte hai, isliye sentence mein preferred structure 'improve sahi answer hoga."
+            },
+            {
+              "id": 6,
+              "question": "The professor entered the classroom (a)/ hold a stack of research papers and (b)/ a cup of black coffee in his hand. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'hold' with 'holding'\nExplanation:- Sentence ka matlab hai 'professor classroom mein enter hue research papers ka stack liye huye, toh jab yeh meaning dena ho ki yeh kaam hua yeh karte hue', toh present participle (v1+ing) ka use karte hai, isliye meaning ke according 'hold ki jagah 'holding' present participle sahi hoga. Ex:- he entered the room carrying a glass of milk, matlab (wo room mein enter hua milk ka glass liye hue)."
+            },
+            {
+              "id": 7,
+              "question": "The old railway bridge needs to repair immediately (a)/ before any major accident occurs, (b)/ as the recent inspection report highlighted multiple cracks in its structure. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'to repair' with 'to be repaired, repairing'\nExplanation:- Iss sentence mein 'railway bridge' repair hone ka receiver hai matlab 'railway bridge ko repair karna hai, isliye isse passive voice mein likhenge, isliye 'to be repaired sahi hoga, aur need' verb ke baad 'ing' likhne se automatic passive wala meaning aa jata hai, isliye yahan 'repairing bhi sahi hoga. isliye 'to be repaired passive yaa 'repairing' dono sahi honge."
+            },
+            {
+              "id": 8,
+              "question": "Walking through the crowded metro station, (a)/ my wallet was stolen from my bag. (b)/ and I had to report the incident immediately to the security officer. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'walking' with 'while I was walking'\nExplanation:- 'walking...se lekar....station tak yeh phrase comma ke baad likhe noun ke liye aata hai, lekin 'walking wala kaam 'wallet nahi karega, isliye 'walking ko verb maanke iska relation 'I' se banana padega, jiske liye 'while I was walking likhna padega, sentence ka matlab hoga 'jab mein metro station se jaa raha tha, mera wallet chori ho gaya bag mein se'. jahan 'while' ek conjunction hai."
+            },
+            {
+              "id": 9,
+              "question": "At the community feast organized by the local temple, (a)/ many children asked for a second helping (b)/ of the sweet rice pudding prepared especially for the festival. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) No error"
+            },
+            {
+              "id": 10,
+              "question": "The principal instructed the students (a)/ to completing the group project by the end of the week (b)/ and submit the report to their class mentors for evaluation. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'to completing' with 'to complete'\nExplanation:- instruct ek di-transitive verb hoti hai jiska structure 'instruct somebody to do something' hota hai, jisme 'students indirect object aur infinitive direct object banega, isliye yahan 'students ke baad infinitive to complete sahi hoga."
+            },
+            {
+              "id": 11,
+              "question": "Being a rainy evening with heavy traffic on the main road, (a)/ Riya decided to cancel her dinner plans, (b)/ and stay home with her family. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) put 'it' before 'being'\nExplanation:- 'Being a rainy evening' aur 'Riya' dono aapas mein link nahi honge kyunki 'Riya' rainy evening nahi hai, wo 'evening' ek 'rainy evening' thi, jiske liye 'it' introductory subject ka use 'being' se pehle karenge, isliye 'It being a rainy evening' sahi answer hoga."
+            },
+            {
+              "id": 12,
+              "question": "Our boss does nothing (a)/ but to find faults in every proposal (b)/ presented by us in the weekly business meetings. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'to find faults in' with 'find faults with'\nExplanation:- Sentence mein 'do(forms) + nothing but + bare infinitive ka structure follow ho raha hai jisme 'does' ke according bare infinitive/base form 'find' aayega aur 'fault' ke sath 'with' aayega kyunki 'fault with' ek fix expression hota hai, iske sath 'in' preposition galat hai, isliye 'but find faults with' sahi answer hoga."
+            },
+            {
+              "id": 13,
+              "question": "As per the new safety regulations (a)/ introduced by the government, only vaccinating employees (b)/ are allowed to enter the corporate building. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'vaccinating' with 'vaccinated'\nExplanation:- 'vaccinating' ki jagah 'vaccinated' aayega kyunki 'employees' vaccine waale kaam ke receiver hai, sentence ka matlab 'aise employees jinhe vaccine lagi ho', isliye yahan 'vaccinated' past participle sahi answer hoga.\nNote:- 'vaccinating present participle tab aate, jab yeh iss kaam ke doer hote, 'vaccine lagane waale employees'."
+            },
+            {
+              "id": 14,
+              "question": "At the community gathering, several relatives (a)/ suggested that Mr. Sinha should marry his eldest son again, (b)/ as he had been living alone for years after his wife's death in an accident. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'marry his eldest son' with 'get his eldest son married'\nExplanation:- Sentence mein 'should marry his eldest son' se matlab hoga 'mr sinha apne eldest son se shaadi karle', lekin meaning chahiye 'apne eldest son ki shaadi karade jiske liye causative verb ka use karna padega, isliye yahan 'get his eldest son married' sahi answer hoga."
+            },
+            {
+              "id": 15,
+              "question": "Although Sarah has learned the basics of photography, (a)/ she does not know to use professional cameras with manual settings, (b)/ which limits her ability to capture high-quality images in various lighting conditions. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) put 'how' after 'know'\nExplanation:- Agar 'know' verb ke sath 'infinitive' likhte hai toh beech mein adverb ki jarurat padti hai, toh sentence ke meaning ke according 'how' adverb sahi hogi, isliye 'does not know how to use' sahi answer hoga."
+            },
+            {
+              "id": 16,
+              "question": "The doctor suggested (a)/ him to avoid eating fried food regularly (b)/ as it was worsening his cholesterol level and overall health. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'him to avoid' with 'that he should avoid'\nExplanation:- Kuch verb jaise 'suggest, apologize, plead, talk etc. agar inke baad indirect object aate hai, toh indirect object se pehle 'to' preposition ka use karte hai aur inn verbs ke sath 'infinitive' galat hota hai. agar indirect object nahi diya hota ho toh direct 'avoiding gerund ka use karte, lekin indirect object diya hai, isliye 'suggest' ke baad 'that' se clause bana ke likhenge, isliye 'suggested that he should avoid sahi answer hoga."
+            },
+            {
+              "id": 17,
+              "question": "Ravi was in such a hurry to catch the early morning flight (a)/ that he completely forgot switching off the AC (b)/ which later resulted in a short circuit. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'switching off' with 'to switch off'\nExplanation:- 'forgot' ke baad 'infinitive' aur 'gerund' dono aata hai, 'gerund' tab lagate hai jab aapne wo kaam kar liya lekin aap bhool gaye ki aapne kaam kiya ki nahi aur 'infinitive' tab lagate hai jab aap wo kaam karna hee bhool gaye', sentence mein bataya ki 'uske chakkar mein short circuit hua, iska matlab wo 'switch off karna bhool gaya, isliye yahan infinitive 'to switch off sahi answer hoga."
+            },
+            {
+              "id": 18,
+              "question": "After retirement, Mr. Sharma spends most of his mornings (a)/ read newspapers and gardening in his backyard (b)/ which keep him both physically and mentally active. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'read' with 'reading'\nExplanation:- Sentence ka matlab hai 'mr. Sharma apni subah bitate hai newspaper padhte hue aur gardening karte hue , toh jab yeh meaning dena hoki 'yeh kaam karte hai yeh karte hue' iss waale meaning ke liye present participle (v1+ing) ka structure ka use karte hai, isliye yahan 'read' ki jagah 'reading' sahi answer hoga. Ex:- I spent my afternoon playing video games, matlab 'maine apni afternoon bitai video games khelte hue'"
+            },
+            {
+              "id": 19,
+              "question": "The government launched a new online portal (a)/ assisting farmers with real-time weather updates and digital crop advisory (b)/ so that they could plan their harvest more effectively. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'assisting' with 'to assist'\nExplanation:- Sentence mein 'assisting ki jagah 'to assist aayega kyunki sentence mein verb se why ka reply dena hai ki online portal launch kyu kiya gaya, aur why ke reply ke liye 'infinitive' ka use karte hai, isliye yahan 'to assist sabse sahi answer hoga."
+            },
+            {
+              "id": 20,
+              "question": "After been criticized by the media for poor maintenance of roads, (a)/ the municipal corporation finally (b)/ started the repair work across the city to avoid further backlash. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'after been criticized' with 'after being criticized/ having been criticized'\nExplanation:- Sentence mein 'after been criticized' passive voice mein toh sahi hai lekin 'been' bina helping verb ke nahi aa sakta, sentence ka matlab hai 'criticize hone ke baad jiska passive 'being + v3' se banega, isliye 'been' ki jagah 'being' ka use karenge, isliye 'after being criticized sahi answer hoga. aur perfect participle ka passive karke bhi iska answer ho sakta hai, jisme 'after' ki bhi jarurat nahi hai, isliye 'having been criticized bhi sahi answer hoga."
+            },
+            {
+              "id": 21,
+              "question": "As the audience stood up (a)/ to applaud the young pianist, his mother (b)/ sitting in the front row couldn't help cry out of pride and joy. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'cry' with 'crying'\nExplanation:- 'can't help' ka matlab 'rok nahi pana agar iske baad 'but aaye toh bare infinitive aata hai, agar 'but naa aaye toh 'gerund ka use hota hai, sentence mein 'but' nahi hai, isliye 'couldn't help' ke baad gerund 'crying' sahi answer hoga."
+            },
+            {
+              "id": 22,
+              "question": "The CEO claims to submit (a)/ the complete set of financial disclosures to the regulatory authority last week (b)/ while the audit team is saying that several critical documents are still missing from the official record. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'to submit' with 'to have submitted'\nExplanation:- Sentence mein 'last week' se pata chal raha ki past ke action ki baat hai, lekin 'to submit' infinitive diya hai aur infinitive aise kaam ke liye lagta hai jo aage hona ho, aur 'claim' verb ke sath infinitive bhi use karna hai, isliye infinitive ka bhi use ho aur past ke action ki bhi baat ho jaaye iske liye perfect infinitive 'to+have+v3' ka use karenge, isliye 'to have submitted' sahi answer hoga."
+            },
+            {
+              "id": 23,
+              "question": "The anti-narcotics unit in Goa (a)/ submitted a detailed report to the court (b)/ accusing a well-known nightclub owner of supply banned substances to tourists in late-night parties. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'supply' with 'supplying'\nExplanation:- Accuse somebody of doing something."
+            },
+            {
+              "id": 24,
+              "question": "After finishing their final briefing at the Border Security Camp near Tawang, (a)/ the young officers said that they would be ready leaving for the high-altitude patrol route (b)/ as soon as the weather department issued a green signal. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'leaving' with 'to leave'\nExplanation:- 'ready' ka matlab koi kaam karne ke liye taiyaar hona, matlab wo kaam future mein hoga, aur koi kaam future mein karne ke liye infinitive ka use karte hai, isliye 'to leave' sahi answer hoga. Ex:- 'ready to go there, ready to dance, ready to help you etc."
+            },
+            {
+              "id": 25,
+              "question": "Aarav's family is planning for moving back to their hometown in Dehradun (a)/ as his father wants to start organic farming (b)/ after retiring from his job. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'for moving' with 'to move'\nExplanation:- 'planning' ke sath 'for' mein koi dikkat nahi hai agar aage noun likha ho, lekin 'planning' verb ke aage action likhna hai, toh obvious baat hai wo action future mein hoga, aur jo kaam future mein hone hote hai uske liye infinitive ka use karte hai, aur action ke liye 'planning verb ka structure 'planning to do something' hota hai, isliye yahan 'to move' sahi answer hoga."
+            },
+            {
+              "id": 26,
+              "question": "Many parents nowadays (a)/ want all school-related information, (b)/ including exam schedules and fee reminders, to be providing to them directly on their WhatsApp. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'to be providing' with 'to be provided'\nExplanation:- Agar 'want' verb ke baad doer likhte ho toh infinitive active form mein aata hai jaise 'I want you to go there' aur 'want' ke baad receiver likhte ho toh infinitive passive form mein aata hai jaise 'I want this parcel to be delivered', toh sentence mein 'information' receiver hai, matlab 'information provide kari jaaye', isliye yahan infinitive passive form mein aaayega, isliye 'to be provided sahi answer hoga."
+            },
+            {
+              "id": 27,
+              "question": "Rahul had planned a late-night trek near the India-Nepal border, (a)/ but the local guide warned him that he had better not to walk alone (b)/ because wild animals often roam in that forest area. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'to walk' with 'walk'\nExplanation:- 'had better/ had rather/ would better/ would rather' yeh words 'pseudo modal' hote hai jinke meaning 'should' jaisa hota hai, isliye inke sath verb ki base form aati hai, isliye yahan 'walk' verb ki base form sahi answer hoga."
+            },
+            {
+              "id": 28,
+              "question": "As very heavy rainfall is expected this year, (a)/ villagers in Assam have to rebuilt the damaged embankments (b)/ before the next spell of floods threatens their homes again. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'rebuilt' with 'rebuild'\nExplanation:- Sentence mein 'rebuilt' ki jagah 'rebuild' aayega kyunki 'have to, has to, had to yeh words model ki tarah kaam karte hai aur model ke baad verb ki base form aati hai, isliye 'rebuild' verb ki 1st form sahi answer hoga."
+            },
+            {
+              "id": 29,
+              "question": "While visiting the emergency (a)/ ward of AIIMS Delhi, Rohan watched the (b)/ paramedics to revive an unconscious accident victim (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'to revive' with 'revive'\nExplanation:- Kuch verbs jaise let, bid, make, see, notice, feel, watch, help etc. inke sath bare infinitives aate hai jisme object + object complement ka structure banta hai, jisme infinitive se object complement ka kaam lete hai toh infinitive bare form mein aata hai, isliye yahan 'paramedics revive sahi answer hoga.\nNote:- gerund bhi aa sakta hai jab usne jhalak dekhi hoti uss kaam ki, agar poora action dekha hai toh bare infinitive. Dono ke apna-apna meaning hai."
+            },
+            {
+              "id": 30,
+              "question": "At the annual harvest festival in the village, (a)/ the children enjoyed to dance around the bonfire (b)/ while their elders narrated folk stories. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'to dance' with 'dancing'\nExplanation:- 'enjoy' ke sath 'gerund' aate hai jab do kaam sath mein ho yaa koi pehle ho chuka ho, aur koi kaam jab baad mein ho toh 'infinitive aata hai, verb ki 2nd form se pata chal raha ki kaam pehle hee ho chuka hai, isliye yahan 'dancing gerund sahi answer hoga."
+            },
+            {
+              "id": 31,
+              "question": "Dr. Nisha did not let her (a)/ interns to operate the newly-calibrated laser instrument (b)/ without wearing high-density protective gear. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'to operate' with 'operate'\nExplanation:- Kuch verbs jaise let, bid, make, see, notice, feel, watch, help etc. inke sath bare infinitives aate hai jisme object + object complement ka structure banta hai, jisme infinitive se object complement ka kaam lete hai toh infinitive bare form mein aata hai, isliye yahan 'operate' sahi answer hoga.."
+            },
+            {
+              "id": 32,
+              "question": "Principal Meenakshi stated (a)/ that modern digital labs are necessary in schools (b)/ for complex scientific concepts to absorb easily by students. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'to absorb' with 'to be absorbed'\nExplanation:- Sentence mein 'to absorb' infinitive ka passive form aayegi kyunki scientific concept absorb nahi karenge, balki scientific concepts ko absorb kiya jaayega students ke dwara, toh meaning ke according passive form aayegi, isliye yahan 'to be absorbed' passive form sahi answer hoga."
+            },
+            {
+              "id": 33,
+              "question": "The scholarship announced by the education ministry (a)/ brought immense hope to students living in remote tribal areas (b)/ where facilities provide by the government schools (c)/ were insufficient for higher studies. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'provide' with 'provided'\nExplanation:- Agar doer ke sath likhte hai 'present participle' aata hai aur receiver ke sath likhte hai 'past participle aata hai, toh sentence mein facilities' kuch provide nahi karengi, balki facilities ko provide kiya jaaayega, iska matlab 'facilities receiver hui, isliye yahan 'provided' past participle sahi answer hoga. Jaise sentence mein 'student living' jisme 'students doer hai, isliye 'living' present participle mein aaya hai."
+            },
+            {
+              "id": 34,
+              "question": "Our entire marketing team is looking (a)/ forward to attend the three-day workshop (b)/ where industry leaders will share modern branding techniques (c)/ that can significantly improve customer engagement. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'attend' with 'attending'\nExplanation:- Kuch phrase jaise 'look forward to, with a view to, accustomed to, vulnerable to, prone to, addicted to etc' yeh saare aise phrases jinke sath 'to' preposition fix hoti hai aur inke baad 'gerund' aate hai, isliye yahan 'attending gerund sahi answer hoga."
+            },
+            {
+              "id": 35,
+              "question": "Running to catch the morning metro, (a)/ my headphones slipped out of my backpack (b)/ and got stuck between the sliding doors. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'running' with 'while I was running'\nExplanation:- Agar 'running' present participle banega, toh iska relation 'headphone' se hoga jo ki galat hai, isliye 'running' ko verb banakar 'my' doer se relation banayenge, jiske liye 'while I was running' likhna padega. Jisse sentence ka matlab hoga 'jab mein bhaag raha tha metro padkane ke liye, mere headphone slip ho gaye bag se'. Yahan 'while ek conjunction hai."
+            },
+            {
+              "id": 36,
+              "question": "Tanisha, being extremely anxious about missing her metro, (a)/ she rushed past the security check (b)/ without noticing that her bag's zip was open. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans 36. (b) remove 'she' before 'rushed'\nExplanation:- Sentence mein 'Tanisha' subject hai aur 'being....se lekar....metro' tak yeh adjectival phrase hai jo Tanisha ke liye likha hai, toh subject ko verb ki jarurat hai, isliye yahan Tanisha' ke liye likha 'she' pronoun ko hatana padega, jisse 'rushed' verb 'Tanisha' ke liye ho jaayegi."
+            },
+            {
+              "id": 37,
+              "question": "Having her lunch, (a)/ Priya started her work again in the balcony (b)/ as she had to submit the final report by next Monday. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'having her lunch' with 'having had her lunch'\nExplanation:- Sentence mein jab hume yeh dikhaana ho ki ek kaam khatam hone ke baad dusra kaam hua hai, toh iske liye 'perfect particple' ka use karte hai jiska structure 'having + v3 hota hai, sentence mein 'work again' se pata chal raha ki priya ne pehle kaam kiya hoga uske baad lunch phir dubara kaam, toh khaana khaane ke liye 'have' ki 3rd form 'had' ka use hoga, isliye 'having had her lunch sahi answer hoga."
+            },
+            {
+              "id": 38,
+              "question": "As soon as we entered the hotel (a)/ the waiter brought (b)/ a steamed cup of tea (c)/ and some biscuits for all of us. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'steamed' with 'steaming'\nExplanation:- Agar doer ke sath likhte hai 'present participle aata hai aur receiver ke sath likhte hai 'past participle aata hai, sentence ka matlab hai 'aisa cup jisme se bhaap nikal rahi ho', toh 'cup of tea' doer hai 'steam' ka, isliye yahan present participle 'steaming sahi answer hoga. Ex of past participle:-'steamed rice' matlab 'aise rice jo steam mein bane ho', 'steamed momo' matlab 'aise momo jo steam mein bane ho'."
+            },
+            {
+              "id": 39,
+              "question": "Anshika proposed to joining a library (a)/ so that she and her friends could study(b)/ peacefully for their first-year exams and score well. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) remove 'to' before 'joining'\nExplanation:- Sentence mein 'joining' ke pehle 'to' nahi aayega kyunki 'propose, suggest' verb ke baad direct human being aur infinitive galat hota hai, lekin inke baad gerund yaa 'that' se clause bana ke likh sakte hai, sentence mein 'that' se clause isliye nahi banayenge kyunki propose ke baad mention nahi hai kisko propose kiya, isliye yahan 'to' hatane se 'joining gerund ban jaayega proposed' verb ka."
+            },
+            {
+              "id": 40,
+              "question": "As the groom's family approached the entrance, (a)/ the bandmaster bade (b)/ his musicians to play the special ceremonial tune (c)/ which had been rehearsed for weeks to make the moment grand. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'to play' with 'play'\nExplanation:- Kuch verbs jaise 'let, bid, make, notice, watch, feel etc. inke baad bare infinitive aate hai. 'bid' verb ki forms 'bid, bade, bidden' hoti hai, isliye 'bade' ke baad bare infinitive 'play' sahi answer hoga."
+            },
+            {
+              "id": 41,
+              "question": "Both Kunal and Ajay have told me (a)/ that they are not averse to end this online fight (b) and they are ready to work with each other peacefully (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'end' with 'ending'\nExplanation:- Kuch phrase jaise 'look forward to, with a view to, accustomed to, vulnerable to, prone to, addicted to, averse to etc yeh saare aise phrases hai jinke sath 'to' preposition fix hoti hai aur inke baad 'gerund' aate hai, isliye yahan 'ending' gerund sahi answer hoga."
+            },
+            {
+              "id": 42,
+              "question": "You should not risk to carry your expensive camera (a)/ while boarding a heavily crowded local train (b)/ during the festive season. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'to carry' with 'carrying'\nExplanation:- Kuch verbs jaise detest, mind, risk, engage, admire, resist, avoid, delay etc. inke baad gerunds aate hai, isliye yahan 'to carry infinitive ki jagah 'carrying gerund sahi answer hoga."
+            },
+            {
+              "id": 43,
+              "question": "It is healthier to wake up early for a morning walk (a)/ than to lie in bed scrolling (b)/ through pointless videos for hours. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'to lie' with 'lie'\nExplanation:- Sentence mein 'lie' se pehle 'to' nahi aayega, agar do infinitive conjunction se jude hote hai toh dusra infinitive bare form mein aata hai, 'to wake up' aur 'to lie' infinitives 'than' conjunction se jude hai, isliye 'lie' ke pehle 'to' nahi aayega."
+            },
+            {
+              "id": 44,
+              "question": "[Shaken] by the sudden death of his father, he stopped talking to anyone.",
+              "options": [
+                "(a) Shaking",
+                "(b) Being shaking",
+                "(c) No improvement",
+                "(d) Having shaken"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)"
+            },
+            {
+              "id": 45,
+              "question": "The doctor repeatedly [insists on reduce] the patient's screen time, especially because excessive usage was worsening his sleep cycle and affecting his concentration during the day.",
+              "options": [
+                "(a) insisting of reducing",
+                "(b) insisted on reducing",
+                "(c) insisted to reduce",
+                "(d) have insist to reduce"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'insist' ke sath 'on' preposition aati hai 'on' preposition ke baad preposition ke object(noun) chahiye, kyunki 'reduce verb hoti hai, isliye 'ing' lagake gerund(noun) mein change kar denge, isliye option B 'insisted on reducing' sahi option hoga."
+            },
+            {
+              "id": 46,
+              "question": "The hikers packed enough food and emergency supplies [before set out] on their long journey through the dense forest.",
+              "options": [
+                "(a) before setting over",
+                "(b) before setting out",
+                "(c) before sets out to",
+                "(d) before set to out"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans 46. (b)\nExplanation:- 'before' preposition hai jiske baad object(noun) chahiye, kyunki 'set' verb hoti hai, isliye 'ing' lagake gerund(noun) 'setting' mein badal denge, isliye option C aur D galat honge. Journey ke liye nikalne ke liye 'set out, set off phrasal verb ka use hota hai, isliye option A bhi galat hoga, toh 'before setting out' option B sahi answer hoga."
+            },
+            {
+              "id": 47,
+              "question": "One of the essential steps [in organising a large cultural event is to arranging] the seating plan properly so that every guest has a clear view of the stage.",
+              "options": [
+                "(a) in organising a large cultural event is to be arranging",
+                "(b) into organising a large cultural event is arrange",
+                "(c) in organising a large cultural event is to arrange",
+                "(d) in organising a large cultural event is to be arranged"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Iss type ke structures ko example mein diye gaye sentences se samjhiye:-\nThe important step is to concentrate.\nThe best thing is to avoid such issues.\nThe only solution is to confront him.\nInn sentences mein infinitive aur gerund dono use ho sakte hai. question ke option mein infinitive wala structure tha isliye option C sahi answer hoga."
+            },
+            {
+              "id": 48,
+              "question": "The students were busy [to prepare] for their upcoming annual exhibition as they had to arrange charts, models, and presentations.",
+              "options": [
+                "(a) for preparing",
+                "(b) to be preparing",
+                "(c) preparing",
+                "(d) no improvement"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'busy' ke sath 'with' preposition aati hai jiske baad noun aata hai, lekin jab koi action batana ho toh direct 'ing' form mein likh sakte hai, isliye option C 'preparing' sahi answer hoga."
+            },
+            {
+              "id": 49,
+              "question": "The in-charge [made the technicians to work] overnight so that the power supply could be restored before the city woke up in the morning.",
+              "options": [
+                "(a) made the technicians working",
+                "(b) makes the technicians to work",
+                "(c) made the technicians work",
+                "(d) made the technician to works"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Yeh ek 'make/have' causative verb ka sentence hai jisme 'technicians' 'work' ka doer hai, isliye 'to work' infinitive ko bare infinitive mein likhenge, isliye option C 'made the technicians work' sabse sahi answer hoga."
+            },
+            {
+              "id": 50,
+              "question": "Do you [mind me to staying] here until I find a good house to rent?",
+              "options": [
+                "(a) mind me staying",
+                "(b) mind me to stay",
+                "(c) mind my staying",
+                "(d) mind me to being"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Sentence ka matlab hai 'mera rukna mind toh nahi karoge', toh 'mind' verb ka object 'stay' banega, kyunki 'stay' verb hota hai, isliye isse 'staying' gerund mein change karenge, aur gerund(noun) ke sath 'me' pronoun nahi aaayega, isliye iske sath 'my' possessive adjective sahi hoga, isliye option C 'mind my staying sahi answer hoga."
+            },
+            {
+              "id": 51,
+              "question": "We watched the workers [to be unloading] heavy wooden crates from the truck.",
+              "options": [
+                "(a) unloads",
+                "(b) unload",
+                "(c) to be unload",
+                "(d) to unload"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Kuch verbs jaise 'let, bid, make, notice, watch, feel etc.' inke baad bare infinitive aate hai, isliye 'to be unloading ko bare infinitive mein likhenge, isliye option B 'unload' sabse sahi answer hoga.\nNote:- gerund bhi aa sakta hai jab usne jhalak dekhi hoti uss kaam ki, agar poora action dekha hai toh bare infinitive. Dono ke apna-apna meaning hai. 'unloading' option nahi hai, isliye sirf option B sahi answer hoga."
+            },
+            {
+              "id": 52,
+              "question": "[Read books] every day helps a person develop deeper understanding, better vocabulary, and stronger imagination over time.",
+              "options": [
+                "(a) To reading books",
+                "(b) Reading book",
+                "(c) Reading books",
+                "(d) No substitution"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Sentence mein 'helps' verb di hai toh 'read' ko verb nahi bana payenge, isliye 'read' ko gerund 'reading' mein change karke 'reading' subject ban jaaayega aur 'books' object of gerund ban jaaayega, toh 'reading books' ka matlab 'books padhna hai, isliye option C reading books' sahi answer hoga."
+            },
+            {
+              "id": 53,
+              "question": "[As been a doctor], she understood the seriousness of the patient's condition even before the reports came.",
+              "options": [
+                "(a) Being a doctor",
+                "(b) As he be doctor",
+                "(c) No substitution",
+                "(d) Been doctor"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'Been' verb ki 3rd form bina helping ke galat hogi, isliye option C aur D galat honge. Sentence ka matlab dena 'ek doctor hone ki wazah se, wo samajh jaati hai patient ki condition ko', toh sentence mein kisi ke baare mein kuch bata rahe hai, jiske liye 'being a doctor' structure sahi hoga, isliye option A sabse sahi answer hoga."
+            },
+            {
+              "id": 54,
+              "question": "Since rest of the employees have already left, [let we lock] the office carefully and leave the building.",
+              "options": [
+                "(a) No substitution",
+                "(b) let ours lock",
+                "(c) let us lock",
+                "(d) let our locking"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Sentence mein 'let' verb hai jiske baad 'object + object complement ka structure banta hai, isliye 'we' ka objective case 'us' aayega aur 'lock' object complement ka kaam karega, isliye option C 'let us lock' sahi answer hoga."
+            },
+            {
+              "id": 55,
+              "question": "Even after they were shown the CCTV footage, the students repeatedly [denied to break] any classroom equipment during the lunch break.",
+              "options": [
+                "(a) denied for breaking",
+                "(b) denied from breaking",
+                "(c) denied breaking",
+                "(d) No substitution"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'denied' ke baad gerund aayega kyunki 'denied' ka use past mein kisi baat ko mana karne ke liye hota hai jiske sath gerund aate hai, isliye 'denied breaking option C sahi answer hoga.\nNote:- 'refuse ka use future mein koi kaam ko mana karne ke liye use hota hai, aur future ke action ko batane ke liye infinitive ka use hota hai, isliye refuse ke sath infinitive aate hai."
+            },
+            {
+              "id": 56,
+              "question": "[Have completed the registration], the volunteers immediately moved to the main hall to get the detailed instructions for the event.",
+              "options": [
+                "(a) Have been completing the registration",
+                "(b) Having completing the registration",
+                "(c) No substitution required",
+                "(d) Having completed the registration"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Jab sentence mein batana ho ki ek kaam khatam hone ke baad dusra kaam hua, toh iske liye perfect participle(having + v3) ka use karte hai. Sentence mein pata chal raha hai registration ke baad volunteers main hall mei gaye hai, isliye registration wala kaam perfect participle mein aayega, isliye option D 'having completed the registration' sahi answer hoga."
+            },
+            {
+              "id": 57,
+              "question": "She was deeply [disappointed to be rejected] in the final round of the interview even after performing exceptionally well in all the earlier stages of the selection process.",
+              "options": [
+                "(a) disappointed to rejected",
+                "(b) disappointed at being rejected",
+                "(c) disappointed for being rejected",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'disappoint ke sath 'at' preposition aati hai aur 'at' preposition ka object infinitive nahi ho sakta kyunki 'at' aur 'to' preposition sath mein galat hongi. isliye disappointed at ke baad gerund aaayega wo bhi passive form mein kyunki usne kisi ko reject nahi kiya, balki wo reject hui hai, isliye gerund ka passive 'being rejected sahi hoga, isliye option B disappointed at being rejected' sahi answer hoga."
+            },
+            {
+              "id": 58,
+              "question": "He was [disappointed to be missed] the his train to Delhi.",
+              "options": [
+                "(a) disappointed at missing",
+                "(b) disappointed for missing",
+                "(c) disappointed to have missed",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'disappoint' ke sath 'at' preposition aati hai aur 'at' preposition ka object infinitive nahi ho sakta kyunki 'at' aur 'to' preposition sath mein galat hongi, isliye 'at' preposition ka object banne ke liye 'missing gerund(noun) sahi hoga, isliye option A 'disappointed at missing sahi answer hoga."
+            },
+            {
+              "id": 59,
+              "question": "[Be responsible and disciplined] will significantly help you achieve long-term success in any professional.",
+              "options": [
+                "(a) Being responsible and disciplined",
+                "(b) By being responsible and disciplined",
+                "(c) For being responsible and disciplined",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Sentence mein 'will' verb se pata chal raha ki isse pehle noun ki jarurat hai, isliye 'be' ko gerund 'being' mein badalna padega, isliye option A 'being responsible and disciplined' sahi answer hoga."
+            },
+            {
+              "id": 60,
+              "question": "When the old video of their childhood trip unexpectedly appeared on the big screen, everyone in the hall [could not help but crying] remembering those unforgettable moments.",
+              "options": [
+                "(a) could not help cry",
+                "(b) could not help but cry",
+                "(c) could not helping cry",
+                "(d) No Improvement."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'can't/couldn't help ke baad agar 'but' aaye toh iske baad bare infinitive ka use hota hai, aur agar 'but' na aaye toh gerund ka use hota hai, sentence mein could not ke baad 'but' aaya hai, isliye yahan bare infinitive 'cry' sahi hoga, isliye option B could not help but cry' sahi answer hoga."
+            }
+          ]
         }
       ]
     }
