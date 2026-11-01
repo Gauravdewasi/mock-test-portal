@@ -24478,6 +24478,912 @@
               "solutionHinglish": "Ans (b)\nExplanation:-yhan meaning ye dena hai ki :- ' lekin iss movie ne koi academy award nhi jita' meaning and grammar ke structure ke according B sahi hai."
             }
           ]
+        },
+        {
+          "id": "t_1793558370112",
+          "name": "TENSE LEVEL - 02",
+          "questions": [
+            {
+              "id": 1,
+              "question": "I walked around the quiet lakeside for hours, (a)/ watching birds and enjoying the cool breeze, (b)/ and then I get on a late-evening bus to Delhi(c)/. No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'get on' with 'got on'\nExplanation: Sentence ka matlab hai 'wo lakeside ghuma kuch hours uske baad usne delhi ke liye bus pakad li', toh sentence mein 'bus' mein chadne wala koi habitual action nahi, aur 'walked' se pata chal raha ki past ki baat ho rahi hai, toh ghumne wala aur bus pakadne wala dono action past mein hue honge, isliye yahan 'get' ki past form 'got' sabse sahi answer hoga."
+            },
+            {
+              "id": 2,
+              "question": "Medical journals told doctors (a)/about new global health studies (b)/that highlight important disease patterns (c)/and their possible treatments. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'told doctors' with 'tell doctors'\nExplanation:- Sentence mein 'told' se pata chal raha ki 'medical journals ne past mein doctor ko bataya, lekin medical journals waali baat ek fact ki tarah use hogi jiska matlab hoga ki 'medical journals doctors ko batate hai global health studies ke baare mein', isliye 'medical journals' waali baat past ka koi action nahi balki ek fact ki tarah use hogi, isliye iss baat ko present indefinite tense mein likhna padega, isliye 'told' ki jagah par 'tell' sahi hoga, journals plural hai jiske according plural verb 'tell' sabse sahi answer hoga."
+            },
+            {
+              "id": 3,
+              "question": "This is indeed the first (a)/ time in my professional journey that I hear (b)/ such a powerful and inspiring speech (c)/ from a young entrepreneur. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'hear' with 'have heard'\nExplanation:-Sentence mein 'hear' ki jagah par 'have heard' aayega kyunki 'indeed the first time, the second time' iss type ke phrase mein pehle se lekar ab tak ki baat convey hoti hai, matlab past se lekar ab tak. Toh past se lekar present ki baat karne ke liye present perfect tense ka use karte hai, isliye yahan 'have heard' perfect tense sabse sahi answer hoga."
+            },
+            {
+              "id": 4,
+              "question": "When the bus reached (a)/ the crowded marketplace, it take (b)/ Priya a few minutes (c)/ to gather her luggage and step outside carefully. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'take' with 'took'\nExplanation:-Sentence mein 'when' se pata chal raha ki dono action sath mein hue honge. Agar bus crowded place pe past mein pahuchi, toh luggage utthane wala action bhi past mein hua hoga, isliye yahan 'take' ki past form 'took sabse sahi answer hoga."
+            },
+            {
+              "id": 5,
+              "question": "Usually, Neeraj hasn't (a)/ attend weekend cultural workshops (b)/ organized by the community center (c)/ because of his tight work schedule. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'hasn't' with 'doesn't'\nExplanation:-Sentence mein 'usually' se pata chal raha ki yeh neeraj ka habitual action hai, aur habitual action ko humesha present indefinite tense mein likha jata hai, kyunki sentence negative bhi hai, isliye isse 'do/does' se banana padega, 'Neeraj' singular noun ke liye 'does' singular H.V. ka use hoga, isliye 'hasn't' ki jagah par 'doesn't' sabse sahi answer hoga."
+            },
+            {
+              "id": 6,
+              "question": "They are having (a)/ a grand family gathering with relatives coming (b)/ from different cities at their farmhouse next week (c)/ No error. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) No error\nExplanation:-Sentence mein 'next week se pata chal raha ki koi kaam future mein hoga, toh present continuous tense bhi future ko represent karta hai, isliye yeh 'no error' hoga. 'next Monday, next Sunday, next week' yeh future waale words 'continuous tense se represent kiya jaa sakte hai'."
+            },
+            {
+              "id": 7,
+              "question": "They are always arguing (a)/ about tiny and meaningless issues (b)/ which makes everyone around uncomfortable. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) No error\nExplanation:-Agar 'always' ke sath aisa koi action likha ho, bhale hee wo habitual action ho, agar wo irritating ho toh usse continuous tense mein likhte hai, isliye yeh sentence 'no error' hai."
+            },
+            {
+              "id": 8,
+              "question": "\"The principal is talking to some (a)/ parents in her office (b)/ at the moment,\" \"Alright, I had been waiting (c)/ until she gets free.\" (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'had been waiting' with 'will wait'\nExplanation:-Sentence mein 'had been waiting ki jagah par 'will wait aayega kyunki sentence mein bataya ki 'principal abhi baat kar rahi hai kuch parents se', toh principal waali baat ka jawab hoga ki 'mein wait karunga jab tak wo free nahi ho jaati', naa ki 'mein uska wait kar raha tha', toh 'wait' karne wala action sentence ke according future tak hoga, isliye yahan 'will wait' sabse sahi answer hoga."
+            },
+            {
+              "id": 9,
+              "question": "I am working on this research (a)/ project continuously for the last three weeks so (b)/ I need 2 days leave. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'am working' with 'have been working'\nExplanation:- Sentence mein 'for + duration' se pata chal raha ki yeh kaam past se lekar abhi tak ho raha hai, jiske liye present perfect continuous tense ka use hota hai, isliye yahan 'am working' ki jagah par 'have been working' sabse sahi answer hoga."
+            },
+            {
+              "id": 10,
+              "question": "He reminded his son (a)/ to close the main gate properly (b)/ before leaving for school, but (c)/ he forget to do that. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) replace 'he forget' with 'he forgot'\nExplanation:-Sentence mein past ke single time action ki baat ho rahi hai, sentence mein bataya ki 'usne apne ladke se kaha tha gate lagake ke jaane ki, lekin wo bhool gaya', toh 'reminded' se pata chal raha ki past mein kaha tha, toh bhoolne wala action bhi past mein hoga, aur present indefinite tense se uska habitual action ho jaayega jo ki galat hoga, isliye yahan past indefinite tense ka use hoga, isliye 'forget' ki 2nd form 'forgot' sabse sahi answer hoga."
+            },
+            {
+              "id": 11,
+              "question": "She reached the audition hall (a)/ much later than she planned (b)/ because of heavy traffic. (c)/ No error(d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) put 'had' before 'planned'\nExplanation:-Sentence mein do past ke action ka comparison karna hai, 'later' se bhi pata chal raha ki pahuchne wala action baad mein hoga aur 'planned' karna wala action pehle, isliye 'plan' waale action ko past perfect tense aur 'reached wala action past indefinite tense mein likha jaayega, toh 'planned se pehle 'had' likhne se past perfect tense mein badal jaayega, isliye 'had planned sabse sahi answer hoga."
+            },
+            {
+              "id": 12,
+              "question": "Did he arranged (a)/ the entire surprise celebration by himself (b)/ since nobody else knew about your birthday plan until the moment you walked in? (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'did he arranged' with 'did he arrange'\nExplanation:-Sentence mein 'arranged' ki jagah par 'arrange' aayega kyunki 'do/does/did' ke baad ke baad verb ki base form aati hai, isliye yahan 'did he arrange' sabse sahi answer hoga."
+            },
+            {
+              "id": 13,
+              "question": "As it has been snowing continuously (a)/ since the last three hours, (b)/ the tourists are staying inside their cottages (c)/ to avoid the harsh weather. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'since' with 'for'\nExplanation:-Sentence mein 'since ki jagah par 'for' aayega kyunki 'since' ka use 'point of time' dikhaane ke liye hota jabki 'for' ka use 'duration of time' dikhaane ke liye. sentence mein 'last three hours' se pata chal raha ki duration dikhaana hai, isliye yahan 'for' sabse sahi answer hoga."
+            },
+            {
+              "id": 14,
+              "question": "The heavy overnight snowfall (a)/ in the entire mountain region blocked (b)/ important highways and (c)/ freezing water pipelines in several remote villages. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) replace 'freezing water' with 'froze water'\nExplanation:-Sentence mein 'freezing ki jagah par 'froze aayega kyunki sentence ka matlab hoga 'heavy snowfall ne mountain ko blocked kar diya aur paani ko jama diya', toh 'freezing' v1+ing bina helping ke nahi aa sakti, 'block' aur 'freeze' verb 'and conjunction se jude hai toh dono verb same form mein aayegi, kyunki yeh past ke action ki baat ho rahi hai, isliye 'freeze' ko past indefinite tense mein likhna padega, isliye 'freeze' ki 2nd form 'froze' sabse sahi answer hoga."
+            },
+            {
+              "id": 15,
+              "question": "She has been trying to learn classical music (a)/ for last summer, (b)/ but her schedule often gets too hectic (c)/ due to office work. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'for' with 'since'\nExplanation:-Sentence mein 'for' ki jagah par 'since' aayega kyunki 'since' ka use point of time dikhaane ke liye hota jabki 'for' ka use 'duration of time dikhaane ke liye. 'last summer' se pata chal raha ki 'point of time ki baat ki baat ho rahi hai, isliye yahan 'since last summer sabse sahi answer hoga."
+            },
+            {
+              "id": 16,
+              "question": "How long are you preparing (a)/ for your civil services exam (b)/ with this early-morning study routine of yours? (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'are you preparing' with 'have you been preparing'\nExplanation:-Sentence mein 'are you preparing ki jagah par 'have you been preparing' aayega kyunki 'how long' waisa he meaning deta hai jaise 'for + duration', ki kabse aisa kar rahe ho wala sense. Isliye 'how long ke sath bhi perfect continous tense ka use karenge, isliye yahan 'have you been preparing' sabse sahi answer hoga."
+            },
+            {
+              "id": 17,
+              "question": "These days, heritage sites in major tourist cities (a)/ are protected by strict laws (b)/ so that valuable monuments and ancient sculptures (c)/ do not being damaged by careless visitors. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) replace 'do not being damaged' with 'are not damaged'\nExplanation:-Sentence mein 'by careless visitors' se pata chal raha ki dusra clause passive voice mein likha, jiske according verb bhi passive voice mein aayegi, isliye passive voice mein 'are not damaged' sabse sahi answer hoga. sentence ka matlab hoga 'monuments aur sculptures damage naa kiye jaayein visitors ke dwara'."
+            },
+            {
+              "id": 18,
+              "question": "Rohan lived in this apartment (a)/ since his elder sister moved abroad (b)/ for her higher studies (c)/ No error. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'lived' with 'has been living'\nExplanation:- 'since' ke sath past ka koi action point of time ki tarah kaam karne lag jaaye, toh wahan pe perfect yaa perfect continuous tense ka use karte hai, sentence mein clear nahi hai ki kaam khatam hua hai, isliye perfect continuous tense ka use karenge, isliye 'has been living' sabse sahi answer hoga."
+            },
+            {
+              "id": 19,
+              "question": "Last month when I visited the city (a)/ hospital for my routine check-up, I (b)/ consulted the senior cardiologist (c)/ with whom I have booked an appointment. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) replace 'have booked' with 'had booked'\nExplanation:-Sentence mein 'have' ki jagah par 'had' aayega kyunki sentence mein clear hai ki 'visit' aur 'consult' wala kaam past mein hua hai, toh obvious baat hai 'appointment book wala action toh usse bhi pehle hua hoga, isliye appointment book' waale action ko past of past yaani ki past perfect tense mein likhenge, isliye yahan 'had booked sabse sahi answer hoga."
+            },
+            {
+              "id": 20,
+              "question": "My cousin is practising yoga every morning in the community park (a)/ under the guidance of a certified trainer (b)/ since January to improve her strength, flexibility, and overall mental well-being. (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'is practicing' with 'has been practising'\nExplanation:-Sentence mein 'since January' se 'point of time pata chal raha ki 'uski cousin January se yoga practice kar rahi hai', toh since + point of time ke sath perfect continuous/ perfect tense ka use hoga, kyunki practice wala kaam chal raha hai, isliye isse perfect continuous mein likhenge, isliye yahan 'has been practising' sabse sahi answer hoga."
+            },
+            {
+              "id": 21,
+              "question": "The university will not release the final merit list (a)/ for the postgraduate admissions (b)/ until the examination committee will verify (c)/ the documents submitted by the applicants. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'will verify' with 'verifies'\nExplanation:-Sentence mein do future tense ka use sath mein galat hai, sentence mein jo condition wala part hai usse present indefinite tense mein likhte hai, toh sentence mein 'verify' karne wala part condition hai, isliye isse present indefinite tense mein likhenge, kyunki 'examination committee' singular hai jiske liye singular verb 'verifies' sabse sahi answer hoga."
+            },
+            {
+              "id": 22,
+              "question": "In its January 1984 edition (a)/ the National Geographic magazine explain (b)/ how ancient cave paintings were discovered (c)/ deep inside a remote valley in France. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'explain' with 'explained'\nExplanation:-Sentence mein 'explain' ki jagah par 'explained' aayega kyunki sentence mein '1984 edition' se pata chal raha ki yeh magazine jab launch hui hogi tabhi isne explain kiya hoga cave painting ke baare mein, toh 'explain' karne wala past mein hua hai, isliye yaha past indefinite tense 'explained' sabse sahi answer hoga."
+            },
+            {
+              "id": 23,
+              "question": "My parents visit the city hospital (a)/ for a routine health examination (b)/ this coming Monday morning (c)/ No error. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) put 'will' before 'visit'\nExplanation:-Sentence mein 'this coming Monday' se pata chal ki aane waale Monday ko wo doctor ko visit karenge, toh yeh action future mein hoga, isliye isse future indefinite tense mein likhenge, isliye yahan 'will visit' sabse sahi answer hoga."
+            },
+            {
+              "id": 24,
+              "question": "The rapid construction of luxury high-rise apartments in our city (a)/ is led to an unexpected surge in rental prices (b)/ forcing many middle-income families to move towards the outskirts (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'is led' with 'has led to/is leading to/led to'\nExplanation:-Yeh sentence active passive voice pe based hai, yahan 'rapid construction' subject hai jo ki 'unexpected surge' ko lead karne ka doer hai, isliye yahan active voice ki jarurat hai, tense yahan koi bhi use kiya jaa sakta hai 'has led to/is leading to/ led to', yahan sabhi tense sahi hai bas meaning alag alag denge."
+            },
+            {
+              "id": 25,
+              "question": "Aarav had frustrated with his elder brother (a)/ ever since they had a heated argument (b)/ about their father's property last month (c)/ No error. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'had frustrated' with 'has been frustrated'\nExplanation:-Sentence mein 'had frustrated' ki jagah par 'has been frustrated' aayega kyunki 'since + point of time' ke sath present perfect/present perfect continuous tense ka use hota hai, sentence mein kehna hai ki Aarav frustrated hai', isliye yahan perfect continuous nahi aayega, active aur passive wala meaning bhi nahi aayega, isliye yahan present perfect aayega jo ki linking verb se bana hai, toh 'has been frustrated' aayega jisme 'been' linking verb hai 'frustrated' adjective hai."
+            },
+            {
+              "id": 26,
+              "question": "During the recession last year, our company laid off many employees (a)/ and my close colleague lost his position too (b)/ but he had secured a far better opportunity now (c)/ at a multinational firm abroad. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'had secured' with 'has secured'.\nExplanation: Sentence ka main context past tense mein hai (\"During the recession last year\", \"laid off\", \"lost his position\"). Lekin \"now\" ka use present time ko indicate karta hai, isliye past perfect \"had secured\" galat hai. \"Now\" ke saath present perfect tense \"has secured\" use hona chahiye, jo batata hai ki usne abhi tak ek better opportunity secure kar li hai."
+            },
+            {
+              "id": 27,
+              "question": "In the chemistry lab, the students measured the chemicals (a)/ mixed them according to the procedure (b)/ and record their observations carefully (c)/ in their lab notebooks. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'record' with 'recorded'\nExplanation:-Sentence mein 'measured', 'mixed' karne wala action past mein bataya hai, agar yeh action past mein hue hai, toh 'record' karne wala action bhi past mein hoga. Toh yahan parallelism follow hoga, isliye 'record' verb ki 2nd form 'recorded' sabse sahi answer hoga."
+            },
+            {
+              "id": 28,
+              "question": "All of us felt relieved (a)/ when the train finally reached (b)/the crowded station early this morning after that long and tiring overnight journey (c)/ no error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) No error"
+            },
+            {
+              "id": 29,
+              "question": "Before you (a)/ leave to board an international flight (b)/ you made sure that you (c)/ have kept your passport and boarding pass (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'made' with 'should make'\nExplanation:-Sentence mein 'made' ki jagah par 'should make' aayega, kyunki sentence ek advice ke taur pe hai, Lekin 'made sure' se matlab hoga 'tumne pakka kiya tha', jo meaning ke according galat hai. sentence mein 'tumhe pakka kar lena chahiye' wala meaning chahiye, jiske liye yahan 'you should make sure' sabse sahi answer hoga."
+            },
+            {
+              "id": 30,
+              "question": "Rashmi dropped her laptop accidentally (a)/ during the project meeting, (b)/ and now she worrying (c)/ about losing all her important presentation files. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) replace 'worrying' with 'is worried/ is worrying'\nExplanation:-Sentence mein laptop girna past mein hua aur pareshan abhi ho rahi hai, isme koi dikkat nahi hai. sentence ka matlab hai 'rashmi se galti se laptop gir gaya tha aur wo pareshan hai/ pareshan ho rahi hai', sentence ke according 'pareshan hai/ pareshan ho rahi hai dono meaning sahi hai, toh 'pareshan hai' ke liye she is worried', aur 'pareshan ho rahi hai ke liye she is worrying'. Toh meaning ke according 'is worried/ is worrying' sahi answer hoga."
+            },
+            {
+              "id": 31,
+              "question": "By the time the university will publish (a)/ the semester result on its website, (b)/ all students will have completed their internship. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'will publish' with 'publishes'\nExplanation:-Sentence mein 'will publish' ki jagah par 'publish' aayega kyunki 'by the time' se pata chal raha ki, yahan future ke 2 action ka comparison karna hai. un dono mein se jo pehle hoga usse 'future perfect' mein aur dusre ko 'present indefinite' mein. Toh sentence mein 'university ka result baad mein publish hoga, isliye isse present indefinite mein likhenge, isliye yahan 'publishes' sabse sahi answer hoga."
+            },
+            {
+              "id": 32,
+              "question": "When my mother has finished (a)/ cooking lunch yesterday afternoon, (b)/ we had already set the dining table (c)/ and prepared fresh lemonade for everyone. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'has finished' with 'finished'\nExplanation:-Sentence mein 'has finished' ki jagah par 'finished' aayega kyunki 'yesterday' se pata chal raha ki yeh past ka action hai, toh yahan present perfect ki jagah par 'past indefinite' tense ka use hoga. isliye yahan verb ki 2nd form 'finished' sabse sahi answer hoga."
+            },
+            {
+              "id": 33,
+              "question": "The new hill-station route was not as smooth as I expected (a)/ and the narrow bends and constant landslides (b)/ made the drive even more difficult (c)/. No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'expected' with 'had expected'\nExplanation:-Sentence mein 'expected' ki jagah pe 'had expected' aayega kyunki kisi cheez ki 'expectation, planning' uss kaam se pehle hoti hai, kyunki sentence past mein hai aur 'expectation' usse pehle hogi matlab past of past, jiske liye past perfect tense ka use karte hai, isliye yahan had expected sabse sahi answer hoga.\nNote: 'plan, expect' verb mein agar past ke action likhe ho toh yeh generally past perfect mein likhi jaati hai."
+            },
+            {
+              "id": 34,
+              "question": "Basic human dignity (a)/ meaning that every individual is treated with respect(b)/ regardless of their background or social status (c)/ in every part of the community. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'meaning' with 'means'\nExplanation:-Sentence mein 'basic human dignity' subject hai jisko verb ki jarurat hai 'meaning' agar verb hai toh 'v1+ing bina helping verb ke galat hogi, sentence mein 'basic human dignity ke liye ek fact bataya jaa raha hai, jiske liye present indefinite tense ka use karenge, isliye yahan 'means present indefinite tense sabse sahi answer hoga."
+            },
+            {
+              "id": 35,
+              "question": "While travelling by train to Delhi (a)/ one of the passengers was taking ill (b)/ due to extreme heat and dehydration (c)/ causing the train to halt for emergency assistance. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'was taking ill' with 'was taken ill'\nExplanation:-Sentence mein 'was taking ill' ki jagah par 'was taken ill aayega kyunki 'took ill' phrasal verb hoti hai, jisse passive voice mein use karte hai, jiska matlab 'achaanak se bemaar ho jana', toh sentence ke meaning ke according 'was taken ill' sabse sahi answer hoga."
+            },
+            {
+              "id": 36,
+              "question": "A London-bound train has to stop at a remote station (a)/ when the conductor noticed smoke rising(b)/ from one of the coaches. (c) No error. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'has to' with 'had to'\nExplanation:-Sentence mein 'has to' ki jagah par 'had to' aayega kyunki sentence ka matlab hai 'ek London bound train ko rukna pada jab conductor ne smoke uthte hue dekha', toh 'has to' ka matlab hoga 'karna padega' aur 'had to' ka matlab 'karna pada', toh sentence mein past ke single time action ki baat ho rahi hai, isliye 'had to stop' 'train ko rukna pada wala matlab sahi hoga, isliye yahan 'had to stop' sabse sahi answer hoga."
+            },
+            {
+              "id": 37,
+              "question": "Celebrated as one of the most dedicated surgeons in the hospital (a)/ Dr. Mehta take charge of the emergency unit (b)/ when multiple accident victims arrived late at night. (c)/ No error. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'take' with 'took'\nExplanation:-Sentence mein 'take ki jagah par 'took' aayega kyunki sentence mein 'victims arrived late at night' se pata chal raha ki victims past mein aaye honge, toh 'Dr. Mehta ne bhi emergency unit ka charge past mein shambhala hoga, isliye yahan 'took' past indefinite tense sabse sahi answer hoga."
+            },
+            {
+              "id": 38,
+              "question": "I don't think that (a)/ I meet this neighbour's son earlier (b)/ though his face seems slightly familiar (c)/ No error. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'meet' with 'have met'\nExplanation:-Sentence mein 'meet' ki jagah par 'have met' aayega, kyunki 'meet' present indefinite tense se habitual action show hoga, lekin yeh koi habitual action nahi hai. sentence ka matlab hai 'mujhe nahi lagta mein aaj se pehle kabhi iss padosi ke bacche se mila hoo', toh past se lekar abhi tak ki baat ho rahi hai, isliye yahan present perfect tense ka use hoga, isliye 'have met' perfect tense sabse sahi answer hoga."
+            },
+            {
+              "id": 39,
+              "question": "Cyber-bullying is a punishable act (a)/ in which a person sending threatening messages (b)/ to individuals online. (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'sending' with 'sends'\nExplanation:-Sentence mein 'sending ki jagah par 'sends' aayega kyunki sentence mein bataya gaya action koi contunity mein nahi balki ek fact ke tarah bataya gaya hai ki cyber-bullying is punishable act hai jisme ek person threatening messages bhejta hai', toh facts ke liye 'present indefinite tense ka use karte hai, isliye singular subject ke according singular verb 'sends' sabse sahi answer hoga."
+            },
+            {
+              "id": 40,
+              "question": "We need to book a taxi now (a)/ since we had missed the last metro (b)/ and standing here any longer (c)/ will only waste more time. (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) replace 'had missed' with 'have missed'\nExplanation:-Sentence mein 'had' ki jagah pe 'have' aayega kyunki 'had missed' past perfect tense ka use past ke do action ko compare karne ke liye karte hai, isliye yahan past perfect galat hoga. sentence mein past ke action ka effect present mein dikhaana hai, jiske liye present perfect tense ka use karte hai, isliye yahan 'have missed perfect tense sabse sahi answer hoga."
+            },
+            {
+              "id": 41,
+              "question": "Was your mother liking the new ethnic collection (a)/ displayed in the festive season sale (b)/ at the pacific mall? (c)/ No error (d)",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) replace 'was your mother liking' with 'did your mother like'\nExplanation:-Sentence mein 'was.....liking' ki jagah par 'did.....like aayega kyunki 'like' ek static verb hoti hai aur ise 'ing' mein likhna avoid karte hai, toh 'like' static verb mein likhenge toh phir 'was ki jagah 'did' karna padega, kyunki 'was' ke baad 'v3' yaa 'ing' ka use karte hai, isliye yahan 'did your mother like sabse sahi answer hoga."
+            },
+            {
+              "id": 42,
+              "question": "It is believed that [he has achieve] remarkable success in the field of renewable energy through years of research.",
+              "options": [
+                "(a) he will achieved",
+                "(b) he had achieve",
+                "(c) No substitution",
+                "(d) he has achieved"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:-Option A nahi hoga kyunki 'will' model ke baad verb ki base form aati hai. Option B aur C bhi galat honge kyunki 'had' aur 'has ke baad verb ki 3rd form aati hai. Option D sahi answer hoga kyunki 'has' ke verb ki 3rd form use hui hai."
+            },
+            {
+              "id": 43,
+              "question": "Fresh water constantly [is flowing] from the snow-covered mountains into the valley, creating a peaceful and scenic environment for tourists.",
+              "options": [
+                "(a) flows",
+                "(b) is flowed",
+                "(c) was flows",
+                "(d) No substitution"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Option A 'flows sahi hoga kyunki jo action continuously chalta rehta hai, usse fact ki tarah use karte hai jiske liye present indefinite tense ka use karte hai, isliye yahan 'flows option A sabse sahi answer hoga."
+            },
+            {
+              "id": 44,
+              "question": "The museum has been closed [for last winter] due to renovation work and is expected to reopen soon for tourists.",
+              "options": [
+                "(a) to last winter",
+                "(b) since last winter",
+                "(c) from last winter",
+                "(d) for winter"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Option B sahi hoga kyunki sentence mein bataya ki museum 'last winter se band hai, toh 'last winter' yahan 'point of time ki tarah likha hai jiske sath 'since' ka use karte hai, isliye yahan 'since last winter' option B sabse sahi answer hoga."
+            },
+            {
+              "id": 45,
+              "question": "She [doesn't study] for her exams right now because she is feeling unwell and needs some rest.",
+              "options": [
+                "(a) is not studying",
+                "(b) doesn't study",
+                "(c) didn't study",
+                "(d) was not studying"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'doesn't study' nahi hoga kyunki isse matlab niklega ki wo padhti nahi hai, lekin sentence mein 'right now' se pata chal raha ki abhi nahi padh rahi, toh sentence mein temperory action dikhaana hai, isliye yahan present continuous tense 'is not studying' sabse sahi answer hoga. option C aur D past ki baat kar rahe isliye galat honge."
+            },
+            {
+              "id": 46,
+              "question": "The newly constructed bridge, [was completed last month], has already become a major route for daily commuters.",
+              "options": [
+                "(a) completed last month",
+                "(b) was completing last month",
+                "(c) was completed last month",
+                "(d) has completed last month"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:-Sentence mein agar 'was completed ko verb bana denge toh has already become verb ko subject nahi milega, isliye 'bridge' subject ki verb 'has become hogi aur yahan 'was completed verb nahi aayegi, iski jagah par 'adjective likhenge kyunki 'bridge' kuch complete nahi kar raha balki bridge ko complete kiya jaa raha hai, isliye yahan past participle 'completed' sahi hoga, sentence mein 'completed last month' bridge ke liye adjective ka kaam karega, toh diye gaye options mein se 'completed last month sabse sahi answer hoga."
+            },
+            {
+              "id": 47,
+              "question": "They [had shifted] to a new apartment last December because their old building was under renovation.",
+              "options": [
+                "(a) had shifted",
+                "(b) were shifting",
+                "(c) shifted",
+                "(d) have shifted"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:-Sentence mein 'last december' likha hai jisse pata chal raha past ka point of time hai, jiske liye past indefinite tense ka use karenge. Isliye yahan verb ki 2nd form 'shifted' option C sabse sahi answer hoga."
+            },
+            {
+              "id": 48,
+              "question": "The children [finished] their homework and they are now playing happily in the park behind our house.",
+              "options": [
+                "(a) finish",
+                "(b) had finished",
+                "(c) have finished",
+                "(d) will finish"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:-Sentence mein 'finished galat nahi hai lekin 'no substution. Ka option nahi hai aur sentence mein bataya ki 'bacchon ne apna kaam khatam kar liya aur ab wo khel rahe hai', toh sentence mein past ke action ka effect present mein dikhaana hai, jo sentence mein bhi bataya ki 'ab wo khel rahe hai, isliye yahan present perfect tense ka use hoga, toh diye gaye options mein se option C 'have finished perfect tense sabse sahi answer hoga."
+            },
+            {
+              "id": 49,
+              "question": "I [will finish this important report] by the time the management arrives for the morning briefing.",
+              "options": [
+                "(a) will be finishing this important report",
+                "(b) will have finished this important report",
+                "(c) have finished this important report",
+                "(d) No substitution required"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:-Sentence mein 'by the time ka matlab hai jab tak , sentence mein future ke 2 action ka comparison karna hai, unn dono mein jo kaam pehle hoga usse 'future perfect mein aur dusre ko 'present indefinite tense mein likhenge, toh important report ka kaam 'management ke aane se pehle hoga, isliye isse future perfect tense mein likhenge, toh diye gaye options mein se option B mein future perfect tense 'will have finished this important report sabse sahi answer hoga."
+            },
+            {
+              "id": 50,
+              "question": "The sky is getting darker, it _______ in a few minutes.",
+              "options": [
+                "(a) is raining",
+                "(b) is going to rain",
+                "(c) has to rain",
+                "(d) rains"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:-Sentence mein future ko represent karna hai jiske liye 'is going' aur infinitive ka structure follow hota hai, isliye diye gaye option mein se option B 'is going to rain' sabse sahi hoga."
+            },
+            {
+              "id": 51,
+              "question": "Every time the school bell rings for the lunch break, [the students will rush] quickly towards the canteen to buy snacks.",
+              "options": [
+                "(a) the students rush",
+                "(b) the students are rushing",
+                "(c) the students were rushing",
+                "(d) No substitution required"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:-Sentence mein ek habitual action bataya hai, jiske liye present indefinite tense ka use karnege, toh diye gaye options mein se option A 'the students rush' present indefinite tense sabse sahi answer hoga."
+            },
+            {
+              "id": 52,
+              "question": "By the time the police arrived at the crime scene, [the thieves escaped] with all the expensive jewellery and electronic items.",
+              "options": [
+                "(a) the thieves had escaped",
+                "(b) the thieves escape",
+                "(c) the thieves have escaped",
+                "(d) No substitution"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:-Sentence mein 'by the time' ka structure follow ho raha jisme yaa toh 2 past ke action aate hai, yaa future ke 2 action. Toh sentence mein past ke 2 action ki baat ho rahi hai, toh jo action pehle hota hai usse 'past perfect tense mein likhte hai, aur jo action baad mein hota hai usse 'past indefinite tense mein. Toh sentence mein 'thieves' police ke aane se pehle bhaag gaye, isliye isse past perfect mein likhenge, toh diye gaye options mein option A 'the thieves had escaped' past perfect sabse sahi answer hoga."
+            },
+            {
+              "id": 53,
+              "question": "Last winter, due to the severe cold wave, [many water pipes bursting] in the residential colony, creating a major inconvenience for the families.",
+              "options": [
+                "(a) many water pipes burst",
+                "(b) many water pipes bursting",
+                "(c) many water pipes have burst",
+                "(d) many water pipes will burst"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:-Sentence mein 'last winter se pata chal raha ki past ki baat ho rahi hai, isliye option B, C aur D galat honge, isliye option A many water pipes burst sabse sahi answer hoga.\nNote: kuch verb aise hoti hai jinki verb ki 1st, 2nd, 3rd form same hoti hai, jaise 'burst, cut, put etc."
+            },
+            {
+              "id": 54,
+              "question": "In her school days, she [use to participate] in every annual cultural event and often won prizes for her classical dance performances.",
+              "options": [
+                "(a) used to participated",
+                "(b) participates",
+                "(c) used to participate",
+                "(d) participating"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:-Sentence mein 'in her school days' se pata chal raha ki past ki baat ho rahi hai, agar option mein verb ki 2nd form hoti, toh wo chal jaati, lekin aisa koi option nahi hai, isliye yahan 'used to' ka use karenge jiska baad verb ki base form aati hai, isliye diye gaye options mein 'used to participate option C sabse sahi answer hoga."
+            },
+            {
+              "id": 55,
+              "question": "Despite traveling across many countries and meeting countless inspiring people, Raj [never meet such a generous host] again in his life.",
+              "options": [
+                "(a) never met such a generous host",
+                "(b) never meets such a generous host",
+                "(c) had never meet such a generous host",
+                "(d) will never met such a generous host"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:-Option C aur D grammartically galat hai. aur sentence mein koi habitual action nahi, isliye option B galat hoga. isliye option A sahi jisse meaning aayega 'Raj kabhi dubara us generous host se nahi mila'"
+            },
+            {
+              "id": 56,
+              "question": "Despite being warned repeatedly about reckless driving, the delivery rider [is failed to follow] the traffic rules and met with a serious accident last night.",
+              "options": [
+                "(a) had failed to follow",
+                "(b) failed to follow",
+                "(c) will fail to follow",
+                "(d) is failing to follow"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:-Sentence mein 'met' verb aur 'last night' se pata chal raha ki past ke action ki baat ho rahi hai. kyunki uska accident past mein hua, toh usne 'rules' ko follow past mein nahi kiya hoga, isliye yahan 'follow' karne wala action bhi 'past indefinite tense mein likhenge, toh verb ki 2nd form 'followed' sahi hoga, isliye diye gaye options mein se option B 'failed to follow' sabse sahi answer hoga."
+            },
+            {
+              "id": 57,
+              "question": "When the judge announced the surprising verdict in the crowded courtroom, his eyes [grow wide as he understand] what it meant for his future.",
+              "options": [
+                "(a) grew wide as he understood",
+                "(b) grow wide as he understood",
+                "(c) was grown wide as he understand",
+                "(d) No substitution required"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:-Sentence mein 'announced' verb se pata chal raha ki verdict past mein di hogi, aur 'when' se pata chal raha ki dono action sath mein honge, toh eyes grow wala action bhi 'past indefinite tense mein hoga, isliye diye gaye options mein se option A grew wide as he understood past indefinite tense sabse sahi answer hoga."
+            },
+            {
+              "id": 58,
+              "question": "This automatic streetlight switches on [when the sky getting dark] and helps pedestrians walk safely during late evenings.",
+              "options": [
+                "(a) when the sky got dark",
+                "(b) when the sky gets dark",
+                "(c) when the sky has been getting dark",
+                "(d) No substitution required"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:-Sentence ka matlab hai yeh streetlight apne aap jal jaati hai jab sky dark hone lagta hai', toh yeh baat sentence mein ek fact ki tarah use ho rahi hai, aur fact batane ke liye present indefinite tense ka use karte hai, toh diye gaye options mein se option B 'when the sky gets dark present indefinite tense sabse sahi answer hoga."
+            },
+            {
+              "id": 59,
+              "question": "The report stated that thousands of complaints [have been registered against him] in various police stations across the country.",
+              "options": [
+                "(a) had been registered against him.",
+                "(b) has been registered against him.",
+                "(c) had been registering against him.",
+                "(d) No substitution required"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:-Sentence mein 'the report stated se pata chal raha ki main clause past mein hai, toh 'that ke baad poora sub clause bhi past mein hoga. isliye option B aur D galat honge. Sentence mein matlab dena hai 'thousands complaint register kari gayi hai', toh iss meaning ke liye isse passive voice mein likhenge, isliye option A had been registered against him sabse sahi answer hoga."
+            },
+            {
+              "id": 60,
+              "question": "In the ancient world, new trade routes [were being appeared] as merchants travelled across deserts and seas in search of rare goods.",
+              "options": [
+                "(a) appeared",
+                "(b) was appearing",
+                "(c) have appeared",
+                "(d) No substitution"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:-Option C nahi hoga kyunki 'ancient world' se pata chal raha ki past ki baat ho rahi hai, lekin 'have appeared' present perfect tense hai. Option B bhi nahi hoga kyunki 'appear' static verb hai jiski 'ing' form galat hai. 'were being appeared bhi galat hoga kyunki isse sentence ka matlab 'new trade route ko appear kiya jaa raha tha , 'appear' static verb hai jiska passive galat hoga. Sentence ka meaning chahiye 'ancient world mein, new trade route bante the jab merchant travel karte the desert aur sea se , isliye yahan 'appeared sahi hoga jo ki happening verb ki tarah se kaam karegi."
+            },
+            {
+              "id": 61,
+              "question": "She [is working] as a research analyst in Bengaluru for the past five years, and during this period she has contributed to several international projects.",
+              "options": [
+                "(a) has been working",
+                "(b) worked",
+                "(c) have been working",
+                "(d) No substitution"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:-Sentence mein 'for the past five year' se pata chal raha ki koi action past se lekar present tak ho raha hai, aur 'for + duration' ke sath present perfect continuous tense ka use hota hai, isliye diye gaye options mein se 'has been working perfect continuous sabse sahi answer hoga."
+            },
+            {
+              "id": 62,
+              "question": "How many cars [had they bought] till date as part of their expanding rental business in the city?",
+              "options": [
+                "(a) have they bought",
+                "(b) are they buying",
+                "(c) did they buy",
+                "(d) No substitution"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:-Sentence mein 'till date' se pata chal raha ki past se lekar ab tak unhone kitne gaadi khareedi', past se lekar ab tak ke liye present perfect/continuous tense ka use hota hai, toh diye gaye options mein se 'have they bought perfect tense sabse sahi answer hoga."
+            },
+            {
+              "id": 63,
+              "question": "Most students avoid studying with him since [he is distracting others] by cracking jokes and making unnecessary comments in class every day.",
+              "options": [
+                "(a) he distracts others",
+                "(b) he distracted others",
+                "(c) he has distracted others",
+                "(d) No substitution"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:-Sentence mein 'every day' se pata chal raha ki wo aisa roz karta hai, toh sentence mein ek habitual action ki baat ho rahi hai, isliye isse present indefinite tense mein likhenge, toh diye gaye options mein se option A 'he distracts others' present indefinite tense sabse sahi answer hoga."
+            },
+            {
+              "id": 64,
+              "question": "These days, my cousins [are been planning] to renovate their old farmhouse located in a remote village in Nainital district.",
+              "options": [
+                "(a) are being planning",
+                "(b) are planning",
+                "(c) will planning",
+                "(d) have planned"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:-Sentence mein 'these days' likha hai jiske sath present indefinite/continuous/ perfect tense teeno aa sakte hai, depend karta hai meaning kya chahiye. Iss sentence ka matlab chahiye 'inn dino mere cousins plan kar rahe farmhouse ko renovate karne ka', toh sentence ke meaning ke according continuous tense sabse sahi hoga, isliye diye gaye options mein se option B are planning' sabse sahi answer hoga."
+            },
+            {
+              "id": 65,
+              "question": "One of the important chapters in this book [had not yet been explained] by our professor.",
+              "options": [
+                "(a) is not yet been explained",
+                "(b) have not been explained yet",
+                "(c) has not been explained yet",
+                "(d) was not explained yet"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:-Sentence mein 'one of ke baad noun plural aata hai aur verb 'one' ke according singular aati hai. aur 'yet' se pata chal raha ki pehle se lekar abhi tak wala meaning chahiye, jiske liye perfect tense ka use karte hai, toh 'one' ke according singular verb aur perfect tense wala option sahi hoga, isliye option C 'has not been explained yet' sabse sahi answer hoga."
+            },
+            {
+              "id": 66,
+              "question": "The wedding arrangements [has been completed] before most of the guests started arriving at the venue.",
+              "options": [
+                "(a) were completed",
+                "(b) will have been completed",
+                "(c) had been completed",
+                "(d) is being completed"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:-Sentence mein 'arrived' se pata chal raha ki guests past mein aaye honge matlab 'weddings arrangements' wala kaam guest ke aane se pehle hoga aur 'before' se bhi pata chal raha ki arrangements pehle hongi, isliye isse past perfect tense mein likhenge, toh diye gaye options mein se option C had been completed past perfect sabse sahi answer hoga."
+            },
+            {
+              "id": 67,
+              "question": "When we reached the riverside at sunset, a group of travelers [has been setting] up their tents and arranging firewood for the night stay.",
+              "options": [
+                "(a) had been setting",
+                "(b) has been setting",
+                "(c) were setting",
+                "(d) will have been setting"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:-Sentence mein 'when' ke sath 'reached' past mein likha hai, matlab dono action sath mein chalenge, toh tent set up karne action bhi past mein hoga, kyunki travelers tent set up aur firewood arrange kar rahe the, matlab tense past continuous mein hoga, isliye diye gaye options mein se option C 'were setting' past continuous sabse sahi answer hoga."
+            },
+            {
+              "id": 68,
+              "question": "The bus driver [talk] to a passenger when the bus suddenly hit a speed breaker, causing everyone to jerk forward.",
+              "options": [
+                "(a) talked",
+                "(b) had talked",
+                "(c) was talking",
+                "(d) has talked"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:-Sentence mein bus driver ka passengers se baat karne wala action koi habitual action nahi hai, isliye yahan present indefinite galat hoga, sentence ka matlab hai jab driver passengers se baat kar raha tha tab achanak se bus speed breaker se hit ho gayi', toh yeh clearly past ki baat ho rahi hai, aur driver baat kar raha tha matlab continuous tense aayega. isliye diye gaye options mein se option C 'was talking past continuous sabse sahi answer hoga."
+            },
+            {
+              "id": 69,
+              "question": "I [have been travelling] to different countries before, so I am comfortable dealing with airport procedures and immigration checks.",
+              "options": [
+                "(a) have travelled",
+                "(b) was travelling",
+                "(c) had travelled",
+                "(d) will travel"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:-Sentence ka matlab hai mein pehle different countries travel kar chuka, isliye mein comfortable hoo'. Toh sentence mein past ke action ka effect present mein chahiye, isliye yahan present perfect tense ka use hoga, isliye option A have travelled' perfect tense sabse sahi answer hoga."
+            },
+            {
+              "id": 70,
+              "question": "The headquarters of this international organization [are establishing] in Geneva, where many global meetings are held.",
+              "options": [
+                "(a) No improvement",
+                "(b) were establishing",
+                "(c) have been establishing",
+                "(d) is established"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:-Sentence mein 'headquarters' noun ke sath singular/plural aa sakti hai, depend karte hai uss headquarters ki building kitni hai. 'are establishing' se sentence ka matlab hoga ki 'headquarters establish ho rahe hai, lekin aage likha hai ki meeting hoti hai, isliye 'are establishing' galat hoga. matlab chahiye ki headquarters Geneva mein hai, ek fact ki tarah batana hai, isliye yahan present indefinite tense 'is established' option D sabse sahi answer hoga."
+            },
+            {
+              "id": 71,
+              "question": "After finishing the first round of inspection at the construction site, the engineer [is noticing] several cracks forming near the basement walls.",
+              "options": [
+                "(a) notices",
+                "(b) noticed",
+                "(c) had noticed",
+                "(d) was noticed"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:-Sentence mein bataya ki 'first round finish karne ke baad engineer ne notice kiye several cracks', toh 'inspection' wala kaam past mein hua hai, tabhi usne 'notice' kiya honge cracks, isliye yahan past indefinite tense ka use hoga, isliye option B 'noticed' past indefinite tense sabse sahi answer hoga."
+            },
+            {
+              "id": 72,
+              "question": "The university authorities [have promised to improve and enhance] digital learning facilities before the next academic session begins.",
+              "options": [
+                "(a) have promised to improve and enhanced",
+                "(b) has promised to improve and enhance",
+                "(c) No-improvement required",
+                "(d) have promise to improve and enhance"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) No improvement required"
+            },
+            {
+              "id": 73,
+              "question": "These days, teenagers [are becoming conscious in] the importance of managing their screen time wisely, as excessive use of gadgets can seriously affect their mental health and productivity.",
+              "options": [
+                "(a) are becoming conscious about",
+                "(b) are becoming conscious of",
+                "(c) have become conscious for",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:-Sentence mein 'these days' likha hai jiske sath present indefinite/continuous/ perfect tense teeno aa sakte hai, depend karta hai meaning kya chahiye, toh 'are becoming concious' aur 'have become conscious dono theek hai, lekin isme preposition galat likhi hai, 'conscious' ke sath of preposition ka use hota hai, isliye option B 'are becoming conscious of sabse sahi answer hoga."
+            },
+            {
+              "id": 74,
+              "question": "Over the past year, regular awareness campaigns by doctors [improve public understanding] of the importance of timely vaccinations for children and adults.",
+              "options": [
+                "(a) have improved public understanding",
+                "(b) improves public understanding",
+                "(c) are improving public understanding",
+                "(d) improved public understanding"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:-Sentence mein 'over the past year' se matlab hai pichle kuch saalon se regular campaign ne improve kari hai, matlab past ke action ka effect present mein dikhaana hai, isliye yahan present perfect tense sahi hoga, toh option A 'have improved public understanding perfect tense sabse sahi answer hoga."
+            },
+            {
+              "id": 75,
+              "question": "Last year, our football team performed exceptionally well in the state championship, [but doesn't secure a place] in the national finals despite strong efforts.",
+              "options": [
+                "(a) but didn't secure a place",
+                "(b) but hasn't secure a place",
+                "(c) although it secures a place",
+                "(d) No improvement"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:-Sentence ka matlab hai 'pichle saal humhari team ne bahut accha perform kiya, lekin national final mein apni jagah pakki nahi kar paaye', toh secure naa karne action bhi past mein hoga, isliye diye gaye options mein se 'but didn't secure a place' past indefinite tense sabse sahi answer hoga."
+            }
+          ]
         }
       ]
     }
