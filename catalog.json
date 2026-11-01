@@ -14518,6 +14518,480 @@
               "solutionHinglish": "Ans (d)\nExplanation:- Direct mein 'are tired', 'can go' aur 'shall' indirect mein 'were tired', 'could go' aur 'would' mein change hoga, isliye option D sahi hoga."
             }
           ]
+        },
+        {
+          "id": "t_1793535366677",
+          "name": "Narration (Eduquity Pattern)",
+          "questions": [
+            {
+              "id": 1,
+              "question": "The officer ordered the troops to retreat immediately.",
+              "options": [
+                "(a) \"Retreat now!\" ordered the officer.",
+                "(b) \"Troops, you must retreat!\" said the officer.",
+                "(c) \"Retreat immediately,\" the officer ordered.",
+                "(d) The officer said, \"They must retreat now.\""
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Indirect mein 'ordered... to retreat immediately' direct imperative '\"Retreat immediately,\" the officer ordered.' se bana hoga, isliye option C sahi hoga."
+            },
+            {
+              "id": 2,
+              "question": "The manager told the staff that deadlines must be followed strictly.",
+              "options": [
+                "(a) \"Deadlines must be followed strictly,\" said the manager.",
+                "(b) \"You should follow deadlines strictly,\" said the manager.",
+                "(c) \"Follow deadlines strictly,\" the manager said.",
+                "(d) \"Deadlines are to be followed,\" said the manager."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Indirect mein 'that deadlines must be followed strictly' direct speech mein '\"Deadlines must be followed strictly,\" said the manager.' se aaya hoga, isliye option A sahi hoga."
+            },
+            {
+              "id": 3,
+              "question": "The judge said that justice must be served at any cost.",
+              "options": [
+                "(a) \"Justice should be served at any cost,\" said the judge.",
+                "(b) \"Justice must be served at any cost,\" the judge said.",
+                "(c) \"We serve justice at any cost,\" said the judge.",
+                "(d) \"One must serve justice,\" the judge said."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Direct speech mein same '\"Justice must be served at any cost,\" the judge said.' wala option B sahi hoga."
+            },
+            {
+              "id": 4,
+              "question": "The librarian said that silence must be maintained in the library.",
+              "options": [
+                "(a) \"Silence should be maintained in the library,\" said the librarian.",
+                "(b) \"You will maintain silence in the library,\" the librarian said.",
+                "(c) \"Maintain silence in the library,\" said the librarian.",
+                "(d) \"Must you maintain silence in the library?\" asked the librarian."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Indirect assertive sentence ka best matching direct assertive option A '\"Silence should be maintained in the library,\" said the librarian.' hai."
+            },
+            {
+              "id": 5,
+              "question": "The diplomat said that only after the ceasefire would negotiations begin.",
+              "options": [
+                "(a) \"Negotiations begin only after the ceasefire,\" said the diplomat.",
+                "(b) \"Only after the ceasefire, negotiations would begin,\" said the diplomat.",
+                "(c) \"Only after the ceasefire will negotiations begin,\" said the diplomat.",
+                "(d) \"Negotiations would begin once the ceasefire is announced,\" said the diplomat."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'Only after the ceasefire' inversion ke sath 'would' direct speech mein 'will' ('Only after the ceasefire will negotiations begin') raha hoga, isliye option C sahi hoga."
+            },
+            {
+              "id": 6,
+              "question": "I said, \"Let us start early.\"",
+              "options": [
+                "(a) I said let us start early.",
+                "(b) I told that we must start early.",
+                "(c) I suggested that we should start early.",
+                "(d) I suggested us to start early."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'Let us' suggestion indirect speech mein 'I suggested that we should start early.' mein change hota hai, isliye option C sahi hoga."
+            },
+            {
+              "id": 7,
+              "question": "She said, \"Let him not be disturbed during the meeting.\"",
+              "options": [
+                "(a) She asked not to disturb him during the meeting.",
+                "(b) She advised that he should not be disturbed during the meeting.",
+                "(c) She said that let him not be disturbed.",
+                "(d) She ordered no one disturb him."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'Let him not be disturbed' indirect speech mein 'She advised that he should not be disturbed during the meeting.' (option B) mein change hota hai."
+            },
+            {
+              "id": 8,
+              "question": "He said, \"Do it right now.\"",
+              "options": [
+                "(a) He said do it immediately.",
+                "(b) He told to do it now.",
+                "(c) He told me to do it at once.",
+                "(d) He told me do it right now."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Imperative sentence indirect speech mein 'He told me to do it at once.' (infinitive 'to do') se banega, isliye option C sahi hoga."
+            },
+            {
+              "id": 9,
+              "question": "She said, \"Let him go.\"",
+              "options": [
+                "(a) She said let him go.",
+                "(b) She suggested him to go.",
+                "(c) She ordered to let him go.",
+                "(d) She suggested that he should be allowed to go."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- 'Let him go' indirect speech mein 'She suggested that he should be allowed to go.' (option D) mein change hoga."
+            },
+            {
+              "id": 10,
+              "question": "The teacher said to the students, \"Work hard to pass the exam.\"",
+              "options": [
+                "(a) The teacher said the students work hard.",
+                "(b) The teacher told the students to worked hard.",
+                "(c) The teacher advised the students to work hard to pass the exam.",
+                "(d) The teacher asked the students that they must work hard."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Imperative sentence indirect speech mein infinitive ('The teacher advised the students to work hard to pass the exam.') se banega, isliye option C sahi hoga."
+            },
+            {
+              "id": 11,
+              "question": "She said that they had already left before she arrived.",
+              "options": [
+                "(a) \"They have already left before I arrived,\" she said.",
+                "(b) \"They already left before I arrived,\" she said.",
+                "(c) \"They had already left before I arrived,\" she said.",
+                "(d) \"They left before I had arrived,\" she said."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Past ke do actions ('had already left before I arrived') mein past perfect unchanged rehta hai, isliye option C sahi answer hoga."
+            },
+            {
+              "id": 12,
+              "question": "The envoy reported that the negotiations were languishing because neither party would concede procedural precedence.",
+              "options": [
+                "(a) The envoy reported, \"The negotiations languish because neither party would concede procedural precedence.\"",
+                "(b) The envoy said, \"The negotiations are languishing because neither party will be conceding procedural precedence.\"",
+                "(c) The envoy said, \"The negotiations are languishing because neither party will concede procedural precedence.\"",
+                "(d) The envoy said, \"Negotiations languished, no party conceding precedence.\""
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Indirect mein 'were languishing' aur 'would concede' direct speech mein 'are languishing' aur 'will concede' hoga, joki option C mein hai."
+            },
+            {
+              "id": 13,
+              "question": "The curator noted that the pigments were deteriorating faster than the varnish could protect them.",
+              "options": [
+                "(a) The curator noted, \"The pigments are deteriorating faster than the varnish can protect them.\"",
+                "(b) The curator noted, \"The pigments were deteriorating faster than the varnish can be protected by them.\"",
+                "(c) The curator noted, \"Pigments deteriorate faster than varnish protects.\"",
+                "(d) The curator noted, \"Pigment deterioration faster than varnish can protect.\""
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Indirect mein 'were deteriorating' aur 'could protect' direct speech mein 'are deteriorating' aur 'can protect' hoga, joki option A mein hai."
+            },
+            {
+              "id": 14,
+              "question": "The assistant said that she was not feeling well and would leave early.",
+              "options": [
+                "(a) \"I am not feeling well and will leave early,\" the assistant said.",
+                "(b) \"I was not feeling well and would leave early,\" said the assistant.",
+                "(c) \"I'm not well and am leaving,\" she said.",
+                "(d) \"I am not well and I leave now,\" said the assistant."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Indirect mein 'she was not feeling well and would leave early' direct mein '\"I am not feeling well and will leave early,\" the assistant said.' se banega, isliye option A sahi hai."
+            },
+            {
+              "id": 15,
+              "question": "The botanist sighed that the rare orchid had germinated, only to succumb to a latent fungal blight.",
+              "options": [
+                "(a) The botanist sighed, \"The rare orchid did germinate, only to succumb to a latent fungal blight.\"",
+                "(b) The botanist sighed, \"A rare orchid had germinated only to succumb to a latent fungal blight.\"",
+                "(c) The botanist sighed, \"The rare orchid germinated, only to succumb to a latent fungal blight.\"",
+                "(d) The botanist sighed, \"Rare orchid germinates but succumbs to fungus.\""
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Direct mein past indefinite 'germinated' indirect speech mein 'had germinated' mein change hua hoga, isliye option C sahi answer hoga."
+            },
+            {
+              "id": 16,
+              "question": "She asked him if he had ever been to the Taj Mahal.",
+              "options": [
+                "(a) She asked him, \"Did you ever go to the Taj Mahal?\"",
+                "(b) She asked him, \"Were you at the Taj Mahal?\"",
+                "(c) She asked him, \"Have you ever been to the Taj Mahal?\"",
+                "(d) She asked him, \"Do you ever go to the Taj Mahal?\""
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Indirect mein 'if he had ever been' direct ke present perfect ('Have you ever been to the Taj Mahal?') se aaya hoga, isliye option C sabse sahi answer hoga."
+            },
+            {
+              "id": 17,
+              "question": "The historian observed that the records had been tampered with.",
+              "options": [
+                "(a) The historian said, \"Someone tampered with the records.\"",
+                "(b) The historian said, \"The records had been tampered with.\"",
+                "(c) He said, \"The records are tampered with.\"",
+                "(d) He observed, \"The records are fake.\""
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Passive structure 'had been tampered with' ke liye same passive option B 'The historian said, \"The records had been tampered with.\"' sabse sahi answer hoga."
+            },
+            {
+              "id": 18,
+              "question": "The professor said that had he known earlier, he would have made the necessary arrangements.",
+              "options": [
+                "(a) \"If I knew earlier, I would have made the necessary arrangements,\" said the professor.",
+                "(b) \"Had I known earlier, I would have made the necessary arrangements,\" said the professor.",
+                "(c) \"If I would have known earlier, I would make arrangements,\" the professor said.",
+                "(d) \"Had I knew earlier, I would arrange things,\" said the professor."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Closed conditional ('Had + V3, would have + V3') ke tense mein indirect se direct mein koi change nahi hota, sirf pronoun 'he' se 'I' hoga, isliye option B sahi hoga."
+            },
+            {
+              "id": 19,
+              "question": "He observed that, had market liquidity vanished entirely, the exchange would have suspended trading.",
+              "options": [
+                "(a) He said, \"If market liquidity vanishes entirely, the exchange suspends trading.\"",
+                "(b) He said, \"Had market liquidity vanished entirely, the exchange would have suspended trading.\"",
+                "(c) He said, \"The exchange will suspend trading if market liquidity had vanished entirely.\"",
+                "(d) He said, \"If the exchange suspended trading, it was because market liquidity vanished entirely.\""
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Closed conditional ('Had + V3, would have + V3') ke tense mein koi change nahi hota, isliye option B sabse sahi answer hoga."
+            },
+            {
+              "id": 20,
+              "question": "The lawyer said that had the evidence not been tampered with, the verdict could have been different.",
+              "options": [
+                "(a) \"If the evidence had not tampered with, the verdict could change,\" said the lawyer.",
+                "(b) \"If the evidence were not tampered with, the verdict could have changed,\" the lawyer said.",
+                "(c) \"Had the evidence not been tampered with, the verdict could have been different,\" said the lawyer.",
+                "(d) \"Had not the evidence tampered, the verdict may differ,\" said he."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Closed conditional ('Had + been + V3, could have + V3') ke tense mein koi change nahi hota, isliye option C sabse sahi answer hoga."
+            },
+            {
+              "id": 21,
+              "question": "She noted that, had the literary trope not been overused, the metaphor might still have resonated with the audience.",
+              "options": [
+                "(a) She said, \"If the literary trope was not overused, the metaphor may still resonate with the audience.\"",
+                "(b) She said, \"Had the literary trope not been overused, the metaphor might still have resonated with the audience.\"",
+                "(c) She said, \"Had the literary trope not been overused, the metaphor must still resonate with the audience.\"",
+                "(d) She said, \"If the literary trope had not been overused, the metaphor will still resonate with the audience.\""
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Closed conditional ('Had + been + V3, might have + V3') ke tense mein koi change nahi hota, isliye option B sabse sahi answer hoga."
+            },
+            {
+              "id": 22,
+              "question": "He speculated that, had stochastic volatility been incorporated, the valuation would perhaps have been more conservative.",
+              "options": [
+                "(a) He speculated, \"Had stochastic volatility been incorporated, the valuation would perhaps have been more conservative.\"",
+                "(b) He speculated, \"If stochastic volatility is incorporated, valuation will perhaps be conservative.\"",
+                "(c) He speculated, \"If volatility had been incorporated, valuation perhaps more conservative.\"",
+                "(d) He said, \"Stochastic volatility incorporation would make valuation conservative.\""
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Closed conditional ('Had + been + V3, would have + V3') ke tense mein koi change nahi hota, isliye option A sabse sahi answer hoga."
+            },
+            {
+              "id": 23,
+              "question": "He asserted that the cryptographic protocol might have resisted the attack had entropy been truly random.",
+              "options": [
+                "(a) He asserted, \"Had entropy been truly random, the cryptographic protocol might have resisted the attack.\"",
+                "(b) He said, \"If entropy is truly random, protocol might resist attack.\"",
+                "(c) He asserted, \"If entropy had been random, protocol might resist attack.\"",
+                "(d) He said, \"Entropy random, protocol resists attack.\""
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Closed conditional ('Had + V3, might have + V3') ke tense mein koi change nahi hota, isliye option A sabse sahi answer hoga."
+            },
+            {
+              "id": 24,
+              "question": "He remarked that the sculpture would have commanded greater gravitas had the pedestal been proportionally austere.",
+              "options": [
+                "(a) He said, \"The sculpture would have commanded greater gravitas had the pedestal been proportionally austere.\"",
+                "(b) He said, \"If the pedestal is proportionally austere, the sculpture commands greater gravitas.\"",
+                "(c) He said, \"The sculpture will command greater gravitas if the pedestal had been austere.\"",
+                "(d) He said, \"Had the pedestal been austere, the sculpture must have commanded greater gravitas.\""
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Closed conditional ('would have + V3 ... had + V3') ke tense mein koi change nahi hota, isliye option A sabse sahi answer hoga."
+            },
+            {
+              "id": 25,
+              "question": "He confessed that the violin concerto would have remained fragmentary had the late maestro not bequeathed his annotated sketches.",
+              "options": [
+                "(a) He said, \"The violin concerto would have remained fragmentary had the late maestro not bequeathed his annotated sketches.\"",
+                "(b) He said, \"The violin concerto would have remained fragmentary if the late maestro not bequeathed his annotated sketches.\"",
+                "(c) He said, \"The violin concerto will be remaining fragmentary had the late maestro not bequeathed his annotated sketches.\"",
+                "(d) He said, \"The violin concerto would be fragmentary if sketches had not been bequeathed.\""
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Closed conditional ('would have + V3 ... had + V3') ke tense mein koi change nahi hota, isliye option A sabse sahi answer hoga."
+            },
+            {
+              "id": 26,
+              "question": "She posited that the narrative would have achieved greater cohesion had the author maintained a single focalisation.",
+              "options": [
+                "(a) She said, \"If the author maintains a single focalisation, the narrative will achieve greater cohesion.\"",
+                "(b) She said, \"The narrative would have achieved greater cohesion had the author maintained a single focalisation.\"",
+                "(c) She said, \"The narrative will achieve greater cohesion if a single focalisation was maintained by the author.\"",
+                "(d) She said, \"Had the author maintained a single focalisation, the narrative must achieve greater cohesion.\""
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Closed conditional ('would have + V3 ... had + V3') ke tense mein koi change nahi hota, isliye option B sabse sahi answer hoga."
+            },
+            {
+              "id": 27,
+              "question": "The zoologist warned that the island's carrying capacity might be exceeded should invasive species proliferate unchecked.",
+              "options": [
+                "(a) The zoologist said, \"The island's carrying capacity will be exceeded if invasive species proliferate unchecked.\"",
+                "(b) The zoologist said, \"Should invasive species have proliferated unchecked, the island's carrying capacity would be exceeded.\"",
+                "(c) The zoologist said, \"The island's carrying capacity might be exceeded should invasive species proliferate unchecked.\"",
+                "(d) The zoologist said, \"If invasive species proliferated unchecked, the carrying capacity had been exceeded.\""
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'might be exceeded should invasive species proliferate unchecked' unchanged conditional structure wala option C sahi answer hoga."
+            },
+            {
+              "id": 28,
+              "question": "He commented that the policy's efficacy would remain conjectural until longitudinal data accrued.",
+              "options": [
+                "(a) He commented, \"The efficacy of the policy remains conjectural as the data are yet to be collected.\"",
+                "(b) He commented, \"The policy's efficacy will remain conjectural until longitudinal data accrue.\"",
+                "(c) He commented, \"Until longitudinal data had accrued, the policy's efficacy might have remained conjectural.\"",
+                "(d) He commented, \"Efficacy remains conjecture till data accumulates.\""
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Indirect mein 'would remain' aur 'accrued' direct speech mein 'will remain' aur 'accrue' (present indefinite) mein change ho jayega, joki option B mein hai."
+            },
+            {
+              "id": 29,
+              "question": "She said that she used to play the violin when she was young.",
+              "options": [
+                "(a) \"I played the violin when I was young,\" she said.",
+                "(b) \"I use to play the violin when I was young,\" she said.",
+                "(c) \"I used to play the violin when I was young,\" she said.",
+                "(d) \"I was playing the violin when I was young,\" she said."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'used to' aur 'when I was young' direct se indirect mein unchanged rehta hai, isliye option C sahi hai."
+            },
+            {
+              "id": 30,
+              "question": "The professor remarked that students needed to submit their papers before Friday.",
+              "options": [
+                "(a) \"Students need to submit their papers before Friday,\" the professor remarked.",
+                "(b) \"Students needed to submit their papers before Friday,\" said the professor.",
+                "(c) \"Submit your papers before Friday,\" the professor instructed.",
+                "(d) \"You were to submit your papers before Friday,\" said the professor."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Indirect mein 'needed to submit' direct speech mein 'need to submit' (present indefinite) se aaya hoga, joki option A mein hai."
+            },
+            {
+              "id": 31,
+              "question": "Rita said, \"Please close the window.\"",
+              "options": [
+                "(a) Rita asked to close the window.",
+                "(b) Rita said to close the window.",
+                "(c) Rita requested that the window is closed.",
+                "(d) Rita requested to close the window."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- 'Please close the window' imperative sentence indirect mein 'Rita requested to close the window.' (option D) banega."
+            },
+            {
+              "id": 32,
+              "question": "She indicated that, unless the quorum were met promptly, the charter amendments would lapse.",
+              "options": [
+                "(a) She said, \"Unless the quorum had been met promptly, the charter amendments would have lapsed.\"",
+                "(b) She said, \"Unless the quorum is met promptly, the charter amendments will lapse.\"",
+                "(c) She said, \"If the quorum was not met promptly, the charter amendments might have lapsed.\"",
+                "(d) She said, \"If the quorum is promptly met, the charter amendments must not lapse.\""
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Indirect mein 'were met' aur 'would lapse' direct speech mein 'is met' aur 'will lapse' se aaya hoga, joki option B mein follow ho raha hai."
+            },
+            {
+              "id": 33,
+              "question": "The lecturer argued that, given sufficient entropic isolation, the reaction rate could asymptotically approach zero.",
+              "options": [
+                "(a) The lecturer said, \"Given sufficient entropic isolation, the reaction rate could asymptotically approach zero.\"",
+                "(b) The lecturer said, \"If sufficient entropic isolation was given, the reaction rate will asymptotically approach zero.\"",
+                "(c) The lecturer said, \"Given sufficient entropic isolation, the reaction rate can asymptotically approach zero.\"",
+                "(d) The lecturer said, \"If the reaction rate approached zero, it must have had sufficient entropic isolation.\""
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Theoretical possibility dikhane wala 'could' conditional context mein direct se indirect mein unchanged ('could asymptotically approach zero') rehta hai, isliye option A sahi hai."
+            },
+            {
+              "id": 34,
+              "question": "The physicist remarked that time-reversal invariance could be violated under non-unitary evolution.",
+              "options": [
+                "(a) The physicist said, \"Time-reversal invariance can be violated under non-unitary evolution.\"",
+                "(b) He remarked, \"If evolution is non-unitary, time-reversal invariance will be violated.\"",
+                "(c) The physicist said, \"Time-reversal invariance could be violated under non-unitary evolution.\"",
+                "(d) He said, \"Time reversal violates when evolution non-unitary.\""
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Theoretical possibility dikhane wala 'could be violated' unchanged wala option C sabse sahi answer hoga."
+            },
+            {
+              "id": 35,
+              "question": "She said, \"I enjoy painting.\"",
+              "options": [
+                "(a) She said that she enjoys painting.",
+                "(b) She said that she enjoyed painting.",
+                "(c) She said she was enjoying painting.",
+                "(d) She said that she had enjoyed painting."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Present indefinite 'I enjoy painting' indirect speech mein past indefinite ('She said that she enjoyed painting.') mein change hoga, isliye option B sahi hai."
+            },
+            {
+              "id": 36,
+              "question": "The patient said, \"It has been three days since I last slept.\"",
+              "options": [
+                "(a) The patient said that it was three days since he last slept.",
+                "(b) The patient said that it had been three days since he had last slept.",
+                "(c) The patient said that he didn't sleep for three days.",
+                "(d) The patient said that he was not sleeping for three days."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Direct mein 'has been' aur 'slept' indirect mein 'had been' aur 'had last slept' mein change hoga, isliye option B sahi hoga."
+            },
+            {
+              "id": 37,
+              "question": "The composer explained that, were the leitmotif transposed an octave higher, the tension might dissipate prematurely.",
+              "options": [
+                "(a) The composer said, \"If the leitmotif was transposed an octave higher, the tension will dissipate prematurely.\"",
+                "(b) The composer said, \"Were the leitmotif transposed an octave higher, the tension might dissipate prematurely.\"",
+                "(c) The composer said, \"The tension will dissipate prematurely if the leitmotif had been transposed an octave higher.\"",
+                "(d) The composer said, \"Had the leitmotif been transposed an octave higher, the tension must have dissipated prematurely.\""
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Semi-closed conditional ('Were the leitmotif transposed..., the tension might dissipate') ke tense mein koi change nahi hota, isliye option B sabse sahi answer hoga."
+            },
+            {
+              "id": 38,
+              "question": "The ethicist argued that, absent informed consent, the study's methodology was fundamentally untenable.",
+              "options": [
+                "(a) The ethicist argued, \"Absent informed consent, the study's methodology is fundamentally untenable.\"",
+                "(b) The ethicist argued, \"If the study lacked informed consent, its methodology had been fundamentally untenable.\"",
+                "(c) The ethicist argued, \"Without informed consent, the study's methodology would have been fundamentally untenable.\"",
+                "(d) The ethicist argued, \"The study's methodology must have been untenable since it lacked informed consent.\""
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Indirect mein 'was fundamentally untenable' direct mein 'is fundamentally untenable' se aaya hoga, joki option A mein hai."
+            },
+            {
+              "id": 39,
+              "question": "He said that little did he realize what consequences his words would have.",
+              "options": [
+                "(a) \"Little do I realize what consequences my words would have,\" he said.",
+                "(b) \"Little did I realize what consequences my words would have,\" he said.",
+                "(c) \"I realized little about the consequences of my words,\" he said.",
+                "(d) \"I hardly realize the consequences of my words,\" said he."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Past reflection inversion '\"Little did I realize what consequences my words would have,\" he said.' (option B) mein tense unchanged rahega."
+            }
+          ]
         }
       ]
     }
