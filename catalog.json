@@ -11860,6 +11860,372 @@
               "solutionHinglish": "Ans (a) Correct answer is 'adjective'\nExplanation:- 'felt' linking verb ke baad 'lonely' subject complement (adjective) hai."
             }
           ]
+        },
+        {
+          "id": "t_1793535225347",
+          "name": "Figure of Speech",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Her eyes shone like stars in the night.",
+              "options": [
+                "(a) Simile",
+                "(b) Metaphor",
+                "(c) Onomatopoeia",
+                "(d) Irony"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'Simile'\nExplanation:- Kisi cheez ka comparison 'like, as' lagake kare, toh usse 'Simile' kehte hai."
+            },
+            {
+              "id": 2,
+              "question": "The phone screamed for attention.",
+              "options": [
+                "(a) Hyperbole",
+                "(b) Pun",
+                "(c) Personification",
+                "(d) Euphemism"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'Personification'\nExplanation:- Non-human cheez ('phone') ko human quality ('screamed') dene ko Personification kehte hai."
+            },
+            {
+              "id": 3,
+              "question": "The silence was so loud, it hurt my ears.",
+              "options": [
+                "(a) Irony",
+                "(b) Oxymoron",
+                "(c) Hyperbole",
+                "(d) Simile"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'Oxymoron'\nExplanation:- Jab do opposite ideas/words ('silence' aur 'loud') sath mein aayein toh Oxymoron hota hai."
+            },
+            {
+              "id": 4,
+              "question": "The clouds wept all day.",
+              "options": [
+                "(a) Simile",
+                "(b) Personification",
+                "(c) Onomatopoeia",
+                "(d) Euphemism"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'Personification'\nExplanation:- Non-human cheez ('clouds') ko human quality ('wept') dene ko Personification kehte hai."
+            },
+            {
+              "id": 5,
+              "question": "The athlete is a cheetah on the track.",
+              "options": [
+                "(a) Metaphor",
+                "(b) Simile",
+                "(c) Hyperbole",
+                "(d) Alliteration"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'Metaphor'\nExplanation:- Kisi cheez ka direct comparison bina 'like, as' ke kare toh wo Metaphor hota hai."
+            },
+            {
+              "id": 6,
+              "question": "The cake is as soft as cotton.",
+              "options": [
+                "(a) Hyperbole",
+                "(b) Simile",
+                "(c) Euphemism",
+                "(d) Irony"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'Simile'\nExplanation:- Yahan cake ka comparison cotton se 'as...as' lagake kiya hai, isliye yeh Simile hoga."
+            },
+            {
+              "id": 7,
+              "question": "He kicked the bucket last year.",
+              "options": [
+                "(a) Euphemism",
+                "(b) Pun",
+                "(c) Irony",
+                "(d) Hyperbole"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'Euphemism'\nExplanation:- 'kicked the bucket' ka matlab 'mar jaana' (died), kisi harsh baat ko halke tarike se kehne ko Euphemism kehte hai."
+            },
+            {
+              "id": 8,
+              "question": "The kettle hissed as the water boiled.",
+              "options": [
+                "(a) Onomatopoeia",
+                "(b) Alliteration",
+                "(c) Personification",
+                "(d) Pun"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'Onomatopoeia'\nExplanation:- Wo word jo sound ko imitate kare ('hissed') unhe Onomatopoeia kehte hai."
+            },
+            {
+              "id": 9,
+              "question": "Why do we drive on parkways and park on driveways?",
+              "options": [
+                "(a) Irony",
+                "(b) Simile",
+                "(c) Pun",
+                "(d) Hyperbole"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'Pun'\nExplanation:- Pun ka matlab hai words ke sath play karna ('drive on parkways and park on driveways')."
+            },
+            {
+              "id": 10,
+              "question": "The waves crashed angrily against the shore.",
+              "options": [
+                "(a) Onomatopoeia",
+                "(b) Personification",
+                "(c) Hyperbole",
+                "(d) Euphemism"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'Personification'\nExplanation:- Non-human 'waves' ko human emotion 'angrily' dena Personification hai."
+            },
+            {
+              "id": 11,
+              "question": "He is as strong as an ox.",
+              "options": [
+                "(a) Metaphor",
+                "(b) Simile",
+                "(c) Hyperbole",
+                "(d) Oxymoron"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'Simile'\nExplanation:- 'as strong as an ox' mein 'as...as' se comparison ho raha hai, isliye Simile hai."
+            },
+            {
+              "id": 12,
+              "question": "The car coughed and spluttered before stopping.",
+              "options": [
+                "(a) Onomatopoeia",
+                "(b) Personification",
+                "(c) Simile",
+                "(d) Euphemism"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'Personification'\nExplanation:- Non-human 'car' ko human action 'coughed' dena Personification hai."
+            },
+            {
+              "id": 13,
+              "question": "He runs faster than a speeding bullet.",
+              "options": [
+                "(a) Hyperbole",
+                "(b) Simile",
+                "(c) Irony",
+                "(d) Pun"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'Hyperbole'\nExplanation:- Baat ko bahut badha-chadha kar (exaggerate karke) kaha gaya hai, isliye Hyperbole hoga."
+            },
+            {
+              "id": 14,
+              "question": "The pen is mightier than the sword.",
+              "options": [
+                "(a) Metaphor",
+                "(b) Irony",
+                "(c) Pun",
+                "(d) Euphemism"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'Metaphor'\nExplanation:- Yahan 'pen' aur 'sword' ka symbolic/metaphorical comparison ho raha hai."
+            },
+            {
+              "id": 15,
+              "question": "The teacher gave me mountains of homework.",
+              "options": [
+                "(a) Hyperbole",
+                "(b) Personification",
+                "(c) Simile",
+                "(d) Pun"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'Hyperbole'\nExplanation:- 'mountains of homework' exaggeration (badha-chadha kar kehna) hai, isliye Hyperbole hoga."
+            },
+            {
+              "id": 16,
+              "question": "The doorbell went ding-dong.",
+              "options": [
+                "(a) Alliteration",
+                "(b) Onomatopoeia",
+                "(c) Simile",
+                "(d) Euphemism"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'Onomatopoeia'\nExplanation:- 'ding-dong' sound word hai, isliye Onomatopoeia hoga."
+            },
+            {
+              "id": 17,
+              "question": "He has been called to heaven.",
+              "options": [
+                "(a) Euphemism",
+                "(b) Irony",
+                "(c) Hyperbole",
+                "(d) Simile"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'Euphemism'\nExplanation:- Death ki baat ko polite/gentle way ('called to heaven') mein kaha gaya hai, isliye Euphemism hoga."
+            },
+            {
+              "id": 18,
+              "question": "She sells shiny seashells on Sundays.",
+              "options": [
+                "(a) Hyperbole",
+                "(b) Alliteration",
+                "(c) Pun",
+                "(d) Irony"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'Alliteration'\nExplanation:- Consonant sound 's/sh' ka bar-bar repetition ho raha hai, isliye Alliteration kehte hai."
+            },
+            {
+              "id": 19,
+              "question": "He's in between jobs right now.",
+              "options": [
+                "(a) Hyperbole",
+                "(b) Euphemism",
+                "(c) Irony",
+                "(d) Pun"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'Euphemism'\nExplanation:- 'in between jobs' berozgar (unemployed) kehne ka polite tarika hai, isliye Euphemism hoga."
+            },
+            {
+              "id": 20,
+              "question": "The snake slithered silently.",
+              "options": [
+                "(a) Simile",
+                "(b) Onomatopoeia",
+                "(c) Alliteration",
+                "(d) Pun"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'Alliteration'\nExplanation:- 's' consonant sound ka repetition ('snake slithered silently') Alliteration hai."
+            },
+            {
+              "id": 21,
+              "question": "The baby's laugh was like music.",
+              "options": [
+                "(a) Hyperbole",
+                "(b) Simile",
+                "(c) Onomatopoeia",
+                "(d) Euphemism"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'Simile'\nExplanation:- 'like' lagakar comparison kiya gaya hai, isliye Simile hoga."
+            },
+            {
+              "id": 22,
+              "question": "Her words cut deeper than a knife.",
+              "options": [
+                "(a) Simile",
+                "(b) Hyperbole",
+                "(c) Metaphor",
+                "(d) Personification"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'Metaphor'\nExplanation:- Bina 'like/as' ke words ko knife se compare kiya gaya hai, isliye Metaphor hoga."
+            },
+            {
+              "id": 23,
+              "question": "Life is a puzzle, each piece matters.",
+              "options": [
+                "(a) Simile",
+                "(b) Metaphor",
+                "(c) Hyperbole",
+                "(d) Alliteration"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Correct answer is 'Metaphor'\nExplanation:- 'Life' ko direct 'a puzzle' bataya gaya hai bina 'like/as' ke, isliye Metaphor hoga."
+            },
+            {
+              "id": 24,
+              "question": "The birds chirped cheerfully in the morning.",
+              "options": [
+                "(a) Onomatopoeia",
+                "(b) Personification",
+                "(c) Hyperbole",
+                "(d) Pun"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'Onomatopoeia'\nExplanation:- 'chirped' birds ki sound ko imitate karne wala word hai, isliye Onomatopoeia hoga."
+            },
+            {
+              "id": 25,
+              "question": "He was buried in paperwork.",
+              "options": [
+                "(a) Hyperbole",
+                "(b) Simile",
+                "(c) Irony",
+                "(d) Euphemism"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'Hyperbole'\nExplanation:- 'buried in paperwork' bahut jyada kaam ko exaggerate karke batana hai, isliye Hyperbole hoga."
+            },
+            {
+              "id": 26,
+              "question": "The stars winked at us from the sky.",
+              "options": [
+                "(a) Personification",
+                "(b) Simile",
+                "(c) Metaphor",
+                "(d) Irony"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'Personification'\nExplanation:- Non-human 'stars' ko human action 'winked' dena Personification hai."
+            },
+            {
+              "id": 27,
+              "question": "The customer service was painfully pleasant.",
+              "options": [
+                "(a) Euphemism",
+                "(b) Irony",
+                "(c) Oxymoron",
+                "(d) Pun"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Correct answer is 'Oxymoron'\nExplanation:- 'painfully pleasant' do opposite words ek sath likhe hain, isliye Oxymoron kahenge."
+            },
+            {
+              "id": 28,
+              "question": "I'm on a seafood diet. I see food, and I eat it.",
+              "options": [
+                "(a) Pun",
+                "(b) Simile",
+                "(c) Irony",
+                "(d) Euphemism"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'Pun'\nExplanation:- 'seafood' aur 'see food' words ke sound se play kiya gaya hai, isliye Pun hoga."
+            },
+            {
+              "id": 29,
+              "question": "The mountains stood tall, watching over the valley.",
+              "options": [
+                "(a) Personification",
+                "(b) Hyperbole",
+                "(c) Metaphor",
+                "(d) Simile"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'Personification'\nExplanation:- Non-human 'mountains' ko 'watching over' human quality dena Personification hai."
+            },
+            {
+              "id": 30,
+              "question": "He calls himself a warrior and he is afraid of fighting.",
+              "options": [
+                "(a) Irony",
+                "(b) oxymoron",
+                "(c) metaphor",
+                "(d) pun"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Correct answer is 'Irony'\nExplanation:- Expected outcome ka ulta hona (khud ko warrior kehna par fighting se darna) Irony kehlata hai."
+            }
+          ]
         }
       ]
     }
