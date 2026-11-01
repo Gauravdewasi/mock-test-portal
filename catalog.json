@@ -34667,6 +34667,523 @@
           ]
         }
       ]
+    },
+    {
+      "id": "b_1793562095369",
+      "title": "Little Boy- Parmar Sir",
+      "subject": "GK",
+      "topics": [
+        {
+          "id": "t_1793562095369",
+          "name": "Solar System - LEVEL I",
+          "questions": [
+            {
+              "id": 1,
+              "question": "In 1905, who concluded with Thomas Chamberlain that the planets of the Solar System originated from an encounter between the Sun and another star? [SSC CPO 03/10/2023]",
+              "options": [
+                "(a) Forest Moulton",
+                "(b) Inge Lehmann",
+                "(c) Charles Lyell",
+                "(d) James Hutton"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Forest Moulton\nExplanation:- The given theory is called the Chamberlain-Moulton planetesimal hypothesis.\nNebular theory of formation of solar system (4.8 bn years ago) - by Immanuel Kant (1755), modified by Laplace (1796) (Nebula is a giant cloud of dust and gases}\nOrigin of Universe - Big Bang theory (13.8 bn years ago) - George Lemaitre & Edwin Hubble (1931)"
+            },
+            {
+              "id": 2,
+              "question": "Which dwarf planet orbits the sun in 310 years at a distance between 38.5 to 53 AU? [SSC CPO 04/10/2023]",
+              "options": [
+                "(a) Ceres",
+                "(b) Eris",
+                "(c) Makemake",
+                "(d) Pluto"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Makemake\nExplanation:- Three characteristics of dwarf planets - orbits the Sun, have a nearly spherical body and shouldn't be able to clear their orbit of debris. Eg. of the dwarf planets are Ceres, Eris, Makemake, Pluto, Haumea.\nRecall the characteristics of each dwarf planet.\nDo you know that Pluto is the largest and the brightest dwarf planet?"
+            },
+            {
+              "id": 3,
+              "question": "Which of the following statement is correct? [SSC CGL 14/07/2023]",
+              "options": [
+                "(a) The density of Saturn is similar to that of Earth.",
+                "(b) The Size of Earth and Venus is almost similar.",
+                "(c) The size of Jupiter and Mars is similar.",
+                "(d) Mars is the warmest planet."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) The size of Earth and Venus is almost similar.\nExplanation:- Saturn is the least dense planet while Earth is the densest planet (5.51 g/cm³).\nSize of planets - Jupiter > Saturn > Uranus > Neptune > Earth > Venus > Mars > Mercury.\nVenus (Lucifer) is the warmest planet not the Mars."
+            },
+            {
+              "id": 4,
+              "question": "Which of the following does NOT have rings? [SSC CHSL 11/07/2024]",
+              "options": [
+                "(a) Venus",
+                "(b) Uranus",
+                "(c) Saturn",
+                "(d) Jupiter"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Venus\nExplanation:- Rings are the characteristics of Jovian planets (Jupiter, Saturn, Uranus, Neptune) while Venus is a terrestrial planet (Mercury, Venus, Earth, Mars).\nRecall the difference between Terrestrial and Jovian planets.\nDo you know Terrestrial and Jovian planets are separated by Asteroid belt?"
+            },
+            {
+              "id": 5,
+              "question": "________ oblong orbit overlaps the orbit of Neptune. [SSC CHSL 10/07/2024]",
+              "options": [
+                "(a) Venus'",
+                "(b) Mars'",
+                "(c) Pluto's",
+                "(d) Jupiter's"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Pluto's\nExplanation:- Pluto is a dwarf planet in Kuiper belt (belt outside the orbit of Neptune containing asteroids, rocks, comets). It was removed from the list of planets in 2006 International Astronomical Union (HQ - Paris, France).\nPluto's largest satellite - Charon, revolution - 248 Earth years"
+            },
+            {
+              "id": 6,
+              "question": "Which of the following rocky planets is the fastest planet in our solar system-travelling through space at 29 miles (47 Kilometers) per second? [SSC CHSL 05/07/2024]",
+              "options": [
+                "(a) Earth",
+                "(b) Mercury",
+                "(c) Venus",
+                "(d) Mars"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Mercury\nExplanation:- Mercury is the fastest planet (revolution - 88 days). It is also the smallest and the closest planet to the Sun. It has no satellite, water, and gases (O2, N2, H2, CO2).\nRecall the characteristics of Venus, Earth and Mars."
+            },
+            {
+              "id": 7,
+              "question": "The length of a day on ________ is approximately 16 hours. [SSC CHSL 05/07/2024]",
+              "options": [
+                "(a) Mars",
+                "(b) Mercury",
+                "(c) Venus",
+                "(d) Neptune"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Neptune\nExplanation:- Neptune (ice giant) - discovery - Johann Galle and Urbain Le Verrier (1846) - only planet to be discovered by mathematical predictions. 14 satellites (famous - Triton). Windiest planet. Colour - Bluish (due to Methane). Atmosphere - Hydrogen and Helium. Farthest planet. Rotation - 16 hours. Revolution - 165 days (slowest)"
+            },
+            {
+              "id": 8,
+              "question": "Which of the following planets atmosphere is made up of thick white and yellowish clouds of sulphuric acid? [SSC CHSL 03/10/2020]",
+              "options": [
+                "(a) Jupiter",
+                "(b) Neptune",
+                "(c) Venus",
+                "(d) Mars"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Venus\nExplanation:- Venus (Lucifer, brightest, evening star, morning star, Earth's twin) is the hottest planet as clouds of H2SO4 and CO2 absorb radiations.\nSlowest rotation - 243 years. Highest albedo (fraction of light that a surface reflects)\nDo you know that Venus and Uranus are the only two planets in the solar system that rotate in an anticlockwise direction?"
+            },
+            {
+              "id": 9,
+              "question": "Which of the following statements about planet Saturn is true? [SSC CHSL 04/07/2024]",
+              "options": [
+                "(a) Saturn is the fourth planet from the Sun and the largest planet in our Solar system.",
+                "(b) Satellites like Enceladus and Titan of Saturn are home to internal oceans, could possibly support life.",
+                "(c) Saturn is a massive ball made up mostly of nitrogen.",
+                "(d) Saturn's environment is conductive to life."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Satellites like Enceladus and Titan of Saturn are home to internal oceans, could possibly support life.\nExplanation:- Saturn second largest (Jupiter largest), least dense, 146 moons (max) - largest - Titan, has the biggest and brightest rings (Rings discovered by - Huygens (1655), Cassini (1675) discovered gaps between rings)\nSequence of planets according to their distance from the Sun - Mercury Venus Earth Mars Jupiter Saturn Uranus Neptune"
+            },
+            {
+              "id": 10,
+              "question": "Which planet is the second largest planet in our solar system and also has the biggest and brightest rings around it? [SSC CHSL 10/07/2024]",
+              "options": [
+                "(a) Jupiter",
+                "(b) Earth",
+                "(c) Uranus",
+                "(d) Saturn"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Saturn\nExplanation:- See solution of question 9 (level 1)"
+            },
+            {
+              "id": 11,
+              "question": "Which is the most widely accepted model to explain the formation and evolution of the solar system? [SSC CPO 03/10/2023]",
+              "options": [
+                "(a) Cloud hypothesis",
+                "(b) Gas hypothesis",
+                "(c) Nebular hypothesis",
+                "(d) Solar hypothesis"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Nebular hypothesis\nExplanation:- See solution of question 1 (level 1)"
+            },
+            {
+              "id": 12,
+              "question": "Terrestrial planets are composed of [SSC CPO 27/06/2024]",
+              "options": [
+                "(a) Metals and air",
+                "(b) Rocks and metals",
+                "(c) Metals and gas",
+                "(d) Rocks and gas"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Rocks and metals\nExplanation:- Terrestrial planets - Rocky surface, solid, don't have rings, very few moons, small in size\nJovian planets - composed of gas and ice, have rings, large no. of moons, big in size\nDo you know that Jupiter and Saturn are called Gas Giants while Uranus and Neptune are called Ice Giants?"
+            },
+            {
+              "id": 13,
+              "question": "Which trend is found about the distance between the galaxies? [SSC CHSL 03/07/2024]",
+              "options": [
+                "(a) Unpredictable",
+                "(b) Decreasing",
+                "(c) Constant",
+                "(d) Increasing"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Increasing\nExplanation:- Galaxies are moving away from each other at a constant rate. It is called Hubble's law.\nNearest galaxy - Andromeda\nStudy of Universe - Cosmology"
+            },
+            {
+              "id": 14,
+              "question": "Which scientist thought of the concept of the steady state of the universe? [SSC CHSL 04/07/2024]",
+              "options": [
+                "(a) Harold Jeffrey",
+                "(b) Edwin Hubble",
+                "(c) Fred Hoyle",
+                "(d) Pierre-Laplace"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Fred Hoyle\nExplanation:- Steady state theory - universe is eternal with no beginning or end and new matter is continuously formed to maintain its density.\nSee solution of question 1 (level 1)"
+            },
+            {
+              "id": 15,
+              "question": "Which among the following is another word for universe? [SSC CHSL 10/03/2023]",
+              "options": [
+                "(a) Big Crunch",
+                "(b) Astronomy",
+                "(c) Cosmos",
+                "(d) Supernova"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Cosmos\nExplanation:- Universe is also called Cosmos and its study is called Cosmology.\nBig crunch (opposite of Big Bang) - contraction of Universe to a state of infinite density and temperature\nAstronomy is the study of everything in the universe beyond Earth's atmosphere.\nSupernova - explosion of stars\nPulsar - a neutron star\nBlack hole - a place in space with infinite density"
+            },
+            {
+              "id": 16,
+              "question": "Which of the following is a part of celestial objects?\nI. Stars\nII. Planets\nIII. Moon [SSC CPO 09/11/2022]",
+              "options": [
+                "(a) Only I and III",
+                "(b) Only I and II",
+                "(c) I, II and III",
+                "(d) Only II and III"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) I, II and III\nExplanation:- Celestial object is the naturally occurring body in the Universe. They are of 2 types - Luminous (stars) and Non-luminous (planets, satellites, meteors, asteroids, comets).\nAsteroid - small, rocky objects orbiting the Sun\nMeteor - enters Earth's atmosphere and burn in Mesosphere\nComet - made up of ice, orbits the Sun and burn upon reaching it"
+            },
+            {
+              "id": 17,
+              "question": "The bodies glowing in the night sky are known as [SSC CGL 03/03/2020]",
+              "options": [
+                "(a) Celestial bodies",
+                "(b) Asteroids",
+                "(c) Planetarium",
+                "(d) Meteorite"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Celestial bodies\nExplanation:- Planetarium - a building with curved ceiling built for educational and entertaining purpose\nMeteorite - meteor hitting the Earth surface\nMeteoroid - any solid debris of asteroid, comet or other celestial objects that floats through interplanetary space\nMeteor (shooting/falling star) - streak of light that appears when a meteoroid enters the atmosphere (mesosphere)\nSee solution of question 16 (level 1)"
+            },
+            {
+              "id": 18,
+              "question": "Cosmic snowballs of frozen gases, rock and dust that orbit the Sun are known as [SSC MTS 16/05/2023]",
+              "options": [
+                "(a) Meteors",
+                "(b) Star",
+                "(c) Meteorites",
+                "(d) Comets"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Comets\nExplanation:- See solution of question 16 (level 1)\nStars - luminous bodies, their colour depends on temperature\nGroup of stars - Constellation (Largest - Hydra, Ursa Major - Sapt Rishi).\nDo you know that Rigel is the brightest star in Orion constellation while overall Sirius (dog star) is the brightest star?\nClosest star to Earth - Sun (150 mn km), 2nd closest - Proxima Centuri"
+            },
+            {
+              "id": 19,
+              "question": "Which of the following constellations is also called the hunter? [SSC CHSL 10/03/2023]",
+              "options": [
+                "(a) Cassiopeia",
+                "(b) Leo Major",
+                "(c) Ursa Major",
+                "(d) Orion"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Orion\nExplanation:- Cassiopeia - W shaped\nCygnus - cross shaped\nJanuary evenings - hourglass shaped\nAsterism is the pattern of stars smaller than constellation"
+            },
+            {
+              "id": 20,
+              "question": "Which among the following planets is also known as \"Morning Star\"? [SSC MTS 10/05/2023]",
+              "options": [
+                "(a) Jupiter",
+                "(b) Neptune",
+                "(c) Venus",
+                "(d) Earth"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Venus\nExplanation:- See solution of question 8\nJupiter - winter planet, largest, 3rd brightest after Venus and Moon, shortest rotation (10 hrs), 95 moons (Galilean moons - Io, Europa, Ganymede (largest), Callisto), has unclear rings"
+            },
+            {
+              "id": 21,
+              "question": "Which among the following is the coldest planet in the solar system? [SSC MTS 16/05/2023]",
+              "options": [
+                "(a) Mars",
+                "(b) Neptune",
+                "(c) Saturn",
+                "(d) Uranus"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Uranus\nExplanation:- Uranus - Green planet (due to CH4), rolling/lopsided planet (tilted 98°), discovered by William Herschel (1781)\nMars - Red planet (iron oxide), 2 moons - Phobos and Deimos, largest volcano and tallest mountain - Olympus Mons"
+            },
+            {
+              "id": 22,
+              "question": "The Kuiper Belt is a ring of icy rocks & dust bodies just outside the orbit of [SSC MTS 17/05/2023]",
+              "options": [
+                "(a) Saturn",
+                "(b) Venus",
+                "(c) Jupiter",
+                "(d) Neptune"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Neptune\nExplanation:- See solution of question 5 (level 1)"
+            },
+            {
+              "id": 23,
+              "question": "The asteroid belt lies between which two planets? [SSC CHSL 21/03/2023]",
+              "options": [
+                "(a) Jupiter and Saturn",
+                "(b) Mars and Jupiter",
+                "(c) Saturn and Uranus",
+                "(d) Mercury and Venus"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Mars and Jupiter\nExplanation:- The asteroid belt lies between Mars and Jupiter."
+            },
+            {
+              "id": 24,
+              "question": "In approximately how much time does Mars complete one spin on its axis? [SSC CHSL 15/03/2023]",
+              "options": [
+                "(a) 16 hours",
+                "(b) 8 hours",
+                "(c) 1 day 18 hours",
+                "(d) 1 day"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) 1 day\nExplanation:- Martian day (sol) is of about 24.6 hours.\nRotation time of other planets is Venus - 243 days (slowest), Earth - 24 hours, Jupiter - 10 hours (fastest)"
+            },
+            {
+              "id": 25,
+              "question": "On which planet has a rotating oval of clouds, twice as wide as Earth, called the 'Great Red Spot' been observed for more than 300 years? [SSC CHSL 08/08/2023]",
+              "options": [
+                "(a) Neptune",
+                "(b) Mercury",
+                "(c) Jupiter",
+                "(d) Venus"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Jupiter\nExplanation:- Great Red Spot is a storm system on Jupiter.\nMore info about Jupiter - see solution of question 20\nSunspots are temporary phenomena on the photosphere of the Sun appearing as dark spots as they are 500-1500°C cooler than the surrounding chromosphere."
+            },
+            {
+              "id": 26,
+              "question": "The distance of the Sun from the Earth is about ________ light minutes. [SSC CHSL 20/03/2023]",
+              "options": [
+                "(a) 6",
+                "(b) 4.3",
+                "(c) 12",
+                "(d) 8"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) 8\nExplanation:- Sun - 99% mass of the solar system, 109 time of Earth, composed of Hydrogen (73%) and Helium (25%), outer layer Corona, visible part - Photosphere\nLight year (9.46 × 10^12 km) is the distance travelled by light in one year. 1 Parsec = 3.26 light year.\nDo you know that Aditya L1 is the first solar mission of India?"
+            },
+            {
+              "id": 27,
+              "question": "Who was the first to accurately describe the rings of Saturn as a disc around the planet in 1655? [SSC CGL 06/12/2022]",
+              "options": [
+                "(a) Hideki Yukawa",
+                "(b) Galileo Galilei",
+                "(c) Christiaan Huygens",
+                "(d) Giovanni Cassini"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Christiaan Huygens\nExplanation:- See solution of question 9 (level 1)"
+            },
+            {
+              "id": 28,
+              "question": "From the given alternatives, identify the dwarf planet. [SSC CHSL 30/06/2023]",
+              "options": [
+                "(a) Pluto",
+                "(b) Mercury",
+                "(c) Neptune",
+                "(d) Mars"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Pluto\nExplanation:- See solution of questions 5 and 2 (level 1)"
+            },
+            {
+              "id": 29,
+              "question": "The ________ radiation belts are giant swaths of magnetically trapped highly energetic charged particles that surround Earth. [SSC CGL 13/04/2022]",
+              "options": [
+                "(a) Van Allen",
+                "(b) Aurora",
+                "(c) Kuiper",
+                "(d) Chinook"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Van Allen\nExplanation:- Van Allen belts are two radiation belts of charged particles located in Earth's magnetic field.\nLocation - Inner belt 3,000 km above Earth; outer belt - 15,000 - 20,000 km above Earth.\nThese belts are dangerous for humans and spacecrafts and the energetic electrons in them are called \"killer\" electrons as they can damage spacecrafts.\nAurora - It is a display of light in the sky at the poles.\nChinook (aka snow eater) - Local warm wind of Northern America, blows on the eastern side of Rocky mountains"
+            },
+            {
+              "id": 30,
+              "question": "Which of the following is the windiest planet in the solar system? [SSC MTS 14/10/2021]",
+              "options": [
+                "(a) Neptune",
+                "(b) Uranus",
+                "(c) Saturn",
+                "(d) Mars"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Neptune\nExplanation:- Neptune is the windiest planet in the solar system."
+            },
+            {
+              "id": 31,
+              "question": "Lucifer is another name for the planet ________. [SSC CGL 03/03/2020]",
+              "options": [
+                "(a) Jupiter",
+                "(b) Mars",
+                "(c) Venus",
+                "(d) Saturn"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Venus\nExplanation:- Venus is also called as Lucifer, Earth's twin, morning star, evening star."
+            },
+            {
+              "id": 32,
+              "question": "Minal wrote an essay on the largest moon of Saturn. Which among the following moons is it? [SSC MTS 19/06/2023]",
+              "options": [
+                "(a) Atlas",
+                "(b) Titan",
+                "(c) Carme",
+                "(d) Europa"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Titan\nExplanation:- Titan is the largest moon of Saturn."
+            },
+            {
+              "id": 33,
+              "question": "The moon moves around the earth in about ________ days. [SSC MTS 14/06/2023]",
+              "options": [
+                "(a) 21",
+                "(b) 23",
+                "(c) 27",
+                "(d) 25"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) 27\nExplanation:- Moon is the Earth's natural satellite. Radius - 1.74 × 10^6 m, distance - 3,84,000 km, gravity = 1/6 of Earth's gravity, light from moon to Earth - 1.26 sec.\nDo you know that India recently launched Chandrayaan 3 mission on Moon with Vikram lander and Pragyan rover. The point is named as Shiv Shakti point?"
+            },
+            {
+              "id": 34,
+              "question": "In early 1610, who discovered with his newly invented telescope that Jupiter has four moons? [SSC CGL 06/12/2022]",
+              "options": [
+                "(a) Simon Marius",
+                "(b) Tycho Brahe",
+                "(c) Galileo Galilei",
+                "(d) Johannes Kepler"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Galileo Galilei\nExplanation:- Galileo discovered 4 moons (Io, Europa, Ganymede, Callisto) of Jupiter which are called Galilean moons."
+            },
+            {
+              "id": 35,
+              "question": "Which of the following celestial bodies has a natural satellite named 'Charon'? [SSC MTS 05/10/2021]",
+              "options": [
+                "(a) Haumea",
+                "(b) Pluto",
+                "(c) Mars",
+                "(d) Saturn"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Pluto\nExplanation:- Charon is the satellite of Pluto.\nSee solution of question 5 (level 1)"
+            },
+            {
+              "id": 36,
+              "question": "What is the radius of the moon? [SSC CHSL 19/03/2020]",
+              "options": [
+                "(a) 1.78 × 10^6 m",
+                "(b) 1.79 × 10^6 m",
+                "(c) 1.74 × 10^5 m",
+                "(d) 1.74 × 10^6 m"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) 1.74 × 10^6 m\nExplanation:- See solution of question 33 (level 1)"
+            },
+            {
+              "id": 37,
+              "question": "Planetary scientists call the gaseous envelope around the Moon as the ________. [SSC CGL 04/03/2020]",
+              "options": [
+                "(a) lunar exosphere",
+                "(b) lunar stratosphere",
+                "(c) lunar thermosphere",
+                "(d) lunar endosphere"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Lunar exosphere\nExplanation:- The gaseous envelope around the Moon is called Lunar Exosphere. Argon 40 is an important constituent of it.\nThe gaseous envelope around the Earth is called Atmosphere.\nRecall the layers of Earth's atmosphere with their characteristics."
+            },
+            {
+              "id": 38,
+              "question": "In which of the following periods is the meteor shower named Quadrantids generally visible from Earth? [SSC MTS 20/10/2021]",
+              "options": [
+                "(a) August/September",
+                "(b) October/November",
+                "(c) May/June",
+                "(d) December/January"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) December/January\nExplanation:- Quadrantids are generally active between the end of December and the second week of January and peaks around 3-4 January"
+            },
+            {
+              "id": 39,
+              "question": "In which of the following months may the meteor shower named Lyrids be seen from Earth? [SSC MTS 20/10/2021]",
+              "options": [
+                "(a) April",
+                "(b) February",
+                "(c) June",
+                "(d) August"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) April\nExplanation:- The meteor shower named Lyrids is generally seen from Earth in the month of April."
+            },
+            {
+              "id": 40,
+              "question": "Each orbit of the International Space Station (ISS) takes ________ minutes. [SSC CHSL 13/03/2023]",
+              "options": [
+                "(a) 80-82",
+                "(b) 85-87",
+                "(c) 90-93",
+                "(d) 83-86"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) 90-93\nExplanation:- International Space Station (ISS) - partner countries - Europe, USA, Russia, Canada, Japan. The largest structure put in space by humans. In 24 hours, the ISS orbits Earth 16 times. Speed - 28,000 km/hr."
+            },
+            {
+              "id": 41,
+              "question": "The moon completes ________ rotation on its axis as it completes one revolution around the Earth. [SSC CPO 09/11/2022]",
+              "options": [
+                "(a) 3",
+                "(b) 2",
+                "(c) 1",
+                "(d) 4"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) 1\nExplanation:- The time taken by Moon for 1 rotation is same as that for 1 revolution so only one side is visible to us.\nRotation = Revolution = 27 days.\nMore info about moon - see solution 33"
+            },
+            {
+              "id": 42,
+              "question": "A distinctive cross-shaped constellation best seen in the northern hemisphere during the summer and fall months around September is ________. [SSC CHSL 02/07/2024]",
+              "options": [
+                "(a) Cygnus",
+                "(b) Pegasus",
+                "(c) Ursa Major",
+                "(d) Cassiopeia"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Cygnus\nExplanation:- See solution of question 19 (level 1)"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
