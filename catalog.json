@@ -36736,6 +36736,504 @@
               "solutionHinglish": "Ans (a) 1 only\nExplanation:- L-waves are surface waves and hence they follow the Earth's circumference.\nThey don't travel at constant rate as their speed depends on the properties of the material they pass through."
             }
           ]
+        },
+        {
+          "id": "t_1793610114182",
+          "name": "Rocks, Continents and Oceans - LEVEL I",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which of the following is an example of the formation of metamorphic rocks? [SSC JE 05/06/2024]",
+              "options": [
+                "(a) Formation of Chalk",
+                "(b) Formation of Limestone",
+                "(c) Formation of Slate",
+                "(d) Formation of Sandstone"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Formation of Slate\nExplanation:- Metamorphic rocks are formed by recrystallisation and reorganisation of materials within the original rocks.\nPVT changes (Granite -> Gneiss, Shale -> Slate, Sandstone -> Quartzite, Limestone -> Marble) in igneous and sedimentary rocks lead to formation of metamorphic rocks.\nTypes of metamorphism: Thermal metamorphism (metamorphic rocks formed due to temperature change) and Dynamic metamorphism (metamorphic rocks formed w/o any chemical change).\nEg. of metamorphic rocks - Marble, Gneiss, Quartzite, Schist, Slate, Soapstone.\nDo you know that Banding (alternate light and dark bands) and Lineation are the characteristics of Metamorphic rocks?"
+            },
+            {
+              "id": 2,
+              "question": "Which of the following is not a rock? [SSC JE 06/06/2024]",
+              "options": [
+                "(a) Granite",
+                "(b) Limestone",
+                "(c) Marble",
+                "(d) Quartz"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Quartz\nExplanation:- Quartz is not a rock but a mineral.\nDo you know that Taj Mahal is made up of Marble while Red Fort is made up of Red Sandstone (sedimentary rock)?"
+            },
+            {
+              "id": 3,
+              "question": "Which of the following statements is true? [SSC JE 07/06/2024]",
+              "options": [
+                "(a) Igneous rocks are used as fuel by igniting them.",
+                "(b) Sedimentary rocks can never change into metamorphic rocks or magma.",
+                "(c) Igneous rocks can change into sedimentary rocks over a long period of time.",
+                "(d) Magma can form sedimentary rocks on cooling."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Igneous rocks can change into sedimentary rocks over a long period of time.\nExplanation:- Igneous Rocks - formed by solidification of magma. 2 types - plutonic/intrusive (solidifies inside) and volcanic/extrusive (solidifies outside). Eg. Basalt, Pumice, Granite, Gabbro, Obsidian, Pegmatite.\nIgneous rocks can't be used as a fuel as they don't contain any combustible substance.\nSedimentary and igneous rocks both can change into metamorphic rocks through PVT changes.\nIgneous rocks break down due to the action of weathering and erosion and form sedimentary rocks."
+            },
+            {
+              "id": 4,
+              "question": "Identify whether the following statements are true (T) or false (F) and select the correct option. [SSC JE 07/06/2024]\n1. On solidification, molten magma forms sedimentary rocks.\n2. Igneous rocks can be intrusive or extrusive.\n3. Under the effect of high temperatures and pressure, sedimentary rocks change to metamorphic rocks.\n4. Under the effect of high temperatures and pressure, igneous rocks change to metamorphic rocks.",
+              "options": [
+                "(a) T, T, T, T",
+                "(b) F, T, T, T",
+                "(c) F, F, T, F",
+                "(d) T, T, F, F"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) F, T, T, T\nExplanation:- See solution of question 3 (level 1).\nIgneous rocks are primary rocks and other rocks are formed from these rocks. The sedimentary and metamorphic rocks may be carried down into the mantle through subduction and turn into magma, the source for igneous rocks.\nStudy of rocks - Petrology."
+            },
+            {
+              "id": 5,
+              "question": "The process of measuring various physical and chemical properties of the rocks and fluids within a wellbore is known as: [SSC JE 07/06/2024]",
+              "options": [
+                "(a) Well logging",
+                "(b) Drilling",
+                "(c) Reservoir modelling",
+                "(d) Enhanced oil recovery techniques"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Well logging\nExplanation:- Well logging is a method used for recording rock and fluid properties to find gas- and oil-containing zones in subterranean formations."
+            },
+            {
+              "id": 6,
+              "question": "The groundwater stored between layers of hard rock below the water table is called: [SSC MTS 08/10/2021]",
+              "options": [
+                "(a) Glacier",
+                "(b) Hot spring",
+                "(c) Geyser",
+                "(d) Aquifer"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Aquifer\nExplanation:- An aquifer is a body of permeable rock or soil in which groundwater is stored.\nGeyser - a place where hot water comes naturally out of the ground.\nHot spring - natural spring of water that is heated by Earth's geothermal energy."
+            },
+            {
+              "id": 7,
+              "question": "Which of the following is a large group of rock-forming silicate minerals that constitutes more than 50% of the Earth's crust and is widely used in the glass and ceramic industries? [SSC CHSL 06/06/2022]",
+              "options": [
+                "(a) Amphibole",
+                "(b) Feldspar",
+                "(c) Zeolites",
+                "(d) Pyroxene"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Feldspar\nExplanation:- Feldspar and Quartz are the most common minerals found in rocks. Pyroxene 10%, Amphibole 7% and Mica is at 4% of Earth's crust."
+            },
+            {
+              "id": 8,
+              "question": "Which of the following is the correct match between column-A and column-B? [SSC STENOGRAPHER 12/10/2023]\nColumn-A (Type of rock) — Column-B (Method of formation)\ni. Sedimentary Rock — a. Transformed its chemical qualities from other type of rocks.\nii. Metamorphic Rock — b. Derived from magma that was poured out or ejected at the Earth's Surface\niii. Igneous Rock — c. Formed from fragments of other rocks or the remains of plants or animals",
+              "options": [
+                "(a) i-a, ii-b, iii-c",
+                "(b) i-b, ii-a, iii-c",
+                "(c) i-c, ii-a, iii-b",
+                "(d) i-a, ii-c, iii-b"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) i-c, ii-a, iii-b\nExplanation:- Sedimentary Rocks - the result of deposition of fragments of rocks\nMetamorphic Rocks - formed out of existing rocks undergoing recrystallisation\nIgneous Rocks - solidified from magma and lava\nPlutonic landforms: Batholith - dome shaped, Dike - vertical, Sill - horizontal, Phacolith - wave shaped, Laccolith, Lopolith."
+            },
+            {
+              "id": 9,
+              "question": "Structural geology deals with: [SSC STENOGRAPHER 13/10/2023]",
+              "options": [
+                "(a) The age of rocks",
+                "(b) The components and chemical nature of soil",
+                "(c) The form, classification, mechanism, and causes of rock structures' evolution",
+                "(d) The cause of volcano formation"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) The form, classification, mechanism, and causes of rock structures' evolution.\nExplanation:- Geochronology - deals with age of rocks, fossils.\nSoil chemistry - deals with the components and chemical nature of soil."
+            },
+            {
+              "id": 10,
+              "question": "Which of the following is a yellowish green to green coloured gemstone often found in mafic and ultramafic igneous rocks such as basalt, gabbro, dunite, diabase and peridotite? [SSC CHSL 09/08/2023]",
+              "options": [
+                "(a) Bornite",
+                "(b) Olivine",
+                "(c) Tremolite",
+                "(d) Granite"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Olivine\nExplanation:- Olivine is a magnesium iron silicate mineral. Colour - yellowish green to green. When it occurs as a gemstone, it is called Peridot."
+            },
+            {
+              "id": 11,
+              "question": "Which type of rock can be considered as a biological sedimentary rock? [SSC CGL 05/12/2022]",
+              "options": [
+                "(a) Bauxite",
+                "(b) Marble",
+                "(c) Granite",
+                "(d) Limestone"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Limestone\nExplanation:- Sedimentary rocks are formed due to the deposition of fragments of rocks.\nCharacteristics - exists in layers/strata, compaction takes place (lithification), fossils are found.\nTypes:- Mechanically formed - sandstone, limestone, shale, loess, conglomerate.\nOrganically/biologically formed - chalk, limestone, coal, geyserites.\nChemically formed - limestone, halite, chert, potash."
+            },
+            {
+              "id": 12,
+              "question": "Which of the following is a characteristic of sedimentary rocks? [SSC CGL 07/12/2022]",
+              "options": [
+                "(a) Lineation",
+                "(b) Bands",
+                "(c) Foliation",
+                "(d) Lithification"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Lithification\nExplanation:- Lithification is the process by which sediments are compacted to form solid sedimentary rock.\nLineation and banding are the characteristics of metamorphic rocks."
+            },
+            {
+              "id": 13,
+              "question": "How many types of igneous rocks are there? [SSC MTS 26/07/2022]",
+              "options": [
+                "(a) Four",
+                "(b) Two",
+                "(c) Six",
+                "(d) Five"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Two\nExplanation:- See solution of question 3 (level 1). The 2 types of igneous rocks are intrusive (plutonic) and extrusive (volcanic)."
+            },
+            {
+              "id": 14,
+              "question": "What type of rocks were once igneous or sedimentary, but have metamorphosed as a result of intense heat and/or pressure within the Earth's crust? [SSC CHSL 25/05/2022]",
+              "options": [
+                "(a) Granite",
+                "(b) Quartzite",
+                "(c) Sandstone",
+                "(d) Basalt"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Quartzite\nExplanation:- Quartzite is a metamorphic rock formed from sandstone."
+            },
+            {
+              "id": 15,
+              "question": "Which of the following rocks floats in water? [SSC MTS 26/10/2021]",
+              "options": [
+                "(a) Granite",
+                "(b) Obsidian",
+                "(c) Pumice",
+                "(d) Slate"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Pumice\nExplanation:- Pumice is an igneous rock having a lot of pores in it. It floats on water as its density is less than that of water.\nGranite, Obsidian - Igneous rocks\nSlate - Metamorphic rock"
+            },
+            {
+              "id": 16,
+              "question": "When a volcano erupts on Earth, the erupted material is typically a liquid rock known as ________. [SSC MTS 17/05/2023]",
+              "options": [
+                "(a) Plasma",
+                "(b) Lava",
+                "(c) Hailstone",
+                "(d) Mercury"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Lava\nExplanation:- Lava - molten rock which comes out of Earth when volcano erupts.\nMagma - molten rock which is still inside the Earth."
+            },
+            {
+              "id": 17,
+              "question": "What was the name of the mega-ocean that surrounded the single continental mass before the continental drift as described by Alfred Wegener? [SSC CHSL 19/10/2020]",
+              "options": [
+                "(a) Panama",
+                "(b) Panthalassa",
+                "(c) Pigmalion",
+                "(d) Pangaea"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Panthalassa\nExplanation:- Continental Drift Theory - Alfred Wegener (1912), present day continents were part of a single super continent called Pangea, surrounded by a water body called Panthalassa.\nEvidences of continental drift theory - Jig saw fit, Fossil deposits, Placer deposits.\nForces responsible (as per Wegener) - Tidal force & Polar fleeing force.\nSea floor spreading - by Harry Hess.\nStudy of fossils is called Palaeontology."
+            },
+            {
+              "id": 18,
+              "question": "Continental Shelf which is the shallowest part of the ocean has an average gradient of: [SSC CPO 03/10/2023]",
+              "options": [
+                "(a) 1° or even less",
+                "(b) 2° or even less",
+                "(c) 8° or even less",
+                "(d) 5° or even less"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) 1° or even less\nExplanation:- Major Relief Features of Oceans:\nContinental shelf - submerged part of the continent, slope = 1° or less. Widest shelf - Siberian shelf (120 km).\nContinental slope - steep underwater slope connecting continental shelf to the deep sea.\nContinental rise - when the continental slope loses its steepness and slope reaches a level between 0.5°-1°.\nAbyssal plain - deep sea plain.\nMinor Relief Features - Seamount, Guyot (flat topped seamount), mid oceanic ridge, trench, coral."
+            },
+            {
+              "id": 19,
+              "question": "The Arabian Sea is an extension of which of the following oceans? [SSC MTS 04/09/2023]",
+              "options": [
+                "(a) Pacific Ocean",
+                "(b) Southern Ocean",
+                "(c) Arctic Ocean",
+                "(d) Indian Ocean"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Indian Ocean\nExplanation:- Arabian sea is located to the NW of Indian ocean.\nDo you know that Kochi (Kerala) is called the Queen of Arabian sea?\nOrder of oceans - Pacific (deepest) > Atlantic (busiest, S-shaped) > Indian > Southern (Antarctic) > Arctic (TRICK - PAISA)."
+            },
+            {
+              "id": 20,
+              "question": "Which ocean is bounded by Asia and Australia to the west and by the continent of North America and South America to the east? [SSC MTS 08/09/2023]",
+              "options": [
+                "(a) Pacific Ocean",
+                "(b) Atlantic Ocean",
+                "(c) Indian Ocean",
+                "(d) Arctic Ocean"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Pacific Ocean\nExplanation:- Pacific ocean is surrounded by Asia and Australia to the west and N. America and S. America to the east.\nOrder of continents :-\nArea wise - Asia > Africa > N America > S America > Antarctica > Europe > Australia\nPopulation wise - Asia > Africa > Europe > N America > S America > Australia > Antarctica"
+            },
+            {
+              "id": 21,
+              "question": "Which of the following oceans extends into the Mediterranean Sea? [SSC MTS 08/09/2023]",
+              "options": [
+                "(a) Indian Ocean",
+                "(b) Pacific Ocean",
+                "(c) Atlantic Ocean",
+                "(d) Arctic Ocean"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Atlantic Ocean\nExplanation:- Atlantic ocean is connected to the Mediterranean sea through Strait of Gibraltar.\nLighthouse of Mediterranean - Mt. Stromboli (volcano)."
+            },
+            {
+              "id": 22,
+              "question": "The periodic growth and drop of sea water level is known as: [SSC CHSL 11/08/2023]",
+              "options": [
+                "(a) Wave",
+                "(b) Sea current",
+                "(c) Tide",
+                "(d) Flood"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Tide\nExplanation:- The periodic growth and drop of sea water level is called Tide. Tide is caused by the gravitational pull of Sun and moon. 2 types - spring tide and neap tide."
+            },
+            {
+              "id": 23,
+              "question": "Where does the lower salinity water rest with the higher salinity dense water? [SSC CGL 20/07/2023]",
+              "options": [
+                "(a) Above",
+                "(b) Below",
+                "(c) It combines",
+                "(d) It is separate"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Above\nExplanation:- Lower salinity water rests above the higher salinity water as it is less dense. It is called density stratification.\nLine connecting places with same salinity - Isohaline."
+            },
+            {
+              "id": 24,
+              "question": "Which is the correct sequence of oceans according to size (from largest to smallest)? [SSC CGL 26/07/2023]",
+              "options": [
+                "(a) Pacific Ocean > Antarctic Ocean > Indian Ocean > Atlantic Ocean",
+                "(b) Pacific Ocean > Indian Ocean > Antarctic Ocean > Atlantic Ocean",
+                "(c) Pacific Ocean > Atlantic Ocean > Indian Ocean > Antarctic Ocean",
+                "(d) Pacific Ocean > Indian Ocean > Atlantic Ocean > Antarctic Ocean"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Pacific Ocean > Atlantic Ocean > Indian Ocean > Antarctic Ocean\nExplanation:- See solution of question 19 (level 1).\nMariana trench (deepest point - Challenger deep) is the deepest place in Pacific ocean."
+            },
+            {
+              "id": 25,
+              "question": "Identify the odd option in relation to the oceanic layers. [SSC PHASE XI 28/06/2023]",
+              "options": [
+                "(a) The Oceanic Deeps",
+                "(b) The Oceanic Slope",
+                "(c) The Continental Shelf",
+                "(d) The Continental Slope"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) The Oceanic Slope\nExplanation:- See solution of question 18 (level 1). Major divisions of the ocean floor are Continental Shelf, Continental Slope, Deep Sea Plain, and Oceanic Deeps."
+            },
+            {
+              "id": 26,
+              "question": "Where is the deepest point on earth, the Mariana Trench, located? [SSC MTS 09/05/2023]",
+              "options": [
+                "(a) Atlantic Ocean",
+                "(b) Pacific Ocean",
+                "(c) Indian Ocean",
+                "(d) Arctic Ocean"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Pacific Ocean\nExplanation:- Mariana trench (deepest point - Challenger deep) is located in Pacific ocean."
+            },
+            {
+              "id": 27,
+              "question": "How much percentage of Earth's water make up the oceans? [SSC CPO 28/06/2024]",
+              "options": [
+                "(a) 57%",
+                "(b) 37%",
+                "(c) 7%",
+                "(d) 97%"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) 97%\nExplanation:- About 97.2% of water on Earth is in oceans, 2.8% is freshwater.\nOut of 2.8% - ice caps/glaciers = 2%, groundwater = 0.68%, lakes = 0.4%, atmosphere, rivers.\nOrder of freshwater - Ice caps/glaciers = 68.7%, groundwater = 30.1%."
+            },
+            {
+              "id": 28,
+              "question": "What percentage of earth's water is fresh? [SSC CPO 09/11/2022]",
+              "options": [
+                "(a) 4.8 percent",
+                "(b) 5.2 percent",
+                "(c) 3.9 percent",
+                "(d) 2.7 percent"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) 2.7 percent\nExplanation:- 2.7% water on Earth is fresh."
+            },
+            {
+              "id": 29,
+              "question": "What is the average salinity of the Indian ocean? [SSC CGL 03/08/2022]",
+              "options": [
+                "(a) 350 o/oo",
+                "(b) 35 o/oo",
+                "(c) 3.5 o/oo",
+                "(d) 3 o/oo"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) 35 o/oo\nExplanation:- Salinity is the amount of salt dissolved in a water body.\nThe average salinity of Indian ocean is 35 parts per thousand (o/oo).\nSalinity of normal open ocean - 33-37 o/oo.\nUpper limit of salinity to demarcate brackish water - 24.7 o/oo.\nDo you know that Atlantic ocean has the highest salinity among all the five oceans?"
+            },
+            {
+              "id": 30,
+              "question": "The lowest known point on earth is called ________, which is present in the Pacific Ocean. [SSC MTS 18/07/2022]",
+              "options": [
+                "(a) Factorial Deep",
+                "(b) Challenger Deep",
+                "(c) Great Blue Hole",
+                "(d) Great Barrier Reef"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Challenger Deep\nExplanation:- See solution of question 24 (level 1).\nGreat Barrier Reef (Australia) - largest coral reefs (symbiotic relationship b/w coral and zooxanthellae algae - corals secrete CaCO3 that provides protection to algae, algae provides food to coral).\nFavourable conditions for coral reef:- Saline water, Sunlight, Clear water, Moderate temperature (23-25°C).\nCoral Bleaching - under stressed conditions, corals expel the algae causing the corals to turn white."
+            },
+            {
+              "id": 31,
+              "question": "Which water body covers an area of 1,55,58,000 km² and makes up only 4.3% of the global ocean? [SSC CHSL 24/05/2022]",
+              "options": [
+                "(a) Atlantic Ocean",
+                "(b) Arctic Ocean",
+                "(c) Southern Ocean",
+                "(d) Indian Ocean"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Arctic Ocean\nExplanation:- Arctic ocean covers an area of 1,55,58,000 km² and makes up only 4.3% of the global ocean."
+            },
+            {
+              "id": 32,
+              "question": "Which is the largest continental shelf in the world? [SSC CHSL 24/05/2022]",
+              "options": [
+                "(a) The shelf of India",
+                "(b) The Indian Ocean shelf",
+                "(c) The shelf in the Pacific Ocean",
+                "(d) The Siberian shelf in the Arctic Ocean"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) The Siberian shelf in the Arctic Ocean\nExplanation:- Siberian shelf is the largest continental shelf in the world."
+            },
+            {
+              "id": 33,
+              "question": "Which of the following is a group of islands found in the tropical oceans consisting of coral reefs and a central depression? [SSC CGL 19/04/2022]",
+              "options": [
+                "(a) Guyots",
+                "(b) Atoll",
+                "(c) Seamount",
+                "(d) Lagoon"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Atoll\nExplanation:- Atoll - low islands surrounded by coral reefs.\nGuyot - flat topped seamount.\nSeamount - mountain rising from seafloor that doesn't reach the surface of the ocean.\nLagoon - a water body separated from larger water body by natural barrier.\nFringing reef - reefs that grow directly from a shore. They are located very close to land.\nBarrier reef - reefs which are located parallel to the shore and separated from it by a lagoon."
+            },
+            {
+              "id": 34,
+              "question": "The Northeast Canyons and Seamounts Marine National Monument is located in the: [SSC CGL 20/04/2022]",
+              "options": [
+                "(a) Arctic Ocean",
+                "(b) Arabian Sea",
+                "(c) Atlantic Ocean",
+                "(d) Red Sea"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Atlantic Ocean\nExplanation:- The Northeast Canyons and Seamounts Marine National Monument is located in the Atlantic Ocean.\nDo you know that the Red sea is the saltiest of all the seas. It is called Red Sea due to presence of a cyanobacteria called Trichodesmium erythraeum?"
+            },
+            {
+              "id": 35,
+              "question": "Which of the following was NOT a part of Gondwanaland? [SSC CGL 23/08/2021]",
+              "options": [
+                "(a) Australia",
+                "(b) South America",
+                "(c) India",
+                "(d) North America"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) North America\nExplanation:- Pangea broke into Gondwanaland (India, Australia, South America, Africa, Antarctica) to the south and Laurasia (North America, Europe, parts of Asia) to the north."
+            },
+            {
+              "id": 36,
+              "question": "What is the geographic location of the world's largest coral reef, known as the Great Barrier Reef? [SSC MTS 05/09/2023]",
+              "options": [
+                "(a) Switzerland",
+                "(b) Australia",
+                "(c) China",
+                "(d) Ireland"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Australia\nExplanation:- Great Barrier Reef is located near the coast of Australia."
+            },
+            {
+              "id": 37,
+              "question": "Millions of years ago the Indian subcontinent was separated from the mainland by a large sea known as the: [SSC CHSL 14/10/2020]",
+              "options": [
+                "(a) Tethys",
+                "(b) Aegian",
+                "(c) Prometheus",
+                "(d) Typhon"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Tethys\nExplanation:- Tethys sea was the water body that separated Laurasia to the north and Gondwanaland to the south."
+            },
+            {
+              "id": 38,
+              "question": "Which of the following is NOT a part of the ocean floor? [SSC PHASE XII 24/06/2024]",
+              "options": [
+                "(a) The deep sea plain",
+                "(b) The continental slope",
+                "(c) The continental shelf",
+                "(d) The deep sea shelf"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) The deep sea shelf\nExplanation:- See solution of question 18 (level 1)."
+            },
+            {
+              "id": 39,
+              "question": "The thermocline layer is the ________ layer of the ocean. [SSC PHASE XII 24/06/2024]",
+              "options": [
+                "(a) Fourth",
+                "(b) First",
+                "(c) Third",
+                "(d) Second"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Second\nExplanation:- The temperature structure of oceans can be divided into 3 layers:\nFirst layer - top layer, 500 m thick, 20°-25°C.\nSecond layer - 500-1000 m thick, called Thermocline layer (rapid decrease in temperature with depth).\nThird layer - extends upto deep sea floor, very cold."
+            },
+            {
+              "id": 40,
+              "question": "Which of the following is the third largest ocean in the world and is present on the southern side of Asia? [SSC JE 05/06/2024]",
+              "options": [
+                "(a) Pacific Ocean",
+                "(b) Southern Ocean",
+                "(c) Bay of Bengal",
+                "(d) Indian Ocean"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Indian Ocean\nExplanation:- Indian ocean is the 3rd largest ocean and is present on the southern side of Asia.\nPacific ocean > Atlantic ocean > Indian ocean > Southern ocean > Arctic ocean."
+            },
+            {
+              "id": 41,
+              "question": "A village is established in a region where land meets the ocean. What is this region called? [SSC JE 05/06/2024]",
+              "options": [
+                "(a) Coastal Region",
+                "(b) Marshy Land",
+                "(c) Sea Beach",
+                "(d) Tropical Region"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Coastal Region\nExplanation:- Coastal regions are regions adjacent to ocean."
+            }
+          ]
         }
       ]
     }
