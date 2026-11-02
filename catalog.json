@@ -35614,6 +35614,492 @@
               "solutionHinglish": "Ans (d) Day of equinox\nExplanation:- Equinox - sunlight fall vertically on equator, so equal day and night. Vernal/Spring equinox - 21 March, Autumnal/fall equinox - 23 September."
             }
           ]
+        },
+        {
+          "id": "t_1793609886822",
+          "name": "Latitude Longitude Rotation Revolution - LEVEL II",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which of the following statements is/are correct?\n1. Angular velocity for all locations on the Earth's surface is the same while linear velocity varies.\n2. Linear velocity is maximum at the equator and minimum at the poles.\nSelect the correct answer using the code given below. [CDS I 2024]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) Both 1 and 2",
+                "(d) Neither 1 nor 2"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Both 1 and 2\nExplanation:- Angular velocity - how fast an object moves relative to a point (in Earth's case relative to its axis). It is same (24 hours) for all locations on Earth.\nLinear velocity - rate at which an object moves along its path. It is max at equator and min at poles (due to bulge at the equator)."
+            },
+            {
+              "id": 2,
+              "question": "In order to find out the absolute location of a place on the map, which of the following will be required? [CAPF 2021]",
+              "options": [
+                "(a) Latitude of the place alone",
+                "(b) Longitude of the place alone",
+                "(c) Both latitude and longitude of the place",
+                "(d) Neither latitude nor longitude of the place"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Both latitude and longitude of the place\nExplanation:- We can easily find the absolute location of a place by the intersection point of latitude and longitude. So, both are required."
+            },
+            {
+              "id": 3,
+              "question": "Which of the following statements about maps are correct?\n1. Maps that maintain the true shapes of areas are known as conformal maps.\n2. Maps are used to show spatial relationships.\n3. Maps cannot show route from one place to another.\nSelect the correct answer using the code given below. [CAPF 2022]",
+              "options": [
+                "(a) 2 and 3 only",
+                "(b) 1 and 3 only",
+                "(c) 1 and 2 only",
+                "(d) 1, 2 and 3"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) 1 and 2 only\nExplanation:- Conformal maps - these maps keep the shape same but may change the size. Maps can show route from one place to another. Such maps are called road maps."
+            },
+            {
+              "id": 4,
+              "question": "Which one of the following statements about 'great circle' is not correct? [CAPF 2022]",
+              "options": [
+                "(a) Every great circle divides the Earth into equal halves.",
+                "(b) Every great circle is a circumference of the Earth.",
+                "(c) Great circles mark the longest travel routes between locations on the Earth's surface.",
+                "(d) Great circle is the largest circle that can be drawn around the Earth through two particular points."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Great circles mark the longest travel routes between locations on the Earth's surface.\nExplanation:- Great circle is the largest circle which can be drawn on a sphere. It divides the Earth in two equal halves. It marks the shortest distance between two points along the sphere.\nDo you know that equator is the only latitude which is a great circle whereas all longitudes are great circles?"
+            },
+            {
+              "id": 5,
+              "question": "Which one of the following statements is correct about Spring tides? [CAPF 2023]",
+              "options": [
+                "(a) High tide is higher than average high tide and Low tide is higher than average low tide.",
+                "(b) High tide is lower than average high tide and Low tide is higher than average low tide.",
+                "(c) High tide is higher than average high tide and Low tide is lower than average low tide.",
+                "(d) High tide is lower than average high tide and Low tide is lower than average low tide."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) High tide is higher than average high tide and Low tide is lower than average low tide.\nExplanation:- Spring tide - creates the greatest difference in water levels between high and low tides.\nNeap tide - creates the smallest difference in water levels between high and low tides. Occurs approx 2 times a month (during the first and third quarter moon phase)."
+            },
+            {
+              "id": 6,
+              "question": "Which one of the following correctly explains the change in seasons on Earth? [CAPF 2023]",
+              "options": [
+                "(a) Tilt of the Earth's axis",
+                "(b) Rotation of the Earth on its own axis",
+                "(c) Revolution of the Moon around the Sun",
+                "(d) Interaction of the Earth with other planets"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Tilt of the Earth's axis\nExplanation:- Change in season on Earth is caused by tilt of Earth's axis and revolution around the Sun while day and night are caused due to rotation of Earth on its axis."
+            },
+            {
+              "id": 7,
+              "question": "Consider the following statements regarding the rotation of the Earth:\n1. Since the Earth rotates by 15° each hour, time zones normally differ by one hour.\n2. At the International Date Line, the calendar day changes advancing a day for eastward travel, dropping back a day for westward travel.\n3. Daylight saving time advances the clock by one hour.\n4. The Moon rotates and revolves about the Earth in the same direction that the Earth revolves around the Sun.\nWhich of the statements given above is/are correct? [CAPF 2024]",
+              "options": [
+                "(a) 1 only",
+                "(b) 3 and 4 only",
+                "(c) 1, 3 and 4",
+                "(d) 2, 3 and 4"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) 1, 3 and 4\nExplanation:- Earth rotates 360° in 24 hours. So, 1 hour = 15°. Hence, time zones normally differ by one hour.\nAt the IDL, day is dropped back for eastward travel and advanced for westward travel.\nDaylight saving time - it is the practice of forwarding clock by 1 hour in summers and back again by 1 hour in fall to make the better use of daylight.\nThe moon also rotates and revolves around the Earth in the same direction that the Earth revolves around the Sun (Earth rotates from W to E)."
+            },
+            {
+              "id": 8,
+              "question": "If it is 31st December, 2023 in New Zealand, at the same time what will be the date in the Hawaiian Islands and Alaska? [CAPF 2024]",
+              "options": [
+                "(a) Both have 01 January, 2024",
+                "(b) Both have 30 December, 2023",
+                "(c) 31 December, 2023 in Alaska and 01 January, 2024 Hawaiian Islands",
+                "(d) 31 December, 2023 in Hawaiian Islands and 01 January, 2024 in Alaska"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Both have 30 December, 2023\nExplanation:- New Zealand is located just west of IDL while Hawaiian Islands and Alaska are located to the east of IDL. On moving from west to east on IDL, day is dropped back."
+            },
+            {
+              "id": 9,
+              "question": "Tropic of Capricorn passes through which one of the following countries? [CISF AC 2022]",
+              "options": [
+                "(a) Bolivia",
+                "(b) Botswana",
+                "(c) Zimbabwe",
+                "(d) Uruguay"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Botswana\nExplanation:- Tropic of Capricorn (23.5° S) passes through 10 countries.\nSouth America: Argentina, Brazil, Chile, Paraguay\nAfrica: Namibia, Botswana, South Africa, Mozambique, Madagascar\nAustralia: Western Australia, Northern Territory, Queensland\nDo you know that Africa is the only continent through which 23.5° N, 0°, 23.5° S all three pass?"
+            },
+            {
+              "id": 10,
+              "question": "50° South Latitude passes through [CISF AC 2021]",
+              "options": [
+                "(a) South Africa",
+                "(b) Australia",
+                "(c) Argentina",
+                "(d) Uruguay"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Argentina\nExplanation:- 50° S latitude passes through Argentina."
+            },
+            {
+              "id": 11,
+              "question": "Consider the following statements with respect to 'tides':\n1. The tidal bulges on wide continental shelves have greater height.\n2. When tides are channeled between islands, they are called tidal currents.\nWhich of the statements given above is/are correct? [CISF AC 2021]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) Both 1 and 2",
+                "(d) Neither 1 nor 2"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Both 1 and 2\nExplanation:- The tidal bulge on wide continent shelves have greater height because water depth decreases abruptly. Hence, height increases to conserve the energy.\nWhen the tide is channeled between islands or into bays and estuaries they are called tidal currents.\nTides are the periodic rise and fall of sea level, once or twice a day, mainly due to the attraction of the Sun and the moon."
+            },
+            {
+              "id": 12,
+              "question": "If it is 12:00 Noon in India, on which meridian will it be 7:00 am of the same day? [NDA I 2021]",
+              "options": [
+                "(a) 7.5 degree E. Longitude",
+                "(b) 7.5 degree W. Longitude",
+                "(c) 75 degree E. Longitude",
+                "(d) 75 degree W. Longitude"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) 7.5 degree E. Longitude\nExplanation:- Since 15° = 1 hour, so 5 hours (12 - 7 = 5 hours) = 75°.\nIST is 82.5° E so to go back 5 hours = 82.5° E - 75° = 7.5° E."
+            },
+            {
+              "id": 13,
+              "question": "Which one of the following is the longest Latitude? [NDA I 2021]",
+              "options": [
+                "(a) 90 degree Latitude",
+                "(b) 23.5 degree Latitude",
+                "(c) 0.0 degree Latitude",
+                "(d) 66.5 degree Latitude"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) 0.0 degree Latitude\nExplanation:- Equator (0°) is the longest latitude while poles (90°) are the smallest latitudes."
+            },
+            {
+              "id": 14,
+              "question": "Which one of the following is the longest parallel of latitude? [NDA II 2021]",
+              "options": [
+                "(a) Tropic of Cancer",
+                "(b) Tropic of Capricorn",
+                "(c) Arctic Circle",
+                "(d) Equator"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Equator\nExplanation:- Equator (0°) is the longest latitude while poles (90°) are the smallest latitudes."
+            },
+            {
+              "id": 15,
+              "question": "Which one of the following countries has the maximum time difference from Greenwich Mean Time (GMT)? [NDA II 2021]",
+              "options": [
+                "(a) India",
+                "(b) Nepal",
+                "(c) Sri Lanka",
+                "(d) Bhutan"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Bhutan\nExplanation:- Time difference from GMT increases as we move away from it. Bhutan is farthest from it among the options.\nMoving West from GMT - time decreases\nMoving East from GMT - time increases"
+            },
+            {
+              "id": 16,
+              "question": "Inhabitants are unaware of the speed of rotation of the planet Earth because\n1. The angular velocity is constant for each place on the Earth's surface.\n2. The atmosphere rotates with the Earth.\n3. There are no nearby objects, either stationary or moving at a rate different from that of the Earth.\nWhich of the above is/are the correct explanation(s)? [NDA I 2021]",
+              "options": [
+                "(a) 1 only",
+                "(b) 1 and 2 only",
+                "(c) 2 and 3 only",
+                "(d) 1, 2 and 3"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) 1, 2 and 3\nExplanation:- Angular velocity is same for all the places on Earth.\nAll objects on Earth and atmosphere moves with Earth, so we are unaware of Earth's rotation.\n1 rotation = 23 hours 56 mins 4 sec; Rotational speed is max at equator and min at poles."
+            },
+            {
+              "id": 17,
+              "question": "Which one of the following statements with respect to Global Positioning System (GPS) is not correct? [NDA I 2021]",
+              "options": [
+                "(a) It is based on network of satellites orbiting above the Earth.",
+                "(b) It is based on the system of triangulation.",
+                "(c) GPS receivers provide location in terms of latitude, longitude and altitude.",
+                "(d) It provides information exclusively for military operations."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) It provides information exclusively for military operations.\nExplanation:- GPS is a system of interconnected satellites used to provide location. It was developed for military operations but now is freely available for civilian use.\nNavIC (Navigation with Indian Constellation) - it is Indian navigation system similar to GPS."
+            },
+            {
+              "id": 18,
+              "question": "While watching the news, you hear about a place, of which you had never heard of before. You want to know more about the place and you want to locate it on the map. Which of the following is/are required for you to be able to locate the place on the map? [NDA I 2021]",
+              "options": [
+                "(a) Only latitude of the place",
+                "(b) Only longitude of the place",
+                "(c) Both longitude and latitude of the place",
+                "(d) Latitude, longitude and altitude of the place"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Both longitude and latitude of the place\nExplanation:- We can easily find the absolute location of a place by the intersection point of latitude and longitude. So, both are required."
+            },
+            {
+              "id": 19,
+              "question": "In a group discussion on shape and size of the Earth, three students stated the following points:\n1. Student 1: The shape of the Earth is basically an oblate spheroid.\n2. Student 2: The polar diameter of the Earth is more than the equatorial diameter.\n3. Student 3: Bulge along the equatorial region is due to the revolution of the Earth.\nWho among the above students is/are correct? [NDA I 2022]",
+              "options": [
+                "(a) Student 1 only",
+                "(b) Student 1 and Student 2 only",
+                "(c) Student 2 and Student 3 only",
+                "(d) Student 1, Student 2 and Student 3"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Student 1 only\nExplanation:- See solution of questions 1 and 7 (level 1)."
+            },
+            {
+              "id": 20,
+              "question": "The periodic rise and fall of ocean water in response to gravitational forces is called [NDA II 2021]",
+              "options": [
+                "(a) Current",
+                "(b) Waves",
+                "(c) Tides",
+                "(d) Tsunami"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Tides\nExplanation:- See solution 11.\nTides based on frequency - Semi diurnal tide - 2 high and 2 low tides each day; Diurnal tide - 1 high and 1 low tide each day; Mixed tide.\nTides based on height - Spring tide - greatest difference between high and low tide; Neap tide - smallest difference between high and low tide.\nTsunamis are giant waves caused by earthquakes or volcanic eruptions under the sea."
+            },
+            {
+              "id": 21,
+              "question": "The Prime Meridian does not pass through which one of the following African countries? [NDA II 2022]",
+              "options": [
+                "(a) Morocco",
+                "(b) Algeria",
+                "(c) Mali",
+                "(d) Ghana"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Morocco\nExplanation:- See solution of question 3 (level 1). GMT passes through 8 countries - UK, France, Spain, Algeria, Mali, Burkina Faso, Togo, Ghana."
+            },
+            {
+              "id": 22,
+              "question": "Which one of the following cities of the world would represent the greatest linear velocity of rotation of the Earth? [NDA II 2022]",
+              "options": [
+                "(a) Kampala, Uganda",
+                "(b) St. Petersburg, Russia",
+                "(c) Madrid, Spain",
+                "(d) Stockholm, Sweden"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Kampala, Uganda\nExplanation:- Linear velocity is higher near equator due to larger radius at equator. Kampala is located near equator so it would represent the greatest linear velocity among the given options."
+            },
+            {
+              "id": 23,
+              "question": "What will happen if you are flying east across the International Date Line? [NDA II 2022]",
+              "options": [
+                "(a) You will lose 12 hours",
+                "(b) You will gain 12 hours",
+                "(c) You will gain 24 hours",
+                "(d) You will lose 24 hours"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) You will gain 24 hours\nExplanation:- When we fly east across the International Date Line, we gain 24 hours."
+            },
+            {
+              "id": 24,
+              "question": "If it is 12 noon in New Delhi, what will be the time in London, UK? [NDA I 2023]",
+              "options": [
+                "(a) 6:30 A.M.",
+                "(b) 6:30 P.M.",
+                "(c) 5:30 A.M.",
+                "(d) 5:30 P.M."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) 6:30 A.M.\nExplanation:- Difference between New Delhi and London is 82.5° which translates to 5.5 hours. Since London is to the west of New Delhi so time there will be behind. So 12 - 5.5 = 6:30 A.M."
+            },
+            {
+              "id": 25,
+              "question": "Which of the following positions of Sun, Earth and Moon is/are suitable for Spring Tide?\n1. SYZYGY Conjunction\n2. SYZYGY Opposition\n3. Quadrature\nSelect the correct answer using the code given below: [NDA I 2023]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) 1 and 2",
+                "(d) 1 and 3"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) 1 and 2\nExplanation:- Spring tide occurs when Sun, Earth and Moon are in straight line (SYZYGY condition).\nSyzygy conjunction - Moon between Sun and Earth\nSyzygy opposition - Earth between Sun and moon\nQuadrature means when Sun, Earth and moon are at 90°. It is associated with Neap tides."
+            },
+            {
+              "id": 26,
+              "question": "Consider the following statements:\n1. Distance between the longitudes becomes zero on the North Pole and South Pole.\n2. Distance between the longitudes is maximum on the Equator.\n3. Number of longitudes is more than the number of latitudes.\nWhich of the statements given above is/are correct? [NDA I 2023]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) 1 and 3 only",
+                "(d) 1, 2 and 3"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) 1, 2 and 3\nExplanation:- See solution of questions 3 and 6 (level 1)."
+            },
+            {
+              "id": 27,
+              "question": "A geographical grid has:\n1. Lines that run east to west around the globe to mark latitude.\n2. Lines that run north to south from north pole to south pole indicate longitude.\nWhich of the statements given above is/are correct? [NDA II 2023]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) Both 1 and 2",
+                "(d) Neither 1 nor 2"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Both 1 and 2\nExplanation:- Geographical grid is formed when latitudes and longitudes intersect each other forming a grid. It is used to locate a place on the map."
+            },
+            {
+              "id": 28,
+              "question": "Consider the following statements regarding the International Date Line:\n1. It is roughly 180° meridian, which deviates slightly East and West to avoid land areas surrounded by the Atlantic Ocean.\n2. The date to the East of this line is (24 hours) earlier than to the West.\nWhich of the statements given above is/are correct? [NDA I 2024]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) Both 1 and 2",
+                "(d) Neither 1 nor 2"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) 2 only\nExplanation:- See solution 3. Statement 1 is partially correct. IDL moves East or West to avoid land areas surrounded by Pacific ocean and not the Atlantic ocean."
+            },
+            {
+              "id": 29,
+              "question": "Which of the following statements regarding neap tides is/are correct?\n1. It occurs every 14-15 days, which coincides with the first and third quarter of the Moon.\n2. This tide has a small tidal range because the gravitational forces of the Moon and the Sun are in quadrature.\nSelect the answer using the code given below: [NDA I 2024]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) Both 1 and 2",
+                "(d) Neither 1 nor 2"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Both 1 and 2\nExplanation:- See solution of questions 5 and 25 (level 2)."
+            },
+            {
+              "id": 30,
+              "question": "In which among the following states in India, the Sun rays are never perpendicular?\n1. Bihar\n2. Chhattisgarh\n3. Manipur\n4. Rajasthan\nSelect the answer using the code given below: [NDA II 2024]",
+              "options": [
+                "(a) 1 and 2",
+                "(b) 1 and 3",
+                "(c) 2 and 3",
+                "(d) 2 and 4"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) 1 and 3\nExplanation:- Sun rays are perpendicular between 23.5° N (Tropic of Cancer) and 23.5° S (Tropic of Capricorn). Bihar and Manipur lie above Tropic of Cancer, so they always experience slant rays.\nTropic of Cancer passes through 8 Indian states - Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram.\nDo you know that Mahi is the only Indian river to cross Tropic of Cancer twice?"
+            },
+            {
+              "id": 31,
+              "question": "Consider the following statements with respect to tides:\n1. The tidal bulges on wide continental shelves have greater height.\n2. When tides are channeled between islands, they are called tidal currents.\nWhich of the statements given above is/are correct? [CBI 2023]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) Both 1 and 2",
+                "(d) Neither 1 nor 2"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Both 1 and 2\nExplanation:- See solution of question 11 (level 2)."
+            },
+            {
+              "id": 32,
+              "question": "Which one of the following deserts is not located around 20°-30° latitude North or South of the Equator? [GEOSCIENTIST 2021]",
+              "options": [
+                "(a) Atacama",
+                "(b) Kalahari",
+                "(c) Great Victoria",
+                "(d) Gobi"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Gobi\nExplanation:- Gobi desert is not a tropical desert. It is located on the border of China and Mongolia.\nLocations of other deserts - Atacama desert - Northern Chile, Kalahari - South Africa, Great Victoria - Australia.\n3 major deserts of Australia - Sandy, Gibson, Victoria (TRICK - 7GB)."
+            },
+            {
+              "id": 33,
+              "question": "Which one of the following statements about North-facing slopes and South-facing slopes in the Northern Hemisphere is not correct? [GEOSCIENTIST 2022]",
+              "options": [
+                "(a) North-facing slopes are snow covered while South-facing slopes are bare.",
+                "(b) North-facing slopes get less intense radiation as compared to South-facing slopes.",
+                "(c) Snow on North-facing slopes is found at a lower altitude than South-facing slopes.",
+                "(d) Tree line characteristics on North facing slopes and South-facing slopes are similar."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Tree line characteristics on North facing slopes and South-facing slopes are similar.\nExplanation:- In NH, the northern slope of mountains receive less sunlight as compared to the southern slope, hence northern slope is snow covered. North facing slopes have lower tree line as compared to south facing slopes (tree line is the line on a mountain above which the trees don't grow)."
+            },
+            {
+              "id": 34,
+              "question": "You are located at 40° N latitude and 90° W longitude. You travel due North 40° then due East 60°. What are your new coordinates? [GEOSCIENTIST 2022]",
+              "options": [
+                "(a) 30° N and 80° E",
+                "(b) 80° S and 30° E",
+                "(c) 80° N and 30° W",
+                "(d) 80° N and 30° E"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) 80° N and 30° W\nExplanation:- Current location - 40° N, 90° W. Moving 40° due North gives 40° N + 40° = 80° N. When we move 60° east from 90° W then we are moving towards the prime meridian so our new longitude will be 90° W - 60° E = 30° W."
+            },
+            {
+              "id": 35,
+              "question": "The Prime Meridian (zero degree longitude) does not pass through which of the following country/countries?\n1. England\n2. France\n3. Portugal\n4. Scotland\nSelect the correct answer using the code given below: [GEOSCIENTIST 2024]",
+              "options": [
+                "(a) 1 and 2",
+                "(b) 2 and 3",
+                "(c) 3 and 4",
+                "(d) 3 only"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) 3 and 4\nExplanation:- The prime meridian passes through UK (England), France, Spain, Algeria, Mali, Burkina Faso, Togo, Ghana. It does not pass through Portugal or Scotland."
+            },
+            {
+              "id": 36,
+              "question": "In the northern hemisphere, the longest day of the year normally occurs in the: [IAS 2022]",
+              "options": [
+                "(a) First half of the month of June.",
+                "(b) Second half of the month of June.",
+                "(c) First half of the month of July.",
+                "(d) Second half of the month of July."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Second half of the month of June\nExplanation:- In the NH, the longest day is on 21 June (summer solstice) while in the SH, the longest day is on 22 December (winter solstice). On equinox, day and night are equal."
+            },
+            {
+              "id": 37,
+              "question": "On June 21 every year, which of the following latitude(s) experience(s) a sunlight of more than 12 hours?\n1. Equator\n2. Tropic of Cancer\n3. Tropic of Capricorn\n4. Arctic Circle\nSelect the correct answer using the code given below: [IAS 2024]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) 3 and 4",
+                "(d) 2 and 4"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) 2 and 4\nExplanation:- On 21 June (summer solstice), Sun is vertically over Tropic of Cancer (23.5° N). Hence NH experiences the longest day which lasts over 12 hours. During this time, North Pole experiences daylight of 24 hours, a phenomena known as 'Midnight sun'.\nEquator experiences the daylight of nearly 12 hours regardless of the position of the Sun.\nSun is vertically over Tropic of Capricorn (23.5° S) on 22 December (winter solstice)."
+            },
+            {
+              "id": 38,
+              "question": "If it is 10:00 a.m. at Greenwich Mean Time (GMT), then what will be the time at 90° E longitude? [CDS I 2023]",
+              "options": [
+                "(a) 5:00 a.m.",
+                "(b) 4:00 a.m.",
+                "(c) 3:00 p.m.",
+                "(d) 4:00 p.m."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) 4:00 p.m.\nExplanation:- Since 15° = 1 hour so 90° = 6 hours. Adding 6 hours to 10:00 a.m. we get 4:00 p.m."
+            },
+            {
+              "id": 39,
+              "question": "Consider the following lines of Longitude and Latitude:\n1. Prime Meridian\n2. Tropic of Cancer\n3. Equator\nWhich of the above lines is/are a Great Circle? [NDA I 2025]",
+              "options": [
+                "(a) 1, 2 and 3",
+                "(b) 1 and 2 only",
+                "(c) 1 and 3 only",
+                "(d) 3 only"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) 1 and 3 only\nExplanation:- All longitudes (including Prime Meridian with its opposite meridian) and the Equator are Great Circles. Tropic of Cancer is not a Great Circle."
+            },
+            {
+              "id": 40,
+              "question": "Which one of the following latitudes will experience a minimum angle of the Sun's rays when it is Summer Solstice in the Northern Hemisphere? [NDA I 2025]",
+              "options": [
+                "(a) Arctic Circle",
+                "(b) Equator",
+                "(c) Tropic of Cancer",
+                "(d) Tropic of Capricorn"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Tropic of Capricorn\nExplanation:- During Summer Solstice in the Northern Hemisphere (21 June), the Sun is directly overhead at the Tropic of Cancer (23.5° N), so the Tropic of Capricorn (23.5° S) is farthest among the given options and receives the Sun's rays at the minimum angle."
+            }
+          ]
         }
       ]
     }
