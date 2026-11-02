@@ -38200,6 +38200,312 @@
               "solutionHinglish": "Ans (d) 1, 2 and 3\nExplanation:- Mechanical weathering is a process where rocks break down into smaller pieces without changing their chemical composition.\nKey forces responsible for mechanical weathering are water pressure, ice, temperature changes, wind, gravitational force, expansion force etc."
             }
           ]
+        },
+        {
+          "id": "t_1793610264406",
+          "name": "Atmosphere and Water in Atmosphere - LEVEL I",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which of the following layers of the atmosphere means \"region of mixing\"? [SSC MTS 15/05/2023]",
+              "options": [
+                "(a) Stratosphere",
+                "(b) Troposphere",
+                "(c) Thermosphere",
+                "(d) Mesosphere"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Troposphere\nExplanation:- Troposphere (height - poles 8 km, equator 18 km, average 13 km) is the lowest layer of atmosphere. It is called zone of mixing. Temperature decreases with height in this layer which is called as Lapse Rate (1°C for every 165 m or 6.5°C for every 1 km). Tropopause separates troposphere from stratosphere."
+            },
+            {
+              "id": 2,
+              "question": "All the changes in climate and weather take place in ________. [SSC STENOGRAPHER 12/10/2023]",
+              "options": [
+                "(a) mesosphere",
+                "(b) troposphere",
+                "(c) thermosphere",
+                "(d) stratosphere"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Troposphere\nExplanation:- All the changes in climate and weather take place in troposphere.\nLayers of atmosphere :- Troposphere, Stratosphere, Mesosphere, Thermosphere, Exosphere (TRICK - Thanks So Much The Ex)."
+            },
+            {
+              "id": 3,
+              "question": "What is the height of the troposphere near the poles and the equator, respectively? [SSC STENOGRAPHER 13/10/2023]",
+              "options": [
+                "(a) 8 km and 18 km",
+                "(b) 16 km and 6 km",
+                "(c) 4 km and 16 km",
+                "(d) 18 km and 8 km"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) 8 km and 18 km\nExplanation:- The height of troposphere is more at equator because of the heated air that rises to greater heights."
+            },
+            {
+              "id": 4,
+              "question": "Which of the following statements is NOT correct regarding the stratosphere? [SSC CHSL 14/03/2023]",
+              "options": [
+                "(a) It lies above the mesosphere.",
+                "(b) It extends up to a height of 50 km.",
+                "(c) It contains a layer of ozone gas.",
+                "(d) This layer is almost free from clouds."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) It lies above the mesosphere.\nExplanation:- Stratosphere (12-50 km) - Second layer of atmosphere. It lies below mesosphere and above troposphere. It contains ozone layer (30-35 km). Temperature increases with altitude in this layer. This layer is almost free from clouds therefore ideal for flying aeroplanes.\nStratopause - divides stratosphere and mesosphere.\nDo you know that 16 September is observed as Ozone day (16 September 1987 - Montreal protocol; to phase out CFCs; Kigali amendment made to phase out HFCs)?\nDo you know that Ozone layer thickness is measured in Dobson unit?"
+            },
+            {
+              "id": 5,
+              "question": "In which layer of atmosphere do meteorites burn up on entering from space? [SSC CHSL 20/03/2023]",
+              "options": [
+                "(a) Stratosphere",
+                "(b) Thermosphere",
+                "(c) Mesosphere",
+                "(d) Exosphere"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Mesosphere\nExplanation:- Mesosphere (50-80 km) - Coldest layer of atmosphere. Meteorites burn in this layer. Temperature decreases with altitude (-100°C at the height of 80 km)."
+            },
+            {
+              "id": 6,
+              "question": "Above which layer of the atmosphere does the Exosphere lie? [SSC CHSL 19/10/2020]",
+              "options": [
+                "(a) Stratosphere",
+                "(b) Thermosphere",
+                "(c) Mesosphere",
+                "(d) Troposphere"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Thermosphere\nExplanation:- Exosphere (700-1000 km) - Uppermost layer of atmosphere. High earth orbit and mid earth orbit satellites are present in this layer."
+            },
+            {
+              "id": 7,
+              "question": "How much percentage of oxygen is present in the atmosphere? [SSC CGL 02/12/2022]",
+              "options": [
+                "(a) 39%",
+                "(b) 79%",
+                "(c) 10%",
+                "(d) 21%"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) 21%\nExplanation:- Composition of gases in Earth's atmosphere :- N2 - 78%, O2 - 21%, Ar - 0.9%, CO2 - 0.036%.\nEvolution of atmosphere - Loss of primordial atmosphere, Hot interior of Earth through volcanism, Modification by the living world."
+            },
+            {
+              "id": 8,
+              "question": "Which layer of atmosphere helps in radio transmission? [SSC CGL 02/12/2022]",
+              "options": [
+                "(a) Exosphere",
+                "(b) Thermosphere",
+                "(c) Mesosphere",
+                "(d) Stratosphere"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Thermosphere\nExplanation:- Thermosphere (80-700 km) - Hottest layer, temperature rises with altitude. International Space Station is present in this layer. Karman line (100 km) is located in this layer. Only layer having charged particles in it, which aids in communication.\nIonosphere is a part of thermosphere which reflects and modifies radio waves thereby helping in radio transmission."
+            },
+            {
+              "id": 9,
+              "question": "Atmospheric temperature does NOT depend on ________. [SSC PHASE XII 26/06/2024]",
+              "options": [
+                "(a) Salinity of oceans",
+                "(b) Altitude",
+                "(c) Distance from sea",
+                "(d) Latitude"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Salinity of oceans\nExplanation:- Atmospheric temperature depends on insolation, latitude, altitude, distance from sea etc.\nSalinity of oceans doesn't have any effect on atmospheric temperature."
+            },
+            {
+              "id": 10,
+              "question": "At what height do the Jet Streams blow in India during winter months? [SSC CPO 11/11/2022]",
+              "options": [
+                "(a) 9-15 km",
+                "(b) 9-17 km",
+                "(c) 9-16 km",
+                "(d) 9-13 km"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) 9-13 km\nExplanation:- Jet streams are fast-moving, narrow bands of air that flow from west to east around the Earth. During winter months, they blow at the height of 9-13 km in India.\nWesterly jet stream brings Mediterranean disturbances in India."
+            },
+            {
+              "id": 11,
+              "question": "Which of the following statements about the ionosphere is NOT correct? [SSC CPO 12/12/2019]",
+              "options": [
+                "(a) Radio wave transmitted from the earth are reflected back to the earth by this layer.",
+                "(b) It contains charged particles.",
+                "(c) It is ionized by solar and cosmic radiation.",
+                "(d) It is located immediately above the stratopause."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) It is located immediately above the stratopause.\nExplanation:- Ionosphere is a part of thermosphere which reflects and modifies radio waves thereby helping in radio transmission. Ionosphere is located immediately above the mesopause/mesosphere and not the stratopause."
+            },
+            {
+              "id": 12,
+              "question": "Which cycle shows the movement of water? [SSC CHSL 02/06/2022]",
+              "options": [
+                "(a) Carbon cycle",
+                "(b) Nitrogen cycle",
+                "(c) Geological cycle",
+                "(d) Hydrological cycle"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Hydrological cycle\nExplanation:- The water cycle is the motion of the water from the ground to the atmosphere and back again. The following processes are involved in the water cycle: evaporation, transpiration, condensation, precipitation, runoff."
+            },
+            {
+              "id": 13,
+              "question": "________ is a naturally occurring phenomenon that is responsible for the heating of the Earth's surface and atmosphere. [SSC CPO 25/11/2020]",
+              "options": [
+                "(a) Radiation",
+                "(b) Global warming",
+                "(c) Greenhouse effect",
+                "(d) Global heating"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Greenhouse effect\nExplanation:- The greenhouse effect is a natural process where certain gases in the Earth's atmosphere trap heat, preventing it from escaping into space and warming the planet, making it habitable.\nGreenhouse gases :- water vapour, CO2, CH4, N2O, O3.\nAtmosphere heats up due to - Conduction (transfer of heat through contact), Convection (vertical transfer of heat), Advection (horizontal transfer of heat - loo is a result of advection)."
+            },
+            {
+              "id": 14,
+              "question": "Cirrus and cumulus are types of ________. [SSC CHSL 19/10/2020]",
+              "options": [
+                "(a) Mountains",
+                "(b) Clouds",
+                "(c) Waves",
+                "(d) Soil"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Clouds\nExplanation:- Low level clouds - Nimbus (rain bearing, black/dark grey coloured, opaque to sunlight), Stratus (layered clouds).\nCumulus - flat base, wool shaped, 4000-7000 m.\nCirrus - high altitude, feathery appearance, doesn't rain.\nDo you know that Cumulonimbus clouds have extreme vertical development and are associated with cyclones?\nDo you know that the mackerel sky is formed by Cirrocumulus clouds which resemble the scales of mackerel fish?"
+            },
+            {
+              "id": 15,
+              "question": "Which environmental phenomenon has been linked to synthetic chemicals like chlorofluorocarbons (CFCs)? [SSC CHSL 19/10/2020]",
+              "options": [
+                "(a) Electromagnetic interference",
+                "(b) Tidal flow",
+                "(c) Ozone depletion",
+                "(d) Wave propagation"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Ozone depletion\nExplanation:- Ozone depletion means the thinning of ozone layer. It is mainly caused by chemicals like Chlorofluorocarbons (CFCs). CFCs are being replaced by hydrochlorofluorocarbons (HCFCs) and hydrofluorocarbons (HFCs)."
+            },
+            {
+              "id": 16,
+              "question": "What is mainly responsible for the increase in the greenhouse effect? [SSC CHSL 10/01/2024]",
+              "options": [
+                "(a) Increasing SO2 levels",
+                "(b) Ozone layer hole",
+                "(c) Chlorofluorocarbon content is rising",
+                "(d) Increasing CO2 concentration"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Increasing CO2 concentration\nExplanation:- See solution of question 13 (level 1)."
+            },
+            {
+              "id": 17,
+              "question": "________ is defined as the temperature to which the air would have to cool (at constant pressure and constant water vapour content) in order to reach saturation. [SSC CGL 13/04/2022]",
+              "options": [
+                "(a) Dew point temperature",
+                "(b) Air temperature",
+                "(c) Relative humidity",
+                "(d) Surface temperature"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Dew point temperature\nExplanation:- Dew point is the temperature at which the air becomes saturated (can hold no more water).\nCondensation takes place when the water vapour in air cools down to its dew point or when the air becomes saturated with moisture.\nDifferent forms of condensation - Dew (moisture that forms as a result of condensation), Fog (no solid surface needed, water vapour), Mist (condenses around hygroscopic particles), Frost (deposition of white ice crystals)."
+            },
+            {
+              "id": 18,
+              "question": "Which of the following steps is NOT involved in a Water Cycle? [SSC CHSL 17/08/2023]",
+              "options": [
+                "(a) Hydration",
+                "(b) Condensation",
+                "(c) Precipitation",
+                "(d) Evaporation"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Hydration\nExplanation:- The water cycle is the motion of the water from the ground to the atmosphere and back again. The following processes are involved in the water cycle: evaporation, transpiration, condensation, precipitation, runoff."
+            },
+            {
+              "id": 19,
+              "question": "In the context of mapping climate data, what term refers to a line drawn through all points on a map that contain the same amount of cloud? [SSC CHSL 10/08/2023]",
+              "options": [
+                "(a) Isohels",
+                "(b) Isocheim",
+                "(c) Isonephs",
+                "(d) Isochalaz"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Isonephs\nExplanation:- Isoneph - line connecting places having the same amount of cloud cover.\nIsohel - line connecting places having same duration of sunshine.\nIsocheim - line connecting places having same average temperature in winter.\nIsochalaz - line connecting places with the same frequency of hailstorms.\nIsohaline - line connecting places with the same salinity."
+            },
+            {
+              "id": 20,
+              "question": "One term for the continuous movement of water through the lithosphere, atmosphere, and hydrosphere is: [SSC CPO 26/06/2024]",
+              "options": [
+                "(a) Hydro equilibrium cycle",
+                "(b) Hydrological cycle",
+                "(c) Hydrostatical equilibrium",
+                "(d) Water circulation"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Hydrological cycle\nExplanation:- Hydrological cycle/Water cycle is the continuous movement of water through the lithosphere, atmosphere and hydrosphere."
+            },
+            {
+              "id": 21,
+              "question": "The zone separating the troposphere from the stratosphere is called the ________. [SSC CHSL 01/07/2024]",
+              "options": [
+                "(a) Stratopause",
+                "(b) Tropomerge",
+                "(c) Stratomerge",
+                "(d) Tropopause"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Tropopause\nExplanation:- Tropopause is the zone separating troposphere from the stratosphere. The temperature in tropopause remains constant.\nStratopause is the zone separating stratosphere from the mesosphere."
+            },
+            {
+              "id": 22,
+              "question": "Which of the following claims about chlorofluorocarbons (CFCs) is accurate? [SSC STENOGRAPHER 13/10/2023]",
+              "options": [
+                "(a) CFCs are used as refrigerants.",
+                "(b) CFCs are used as repairers of the troposphere.",
+                "(c) CFCs are used as fuel for air crafts.",
+                "(d) CFCs are used as repairers of the ozone layer."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) CFCs are used as refrigerants.\nExplanation:- CFCs (Chlorofluorocarbons) are man-made compounds containing chlorine, fluorine and carbon. They are used as refrigerants, solvents, and aerosol propellants. They are responsible for ozone layer depletion."
+            },
+            {
+              "id": 23,
+              "question": "Which of the following greenhouse gases is most abundant in the atmosphere? [SSC CGL 05/12/2022]",
+              "options": [
+                "(a) Water Vapour",
+                "(b) Nitrous Oxide",
+                "(c) Methane",
+                "(d) Carbon Oxide"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Water Vapour\nExplanation:- Water vapour is the most abundant greenhouse gas in the atmosphere, but in terms of human emissions, CO2 is the most important."
+            },
+            {
+              "id": 24,
+              "question": "Orographic rainfall occurs when ________. [SSC CHSL 02/07/2024]",
+              "options": [
+                "(a) The air masses collide at Intertropical Conversion Zone",
+                "(b) A cyclone makes a landfall",
+                "(c) Hot air rises up in conventional currents",
+                "(d) Saturated air mass comes across a mountain"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Saturated air mass comes across a mountain\nExplanation:- Rainfall is of 3 types:\nConvectional - occurs when surface of Earth is heated by Sun\nOrographic - occurs when saturated airmass comes across a mountain\nCyclonic - occurs due to cyclone\nIn Western Ghats, orographic rainfall takes place as the moist air is obstructed and forced to rise along the Ghats.\nCloud seeding - It is an artificial rain caused by spreading Silver Iodide in the clouds."
+            },
+            {
+              "id": 25,
+              "question": "International Day for the preservation of the Ozone layer is observed on ________. [SSC CHSL 16/03/2023]",
+              "options": [
+                "(a) September 13",
+                "(b) September 10",
+                "(c) September 16",
+                "(d) September 18"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) September 16\nExplanation:- 16 September is observed as Ozone day (16 September 1987 - Montreal protocol; to phase out CFCs)."
+            }
+          ]
         }
       ]
     }
