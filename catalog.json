@@ -35997,6 +35997,300 @@
               "solutionHinglish": "Ans (d)\nExplanation: Simple sentence mein agar 'adjective' diya ho, toh complex mein 'that/which' relative pronoun se clause banate hai, toh complex to simple mein 'that/which' relative pronoun se clause wala 'adjective' mein change, toh complex mein 'that was economically feasible and environmentally sustainable' yeh adjective clause hai, jo 'a policy' ke liye aaya hai, isliye 'The board approved an economically feasible and environmentally sustainable policy' wala option D sahi hoga. option C mein 'had approved' tense galat hai.\nNote:- meaning se bhi change kar sakte hai."
             }
           ]
+        },
+        {
+          "id": "t_1793638667040",
+          "name": "TRANSFORMATION - Simple & Compound",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Arriving at the research centre early, the interns organized the laboratory equipment.",
+              "options": [
+                "(a) The interns arrived early at the research centre, but they organized laboratory equipment.",
+                "(b) The interns arrived early at the research centre because they organized laboratory equipment.",
+                "(c) The interns arrived early at the research centre, and they organized laboratory equipment.",
+                "(d) The interns arrived early at the research centre although they organized laboratory equipment."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Simple sentence mein jab do kaam sequence mein ho rahe hote hai, toh compound mein pehle pehli cheez likhenge uske baad 'and' coordinate conjunction laga ke dusri cheez likhenge, aur tense same rahega, isliye 'The interns arrived early at the research centre, and they organized laboratory equipment' wala option C sahi hoga.\nNote:- meaning se bhi change kar sakte hai"
+            },
+            {
+              "id": 2,
+              "question": "Completing the strategic review, the board members approved the policy revisions unanimously.",
+              "options": [
+                "(a) The board completed the strategic review and it approved the policy revisions unanimously.",
+                "(b) The board completed the strategic review since they approved the policy revisions unanimously.",
+                "(c) The board completed the strategic review but it approved the policy revisions unanimously.",
+                "(d) The board completed the strategic review although they approved the policy revisions unanimously."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation: Simple sentence mein jab do kaam sequence mein ho rahe hote hai, toh compound mein pehle pehli cheez likhenge uske baad 'and' coordinate conjunction laga ke dusri cheez likhenge, aur tense same rahega. Isliye 'The board completed the strategic review and it approved the policy revisions unanimously' wala option A sahi hoga.\nNote:- meaning se bhi change kar sakte hai"
+            },
+            {
+              "id": 3,
+              "question": "The engineer finalized the design and he submitted the technical proposal.",
+              "options": [
+                "(a) The engineer finalized the design because he submitted the technical proposal.",
+                "(b) Finalizing the design, the engineer submitted the technical proposal.",
+                "(c) The engineer finalized the design to submit the technical proposal.",
+                "(d) The engineer finalized the design but he submitted the technical proposal."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Simple sentence mein jab ek ke baad dusri cheez ho rahi ho, toh compound mein pehle pehli cheez likhenge uske baad 'and' coordinate conjunction laga ke dusri cheez likhenge, toh compound to simple mein reverse hoga, isliye 'Finalizing the design, the engineer submitted the technical proposal' wala option B sahi hoga.\nNote:- meaning se bhi change kar sakte hai"
+            },
+            {
+              "id": 4,
+              "question": "Besides being analytical, the consultant demonstrates exceptional interpersonal communication.",
+              "options": [
+                "(a) The consultant is analytical but he demonstrates exceptional interpersonal communication.",
+                "(b) The consultant is analytical or demonstrates exceptional interpersonal communication.",
+                "(c) Not only is the consultant analytical but also he demonstrates exceptional interpersonal communication.",
+                "(d) The consultant is analytical because he demonstrates exceptional interpersonal communication."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation: Simple sentence mein agar 'besides being' diya ho, toh compound mein 'not only....... but also' se banayenge, isliye 'Not only is the consultant analytical but also he demonstrates exceptional interpersonal communication' wala option C sahi hoga.\nNote:- meaning se bhi change kar sakte hai"
+            },
+            {
+              "id": 5,
+              "question": "Besides being environmentally conscious, the organization invests in community development.",
+              "options": [
+                "(a) The organization is environmentally conscious since it invests in community development.",
+                "(b) Not only is the organization environmentally conscious but also it invests in community development.",
+                "(c) The organization is environmentally conscious yet it invests in community development.",
+                "(d) The organization is environmentally conscious although it invests in community development."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation: Simple sentence mein agar 'besides being' diya ho, toh compound mein 'not only....... but also' se banayenge, isliye 'Not only is the organization environmentally conscious but also it invests in community development' wala option B sahi hoga.\nNote:- meaning se bhi change kar sakte hai"
+            },
+            {
+              "id": 6,
+              "question": "Not only is the professor an inspiring lecturer but also he is a dedicated mentor.",
+              "options": [
+                "(a) Being an inspiring lecturer, the professor is a dedicated mentor.",
+                "(b) The professor is an inspiring lecturer but a dedicated mentor.",
+                "(c) Besides being an inspiring lecturer, the professor is a dedicated mentor.",
+                "(d) The professor is an inspiring lecturer so he is a dedicated mentor."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation: Simple sentence mein agar 'besides being' diya ho, toh compound mein 'not only....... but also' se banta hai, toh compound to simple mein reverse hoga, isliye 'besides being an inspiring lecturer' wala option C sahi hoga.\nNote:- meaning se bhi change kar sakte hai"
+            },
+            {
+              "id": 7,
+              "question": "In spite of encountering setbacks, the team delivered the software ahead of schedule.",
+              "options": [
+                "(a) The team encountered setbacks, but it delivered software ahead of schedule.",
+                "(b) The team encountered setbacks because it delivered software ahead of schedule.",
+                "(c) The team encountered setbacks although it delivered software ahead of schedule.",
+                "(d) The team encountered setbacks, so it delivered software ahead of schedule."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Simple sentence mein agar 'in spite of/despite' preposition di gayi ho, toh compound mein 'but' coordinate conjunction se banate hai, isliye 'The team encountered setbacks, but it delivered software ahead of schedule' wala option A sahi hoga.\nNote:- meaning se bhi change kar sakte hai"
+            },
+            {
+              "id": 8,
+              "question": "Despite facing opposition, the committee implemented reforms.",
+              "options": [
+                "(a) The committee faced opposition, but it implemented reforms.",
+                "(b) The committee faced opposition because it implemented reforms.",
+                "(c) The committee faced opposition although it implemented reforms.",
+                "(d) The committee faced opposition, so it implemented reforms."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Simple sentence mein agar 'in spite of/despite' preposition di gayi ho, toh compound mein 'but' coordinate conjunction se banate hai, isliye 'The committee faced opposition, but it implemented reforms' wala option A sahi hoga.\nNote:- meaning se bhi change kar sakte hai"
+            },
+            {
+              "id": 9,
+              "question": "The expedition team was exhausted but it continued the ascent.",
+              "options": [
+                "(a) Being exhausted, the team continued the ascent.",
+                "(b) Because the team was exhausted, it continued the ascent.",
+                "(c) In spite of being exhausted, the team continued the ascent.",
+                "(d) The team was exhausted although it continued the ascent."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation: Simple sentence mein agar 'in spite of/despite' preposition di gayi ho, toh compound mein 'but' coordinate conjunction se banate hai, toh compound to simple mein reverse ho jayega, isliye 'in spite of being exhausted, the team continued the ascent' wala option C sahi hoga.\nNote:- meaning se bhi change kar sakte hai."
+            },
+            {
+              "id": 10,
+              "question": "You must adhere to the project timeline to ensure timely completion.",
+              "options": [
+                "(a) You must adhere to the project timeline because you ensure timely completion.",
+                "(b) You must adhere to the project timeline, or you will not ensure timely completion.",
+                "(c) You must adhere to the project timeline although you ensure timely completion.",
+                "(d) You must adhere to the project timeline so that you ensure timely completion."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Jab simple sentence mein advice di jaaye ki vyakti ko kuch achieve karne ke liye kuch karna hoga, toh compound sentence 'person must do..... or the person will not' structure se banega, isliye 'You must adhere to the project timeline, or you will not ensure timely completion' wala option B sahi hoga.\nNote:- meaning se bhi change kar sakte hai."
+            },
+            {
+              "id": 11,
+              "question": "Students must practice regularly to perform confidently in the exam.",
+              "options": [
+                "(a) Students must practice regularly so that they will perform confidently in the exam.",
+                "(b) Students must practice regularly since they will perform confidently in the exam.",
+                "(c) Students must practice regularly, or they will not perform confidently in the exam.",
+                "(d) Students must practice regularly although they will perform confidently in the exam."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Jab simple sentence mein advice di jaaye ki kisi vyakti ko kuch achieve karne ke liye kuch karna hoga, toh compound sentence 'person must do............or the person will not' structure se banega, isliye 'Students must practice regularly, or they will not perform confidently in the exam' wala option C sahi hoga.\nNote:- meaning se bhi change kar sakte hai."
+            },
+            {
+              "id": 12,
+              "question": "You must verify the data carefully or you will produce inaccurate results.",
+              "options": [
+                "(a) Verifying the data carefully, you will produce inaccurate results.",
+                "(b) If you don't verify the data carefully, you will produce inaccurate results.",
+                "(c) You must verify the data carefully to avoid producing inaccurate results.",
+                "(d) You must verify the data carefully although you produce inaccurate results."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Jab simple sentence mein advice di jaaye ki vyakti ko kuch achieve karne ke liye kuch karna hoga, toh compound sentence 'person must do......or the person will not' structure se banega, toh compound to simple mein reverse ho jayega, isliye 'You must verify the data carefully to avoid producing inaccurate results' wala option C sahi hoga.\nNote:- meaning se bhi change kar sakte hai"
+            },
+            {
+              "id": 13,
+              "question": "The witness must reveal the truth to avoid being prosecuted.",
+              "options": [
+                "(a) The witness must reveal the truth so that he will not be prosecuted.",
+                "(b) The witness must reveal the truth, or he will be prosecuted.",
+                "(c) The witness must reveal the truth because he will be prosecuted.",
+                "(d) The witness must reveal the truth, and he will be prosecuted."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Jab simple sentence mein kaha jaaye ki vyakti ko kuch karna hoga 'escape/avoid' karne ke liye, toh compound mein 'person must do.......or the person will + verb / will be + verb's past participle' structure se banega, isliye 'The witness must reveal the truth, or he will be prosecuted' wala option B sahi hoga.\nNote:- meaning se bhi change kar sakte hai"
+            },
+            {
+              "id": 14,
+              "question": "The company must comply with standards to avoid being penalized.",
+              "options": [
+                "(a) The company must comply with standards, and it will be penalized.",
+                "(b) The company must comply with standards, or it will be penalized.",
+                "(c) The company must comply with standards since it will be penalized.",
+                "(d) The company must comply with standards so that it will not be penalized."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Jab simple sentence mein kaha jaaye ki vyakti ko kuch karna hoga 'escape/avoid' karne ke liye, toh compound mein 'person must do.......or the person will + verb / will be + verb's past participle' structure se banega, isliye 'The company must comply with standards, or it will be penalized' wala option B sahi hoga.\nNote:- meaning se bhi change kar sakte hai"
+            },
+            {
+              "id": 15,
+              "question": "The suspect must cooperate or he will be detained.",
+              "options": [
+                "(a) Cooperating, the suspect will be detained.",
+                "(b) If he cooperates, he will not be detained.",
+                "(c) The suspect must cooperate to avoid being detained.",
+                "(d) The suspect must cooperate so he will not be detained."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Jab simple sentence mein kaha jaaye ki vyakti ko kuch karna hoga 'escape/avoid' karne ke liye, toh compound mein 'person must do.......or the person will + verb / will be + verb's past participle' structure se banega, toh compound to simple mein reverse hoga, isliye 'The suspect must cooperate to avoid being detained' wala option C sahi hoga.\nNote:- meaning se bhi change kar sakte hai."
+            },
+            {
+              "id": 16,
+              "question": "The athlete trained rigorously to achieve peak performance.",
+              "options": [
+                "(a) The athlete trained rigorously although he achieved performance.",
+                "(b) The athlete trained rigorously because he achieved performance.",
+                "(c) The athlete trained rigorously and he achieved peak performance.",
+                "(d) The athlete trained rigorously since he achieved performance."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Jab simple sentence mein yeh bataya jaaye ki kuch paane ke liye kisi ne kuch kiya aur 'to+v1' infinitive aaya ho, toh compound sentence mein 'and' conjunction se banayenge, isliye 'The athlete trained rigorously and he achieved peak performance' option C sahi hoga.\nNote:- meaning se bhi change kar sakte hai."
+            },
+            {
+              "id": 17,
+              "question": "The research team collaborated extensively to produce findings.",
+              "options": [
+                "(a) The research team collaborated extensively then it produced findings.",
+                "(b) The research team collaborated extensively and it produced findings.",
+                "(c) The research team collaborated extensively although it produced findings.",
+                "(d) The research team collaborated extensively because it produced findings."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Jab simple sentence mein yeh bataya jaaye ki kuch paane ke liye kisi ne kuch kiya aur 'to+v1' infinitive aaya ho, toh compound sentence mein 'and' conjunction se banayenge, isliye 'The research team collaborated extensively and it produced findings' wala option B sahi hoga.\nNote:- meaning se bhi change kar sakte hai."
+            },
+            {
+              "id": 18,
+              "question": "The entrepreneur invested strategically and he expanded globally.",
+              "options": [
+                "(a) The entrepreneur invested strategically to expand globally.",
+                "(b) The entrepreneur invested strategically although he expanded globally.",
+                "(c) Because he invested strategically, he expanded globally.",
+                "(d) The entrepreneur invested strategically yet expanded globally."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Jab simple sentence mein yeh bataya jaaye ki kuch paane ke liye kisi ne kuch kiya aur 'to+v1' infinitive aaya ho, toh compound sentence mein 'and' conjunction se banate hai, toh compound to simple mein reverse ho jayega, isliye 'The entrepreneur invested strategically to expand globally' option A sahi hoga.\nNote:- meaning se bhi change kar sakte hai."
+            },
+            {
+              "id": 19,
+              "question": "Being extremely motivated, the candidate pursued his research abroad.",
+              "options": [
+                "(a) The candidate was extremely motivated, but he pursued his research abroad.",
+                "(b) The candidate was extremely motivated, so he pursued his research abroad.",
+                "(c) The candidate was extremely motivated to pursue his research abroad.",
+                "(d) The candidate was extremely motivated because he pursued his research abroad."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Agar simple sentence mein kisi person ke kuch karne ka kaaran (cause) bataya jaaye, toh compound mein do clause ko 'so' conjunction se jodke banayenge, isliye 'The candidate was extremely motivated, so he pursued his research abroad' wala option B sahi hoga.\nNote:- meaning se bhi change kar sakte hai."
+            },
+            {
+              "id": 20,
+              "question": "Being financially independent, she made confident investments.",
+              "options": [
+                "(a) She was financially independent, but she made investments.",
+                "(b) She was financially independent when she made investments.",
+                "(c) She was financially independent because she made investments.",
+                "(d) She was financially independent, so she made investments."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Agar simple sentence mein kisi person ke kuch karne ka kaaran (cause) bataye, toh compound mein do clause ko 'so' conjunction se jodke banayenge. isliye 'She was financially independent, so she made investments' wala option D sahi hoga.\nNote:- meaning se bhi change kar sakte hai."
+            },
+            {
+              "id": 21,
+              "question": "He was committed to innovation so he explored unconventional solutions.",
+              "options": [
+                "(a) He was committed to innovation although he explored unconventional solutions.",
+                "(b) Because he was committed to innovation, he explored unconventional solutions.",
+                "(c) He was committed to innovation to explore unconventional solutions.",
+                "(d) Being committed to innovation, he explored unconventional solutions."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Agar simple sentence mein kisi person ke kuch karne ka kaaran (cause) bataye, toh compound mein do clause ko 'so' conjunction se jodke banate hai, aur compound to simple mein reverse ho jayega, isliye 'Being committed to innovation, he explored unconventional solutions' wala option D sahi hoga.\nNote:- meaning se bhi change kar sakte hai."
+            },
+            {
+              "id": 22,
+              "question": "The organization rewarded the employee for his dedication towards the growth of the organization.",
+              "options": [
+                "(a) The employee showed dedication towards the growth of the organization because the organization rewarded him.",
+                "(b) The employee showed dedication towards the growth of the organization, and the organization rewarded him.",
+                "(c) The employee showed dedication towards the growth of the organization, so the organization rewarded him.",
+                "(d) The employee showed dedication towards the growth of the organization, but the organization did not reward him."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Agar simple sentence mein 'for' likha ho, aur iske pehle result aur iske baad kaaran (cause) likha ho, toh compound mein cause ko 'so, and therefore' conjunction se jodke result likhenge, isliye 'The employee showed dedication towards the growth of the organization, so the organization rewarded him' wala option C sahi hoga. option B 'and' wala bhi grammatically theek hai lekin result type baat karni hai, isliye 'so' wala prefer hoga.\nNote:- meaning se bhi change kar sakte hai."
+            },
+            {
+              "id": 23,
+              "question": "The committee appreciated the researcher for her contribution to the project.",
+              "options": [
+                "(a) The researcher contributed to the project, so the committee appreciated her.",
+                "(b) The researcher contributed to the project, and the committee appreciated her.",
+                "(c) The researcher contributed to the project because the committee appreciated her.",
+                "(d) The researcher contributed to the project yet the committee appreciated her."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Agar simple sentence mein 'for' likha ho, aur iske pehle result aur iske baad kaaran (cause) likha ho, toh compound mein cause ko 'so, and therefore' conjunction se jodke result likhenge, isliye 'The researcher contributed to the project, so the committee appreciated her' wala option A sahi hoga. option B 'and' wala bhi grammatically theek hai lekin result type baat karni hai, isliye 'so' wala prefer hoga.\nNote:- meaning se bhi change kar sakte hai."
+            },
+            {
+              "id": 24,
+              "question": "The engineer demonstrated precision so the organization entrusted him with projects.",
+              "options": [
+                "(a) Because he demonstrated precision, the organization entrusted him with projects.",
+                "(b) The organization entrusted the engineer with projects for his precision.",
+                "(c) He demonstrated precision to entrust him with projects.",
+                "(d) After being entrusted with the project the engineer demonstrated precision."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Agar simple sentence mein 'for' likha ho, aur iske pehle result likha ho aur iske baad kaaran (cause) likha ho, toh compound mein cause ko 'so, and therefore' conjunction se jodke result likhte hai, toh compound to simple mein reverse ho jayega, isliye 'The organization entrusted the engineer with projects for his precision' wala option B sahi hoga.\nNote:- meaning se bhi change kar sakte hai"
+            }
+          ]
         }
       ]
     },
