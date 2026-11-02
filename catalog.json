@@ -35871,6 +35871,132 @@
               "solutionHinglish": "Ans (a)\nExplanation:- Simple sentence mein agar noun ke liye 'adjective' diya ho toh, complex mein 'that/which' relative pronoun se clause banate hai, isliye 'She bought a chair which was comfortable' wala option A sahi hoga.\nNote:- meaning se bhi simple to complex change kar sakte hai."
             }
           ]
+        },
+        {
+          "id": "t_1793638635995",
+          "name": "TRANSFORMATION - Complex to Simple",
+          "questions": [
+            {
+              "id": 1,
+              "question": "When the compliance officer reviewed the internal audit findings carefully, she forwarded the corrective action plan to senior management.",
+              "options": [
+                "(a) Because the compliance officer reviewed the internal audit findings carefully, she forwarded the corrective action plan to senior management.",
+                "(b) The compliance officer reviewed the internal audit findings carefully and she forwarded the corrective action plan to senior management.",
+                "(c) Reviewing the internal audit findings carefully, the compliance officer forwarded the corrective action plan to senior management.",
+                "(d) Having reviewed the internal audit findings carefully, the compliance officer was forwarding the corrective action plan to senior management."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Complex to simple jaate waqt simple sentence mein koi bhi conjunction ka use nahi hota, isliye do clause ko jodne waali 'because' aur 'and' conjunction waale option A aur B galat honge. Complex to simple mein tense aur meaning same rehna chaiye, isliye option D 'was forwarding' galat hoga, isliye 'reviewing the internal audit findings' wala option C sahi hoga.\nNote:- meaning se bhi change kar sakte hai"
+            },
+            {
+              "id": 2,
+              "question": "Since the technical staff were unfamiliar with the upgraded automation interface, they organized detailed orientation sessions before deployment.",
+              "options": [
+                "(a) The technical staff were unfamiliar with the upgraded automation interface so they organized detailed orientation sessions before deployment.",
+                "(b) Because the technical staff are unfamiliar with the upgraded automation interface, they organized detailed orientation sessions before deployment.",
+                "(c) Having unfamiliar with the upgraded automation interface, the technical staff organized detailed orientation sessions before deployment.",
+                "(d) Being unfamiliar with the upgraded automation interface, the technical staff organized detailed orientation sessions before deployment."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Complex to simple jaate waqt simple sentence mein koi bhi conjunction ka use nahi hota hai, isliye do clause ko jodne waali 'so' aur 'because' conjunction waale option A aur B galat honge. Option C bhi galat hoga kyunki 'having' ke baad 'v3' aata hai kyunki yeh 'perfect participle' ka structure hota hai, isliye meaning aur tense wise 'being unfamiliar with the upgraded automation interface' wala option D sahi hoga.\nNote:- meaning se bhi change kar sakte hai"
+            },
+            {
+              "id": 3,
+              "question": "The documentation requirements were so extensive that the legal team could not finalize the agreement within the stipulated timeframe.",
+              "options": [
+                "(a) The documentation requirements were too extensive for the legal team to finalize the agreement within the stipulated timeframe.",
+                "(b) The documentation requirements were extensive and the legal team could not finalize the agreement within the stipulated timeframe.",
+                "(c) The documentation requirements were too extensive so the legal team could not finalize the agreement within the stipulated timeframe.",
+                "(d) Because the documentation requirements were extensive, the legal team could not finalize the agreement within the stipulated timeframe."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Complex to simple jaate waqt simple sentence mein koi bhi conjunction ka use nahi hota hai, isliye do clause ko jodne 'and', 'so' and 'because' conjunction waale option B, C and D galat honge. Aur waise bhi simple sentence mein 'too.....to' wala structure, complex mein 'so...that' waale structure mein change hota hai, toh complex to simple mein 'so...that' wala 'too.......to' waale structure mein change hoga, isliye 'were too extensive for the legal team to finalize' wala option A sahi hoga.\nNote:- meaning se bhi change kar sakte hai"
+            },
+            {
+              "id": 4,
+              "question": "The organization implemented multi-layer encryption mechanisms so that confidential customer data could remain protected during transmission.",
+              "options": [
+                "(a) The organization had implemented multi-layer encryption mechanisms protecting confidential customer data during transmission.",
+                "(b) Because the organization implemented multi-layer encryption mechanisms, confidential customer data remained protected during transmission.",
+                "(c) The organization implemented multi-layer encryption mechanisms and confidential customer data remained protected during transmission.",
+                "(d) The organization implemented multi-layer encryption mechanisms to protect confidential customer data during transmission."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Complex to simple jaate waqt simple sentence mein koi bhi conjunction ka use nahi hota hai, isliye do clause ko jodne waali 'because' aur 'and' conjunction waale option B aur C galat honge. Option A mein 'had implemented' galat tense ka use kiya hai isliye galat hoga. Aur waise bhi simple sentence mein 'to +v1' infinitive wala structure, complex mein 'so that' waale structure mein change hota hai, toh complex to simple mein 'so that' wala 'to +v1' infinitive waale structure mein change hoga, isliye 'multi-layer mechanisms to protect confidential customer data' wala option D sahi hoga.\nNote:- meaning se bhi change kar sakte hai"
+            },
+            {
+              "id": 5,
+              "question": "Although they encountered persistent equipment failures, the scientists completed the environmental impact assessment.",
+              "options": [
+                "(a) Encountering persistent equipment failures, the scientists completed the environmental impact assessment.",
+                "(b) In spite of encountering persistent equipment failures, the scientists completed the environmental impact assessment.",
+                "(c) The scientists encountered persistent equipment failures and they completed the environmental impact assessment.",
+                "(d) Because the scientists encountered persistent equipment failures, they completed the environmental impact assessment."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Simple sentence mein conjunction ka use nahi hota, isliye do clause jo jodne waali 'and' aur 'because' conjunction wale option C aur D galat honge. Kyunki contradiction dikhaana hai, simple sentence mein 'in spite of, despite' wala structure, complex mein 'although, though' waale structure mein change hota hai, toh complex to simple mein 'although, though' wala 'in spite of, despite' waale structure mein change hoga, isliye 'In spite of encountering persistent equipment failures' wala option B sahi hoga.\nNote:- meaning se bhi change kar sakte hai"
+            },
+            {
+              "id": 6,
+              "question": "Since the data server was temporarily offline due to scheduled maintenance, remote monitoring operations were halted.",
+              "options": [
+                "(a) Because the data server was temporarily offline due to scheduled maintenance, remote monitoring operations were halted.",
+                "(b) The data server had been temporarily offline due to scheduled maintenance, remote monitoring operations were halted.",
+                "(c) The data server was temporarily offline due to scheduled maintenance and remote monitoring operations were halted.",
+                "(d) Because of the temporary offline status of the data server due to scheduled maintenance, remote monitoring operations were halted."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Simple sentence mein conjunction ka use nahi hota, isliye do clause jo jodne waali 'because' aur 'and' conjunction wale option A aur C galat honge. Option B mein 'had been' galat tense ka use hai, isliye B galat hoga. Simple sentence mein 'because of' preposition di gayi ho, complex mein 'since, as, because' waale conjunction se banate hai, toh complex to simple mein 'since, as, because' wala 'because of' preposition mein change hoga, isliye 'Because of the temporary offline status of the data server' wala option D sahi hoga.\nNote:- meaning se bhi change kar sakte hai"
+            },
+            {
+              "id": 7,
+              "question": "The surveillance officer noticed a vehicle that was moving suspiciously near the restricted perimeter.",
+              "options": [
+                "(a) The surveillance officer noticed a vehicle moving suspiciously near the restricted perimeter.",
+                "(b) The surveillance officer noticed a vehicle and it was moving suspiciously near the restricted perimeter.",
+                "(c) The surveillance officer had noticed a vehicle moving suspiciously near the restricted perimeter.",
+                "(d) Because the vehicle was moving suspiciously near the restricted perimeter, the surveillance officer noticed it."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Simple sentence mein conjunction ka use nahi hota, isliye do clause jo jodne waali 'and' aur 'because' conjunction wale option B aur D galat honge. Simple sentence mein agar 'object + present participle' diya ho, toh complex mein 'object + object ke according relative pronoun' structure se banta hai, toh complex to simple mein 'object + relative pronoun' wala 'object + present participle' mein change hoga, isliye 'surveillance officer noticed a vehicle moving suspiciously' wala option A sahi hoga. option C mein 'had noticed' galat tense use hua hai.\nNote:- meaning se bhi change kar sakte hai"
+            },
+            {
+              "id": 8,
+              "question": "If the technicians do not calibrate the monitoring equipment regularly, significant measurement inaccuracies may arise.",
+              "options": [
+                "(a) The technicians do not calibrate the monitoring equipment regularly and significant measurement inaccuracies may arise.",
+                "(b) Without calibrated the monitoring equipment regularly, significant measurement inaccuracies may arise.",
+                "(c) Without calibrating the monitoring equipment regularly, significant measurement inaccuracies may arise.",
+                "(d) Because the technicians do not calibrate the monitoring equipment regularly, significant measurement inaccuracies may arise."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Simple sentence mein agar 'without' preposition ho, toh complex mein 'if / in case' mein change karte hai, toh complex to simple mein 'if / in case' wala 'without' preposition mein change hoga, isliye 'Without calibrating the monitoring equipment regularly' wala option C sahi hoga. jisme 'without' preposition hai aur 'calibrating' gerund preposition ka object. Option B mein 'calibrated' past participle (adjective) 'without' preposition ka object nahi ban payega. Isliye option B galat hai."
+            },
+            {
+              "id": 9,
+              "question": "The control panel malfunctioned when engineers were performing advanced diagnostic adjustments.",
+              "options": [
+                "(a) The engineers were performing advanced diagnostic adjustments and the control panel malfunctioned.",
+                "(b) Because engineers were performing advanced diagnostic adjustments, the control panel malfunctioned.",
+                "(c) The control panel malfunctioned at the time of performing advanced diagnostic adjustments.",
+                "(d) The control panel had malfunctioned at the time of performing advanced diagnostic adjustments."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Simple sentence mein agar 'at the time' diya ho, toh complex mein 'when/while' mein change karte hai, toh complex to simple mein 'when/while' wala 'at the time' mein change hoga, isliye 'The control panel malfunctioned at the time of performing' wala option C sahi hoga. option D mein 'had malfunctioned' galat tense ka use kiya hai.\nNote:- meaning se bhi change kar sakte hai"
+            },
+            {
+              "id": 10,
+              "question": "The board approved a policy that was economically feasible and environmentally sustainable.",
+              "options": [
+                "(a) Because the policy was economically feasible and environmentally sustainable, the board approved it.",
+                "(b) The board approved a policy and it was economically feasible and environmentally sustainable.",
+                "(c) The board had approved an economically feasible and environmentally sustainable policy.",
+                "(d) The board approved an economically feasible and environmentally sustainable policy."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation: Simple sentence mein agar 'adjective' diya ho, toh complex mein 'that/which' relative pronoun se clause banate hai, toh complex to simple mein 'that/which' relative pronoun se clause wala 'adjective' mein change, toh complex mein 'that was economically feasible and environmentally sustainable' yeh adjective clause hai, jo 'a policy' ke liye aaya hai, isliye 'The board approved an economically feasible and environmentally sustainable policy' wala option D sahi hoga. option C mein 'had approved' tense galat hai.\nNote:- meaning se bhi change kar sakte hai."
+            }
+          ]
         }
       ]
     },
