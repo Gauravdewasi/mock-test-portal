@@ -39244,6 +39244,480 @@
               "solutionHinglish": "Ans (a) 1 only\nExplanation:- Sleet is a form of precipitation composed of small ice pellets (frozen raindrops and refrozen melted snow-water). It forms when a layer of air with temperature above freezing point overlies a subfreezing layer near the ground surface."
             }
           ]
+        },
+        {
+          "id": "t_1793610354069",
+          "name": "Winds, Cyclones and Ocean Currents - LEVEL I",
+          "questions": [
+            {
+              "id": 1,
+              "question": "The day-to-day condition of the atmosphere at a place with respect to the temperature, humidity, rainfall, wind speed, etc. is called ________ at that place. [SSC MTS 16/06/2023]",
+              "options": [
+                "(a) Climate",
+                "(b) Weather",
+                "(c) Environment",
+                "(d) Ecology"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Weather\nExplanation:- Weather means the short term state of atmosphere at a specific place and time including elements like temperature, humidity, wind, and precipitation.\nClimate refers to the average weather conditions of a particular location over a period of 30 years."
+            },
+            {
+              "id": 2,
+              "question": "The weather pattern formed on the basis of weather data collected for a place over a long period of time, say 25 years, is called ________ of that place. [SSC MTS 14/06/2023]",
+              "options": [
+                "(a) Ecology",
+                "(b) Climate",
+                "(c) Landforms",
+                "(d) Environment"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Climate\nExplanation:- Climate is the average of weather conditions of a location over a long time (typically 30 years)."
+            },
+            {
+              "id": 3,
+              "question": "What type of climate is found in North Western Europe, West Coast of North America, North of California, Southern Chile, South-eastern Australia, and New Zealand? [SSC CPO 04/10/2023]",
+              "options": [
+                "(a) Tropical wet and dry climate",
+                "(b) Cold snow forest climate",
+                "(c) Marine west coast climate",
+                "(d) Subtropical steppe climate"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Marine west coast climate\nExplanation:- Marine west coast climate is located polewards from the Mediterranean climate on the west coast of continents. Due to marine influence, the temperature is moderate and in winter, it is warmer for its latitude. Precipitation occurs throughout the year.\nKoeppen climatic classification (1884) - empirical climatic classification. 5 major climatic groups :-\nA - Tropical (average temperature of the coldest month is 18°C or higher).\nB - Dry climate (S - steppe, W - desert) (potential evaporation exceeds precipitation).\nC - Warm Temperate (average temperature of the coldest month is higher than -3°C but below 18°C).\nD - Cold snow forest (average temperature of the coldest month is -3°C or below).\nE - Polar type/tundra (average temperature for all months is below 10°C).\nw - winter dry, s - summer dry, m - monsoon, f - full baarish."
+            },
+            {
+              "id": 4,
+              "question": "Which of the following statements is correct regarding the climate of the Indian subcontinent? [SSC CPO 03/10/2023]\nI. The climate of North India remains similar throughout the year.\nII. The Himalayas protect the subcontinent from extremely cold winds from central Asia.",
+              "options": [
+                "(a) Only Statement A is correct",
+                "(b) Both Statements A and B incorrect",
+                "(c) Only Statement B is correct",
+                "(d) Both Statements A and B correct"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Only Statement B is correct\nExplanation:- The climate of India is defined as tropical monsoon climate with distinct seasons and significant rainfall during the summers. The Himalayas protect the subcontinent from extremely cold winds from central Asia. The climate of North India doesn't remain similar and changes considerably due to continentality.\nContinentality - when a region is located in the interior of the continent, the moderating influence of sea decreases and hence such region experiences extreme weather conditions."
+            },
+            {
+              "id": 5,
+              "question": "How many controls are there globally that influence the climate of a particular zone? [SSC CPO 03/10/2023]",
+              "options": [
+                "(a) 6",
+                "(b) 8",
+                "(c) 5",
+                "(d) 3"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) 6\nExplanation:- There are 6 factors that affect the climate of a particular zone. They are:- Latitude, Altitude, Ocean currents, Pressure and wind system, Distance from sea and Relief features."
+            },
+            {
+              "id": 6,
+              "question": "Which of the following statements about climate is INCORRECT? [SSC CHSL 03/07/2024]",
+              "options": [
+                "(a) 'Monsoon' type of climate is found mainly in south and southeast Asia.",
+                "(b) India's climate has characteristics of tropical as well as subtropical climates.",
+                "(c) Coastal areas of India experience less contrasts in temperature conditions as compared to the interior of the country.",
+                "(d) India experiences comparatively stronger winters as compared to central Asia."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) India experiences comparatively stronger winters as compared to central Asia.\nExplanation:- South and Southeast Asia has 'monsoon' type of climate. India has characteristics of both tropical and subtropical climates. Coastal areas of India experience less contrasts in temperature conditions as compared to the interior of the country because of moderating influence of sea. India experiences milder winters as compared to central Asia."
+            },
+            {
+              "id": 7,
+              "question": "What type of climate do the two island regions of India, Lakshadweep and Andaman and Nicobar Islands experience? [SSC CHSL 06/06/2022]",
+              "options": [
+                "(a) Humid subtropical climate",
+                "(b) Hot semi-arid climate",
+                "(c) Tropical warm climate",
+                "(d) Subtropical highland climate"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Tropical warm climate\nExplanation:- Lakshadweep and Andaman and Nicobar experience tropical warm climate, characterised by warm humid conditions year-round with distinct wet and dry seasons influenced by monsoon."
+            },
+            {
+              "id": 8,
+              "question": "Which of the following factors does NOT control the climate of a place? [SSC CPO 27/06/2024]",
+              "options": [
+                "(a) Relief features",
+                "(b) Latitude",
+                "(c) Ocean currents",
+                "(d) Distance between two cities"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Distance between two cities\nExplanation:- The climate of a place is affected by 6 factors - Latitude, Altitude, Ocean currents, Pressure and wind system, Distance from sea and Relief features."
+            },
+            {
+              "id": 9,
+              "question": "Which of the following is incorrectly matched? [SSC CGL 18/07/2023]",
+              "options": [
+                "(a) Montane climate - Uttar Pradesh, Bihar and Jharkhand",
+                "(b) Tropical monsoon climate - The Western Ghats, the Malabar Coast and Southern Assam",
+                "(c) Tropical semi-arid (steppe) climate - Karnataka, central Maharashtra, some parts of Tamil Nadu and Andhra Pradesh",
+                "(d) Hot deserts, arid climate - Rajasthan and some parts of Gujarat"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Montane climate - Uttar Pradesh, Bihar and Jharkhand\nExplanation:- Montane forest/climate is seen in mountainous regions (like Jammu & Kashmir, Himachal Pradesh, Uttarakhand, Sikkim, Arunachal Pradesh), whereas Uttar Pradesh, Bihar and Jharkhand have a humid subtropical/monsoon with dry winter (Cwg) climate."
+            },
+            {
+              "id": 10,
+              "question": "The centre of a cyclone is a calm area. It is called the ________ of the storm. [SSC CGL 24/07/2023]",
+              "options": [
+                "(a) Base",
+                "(b) Focal point",
+                "(c) Eye",
+                "(d) Trigger point"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Eye\nExplanation:- Cyclone is any large system of airmass circulating around a centre of low pressure. Direction of cyclone - Northern Hemisphere: anticlockwise, Southern Hemisphere: clockwise. At equator, Coriolis force is zero and hence no cyclone is formed at equator. Centre (eye) - calm area with no clouds.\nConditions favourable for cyclone - Large sea surface temperature (more than 27°C), Coriolis force, Small variation in vertical wind speed, Pre-existing low pressure area."
+            },
+            {
+              "id": 11,
+              "question": "Which winds blow across the Asian continent at latitudes north of the Himalayas roughly parallel to the Tibetan highlands? [SSC CPO 04/10/2023]",
+              "options": [
+                "(a) Trade winds",
+                "(b) Jet streams",
+                "(c) Southwest winds",
+                "(d) Northwest winds"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Jet streams\nExplanation:- Jet streams blow across the Asian continent at latitudes north of Himalayas roughly parallel to the Tibetan highlands. Jet streams are fast moving winds in upper atmosphere (near tropopause) moving from west to east. Jet streams bring Mediterranean disturbances in India aiding in winter rainfall in Northern India."
+            },
+            {
+              "id": 12,
+              "question": "In coastal areas, during the night, wind blows from land to sea because: [SSC MTS 18/07/2022]",
+              "options": [
+                "(a) Low pressure is created on land",
+                "(b) Land cools slower than water",
+                "(c) Water cools slower than land",
+                "(d) High pressure is created at sea"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Water cools slower than land\nExplanation:- Sea Breeze - During day, land gets heated faster than water and hence low pressure is created on land so wind blows from sea to land called Sea breeze.\nLand Breeze - During night, land gets cold faster than water (water cools slower than land) and hence high pressure is created on land so wind blows from land to sea called Land breeze."
+            },
+            {
+              "id": 13,
+              "question": "In the context of local storms of hot weather season, Nor'Westers are: [SSC CPO 27/06/2024]",
+              "options": [
+                "(a) The pre-monsoon showers that are a common phenomena in Kerala and coastal areas of Karnataka.",
+                "(b) A nearby wind that blows coffee flowers in Kerala.",
+                "(c) The dreaded evening thunderstorms in Bengal and Assam.",
+                "(d) The hot, dry and oppressing winds blowing in the Northern plains from Punjab to Bihar with higher intensity between Delhi and Patna."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) The dreaded evening thunderstorms in Bengal and Assam.\nExplanation:- Nor'Westers (Kalbaisakhi/Bordoisila) - localised rainfall and thunderstorm event occurring in the pre-monsoon season in Bengal and Assam. It is helpful in the growth of jute and tea.\nOther pre-monsoon showers - Blossom showers (Kerala and Karnataka, helps in growth of coffee), Mango showers (Kerala and Karnataka, helps in early ripening of mango)."
+            },
+            {
+              "id": 14,
+              "question": "Which of the following is a term for the common local wind that blows in north and north-western parts of India during summers? [SSC CPO 28/06/2024]",
+              "options": [
+                "(a) Loo",
+                "(b) Chinook",
+                "(c) Foehn",
+                "(d) Bora"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Loo\nExplanation:- Loo - it is the hot, dry and oppressing winds blowing over north India during summer season.\nChinook - warm winds in North America (Snow Eater, katabatic wind).\nFoehn - warm winds in Alps mountains.\nBora - cold winds in Europe.\nOther local winds - Santa Ana (North America) - warm, Blizzard (North America) - cold, Mistral (Europe) - cold, Sirocco (Africa) - warm (causes blood rain), Khamsin (Africa) - warm, Harmattan (Africa) - Doctor wind (warm), Pampero (Argentina), Brickfielder (Australia)."
+            },
+            {
+              "id": 15,
+              "question": "Which of the following statements is correct about 'Loo' winds in the context of the Indian climate? [SSC CPO 28/06/2024]",
+              "options": [
+                "(a) They blow in the winter season.",
+                "(b) They blow in the rainy season.",
+                "(c) They blow in the summer season.",
+                "(d) They blow in the winter and rainy season."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) They blow in the summer season.\nExplanation:- Loo - it is the hot, dry and oppressing winds blowing over north India during summer season. It is an outcome of advection process (horizontal transfer of heat)."
+            },
+            {
+              "id": 16,
+              "question": "In which type of system do winds move out from a high-pressure area with wind direction clockwise in the northern hemisphere and anti-clockwise in the southern hemisphere? [SSC CPO 05/10/2023]",
+              "options": [
+                "(a) Cyclones",
+                "(b) Convection",
+                "(c) Anticyclone",
+                "(d) Orography"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Anticyclone\nExplanation:- Anticyclone - An area of high pressure with winds blowing out from the centre resulting in calm, clear weather.\nDirection - clockwise in Northern Hemisphere and anticlockwise in Southern Hemisphere."
+            },
+            {
+              "id": 17,
+              "question": "In which of the following states of India the 'Loo' wind does NOT blow during the summer season? [SSC MTS 01/09/2023]",
+              "options": [
+                "(a) Punjab",
+                "(b) Rajasthan",
+                "(c) Goa",
+                "(d) Haryana"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Goa\nExplanation:- Loo doesn't blow in Goa as loo blows mainly in northern and northwestern India."
+            },
+            {
+              "id": 18,
+              "question": "Which of the following is NOT one of the factors that has contributed towards localisation of the cotton textile industry in India? [SSC CHSL 07/08/2023]",
+              "options": [
+                "(a) Dry climate",
+                "(b) Availability of labor",
+                "(c) Accessible port facilities",
+                "(d) Availability of raw cotton"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Dry climate\nExplanation:- Cotton textile spinning requires a moist/humid climate so that threads do not break easily. Hence dry climate doesn't contribute to the localisation of cotton textile industry in India.\nAccessible port facilities, availability of labor and availability of raw cotton are favourable conditions."
+            },
+            {
+              "id": 19,
+              "question": "In how many agro-climatic zones has Tamil Nadu been classified? [SSC CGL 25/07/2023]",
+              "options": [
+                "(a) 3",
+                "(b) 9",
+                "(c) 7",
+                "(d) 5"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) 7\nExplanation:- Tamil Nadu has been divided into 7 agro-climatic zones based on its climate, soil type and rainfall pattern: North Eastern zone, North Western zone, Western zone, Cauvery delta zone, Southern zone, High rainfall zone, Hilly zone."
+            },
+            {
+              "id": 20,
+              "question": "Which winds are also known by the name of 'Roaring Forties'? [SSC MTS 11/07/2022]",
+              "options": [
+                "(a) Polar easterlies",
+                "(b) Westerly winds",
+                "(c) Polar winds",
+                "(d) Trade winds"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Westerly winds\nExplanation:- The westerlies are the winds blowing from sub-tropical high-pressure belts towards the sub-polar low-pressure belts.\nThe westerlies of the southern hemisphere are stronger and persistent due to the vast expanse of water and are called Roaring Forties, Furious Fifties, Shrieking Sixties.\nThree types of cells - Hadley cell, Ferrel cell, Polar cell."
+            },
+            {
+              "id": 21,
+              "question": "Which among the following winds is associated with extreme cold and dryness? [SSC MTS 03/05/2023]",
+              "options": [
+                "(a) Monsoon Winds",
+                "(b) Westerlies",
+                "(c) Trade Winds",
+                "(d) Polar Easterlies"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Polar Easterlies\nExplanation:- Polar easterlies are dry, cold winds blowing from high-pressure polar areas to the sub-polar lows.\nPlanetary/Prevailing/Primary winds - Winds that blow throughout the year. They are of three types - Trade winds, Westerlies and Polar easterlies."
+            },
+            {
+              "id": 22,
+              "question": "Consider the following statements about the main reasons for the excessive cold in north India during the cold weather season and identify which of the statements are correct. [SSC CGL 07/03/2023]\n1. States like Punjab, Haryana and Rajasthan, being far away from the moderating influence of sea, experience continental climate.\n2. The snowfall in the nearby Himalayan ranges creates a cold wave situation.\n3. Around February, the cold winds coming from the Caspian Sea and Turkmenistan bring a cold wave along with frost and fog over the northwestern parts of India.",
+              "options": [
+                "(a) 1 and 2 only",
+                "(b) 2 and 3 only",
+                "(c) 1, 2 and 3",
+                "(d) 1 and 3 only"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) 1, 2 and 3\nExplanation:- All three statements are correct reasons for excessive cold in North India during the winter season."
+            },
+            {
+              "id": 23,
+              "question": "________ zone is generally defined as an environment with moderate rainfall throughout the year or parts of the year, with sporadic dry, mild to hot summers and cool to cold winters. [SSC CHSL 01/06/2022]",
+              "options": [
+                "(a) Temperate",
+                "(b) Tropical",
+                "(c) Dry",
+                "(d) Continental"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Temperate\nExplanation:- Temperate zone - Region between 23.5° N and 66.5° N and between 23.5° S and 66.5° S is called temperate zone. This zone experiences moderate climate.\nTropical zone - Region between 23.5° N and 23.5° S.\nFrigid zone - Region beyond 66.5° N and 66.5° S."
+            },
+            {
+              "id": 24,
+              "question": "Which of the following statements is correct about 'Loo' winds in the context of the Indian climate? [SSC CPO 28/06/2024]",
+              "options": [
+                "(a) They blow in the winter season.",
+                "(b) They blow in the rainy season.",
+                "(c) They blow in the summer season.",
+                "(d) They blow in the winter and rainy season."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) They blow in the summer season.\nExplanation:- Loo is a hot, dry and oppressing wind blowing over north India during summer season."
+            },
+            {
+              "id": 25,
+              "question": "Choose the correct statement(s) related to 'continentality'. [SSC CPO 05/10/2023]\nI. The sea exerts a moderating influence on climate.\nII. As the distance from the sea increases, the people experience extreme weather conditions.\nIII. As one goes from the surface of the earth to higher altitudes, the atmosphere becomes less dense and temperature decreases.",
+              "options": [
+                "(a) II and III",
+                "(b) Only III",
+                "(c) I and III",
+                "(d) I and II"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) I and II\nExplanation:- When a region is located away from the sea then the moderating influence of sea decreases and the region experiences extreme weather conditions. This phenomenon is called continentality.\nStatement III is correct in itself (Lapse rate), but it is related to altitude, not continentality."
+            },
+            {
+              "id": 26,
+              "question": "Which of the following statements regarding ocean currents is correct? [SSC CHSL 21/03/2023]",
+              "options": [
+                "(a) The Labrador Ocean current is warm current.",
+                "(b) The areas where the warm and cold currents meet provide the best fishing grounds.",
+                "(c) The cold ocean currents move towards the poles.",
+                "(d) The warm ocean currents move towards the equator."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) The areas where the warm and cold currents meet provide the best fishing grounds.\nExplanation:- Ocean currents are the continuous, predictable, directional movement of seawater.\nCold water moves from poles to equator and warm water moves from equator to poles.\nCold ocean currents - Benguela, Peru, Greenland, Oyashio, Labrador, Falkland, West Australian Drift, Canary, California (TRICK - Bengaluru Played GOLF World Cup in California).\nAreas where warm and cold ocean currents meet provide best fishing ground (e.g., Newfoundland where Gulf Stream and Labrador meet, and Japan where Kuroshio and Oyashio meet)."
+            },
+            {
+              "id": 27,
+              "question": "Which of the following is a warm current? [SSC MTS 12/07/2022]",
+              "options": [
+                "(a) Labrador current",
+                "(b) Falkland current",
+                "(c) Canary current",
+                "(d) Gulf stream"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Gulf stream\nExplanation:- Warm ocean currents - Gulf stream, Alaska, Brazil, Norwegian, Agulhas, Mozambique, Kuroshio, East Australian Drift."
+            },
+            {
+              "id": 28,
+              "question": "Which of the following is an example of a terrestrial ecosystem? [SSC MTS 20/06/2023]",
+              "options": [
+                "(a) Ponds",
+                "(b) River",
+                "(c) Grasslands",
+                "(d) Oceans"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Grasslands\nExplanation:- Types of ecosystem: Terrestrial ecosystem (desert, grassland, forest, tundra) and Aquatic ecosystem (pond, river, ocean, lagoons)."
+            },
+            {
+              "id": 29,
+              "question": "Tropical grasslands of Brazil are known as ________. [SSC CHSL 20/03/2023]",
+              "options": [
+                "(a) Pampas",
+                "(b) Savanna",
+                "(c) Llanos",
+                "(d) Campos"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Campos\nExplanation:- Tropical grasslands: Savannah (Africa), Campos (Brazil), Llanos (Venezuela).\nTemperate grasslands: Prairies (North America), Steppes (Asia/Europe), Velds (South Africa), Downs (Australia), Pampas (Argentina)."
+            },
+            {
+              "id": 30,
+              "question": "Which of the following statements is correct regarding air pressure? [SSC CHSL 09/03/2023]",
+              "options": [
+                "(a) High pressure is associated with cloudy skies and wet weather.",
+                "(b) Low pressure is associated with clear and sunny skies.",
+                "(c) The air always moves from high pressure areas to low pressure areas.",
+                "(d) The air pressure is lowest at sea level and increases with height."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) The air always moves from high pressure areas to low pressure areas.\nExplanation:- High pressure (anticyclone) is associated with clear and sunny skies while low pressure (cyclone) is associated with cloudy skies and wet weather. The air pressure is highest near the surface (sea level) and decreases with altitude. Air always moves from regions of high pressure to regions of low pressure."
+            },
+            {
+              "id": 31,
+              "question": "Low annual range of temperature and high annual rainfall are characteristics of a ________. [SSC CGL 07/12/2022]",
+              "options": [
+                "(a) Mediterranean climate",
+                "(b) Temperate climate",
+                "(c) Tropical humid climate",
+                "(d) Cold climate"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Tropical humid climate\nExplanation:- Tropical Humid climate - Found between Tropic of Cancer and Tropic of Capricorn. Low annual range of temperature and high annual rainfall.\nMediterranean climate - characterised by hot, dry summer and mild, rainy winter."
+            },
+            {
+              "id": 32,
+              "question": "In early November, the low pressure conditions shift over the Bay of Bengal. This transfer is related to cyclonic low pressure, which originates over ________. [SSC MTS 13/07/2022]",
+              "options": [
+                "(a) Andaman Sea",
+                "(b) Sea of Japan",
+                "(c) Caspian Sea",
+                "(d) Pacific Ocean"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Andaman Sea\nExplanation:- The low pressure shifts over Bay of Bengal in November due to cyclonic low pressure which originates over the Andaman Sea."
+            },
+            {
+              "id": 33,
+              "question": "Which of the following regions has more seasonal contrast than other regions of India? [SSC CPO 09/11/2022]",
+              "options": [
+                "(a) Interiors of India",
+                "(b) Coastal areas of India",
+                "(c) Hilly areas of India",
+                "(d) Islands of India"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Interiors of India\nExplanation:- Interiors of India experience more seasonal contrast than other regions of India due to continentality."
+            },
+            {
+              "id": 34,
+              "question": "The southern part of India lies in the ________ belt. [SSC MTS 19/06/2023]",
+              "options": [
+                "(a) rain",
+                "(b) temperate",
+                "(c) polar",
+                "(d) warm"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Warm\nExplanation:- The southern part of India lies between Tropic of Cancer and Equator (Torrid/Warm zone)."
+            },
+            {
+              "id": 35,
+              "question": "Which of the following groups of places in India has little differences in day and night temperatures? [SSC CHSL 01/07/2024]",
+              "options": [
+                "(a) Bhopal and Indore",
+                "(b) Jammu and Kashmir",
+                "(c) Jaipur and Jaisalmer",
+                "(d) Chennai and Thiruvananthapuram"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Chennai and Thiruvananthapuram\nExplanation:- Chennai and Thiruvananthapuram have little differences in day and night temperatures as they are located on the coast and so their climate is moderated by the sea."
+            },
+            {
+              "id": 36,
+              "question": "Consider the following statements about the main reasons for the excessive cold in north India during the cold weather season and identify which of the statements are correct. [SSC CGL 07/03/2023]\n1. States like Punjab, Haryana and Rajasthan, being far away from the moderating influence of the sea, experience continental climate.\n2. The snowfall in the nearby Himalayan ranges creates a cold wave situation.\n3. Around February, the cold winds coming from the Caspian Sea and Turkmenistan bring a cold wave along with frost and fog over the northwestern parts of India.",
+              "options": [
+                "(a) 1 and 2 only",
+                "(b) 2 and 3 only",
+                "(c) 1, 2 and 3",
+                "(d) 1 and 3 only"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) 1, 2 and 3\nExplanation:- See solution of question 22 (level 1)."
+            },
+            {
+              "id": 37,
+              "question": "Select the correct statement from the given options. [SSC CGL 26/07/2023]",
+              "options": [
+                "(a) There is very little temperature difference between day and night in the coastal areas of Kerala.",
+                "(b) There is very little temperature difference between day and night in Rajasthan.",
+                "(c) There is extreme cold in southern India during winter season.",
+                "(d) There is plenty of rain observed in central India throughout the year."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) There is very little temperature difference between day and night in the coastal areas of Kerala.\nExplanation:- Coastal areas of Kerala experience moderating influence of sea so temperature difference between day and night is very little while Rajasthan being in the interior experiences large temperature difference between day and night."
+            },
+            {
+              "id": 38,
+              "question": "In which of the following states is there hardly any difference in day and night temperatures? [SSC MTS 01/09/2023]",
+              "options": [
+                "(a) Rajasthan",
+                "(b) Bihar",
+                "(c) Kerala",
+                "(d) Punjab"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Kerala\nExplanation:- Kerala has hardly any difference in day and night temperatures due to its coastal location."
+            },
+            {
+              "id": 39,
+              "question": "Which of the following places of India can have maximum temperature difference between the day and night? [SSC CPO 04/10/2023]",
+              "options": [
+                "(a) Jaisalmer",
+                "(b) Kanyakumari",
+                "(c) Thiruvananthapuram",
+                "(d) Port Blair"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Jaisalmer\nExplanation:- Jaisalmer (located in the Thar desert interior) has the maximum temperature difference between day and night from the given options due to continentality and sandy terrain."
+            }
+          ]
         }
       ]
     }
