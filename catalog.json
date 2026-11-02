@@ -36513,6 +36513,252 @@
               "solutionHinglish": "Ans (d)\nExplanation:- Agar compound mein 'very' ke sath 'and so/hence/therefore' likha ho toh, complex 'so.....that' conjunction se banate hai, toh complex to compound mein reverse ho jayega, isliye 'was overcrowded and therefore several participants' wala option D sahi hoga."
             }
           ]
+        },
+        {
+          "id": "t_1793638699379",
+          "name": "TRANSFORMATION - Sentence Transformation Mix practice",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Complex → Simple\nAs the committee recognized the urgency of regulatory reform, it expedited the approval process without further deliberation.",
+              "options": [
+                "(a) The committee recognized the urgency of regulatory reform and expedited the approval process without further deliberation.",
+                "(b) Recognizing the urgency of regulatory reform, the committee expedited the approval process without further deliberation.",
+                "(c) Having recognized the urgency of regulatory reform, the committee was expediting the approval process without further deliberation.",
+                "(d) The committee's recognition of urgency of regulatory reform had led to the expedition of the approval process without further deliberation."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Complex to simple mein meaning aur tense change nahi hona chaiye aur simple mein ek hee clause aata hai, isliye option A galat hoga kyunki 'and' conjunction do clause ko jod rahi hai. option C bhi galat hoga kyunki isme 'was expediting' tense change kar diya. Option D bhi galat hoga kyunki 'had led' galat tense ka use hua hai, isliye option B sahi hoga kyunki isme tense aur meaning dono sahi hai."
+            },
+            {
+              "id": 2,
+              "question": "Simple → Complex\nThe sudden erosion of investor confidence triggered prolonged instability in regional financial markets.",
+              "options": [
+                "(a) Because investor confidence eroded suddenly, prolonged instability occurred in regional financial markets.",
+                "(b) Investor confidence eroded suddenly while prolonged instability occurred in regional financial markets.",
+                "(c) Investor confidence eroded suddenly and prolonged instability occurred in regional financial markets.",
+                "(d) With investor confidence eroding suddenly, prolonged instability occurred in regional financial markets."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Option C galat hoga kyunki clause jodne ke liye 'and' conjunction ka use compound mein hota hai. option D mein 'occurred' ek hee main verb hai, matlab ek hee clause hai toh yeh simple sentence hoga isliye option D bhi galat hoga. option B bhi galat hoga kyunki 'while' yahan contradiction dikha raha hai. option A ka matlab hai 'kyunki achanak se investor confidence erode ho gaya tha, prolonged instability aa gayi thi markets mein', toh option A ka meaning same simple sentence se hai, isliye option A sahi hoga."
+            },
+            {
+              "id": 3,
+              "question": "Compound → Simple\nThe analyst reviewed the projections carefully, and he presented a cautiously optimistic outlook.",
+              "options": [
+                "(a) Because the analyst reviewed the projections carefully, he presented a cautiously optimistic outlook.",
+                "(b) The analyst reviewed the projections carefully, so presented a cautiously optimistic outlook.",
+                "(c) After reviewing the projections carefully, the analyst presented a cautiously optimistic outlook.",
+                "(d) The analyst's careful review of projections is resulting in the presentation of a cautiously optimistic outlook."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Option A aur B galat honge kyunki isme 'because' aur 'so' conjunction se do clause ko joda hai, lekin simple mein ek hee clause aata hai. option D bhi galat hoga kyunki 'is resulting' present tense kar diya jabki complex mein 'presented' past indefinite tense hai. option C ka matlab hai 'projection ko carefully review karne ke baad analyst ne present kiya optimistic outlook ko', toh option C se same compound wala meaning aa raha hai aur isme ek he clause hai, isliye option C sahi hoga."
+            },
+            {
+              "id": 4,
+              "question": "(Simple → Compound)\nThe institution's strategic restructuring enhanced operational flexibility across multiple departments.",
+              "options": [
+                "(a) The institution underwent strategic restructuring, and operational flexibility improved across multiple departments.",
+                "(b) Because the institution underwent strategic restructuring, operational flexibility improved across multiple departments.",
+                "(c) The institution underwent strategic restructuring to improve operational flexibility across multiple departments.",
+                "(d) Strategic restructuring enhanced operational flexibility while multiple departments adjusted."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Compound sentence 'FANBOYS' coordinate conjunction se bante hai, isliye option B aur D galat honge kyunki 'because' aur 'while' subordinate conjunction hoti hai. option C bhi galat hoga kyunki bina conjunction ke simple sentence hote hai, isliye meaning, tense aur conjunction wise option A sahi hoga."
+            },
+            {
+              "id": 5,
+              "question": "(Complex → Compound)\nWhile the infrastructure modernization demanded substantial investment, it significantly improved service reliability.",
+              "options": [
+                "(a) The infrastructure modernization demanded substantial investment but significantly improved service reliability.",
+                "(b) The infrastructure modernization demanded substantial investment, and significantly improved service reliability.",
+                "(c) Because the infrastructure modernization demanded substantial investment, significantly improved service reliability.",
+                "(d) The infrastructure modernization demanded substantial investment to improve service reliability significantly"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Compound sentence 'FANBOYS' coordinate conjunction se bante hai, complex mein sentence ka matlab hai 'halanki infrastructure modernization demand kar raha tha investment, isne significantly improve kar diya service reliability ko', toh sentence mein contradiction ki baat ho rahi hai, aur compound mein contradiction 'but, yet' conjunction se aata hai, isliye diye gaye options mein sahi meaning aur 'but' conjunction wala option A sahi hoga."
+            },
+            {
+              "id": 6,
+              "question": "(Compound → Complex)\nThe research team detected sampling inconsistencies, and they revised the experimental methodology.",
+              "options": [
+                "(a) Detecting sampling inconsistencies, the research team revised the experimental methodology.",
+                "(b) Because the research team detected sampling inconsistencies, they revised the experimental methodology.",
+                "(c) The research team detected sampling inconsistencies so that it can revise the experimental methodology.",
+                "(d) The research team's detection of sampling inconsistencies led to a revision of the experimental methodology."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Compound se complex mein change karna hai, option A aur D galat honge kyunki yeh simple sentence hai jisme ek hee clause hai. option C bhi galat hoga kyunki 'revised' ko 'can revise' mein change kar diya, isliye meaning aur conjunction wise option B sahi hoga."
+            },
+            {
+              "id": 7,
+              "question": "(Complex → Simple)\nSince the directive lacked procedural clarity, operational delays became inevitable across administrative units.",
+              "options": [
+                "(a) The directive lacked procedural clarity and operational delays became inevitable across administrative units.",
+                "(b) Owing to the directive's lack of procedural clarity, operational delays became inevitable across administrative units.",
+                "(c) Because the directive lacked procedural clarity, operational delays became inevitable across administrative units.",
+                "(d) The directive lacked procedural clarity, so operational delays became inevitable across administrative units."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Complex to simple mein change karna hai, simple mein ek hee clause hote hai. option A, C aur D galat honge kyunki isme 'and', 'because' aur 'so' conjunction se do clause jud rahe hai. isliye meaning aur clause wise option B sahi hoga."
+            },
+            {
+              "id": 8,
+              "question": "(Simple → Complex)\nPersistent fluctuations in commodity prices created uncertainty among long-term investors.",
+              "options": [
+                "(a) Commodity prices fluctuated persistently and uncertainty emerged among long-term investors.",
+                "(b) Since commodity prices fluctuated persistently, uncertainty emerged among long-term investors.",
+                "(c) With commodity prices fluctuating persistently, uncertainty emerged among long-term investors.",
+                "(d) Commodity prices fluctuated persistently so uncertainty emerged among long-term investors."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Simple se complex jana hai, aur complex subordinate conjunction se bante hai. option A aur D galat honge kyunki 'and' aur 'so' coordinate conjunction hoti hai jisse compound sentence bante hai. option C bhi galat hoga kyunki isme koi conjunction nahi hai aur yeh simple sentence hai, toh meaning aur conjunction wise option B sahi hoga."
+            },
+            {
+              "id": 9,
+              "question": "(Compound → Simple)\nThe negotiations reached an impasse, and both delegations reassessed their diplomatic strategies.",
+              "options": [
+                "(a) Following the impasse in negotiations, both delegations reassessed their diplomatic strategies.",
+                "(b) The negotiations reached an impasse and both delegations reassessed their diplomatic strategies.",
+                "(c) Because the negotiations reached an impasse, both delegations reassessed their diplomatic strategies.",
+                "(d) The impasse in negotiations will make both delegations reassess their diplomatic strategies."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Compound se simple jana hai, simple mein ek hee clause hote hai. option B aur C galat honge kyunki 'and' aur 'because' conjunction do clause ko jod rahi hai. option D bhi galat hoga kyunki 'will make' yaha future tense kar diya. Isliye meaning aur tense wise option A sahi hoga."
+            },
+            {
+              "id": 10,
+              "question": "(Complex → Compound)\nAlthough technological adoption accelerated rapidly, regulatory oversight evolved at a comparatively slower pace.",
+              "options": [
+                "(a) Technological adoption accelerated rapidly, so regulatory oversight evolved at a comparatively slower pace.",
+                "(b) Technological adoption accelerated rapidly and regulatory oversight evolved at a comparatively slower pace.",
+                "(c) If technological adoption accelerated rapidly, regulatory oversight evolved slowly.",
+                "(d) Technological adoption accelerated rapidly, but regulatory oversight evolved at a comparatively slower pace."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Complex se compound jana hai, complex mein 'although' se pata chal raha ki contradiction dikhaana hai, toh compound mein contradiction 'but, yet' conjunction se dikhaate hai, isliye diye gaye options mein se meaning aur conjunction wise 'but' wala option D sahi hoga."
+            },
+            {
+              "id": 11,
+              "question": "(Simple → Compound)\nThe abrupt withdrawal of funding disrupted several ongoing community development initiatives.",
+              "options": [
+                "(a) Funding was withdrawn abruptly, and therefore several ongoing community development initiatives were disrupted.",
+                "(b) Because funding was withdrawn abruptly, several ongoing community development initiatives were disrupted.",
+                "(c) Funding was withdrawn abruptly while several community initiatives were disrupted.",
+                "(d) The abrupt withdrawal of funding resulted in the disruption of several development community initiatives."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Simple se compound jana hai aur compound mein 'FANBOYS' conjunction ka use hota hai. option B aur C galat honge kyunki 'because' aur 'while' subordinate conjunction hoti hai jisse complex sentence bante hai. option D bhi galat hoga kyunki isme ek hee clause likha hai. isliye meaning aur 'and' conjunction wise option A sahi hoga."
+            },
+            {
+              "id": 12,
+              "question": "(Compound → Simple)\nThe committee reviewed the evidence carefully, and it reached a unanimous verdict.",
+              "options": [
+                "(a) Having reviewed the evidence carefully, the committee reached a unanimous verdict.",
+                "(b) The committee reviewed the evidence carefully to reach a unanimous verdict.",
+                "(c) The committee reviewed the evidence carefully, so it reached a unanimous verdict.",
+                "(d) After the reviewed evidence, the committee reached a unanimous verdict."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Compound se simple jana hai, simple mein ek hee clause aata hai. option C galat hoga kyunki isme 'so' conjunction ka use hua hai. compound sentence ka matlab hai 'committee ne evidence ko acche se review kiya aur wo unanimous verdict pe pahuch gayi'. Option D mein 'the reviewed evidence' ka matlab 'aise evidence ka review ho chuka ho' toh option D ka meaning compound se alag ayega, isliye option D galat hoga. option B bhi galat hoga kyunki iska matlab 'unanimous verdict pe pahuchne ke liye committee ne review kiya', lekin compound ka matlab hai 'review kiya aur unanimous verdict pe pahuche', isliye option B galat hoga. isliye meaning wise option A sahi hoga."
+            },
+            {
+              "id": 13,
+              "question": "(Compound → Simple)\nThe organization introduced flexible work policies, and employee satisfaction improved significantly.",
+              "options": [
+                "(a) The organization introduced flexible work policies so employee satisfaction improved significantly.",
+                "(b) The introduction of flexible work policies led to a significant improvement in employee satisfaction.",
+                "(c) Because the organization introduced flexible work policies, employee satisfaction improved significantly.",
+                "(d) Because of the introduction of flexible work policies, employee satisfaction will improve significantly."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Compound se simple jana hai. option A aur C galat honge kyunki 'so' se compound aur 'because' se complex sentence bante hai. option D mein 'will improve' future tense ka use kiya hai, aur compound mein 'improved' tense ka use hai, isliye option D galat hoga. jab kisi cheez ka result batana ho toh 'led to, resulted in' se connect karke simple bana sakte hai, isliye meaning wise option B sahi hoga."
+            },
+            {
+              "id": 14,
+              "question": "(Complex → Simple)\nIf the organization fails to diversify its investment portfolio, long-term financial risks may intensify.",
+              "options": [
+                "(a) The organization fails to diversify its investment portfolio to intensify long-term financial risks.",
+                "(b) Because the organization fails to diversify its investment portfolio, long-term financial risks may intensify.",
+                "(c) Without diversifying its investment portfolio, the organization may face intensified long-term financial risks.",
+                "(d) The organization fails to diversify its investment portfolio so long-term financial risks may intensify."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Complex se simple jana hai. option B aur D galat honge kyunki 'because' aur 'so' conjunction se do clause jud rahe hai. option A bhi galat hoga kyunki compound sentence ke according iska meaning galat hai. isliye sahi meaning ke according option C sahi hoga."
+            },
+            {
+              "id": 15,
+              "question": "(Compound → Simple)\nNot only is the policy financially sustainable but it is also environmentally responsible in the long run.",
+              "options": [
+                "(a) Being financially sustainable, the policy is environmentally responsible in the long run.",
+                "(b) In spite of being financially sustainable, the policy is environmentally responsible in the long run.",
+                "(c) The policy is financially sustainable although it is not environmentally responsible in the long run.",
+                "(d) The policy is both financially sustainable and environmentally responsible in the long run."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Compound se simple jana hai, option C galat hoga kyunki 'although' conjunction ka use nahi hoga simple mein. Koi contradiction nahi hai isliye B option nahi hoga. waise A option simple sentence hai lekin yahan koi reason nahi batana hai isliye A option nhi hoga. Compound sentence ka matlab hai 'yeh policy financially sustainable hee nahi balki environmentally responsible bhi hai', toh same compound wala meaning option D mein aa raha hai 'policy financially sustainable aur environmentally responsible bhi hai'.\nNote:- yahan 'and' conjunction se do clause nahi balki adjective jud rahe hai, isliye option D simple sentence hai."
+            },
+            {
+              "id": 16,
+              "question": "(Compound → Simple)\nThe candidate must verify all credentials carefully, or discrepancies may emerge during evaluation.",
+              "options": [
+                "(a) The candidate must verify all credentials carefully avoiding discrepancies during evaluation.",
+                "(b) The candidate must verify all credentials carefully although discrepancies may emerge during evaluation.",
+                "(c) The candidate must verify all credentials carefully to prevent discrepancies during evaluation.",
+                "(d) The candidate must verify all credentials carefully while discrepancies emerge during evaluation."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Compound se simple jana hai. option B aur D galat honge kyunki 'although' aur 'while' conjunction se complex sentence bante hai. compound sentence ka matlab hai 'candidates acche se verify kare credentials warna discrepancies ayenge evaluation ke waqt'. Option A mein 'avoiding discrepancies' ka matlab hoga 'discrepancies avoid karte hue', joki compound ke according galat hoga, isliye option A galat hoga. aur option C ka matlab 'evaluation ke dauran discrepancies ko rokne ke liye', isliye meaning ke according option C sahi hoga."
+            },
+            {
+              "id": 17,
+              "question": "(Compound → Simple)\nThe research assistant analyzed the survey responses thoroughly and identified several unexpected behavioral trends.",
+              "options": [
+                "(a) Identifying several unexpected behavioral trends, the research assistant analyzed the survey responses thoroughly.",
+                "(b) The research assistant analyzed the survey responses thoroughly while identifying unexpected trends.",
+                "(c) The research assistant analyzed the survey responses thoroughly to identify several unexpected behavioral trends.",
+                "(d) Because the research assistant analyzed the survey responses thoroughly, unexpected trends were identified."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Compound se simple jana hai. option B aur D galat honge kyunki 'while' aur 'because' se complex sentence bante hai. compound mein matlab hai 'assistant ne survey response ko thoroughly analyze kiya aur pata lagaya unexpected behavioral trends', jabki option A ka matlab hai 'several unexpected behavioral trends ko identify karte hue, assistant ne analyze kiya', toh option A ka meaning compound sentence se alag hai, isliye option A galat hoga, isliye meaning wise option C sahi hoga."
+            },
+            {
+              "id": 18,
+              "question": "(Complex → Simple)\nThe operational constraints were so severe that the project team could not adhere to the original timeline.",
+              "options": [
+                "(a) The operational constraints were too severe for the project team to adhere to the original timeline.",
+                "(b) The operational constraints were severe and the project team could not adhere to the original timeline.",
+                "(c) Because of the operational constraints, the project team may not adhere to the original timeline.",
+                "(d) The operational constraints were too severe so the project team could not adhere to the original timeline."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Complex se simple jana hai. option B galat hoga kyunki 'and' conjunction se do clause jud rahe hai. option D mein 'too severe so' likha lekin 'too...ke sath...to' ka pair hota hai, isliye option D bhi galat hoga. option C mein 'may not adhere' likha hai, lekin complex mein 'could not adhere' jisse meaning galat ayega, isliye option C bhi galat hoga. isliye diye gaye options mein se meaning wise option A sahi hoga."
+            },
+            {
+              "id": 19,
+              "question": "(Complex → Simple)\nThe system failure occurred when technicians were executing routine maintenance checks.",
+              "options": [
+                "(a) The system failure occurred during the execution of routine maintenance checks by technicians.",
+                "(b) Technicians were executing routine maintenance checks and the system failure occurred.",
+                "(c) The system failure occurred because technicians were executing routine maintenance checks.",
+                "(d) The system failure had occurred during the execution of routine maintenance checks by technicians."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Complex se simple jana hai. option B aur C galat honge kyunki 'and' aur 'because' conjunction do clauses ko joda hai. option D mein 'had occurred' likha hai, joki compound ke according tense galat hai, isliye option D bhi galat hoga. isliye diye gaye options mein se meaning ke according option A sahi hoga."
+            },
+            {
+              "id": 20,
+              "question": "(Complex → Simple)\nThe committee selected a proposal which was strategically innovative and economically feasible.",
+              "options": [
+                "(a) The committee had selected a strategically innovative and economically feasible proposal.",
+                "(b) The committee selected a proposal and it was strategically innovative and economically feasible.",
+                "(c) Owing to the strategic innovation and economic feasibility, this proposal was selected.",
+                "(d) The committee selected a strategically innovative and economically feasible proposal."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Complex se simple jana hai. option B galat hoga kyunki 'and' conjunction se do clause ko jod rahe hai. option A bhi galat hoga kyunki 'had selected' galat tense ka use hai. option C mein 'committee' he gayab ho gayi ki kisne proposal select kiya, isliye option C bhi galat hoga. isliye diye gaye options mein se D sahi hoga.\nNote:- agar option D nahi hota toh diye gaye options mein se option C mark hota."
+            }
+          ]
         }
       ]
     },
