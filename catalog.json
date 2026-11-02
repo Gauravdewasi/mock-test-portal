@@ -43210,6 +43210,528 @@
               "solutionHinglish": "Ans (c) Pennar\nExplanation:- Gandikota canyon (known as the Grand Canyon of India, in Kadapa district of Andhra Pradesh) was created by the Pennar river cutting through the Erramala hills."
             }
           ]
+        },
+        {
+          "id": "t_1793612314171",
+          "name": "Dams, Lakes and Waterfalls - LEVEL I",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which of the following is the multi-purpose rock and earth-fill embankment dam on the Bhagirathi River? [SSC CGL 01/08/2022]",
+              "options": [
+                "(a) Gandhisagar Dam",
+                "(b) Thein Dam",
+                "(c) Koyna Dam",
+                "(d) Tehri Dam"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Tehri Dam\nExplanation:- Tehri dam is the multi-purpose rock and earth-fill embankment dam on the Bhagirathi river in Uttarakhand. It is the highest dam of India (260.5 m / 261 m).\nKoyna dam - on Koyna river (tributary of Krishna), Maharashtra. Gandhisagar dam - on Chambal river, MP. Thein dam (Ranjit Sagar dam) - on Ravi river, Punjab."
+            },
+            {
+              "id": 2,
+              "question": "On which of the following rivers is Pakistan constructing a dam named 'Diamer Basha' dam? [SSC MTS 12/10/2021]",
+              "options": [
+                "(a) Indus",
+                "(b) Jhelum",
+                "(c) Chenab",
+                "(d) Sutlej"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Indus\nExplanation:- Pakistan is constructing Diamer Basha dam on the Indus river."
+            },
+            {
+              "id": 3,
+              "question": "Which type of dam is a temporary dam constructed to exclude water from the specific area? [SSC CHSL 19/04/2021]",
+              "options": [
+                "(a) Coffer",
+                "(b) Impounding",
+                "(c) Detention",
+                "(d) Debris"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Coffer\nExplanation:- Coffer Dam - It is a temporary dam constructed to exclude water from a specific area during construction.\nImpounding Dam - barrier built across a river or stream to hold back water and create a reservoir.\nDetention Dam - controls the flow of water to reduce flooding.\nDebris Dam - designed to collect and trap sediments, gravel, and drift."
+            },
+            {
+              "id": 4,
+              "question": "The Hirakud Dam is built near the city of ________ in Odisha. [SSC CGL 20/04/2022]",
+              "options": [
+                "(a) Cuttack",
+                "(b) Rourkela",
+                "(c) Balasore",
+                "(d) Sambalpur"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Sambalpur (Note: PDF solution text says 'Hirakud dam is built near Sambalpur in Odisha' with typo letter (C) in key; Sambalpur is Option D)\nExplanation:- Hirakud dam is built near Sambalpur in Odisha. It is the longest dam in India (4.8 km main dam / 25.8 km total), built on the Mahanadi river.\nTallest dam - Tehri dam (260.5 m), Highest gravity dam - Bhakra Nangal dam (226 m), Oldest dam - Grand Anicut (Kallanai) dam (built by Karikala Chola)."
+            },
+            {
+              "id": 5,
+              "question": "Kadana Dam of Gujarat is built over which of the following rivers? [SSC CHSL 16/03/2023]",
+              "options": [
+                "(a) Manjira",
+                "(b) Mahi",
+                "(c) Sabarmati",
+                "(d) Tapti"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Mahi (Note: PDF solution text says 'Kadana dam - Mahi river' with typo letter (A) in key; Mahi is Option B)\nExplanation:- Dams in Gujarat: Kadana dam - Mahi river, Ukai dam - Tapi river, Kakrapar dam - Tapi river, Sardar Sarovar dam - Narmada river."
+            },
+            {
+              "id": 6,
+              "question": "Which of the following statements is correct regarding large dams? [SSC CHSL 09/03/2023]\nI. They have social problems because they displace a large number of peasants and tribals without adequate compensation or rehabilitation.\nII. They have environmental problems because they contribute enormously to deforestation and the loss of biological diversity.",
+              "options": [
+                "(a) Both I and II",
+                "(b) Only I",
+                "(c) Neither I nor II",
+                "(d) Only II"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Both I and II (Note: PDF solution text prints 'Both I and II' with typo letter (B) in key; Both I and II is Option A)\nExplanation:- Drawbacks of large dams: They displace a large number of peasants and tribals without adequate compensation or rehabilitation, and they contribute to deforestation and loss of biological diversity."
+            },
+            {
+              "id": 7,
+              "question": "The Almatti Dam of Karnataka is built over which of the following rivers? [SSC MTS 19/05/2023]",
+              "options": [
+                "(a) Periyar",
+                "(b) Sutlej",
+                "(c) Krishna",
+                "(d) Kaveri"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Krishna (Note: PDF solution text says 'Almatti dam - Krishna river' with typo letter (D) in key; Krishna is Option C)\nExplanation:- Dams in Karnataka: Almatti dam - Krishna river, Linganamakki dam - Sharavati river, Krishnaraja Sagar (KRS) dam - Kaveri river."
+            },
+            {
+              "id": 8,
+              "question": "In which of the following districts is Baira Siul Dam located? [SSC CPO 28/06/2024]",
+              "options": [
+                "(a) Chamba",
+                "(b) Mandi",
+                "(c) Bilaspur",
+                "(d) Kinnaur"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Chamba\nExplanation:- Dams of Himachal Pradesh: Baira Siul dam (Chamba district) - Baira/Siul tributary of Ravi river; Pong dam (Maharana Pratap Sagar) - Beas river; Chamera dam - Ravi river; Nathpa Jhakri dam - Satluj river."
+            },
+            {
+              "id": 9,
+              "question": "On which river in India was the Somasila Dam built? [SSC CHSL 02/07/2024]",
+              "options": [
+                "(a) Sabarmati river",
+                "(b) Tapti river",
+                "(c) Pennar river",
+                "(d) Krishna river"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Pennar river (Note: PDF solution text says 'Somasila dam (Nellore district) - Pennar river' with typo letter (D) in key; Pennar river is Option C)\nExplanation:- Dams of Andhra Pradesh: Somasila dam (Nellore district) - Pennar river; Srisailam dam - Krishna river; Nagarjuna Sagar dam - Krishna river."
+            },
+            {
+              "id": 10,
+              "question": "Which state of India had the highest number of large dams as of January 2021? [SSC CGL 20/08/2021]",
+              "options": [
+                "(a) Rajasthan",
+                "(b) Tamil Nadu",
+                "(c) Gujarat",
+                "(d) Maharashtra"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Maharashtra\nExplanation:- Maharashtra has the largest number of large dams in India, followed by Madhya Pradesh and Gujarat.\nDams in Maharashtra - Jayakwadi dam (Godavari), Ujjani dam (Bhima/Krishna), Koyna dam (Koyna)."
+            },
+            {
+              "id": 11,
+              "question": "Identify the dam that is located in South India. [SSC CPO 03/10/2023]",
+              "options": [
+                "(a) Gandhi Sagar dam",
+                "(b) Tilaiya dam",
+                "(c) Rihand dam",
+                "(d) Mettur dam"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Mettur dam (Note: PDF solution text says 'Mettur dam - on Kaveri river in Tamil Nadu' with typo letter (C) in key; Mettur dam is Option D)\nExplanation:- Mettur dam - on Kaveri river in Tamil Nadu (South India).\nGandhi Sagar dam - on Chambal river in MP.\nTilaiya dam - on Barakar river (Damodar valley) in Jharkhand.\nRihand dam - on Rihand river (tributary of Son) in UP (Govind Ballabh Pant Sagar is the largest artificial lake in India)."
+            },
+            {
+              "id": 12,
+              "question": "________ are NOT considered surface water. [SSC CPO 05/10/2023]",
+              "options": [
+                "(a) Lakes",
+                "(b) Aquifers",
+                "(c) Rivers",
+                "(d) Oceans"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Aquifers\nExplanation:- An aquifer is an underground layer of water-bearing permeable rock that holds groundwater. Hence it isn't considered surface water."
+            },
+            {
+              "id": 13,
+              "question": "In which state is Gobind Sagar (Bhakra Nangal Project) located? [SSC MTS 04/09/2023]",
+              "options": [
+                "(a) Himachal Pradesh",
+                "(b) Gujarat",
+                "(c) Rajasthan",
+                "(d) Punjab"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Himachal Pradesh\nExplanation:- Gobind Sagar reservoir (formed by Bhakra Dam on the Satluj river) is located in Bilaspur district of Himachal Pradesh."
+            },
+            {
+              "id": 14,
+              "question": "Which of the following lakes is the longest in India? [SSC CHSL 09/08/2023]",
+              "options": [
+                "(a) Vembanad lake",
+                "(b) Kanjia lake",
+                "(c) Ansupa lake",
+                "(d) Wular lake"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Vembanad lake\nExplanation:- Vembanad lake (in Kerala) is the longest lake in India (~96.5 km). Pamba and Periyar rivers drain into it."
+            },
+            {
+              "id": 15,
+              "question": "In which state of India is Tawa dam located? [SSC CPO 10/11/2022]",
+              "options": [
+                "(a) Uttar Pradesh",
+                "(b) Haryana",
+                "(c) Rajasthan",
+                "(d) Madhya Pradesh"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Madhya Pradesh\nExplanation:- Tawa dam is located on the Tawa river (tributary of Narmada) in Hoshangabad/Narmadapuram district of Madhya Pradesh."
+            },
+            {
+              "id": 16,
+              "question": "Where is the Baglihar Dam located? [SSC CHSL 26/10/2020]",
+              "options": [
+                "(a) Gujarat",
+                "(b) Himachal Pradesh",
+                "(c) Jammu & Kashmir",
+                "(d) Telangana"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Jammu & Kashmir\nExplanation:- Projects in J&K: Baglihar dam, Dulhasti project, and Salal project are on the Chenab river; Kishanganga, Tulbul, and Uri projects are on the Jhelum river."
+            },
+            {
+              "id": 17,
+              "question": "Which of the following barrages / dams is closest to the India-Bangladesh border? [SSC CPO 23/11/2020]",
+              "options": [
+                "(a) Tilaiya",
+                "(b) Farakka",
+                "(c) Durgapur",
+                "(d) Massanjore"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Farakka\nExplanation:- Farakka Barrage is built across the Ganga river in Murshidabad district of West Bengal, very close (~18 km) to the India-Bangladesh border, to divert water into the Hooghly river."
+            },
+            {
+              "id": 18,
+              "question": "Which of the following dams is constructed across the river Krishna? [SSC CPO 25/11/2020]",
+              "options": [
+                "(a) Nagarjuna Sagar",
+                "(b) Tehri",
+                "(c) Bhakra Nangal",
+                "(d) Hirakud"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Nagarjuna Sagar\nExplanation:- Nagarjuna Sagar dam is constructed across the Krishna river (on the border between Telangana and Andhra Pradesh).\nTehri - Bhagirathi (Uttarakhand); Bhakra Nangal - Satluj (HP/Punjab); Hirakud - Mahanadi (Odisha)."
+            },
+            {
+              "id": 19,
+              "question": "Which of the following is not a freshwater lake in India? [SSC CGL 18/07/2023]",
+              "options": [
+                "(a) Pulicat",
+                "(b) Loktak",
+                "(c) Bhimtal",
+                "(d) Nainital"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Pulicat\nExplanation:- Pulicat is India's second largest brackish water lake/lagoon (after Chilika), located on the border of Andhra Pradesh and Tamil Nadu.\nLoktak (Manipur), Bhimtal (Uttarakhand), and Nainital (Uttarakhand) are freshwater lakes."
+            },
+            {
+              "id": 20,
+              "question": "Which lake of India is the result of tectonic activity? [SSC MTS 25/07/2022]",
+              "options": [
+                "(a) Wular lake",
+                "(b) Barapani lake",
+                "(c) Dal lake",
+                "(d) Loktak lake"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Wular lake\nExplanation:- Wular lake (in Jammu & Kashmir) is the largest freshwater lake in India and was formed as a result of tectonic activity."
+            },
+            {
+              "id": 21,
+              "question": "Which is a saltwater lake located in the Tibet Autonomous Region, China, to the west of Lake Mansarovar and to the south of Mount Kailash? [SSC CGL 30/06/2023]",
+              "options": [
+                "(a) Lake Yamdrok Tso",
+                "(b) Lake Rawok",
+                "(c) Lake Rakshastal",
+                "(d) Lake Basum Tso"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Lake Rakshastal\nExplanation:- Lake Rakshastal is a saltwater lake in Tibet located just west of Lake Mansarovar and south of Mount Kailash. The Satluj river originates from Rakshastal."
+            },
+            {
+              "id": 22,
+              "question": "Which of the following lakes is a saltwater lake? [SSC MTS 04/09/2023]",
+              "options": [
+                "(a) Superior",
+                "(b) Chilika",
+                "(c) Malawi",
+                "(d) Titicaca"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Chilika\nExplanation:- Chilika lake (Odisha) is the largest brackish/saltwater lagoon in India and India's first Ramsar site (1981).\nLake Superior - world's largest freshwater lake by surface area.\nLake Malawi and Lake Titicaca (highest navigable lake in South America) are freshwater lakes."
+            },
+            {
+              "id": 23,
+              "question": "Which among the following lakes is also known as the \"Srinagar's Jewel\"? [SSC CHSL 10/03/2023]",
+              "options": [
+                "(a) Tsomgo",
+                "(b) Vembanad",
+                "(c) Dal",
+                "(d) Loktak"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Dal\nExplanation:- Dal lake is known as the 'Jewel in the crown of Kashmir' or 'Srinagar's Jewel'."
+            },
+            {
+              "id": 24,
+              "question": "An artificial lake named Gobind Sagar was created in 1976 by a huge hydroelectric dam at Bhakra on the ________ river. [SSC CHSL 05/08/2022]",
+              "options": [
+                "(a) Tapti",
+                "(b) Gandak",
+                "(c) Chenab",
+                "(d) Sutlej"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Sutlej\nExplanation:- Gobind Sagar reservoir was created by the Bhakra dam on the Sutlej river in Himachal Pradesh. It is named in honour of the 10th Sikh Guru, Guru Gobind Singh."
+            },
+            {
+              "id": 25,
+              "question": "Pushkar lake is situated in which district of Rajasthan? [SSC MTS 14/07/2022]",
+              "options": [
+                "(a) Jaipur",
+                "(b) Ajmer",
+                "(c) Bikaner",
+                "(d) Alwar"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Ajmer\nExplanation:- Pushkar lake is situated in Ajmer district of Rajasthan."
+            },
+            {
+              "id": 26,
+              "question": "Tsomgo Lake is a glacial lake located in which of the following states? [SSC MTS 25/07/2022]",
+              "options": [
+                "(a) Meghalaya",
+                "(b) Punjab",
+                "(c) Sikkim",
+                "(d) Gujarat"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Sikkim\nExplanation:- Tsomgo (Changu) lake is a glacial lake located in Sikkim.\nCholamu (Tso Lhamo) and Gurudongmar lakes in Sikkim are the highest lakes in India."
+            },
+            {
+              "id": 27,
+              "question": "Which among the following lakes connects the twin cities of Hyderabad and Secunderabad? [SSC CHSL 20/03/2023]",
+              "options": [
+                "(a) Kanwar",
+                "(b) Salim Ali",
+                "(c) Hussain Sagar",
+                "(d) Periyar"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Hussain Sagar\nExplanation:- Hussain Sagar lake (fed by Musi river tributary) in Telangana connects the twin cities of Hyderabad and Secunderabad."
+            },
+            {
+              "id": 28,
+              "question": "In which Indian state is the 'Bhushi Lake' located? [SSC MTS 26/10/2021]",
+              "options": [
+                "(a) Punjab",
+                "(b) Rajasthan",
+                "(c) Gujarat",
+                "(d) Maharashtra"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Maharashtra\nExplanation:- Bhushi lake is located in Lonavala, Maharashtra. Lonar lake (Buldhana district, crater lake) is also in Maharashtra."
+            },
+            {
+              "id": 29,
+              "question": "Which of the following options is NOT correctly matched? [SSC CPO 29/06/2024]",
+              "options": [
+                "(a) Sardar Sarovar Lake - Karnataka",
+                "(b) Wular lake - Jammu and Kashmir",
+                "(c) Chilika Lake - Odisha",
+                "(d) Vembanad Lake - Kerala"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Sardar Sarovar Lake - Karnataka\nExplanation:- Sardar Sarovar Lake/Reservoir is located in Gujarat (on the Narmada river), not in Karnataka."
+            },
+            {
+              "id": 30,
+              "question": "Which of the following are salt-water lakes? [SSC CPO 29/06/2024]\nI. Sambhar lake\nII. Dal lake\nIII. Wular lake\nIV. Chilika lake",
+              "options": [
+                "(a) III and IV",
+                "(b) I and IV",
+                "(c) I and II",
+                "(d) II and III"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) I and IV\nExplanation:- Sambhar (Rajasthan, largest inland saltwater lake) and Chilika (Odisha, largest brackish water lagoon) are saltwater lakes, while Dal and Wular are freshwater lakes."
+            },
+            {
+              "id": 31,
+              "question": "Which river flows into the Wular lake in the north and then into Baramulla? [SSC CPO 28/06/2024]",
+              "options": [
+                "(a) Sutlej",
+                "(b) Beas",
+                "(c) Ravi",
+                "(d) Jhelum"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Jhelum\nExplanation:- Jhelum flows into Wular lake before flowing into Baramulla."
+            },
+            {
+              "id": 32,
+              "question": "Which of the following lakes is located in Buldhana district of Maharashtra? [SSC JE 06/06/2024]",
+              "options": [
+                "(a) Dal",
+                "(b) Lonar",
+                "(c) Pushkar",
+                "(d) Bhimtal"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Lonar\nExplanation:- Lonar lake is located in Buldhana district of Maharashtra. It is a crater lake created by a meteorite impact in basaltic rock."
+            },
+            {
+              "id": 33,
+              "question": "The largest inland salt lake 'Sambhar' is located in the ________ of India. [SSC CHSL 03/07/2024]",
+              "options": [
+                "(a) North-west",
+                "(b) North-east",
+                "(c) South-east",
+                "(d) South-west"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) North-west\nExplanation:- Sambhar lake is located in Rajasthan in the north-west of India. It is the largest inland saltwater lake of India."
+            },
+            {
+              "id": 34,
+              "question": "Epilimnetic, metalimnetic, and hypolimnetic water strata are example of: [SSC CPO 27/06/2024]",
+              "options": [
+                "(a) Various ecological phases",
+                "(b) Typical layers of hard rock",
+                "(c) Different layers of underground water",
+                "(d) Typical thermal stratification of a lake"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Typical thermal stratification of a lake\nExplanation:- Epilimnetic (upper warm layer), metalimnetic (middle thermocline layer), and hypolimnetic (lower cold dense layer) water strata are examples of thermal stratification of a lake."
+            },
+            {
+              "id": 35,
+              "question": "Which of the following rivers forms the Dhuandhar falls? [SSC CHSL 15/03/2023]",
+              "options": [
+                "(a) Tapi",
+                "(b) Narmada",
+                "(c) Godavari",
+                "(d) Mahanadi"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Narmada\nExplanation:- Dhuandhar falls (and Kapildhara falls) is formed by the Narmada river in Bhedaghat near Jabalpur, MP.\nChitrakote waterfall (on Indravati river in Chhattisgarh) is known as the 'Niagara Falls of India'."
+            },
+            {
+              "id": 36,
+              "question": "What is the name of a type of waterfall with an enormous volume of water? [SSC CHSL 14/08/2023]",
+              "options": [
+                "(a) Cascade",
+                "(b) Rapid",
+                "(c) Cataract",
+                "(d) Chute"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Cataract\nExplanation:- Cataract Waterfall - a large, powerful waterfall with an enormous volume of fast-moving water.\nCascade Waterfall - water descends over a series of rock steps.\nPlunge Waterfall - water descends vertically, losing contact with the bedrock surface."
+            },
+            {
+              "id": 37,
+              "question": "The Jog Falls, one of the highest waterfalls in India is the cataract of which river? [SSC CHSL 03/08/2023]",
+              "options": [
+                "(a) Narmada",
+                "(b) Tungabhadra",
+                "(c) Sharavati",
+                "(d) Cauvery"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Sharavati\nExplanation:- Jog Falls (Gersoppa Falls / Mahatma Gandhi Falls) is on the Sharavati river in Karnataka.\nOther waterfalls: Barehipani (Budhabalanga river, Odisha), Athirappilly (Chalakudy river, Kerala), Duduma (Machkund river, Odisha), Gokak (Ghataprabha river, Karnataka), Nohkalikai (Meghalaya), Shivasamudram (Kaveri river, Karnataka), Dudhsagar (Mandovi river, Goa)."
+            },
+            {
+              "id": 38,
+              "question": "The Hundru Fall lies along the course of which of the following rivers? [SSC CGL 19/04/2022]",
+              "options": [
+                "(a) Damodar",
+                "(b) Sone",
+                "(c) Mahanadi",
+                "(d) Subarnarekha"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Subarnarekha\nExplanation:- Hundru waterfalls lie along the course of the Subarnarekha river in Ranchi district of Jharkhand."
+            },
+            {
+              "id": 39,
+              "question": "Which of the following rivers form Kunchikal waterfall in Karnataka? [SSC MTS 05/10/2021]",
+              "options": [
+                "(a) Mandavi",
+                "(b) Varahi",
+                "(c) Urmodi",
+                "(d) Kabini"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Varahi\nExplanation:- Kunchikal waterfalls (455 m) are formed by the Varahi river in Shivamogga district of Karnataka."
+            },
+            {
+              "id": 40,
+              "question": "What is a small, shallow freshwater body with calm water called? [SSC JE 06/06/2024]",
+              "options": [
+                "(a) River",
+                "(b) Pond",
+                "(c) Lagoon",
+                "(d) Lake"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Pond\nExplanation:- A pond is a small, shallow freshwater body with calm water. A lake is larger and deeper than a pond."
+            },
+            {
+              "id": 41,
+              "question": "In which of the following states is the Bhambavli Vajrai Waterfall located? [SSC MTS 14/10/2021]",
+              "options": [
+                "(a) Odisha",
+                "(b) Andhra Pradesh",
+                "(c) Karnataka",
+                "(d) Maharashtra"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Maharashtra\nExplanation:- Bhambavli Vajrai waterfall is located on the Urmodi river in Satara district of Maharashtra."
+            },
+            {
+              "id": 42,
+              "question": "Chulia waterfall is situated on Chambal River in ________. [SSC CHSL 11/08/2021]",
+              "options": [
+                "(a) Uttar Pradesh",
+                "(b) Gujarat",
+                "(c) Rajasthan",
+                "(d) Madhya Pradesh"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Rajasthan\nExplanation:- Chulia waterfall is situated on the Chambal river at Bhainsrorgarh (Chittorgarh district) in Rajasthan."
+            },
+            {
+              "id": 43,
+              "question": "In which of the following states is the Sirki Waterfall located? [SSC CHSL 06/08/2021]",
+              "options": [
+                "(a) Arunachal Pradesh",
+                "(b) Andhra Pradesh",
+                "(c) Himachal Pradesh",
+                "(d) Madhya Pradesh"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Arunachal Pradesh\nExplanation:- Sirki waterfall is situated near Pasighat in Arunachal Pradesh."
+            }
+          ]
         }
       ]
     }
