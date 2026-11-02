@@ -37234,6 +37234,360 @@
               "solutionHinglish": "Ans (a) Coastal Region\nExplanation:- Coastal regions are regions adjacent to ocean."
             }
           ]
+        },
+        {
+          "id": "t_1793610141988",
+          "name": "Rocks, Continents and Oceans - LEVEL II",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which one of the following is a type of igneous rock? [CDS I 2021]",
+              "options": [
+                "(a) Marble",
+                "(b) Halite",
+                "(c) Granite",
+                "(d) Shale"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Granite\nExplanation:- Igneous Rocks formed by solidification of magma. 2 types - intrusive (solidifies inside) and extrusive (solidifies outside). Eg. Basalt, Pumice, Granite, Gabbro, Obsidian, Pegmatite.\nMarble is a metamorphic rock while Halite and Shale are sedimentary rocks."
+            },
+            {
+              "id": 2,
+              "question": "Which one of the following sedimentary rocks has not been formed mechanically? [CDS II 2022]",
+              "options": [
+                "(a) Sandstone",
+                "(b) Conglomerate",
+                "(c) Loess",
+                "(d) Geyserites"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Geyserites\nExplanation:- Geyserites is organically formed while Sandstone, Conglomerate and Loess are mechanically formed."
+            },
+            {
+              "id": 3,
+              "question": "Individual lava flows are normally only a few feet thick, but over a long period of time, repeated flows may build up a volcano. Such volcanoes are termed as: [CDS I 2022]",
+              "options": [
+                "(a) Shield volcano",
+                "(b) Composite volcano",
+                "(c) Strato-volcano",
+                "(d) Cinder-cone volcano"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Shield volcano\nExplanation:- Shield volcanoes - low viscous basaltic lava which flows easily thereby creating a shield like structure.\nComposite volcano - most viscous lava so doesn't flow easily and hence these volcanoes are steep.\nCinder cone volcano - flood basalt province, highly fluid, Deccan traps.\nCaldera - most explosive lava, collapses on itself.\nAcidic Lava - high % of silica, highly viscous, light coloured, low density.\nBasic Lava - rich in iron and magnesium, dark coloured, less viscous.\nDo you know that Ojos Del Salado (Chile and Argentina) is the highest volcano?"
+            },
+            {
+              "id": 4,
+              "question": "Which one of the following States/UTs has the largest area under Coral Reefs in India? [CDS II 2022]",
+              "options": [
+                "(a) Gujarat",
+                "(b) Tamil Nadu",
+                "(c) Andaman and Nicobar Islands",
+                "(d) Lakshadweep"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Andaman and Nicobar Islands\nExplanation:- Andaman and Nicobar islands has the largest area under coral reefs in India.\nCoral reef is the symbiotic relation of corals (provides shelter) and algae zooxanthellae (provides food).\nDo you know that Lakshadweep islands are formed of coral reefs?"
+            },
+            {
+              "id": 5,
+              "question": "Which of the following pairs is/are correctly matched?\nPlateau : Continent\n1. Abyssinian : Africa\n2. Patagonian : Australia\n3. Anatolian : Asia\n4. Iberian : North America\nSelect the correct answer using the code given below: [CDS II 2023]",
+              "options": [
+                "(a) 1 only",
+                "(b) 1 and 3 only",
+                "(c) 2, 3 and 4 only",
+                "(d) 1, 2, 3 and 4"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) 1 and 3 only\nExplanation:- Plateau is a flat, elevated landform that rises sharply above surrounding area on at least one side.\nAbyssinian plateau (Ethiopian highlands) - present in Ethiopia and Eritrea (Africa)\nPatagonian plateau - located in southern Argentina (South America)\nAnatolian plateau - located in West Asia and constitutes the Asian part of Turkey\nIberian plateau - located in Spain (Europe)"
+            },
+            {
+              "id": 6,
+              "question": "Which of the following statements about volcanoes are correct?\n1. The strength of a volcano is measured by the Volcanic Explosive Index.\n2. Iceland and Philippines were created by volcanic activity.\n3. Volcanic soils are rich, deep and fertile and allow intensive agriculture to take place.\nSelect the correct answer using the code given below. [CDS I 2023]",
+              "options": [
+                "(a) 1 and 2 only",
+                "(b) 2 and 3 only",
+                "(c) 1 and 3 only",
+                "(d) 1, 2 and 3"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) 1, 2 and 3\nExplanation:- Volcanic Explosive Index - measures the explosiveness of a volcano.\nIceland and Philippines are located at the plate boundaries and are formed by volcanic activity.\nVolcanic soils are rich, deep and fertile and allow intensive agriculture to take place."
+            },
+            {
+              "id": 7,
+              "question": "Which of the following statements regarding continent of Antarctica is/are correct?\n1. It has the highest average elevation as compared to all other continents.\n2. Mount Vinson is the highest peak of this continent.\nSelect the correct answer using the code given below. [CDS I 2024]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) Both 1 and 2",
+                "(d) Neither 1 nor 2"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Both 1 and 2\nExplanation:- Antarctica has the highest average elevation as compared to all other continents.\nMount Vinson is the highest peak of Antarctica.\nHighest peaks of each continent :- Asia - Mt. Everest, Australia - Puncak Jaya, North America - Denali, South America - Aconcagua, Europe - Mt. Elbrus, Africa - Kilimanjaro."
+            },
+            {
+              "id": 8,
+              "question": "Which of the following factors are needed for the growth of corals?\n1. Freshwater\n2. Clear shallow salt water\n3. Plenty of sunlight for photosynthesis\n4. Warm water between 23°C and 25°C\nSelect the correct answer using the code given below. [CAPF 2021]",
+              "options": [
+                "(a) 1, 3 and 4 only",
+                "(b) 2, 3 and 4 only",
+                "(c) 1 and 2 only",
+                "(d) 1, 2, 3 and 4"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) 2, 3 and 4 only\nExplanation:- Favourable conditions for coral reef:- Saline water, Sunlight, Clear shallow water, Moderate temperature (23°-25°C)."
+            },
+            {
+              "id": 9,
+              "question": "Volcano Mount Merapi is situated in [CAPF 2021]",
+              "options": [
+                "(a) Thailand",
+                "(b) China",
+                "(c) Indonesia",
+                "(d) Maldives"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Indonesia\nExplanation:- Mount Merapi is a volcano situated in Indonesia.\nOther famous volcanoes:- Mauna Loa (Hawaii), Mt. Etna (Italy), Mt. Kilauea (Hawaii), Cotopaxi (Ecuador), Krakatoa (Indonesia), Stromboli (Italy) - lighthouse of Mediterranean."
+            },
+            {
+              "id": 10,
+              "question": "What is the depression at the top of a volcano following a volcanic eruption called? [CAPF 2021]",
+              "options": [
+                "(a) Chamber",
+                "(b) Vent",
+                "(c) Cinder",
+                "(d) Crater"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Crater\nExplanation:- Crater is the depression formed at the top of a volcano after the volcanic eruption."
+            },
+            {
+              "id": 11,
+              "question": "Consider the following statements about rock structure:\n1. Conglomerates are clastic sedimentary rocks.\n2. Slate is a non-clastic sedimentary rock.\n3. Granite is a plutonic igneous rock.\n4. Basalt is an extrusive igneous rock.\nWhich of the statements given above are correct? [CAPF 2023]",
+              "options": [
+                "(a) 1, 2 and 3 only",
+                "(b) 3 and 4 only",
+                "(c) 1 and 2 only",
+                "(d) 1, 3 and 4 only"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) 1, 3 and 4 only\nExplanation:- Conglomerates are clastic sedimentary rocks.\nSlate is a metamorphic rock not sedimentary.\nGranite is a plutonic igneous rock.\nBasalt is an extrusive igneous rock."
+            },
+            {
+              "id": 12,
+              "question": "Which one of the following is a permeable rock that allows water to pass through it? [CAPF 2023]",
+              "options": [
+                "(a) Granite",
+                "(b) Limestone",
+                "(c) Quartzite",
+                "(d) Sill"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Limestone\nExplanation:- Limestone is a sedimentary rock which is permeable (allows water to pass through it)."
+            },
+            {
+              "id": 13,
+              "question": "Consider the following statements:\n1. Many of the world's largest mountain chains exist beneath the sea.\n2. Some mountain chains are revealed as island arcs.\n3. The mid-oceanic ridges form the longest mountain chains.\n4. The mid-Atlantic ridge rises thirty-three metres above the floor of the Atlantic.\nWhich of the statements given above are correct? [CAPF 2023]",
+              "options": [
+                "(a) 1 and 2 only",
+                "(b) 3 and 4 only",
+                "(c) 1, 2 and 4 only",
+                "(d) 1, 2 and 3 only"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) 1, 2 and 3 only\nExplanation:- The mid-Atlantic ridge rises about 3 km above the ocean floor, not 33 metres."
+            },
+            {
+              "id": 14,
+              "question": "Which of the following processes is/are part of the Rock Cycle?\n1. Lithification\n2. Metamorphism\n3. Solidification\nSelect the answer using the code given below: [CAPF 2024]",
+              "options": [
+                "(a) 1 only",
+                "(b) 1 and 2 only",
+                "(c) 2 and 3 only",
+                "(d) 1, 2 and 3"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) 1, 2 and 3\nExplanation:- Rock Cycle is the continuous process by which rocks transform from one form to another through processes like weathering, erosion, melting, cooling, and pressure.\nLithification - process by which sediments are compacted to form solid sedimentary rock.\nMetamorphism - process of recrystallisation and reorganisation of materials within the original rocks.\nSolidification - process of cooling of magma and formation of solid igneous rocks.\nAll these are part of rock cycle."
+            },
+            {
+              "id": 15,
+              "question": "Which one of the following is not a bottom relief of the Indian Ocean? [CBI 2023]",
+              "options": [
+                "(a) Chagos Ridge",
+                "(b) Amsterdam - St. Paul Ridge",
+                "(c) Somali Basin",
+                "(d) Philippine Trench"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Philippine Trench\nExplanation:- Chagos Ridge - a volcanic ridge and oceanic plateau extending between the Northern and Central Indian Ocean.\nAmsterdam-St. Paul Ridge - a plateau in the Indian Ocean.\nSomali Basin - a deep ocean basin located in the western part of the Indian Ocean.\nPhilippine Trench is located in western Pacific ocean and not in the Indian ocean."
+            },
+            {
+              "id": 16,
+              "question": "Consider the following statements with respect to the 'asthenosphere':\n1. It extends from the lower crust to the upper mantle.\n2. It is the main source of the magma that finds its way to the surface of the Earth during volcanic eruptions.\nWhich of the statements given above is/are correct? [CBI 2023]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) Both 1 and 2",
+                "(d) Neither 1 nor 2"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) 2 only\nExplanation:- Asthenosphere (80-200 km) - portion of Mantle (below solid upper mantle), highly viscous, mechanically weak, ductile, density higher than crust. It is the main source of magma that finds its way to the surface of the Earth during volcanic eruptions.\nLithosphere (10-200 km) - crust + upper solid mantle."
+            },
+            {
+              "id": 17,
+              "question": "The maximum depth of Lithosphere is found in the [NDA I 2021]",
+              "options": [
+                "(a) Pacific Ocean",
+                "(b) Siberian Plain",
+                "(c) Patagonian Desert",
+                "(d) Himalayan Mountains"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Pacific Ocean\nExplanation:- The maximum depth of Lithosphere is found in the Pacific Ocean in which Mariana trench (deepest point - Challenger deep) is located."
+            },
+            {
+              "id": 18,
+              "question": "A large body of magmatic material that cools in the deeper depth of the Earth's crust and develops in the form of large domes is known as [NDA I 2021]",
+              "options": [
+                "(a) Batholiths",
+                "(b) Laccoliths",
+                "(c) Lopoliths",
+                "(d) Phacoliths"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Batholiths\nExplanation:- Batholith - large dome shaped landform within Earth's crust\nLaccolith - dome shaped landform connected by a pipe-like conduit from below\nLopolith - saucer shaped depression in horizontal direction\nPhacolith - lens shaped rocks found at the base of synclines or the top of the anticline"
+            },
+            {
+              "id": 19,
+              "question": "Consider the following:\n1. Pyroclastic debris\n2. Ash and dust\n3. Nitrogen compounds\n4. Sulphur compounds\nHow many of the above are products of volcanic eruptions? [IAS 2024]",
+              "options": [
+                "(a) Only one",
+                "(b) Only two",
+                "(c) Only three",
+                "(d) All four"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) All four\nExplanation:- Pyroclastic debris, ash and dust, nitrogen compounds, and sulphur compounds are all products of volcanic eruptions."
+            },
+            {
+              "id": 20,
+              "question": "The formation of 'tors' on small rocky hills is associated with which among the following? [NDA II 2022]",
+              "options": [
+                "(a) Granite",
+                "(b) Limestone",
+                "(c) Alluvial",
+                "(d) Dolomite"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Granite\nExplanation:- Smooth surfaced and rounded boulders called 'tors' are associated with rocks like Granite."
+            },
+            {
+              "id": 21,
+              "question": "Which one of the following is the lowermost/innermost intrusive igneous rock? [NDA I 2023]",
+              "options": [
+                "(a) Laccolith",
+                "(b) Batholith",
+                "(c) Lopolith",
+                "(d) Phacolith"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Batholith\nExplanation:- Batholith is the lowermost intrusive igneous rock."
+            },
+            {
+              "id": 22,
+              "question": "Which one of the following is not an igneous rock? [NDA I 2023]",
+              "options": [
+                "(a) Granite",
+                "(b) Slate",
+                "(c) Basalt",
+                "(d) Gabbro"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Slate\nExplanation:- Slate is a metamorphic rock which is formed by the metamorphism of Shale (sedimentary rock)."
+            },
+            {
+              "id": 23,
+              "question": "Which one of the following is an example of both an igneous as well as a metamorphic rock? [NDA II 2024]",
+              "options": [
+                "(a) Gabbro",
+                "(b) Geyserite",
+                "(c) Gneissoid",
+                "(d) Granite"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Granite\nExplanation:- Granite (Igneous rock) can be changed into Gneiss (metamorphic rock), making it the example associated with both igneous and metamorphic rock."
+            },
+            {
+              "id": 24,
+              "question": "Which one of the following is correct? [NDA II 2024]",
+              "options": [
+                "(a) Pyroxene is commonly found in meteorites.",
+                "(b) Amphiboles form about 20% of the Earth's crust.",
+                "(c) Quartz is soluble in water.",
+                "(d) The word 'sedimentary' is derived from the Latin word kelimentum."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Pyroxene is commonly found in meteorites.\nExplanation:- Pyroxene is commonly found in meteorites.\nUnder normal conditions, quartz is insoluble in water.\nThe word 'sedimentary' is derived from the Latin word 'sedimentum', meaning 'a settling or a sinking down'."
+            },
+            {
+              "id": 25,
+              "question": "Which one of the following is not inhabited by corals? [GEOSCIENTIST 2022]",
+              "options": [
+                "(a) Gulf of Kutch",
+                "(b) Lakshadweep",
+                "(c) Sundarbans",
+                "(d) Andaman and Nicobar Islands"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Sundarbans\nExplanation:- Sundarbans don't have coral reefs.\nThe majority of coral reefs in India are found in the Andaman and Nicobar Islands, Lakshadweep, Gulf of Mannar, Gulf of Kutch, and Palk Bay."
+            },
+            {
+              "id": 26,
+              "question": "Fold Mountains are formed in which type of tectonic settings? [CBI 2023]",
+              "options": [
+                "(a) Divergent",
+                "(b) Convergent",
+                "(c) Transform",
+                "(d) Rifting"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Convergent\nExplanation:- Fold mountains are formed due to convergent plate boundary where plates move towards each other and one plate subsides under the another."
+            },
+            {
+              "id": 27,
+              "question": "Which statements about Easter Island are correct?\n1. It is part of the Polynesia group of islands.\n2. It is a territory of Chile.\nCode: [CDS I 2025]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) Both 1 and 2",
+                "(d) Neither 1 nor 2"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Both 1 and 2\nExplanation:- Easter Island is a part of Polynesia group of islands. It is a territory of Chile.\nAtacama desert located in Chile is the driest desert in the world."
+            },
+            {
+              "id": 28,
+              "question": "Identify the mineral based on the given characteristics:\n1. Greenish crystal.\n2. Found in basaltic rocks.\n3. Major elements: Magnesium, iron, silica.\nCode: [CDS I 2025]",
+              "options": [
+                "(a) Amphibolite",
+                "(b) Feldspar",
+                "(c) Pyroxene",
+                "(d) Olivine"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Olivine\nExplanation:- Olivine is a greenish crystal found in basaltic rocks. Its major elements are magnesium, iron and silica."
+            },
+            {
+              "id": 29,
+              "question": "Which of the following is the correct ascending order of the given minerals in terms of their presence in the Earth's crust? [NDA I 2025]\n1. Amphibolite\n2. Mica\n3. Pyroxene\nSelect the answer using the code given below:",
+              "options": [
+                "(a) 2, 3, 1",
+                "(b) 1, 2, 3",
+                "(c) 2, 1, 3",
+                "(d) 1, 3, 2"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) 1, 2, 3\nExplanation:- As per the PDF answer key: Amphibolite < Mica < Pyroxene (Note: In crust percentage terms, Mica is 4%, Amphibole is 7%, and Pyroxene is 10%)."
+            }
+          ]
         }
       ]
     }
