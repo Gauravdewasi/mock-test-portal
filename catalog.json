@@ -42694,6 +42694,456 @@
               "solutionHinglish": "Ans (b) Gomal\nExplanation:- Gomal river is a right-bank tributary of the Indus that originates in the Sulaiman/Hindu Kush ranges (Afghanistan/Pakistan), not in the Himalayas."
             }
           ]
+        },
+        {
+          "id": "t_1793612035727",
+          "name": "Peninsular Rivers - LEVEL I",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Choose the correct statement about the peninsular rivers. [SSC CPO 28/06/2024]\nI. The Narmada rises in the Malwa plateau.\nII. The Godavari rises from the slopes of the Western Ghats near Nashik.\nIII. The Mahanadi rises in the highlands of Chhattisgarh.\nIV. The Krishna rises from a spring near Mahabaleshwar.",
+              "options": [
+                "(a) Only I, III and IV",
+                "(b) Only II, III and IV",
+                "(c) Only I, II and III",
+                "(d) I, II, III and IV"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Only II, III and IV\nExplanation:- Narmada (1312 km) doesn't rise from Malwa plateau but from the Amarkantak plateau in MP.\nGodavari (1465 km) - origin: Trimbakeshwar plateau (Nashik, Maharashtra), from Sahyadri, Western Ghats.\nMahanadi (850 km) - origin: Sihawa hills (Raipur/Dhamtari, Chhattisgarh).\nKrishna (1400 km) - origin: Mahabaleshwar (Sahyadri range)."
+            },
+            {
+              "id": 2,
+              "question": "Identify the incorrect pair (River and its origin) from the following. [SSC JE 07/06/2024]",
+              "options": [
+                "(a) Krishna - Brahmagiri range",
+                "(b) Tapi - Satpura ranges",
+                "(c) Godavari - Nasik district",
+                "(d) Narmada - Amarkantak hills"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Krishna - Brahmagiri range\nExplanation:- Krishna originates near Mahabaleshwar in Maharashtra, whereas Kaveri originates in the Brahmagiri range (Kodagu district, Karnataka).\nGodavari - Trimbakeshwar (Nashik, Maharashtra); Tapi - Multai in Satpura ranges (Betul district, MP); Narmada - Amarkantak hills (MP)."
+            },
+            {
+              "id": 3,
+              "question": "The largest river system of Rajasthan is ________. [SSC JE 05/06/2024]",
+              "options": [
+                "(a) Kaveri",
+                "(b) Bhima",
+                "(c) Tapi",
+                "(d) Luni"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Luni\nExplanation:- Luni is the largest river system of Rajasthan (west of Aravali).\nLuni (Lavanavari/Lavanavati): Origin - Naga hills (Ajmer, Rajasthan), flows through Rajasthan and Gujarat, and ends in the marshy grounds of Rann of Kutch (Endorheic river)."
+            },
+            {
+              "id": 4,
+              "question": "Which river has its source in the Western Ghats range of Karnataka state? [SSC JE 07/06/2024]",
+              "options": [
+                "(a) Kosi",
+                "(b) Banas",
+                "(c) Kaveri",
+                "(d) Sarayu"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Kaveri\nExplanation:- Kaveri (800 km): Origin - Brahmagiri hills (Talakaveri, Kodagu district, Karnataka). Flows through Karnataka and Tamil Nadu.\nTributaries - Hemavati, Kabini, Bhavani, Shimsha, Amaravathi, Arkavathi, Lakshmana Tirtha."
+            },
+            {
+              "id": 5,
+              "question": "Which of the following is NOT a major river basin in India? [SSC JE 07/06/2024]",
+              "options": [
+                "(a) Narmada",
+                "(b) Tapi",
+                "(c) Krishna",
+                "(d) Kalindi"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Kalindi\nExplanation:- Kalindi is not classified as a separate major river basin in India, whereas Narmada, Tapi, and Krishna are major river basins."
+            },
+            {
+              "id": 6,
+              "question": "Which river is known as the sorrow of Bihar? [SSC CHSL 07/06/2024]",
+              "options": [
+                "(a) Mahi",
+                "(b) Betwa",
+                "(c) Son",
+                "(d) Kosi"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Kosi\nExplanation:- Kosi is called 'Sorrow of Bihar' as it changes its course frequently and causes floods in Bihar. It meets Ganga in Katihar/Kursela district of Bihar.\nMahanadi is called 'Sorrow of Odisha' while Damodar is called 'Sorrow of Bengal'."
+            },
+            {
+              "id": 7,
+              "question": "Which of the following pairs of Indian rivers is west flowing? [SSC CHSL 11/07/2024]",
+              "options": [
+                "(a) Narmada and Tapi",
+                "(b) Mahanadi and Godavari",
+                "(c) Mahanadi and Krishna",
+                "(d) Krishna and Kaveri"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Narmada and Tapi\nExplanation:- Narmada and Tapi are major west-flowing rivers that flow through rift valleys and form estuaries.\nWest-flowing rivers - Luni, Sabarmati, Mahi, Narmada, Tapi, Mandovi, Zuari, Sharavati, Bharathapuzha, Periyar.\nEast-flowing rivers - Ganga, Mahanadi, Godavari, Krishna, Kaveri (form deltas)."
+            },
+            {
+              "id": 8,
+              "question": "Which of the following rivers is an east flowing river? [SSC CGL 06/03/2020]",
+              "options": [
+                "(a) Sabarmati river",
+                "(b) Mahi river",
+                "(c) Sharavati river",
+                "(d) Brahmani river"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Brahmani river\nExplanation:- Brahmani is an east-flowing river flowing primarily through Odisha into the Bay of Bengal.\nSouth Koel + Sankh = Brahmani river."
+            },
+            {
+              "id": 9,
+              "question": "The drainage basin of the Godavari river is present in which of the following states of India? [SSC STENOGRAPHER 12/10/2023]",
+              "options": [
+                "(a) Maharashtra, Andhra Pradesh, Kerala, Karnataka, and Tamil Nadu",
+                "(b) Chhattisgarh, Maharashtra, Andhra Pradesh, Madhya Pradesh, Karnataka, and Odisha",
+                "(c) Chhattisgarh, Andhra Pradesh, Kerala, Karnataka, and Tamil Nadu",
+                "(d) Chhattisgarh, Maharashtra, Karnataka, Tamil Nadu, and Odisha"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Chhattisgarh, Maharashtra, Andhra Pradesh, Madhya Pradesh, Karnataka, and Odisha\nExplanation:- Godavari (1465 km): Origin - Trimbakeshwar plateau (Nashik, Maharashtra). Its drainage basin spreads across Maharashtra, Telangana, Andhra Pradesh, Chhattisgarh, Madhya Pradesh, Odisha, and Karnataka.\nTributaries - Manjira, Sabari, Wainganga, Wardha, Indravati, Penganga, Purna, Pranhita."
+            },
+            {
+              "id": 10,
+              "question": "The Eastern Ghats stretch from the ________ to the Nilgiris in the south. [SSC CPO 05/10/2023]",
+              "options": [
+                "(a) Godavari Valley",
+                "(b) Mahanadi Valley",
+                "(c) Damodar Valley",
+                "(d) Son Valley"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Mahanadi Valley\nExplanation:- The Eastern Ghats stretch from the Mahanadi Valley in Odisha to the Nilgiris in the south."
+            },
+            {
+              "id": 11,
+              "question": "Which east-flowing river basin covers the states of Jharkhand, Chhattisgarh and Orissa and has a Drainage area of 39,033 sq km? [SSC CPO 04/10/2023]",
+              "options": [
+                "(a) Sarada",
+                "(b) Baitarani",
+                "(c) Brahmani",
+                "(d) Nagavali"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Brahmani\nExplanation:- The Brahmani river basin covers the states of Jharkhand, Chhattisgarh and Odisha and has a drainage area of 39,033 sq km."
+            },
+            {
+              "id": 12,
+              "question": "What is the other name of Bharathapuzha, the longest river of Kerala, which flows from the west and falls into the Arabian Sea? [SSC CHSL 02/08/2023]",
+              "options": [
+                "(a) Ittikkara",
+                "(b) Ayiroor",
+                "(c) Ponnani",
+                "(d) Kallayi"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Ponnani\nExplanation:- Bharathapuzha river is also known as Nila or Ponnani river. It is a west-flowing river in Kerala."
+            },
+            {
+              "id": 13,
+              "question": "Yerla, Warna, and Dindi are tributaries of the ________ river system. [SSC CGL 17/08/2021]",
+              "options": [
+                "(a) Brahmaputra",
+                "(b) Godavari",
+                "(c) Kaveri",
+                "(d) Krishna"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Krishna\nExplanation:- Yerla, Warna, and Dindi are tributaries of the Krishna river system."
+            },
+            {
+              "id": 14,
+              "question": "With a stretch of about 724 km, which river is one of the most important rivers of peninsular India? [SSC CHSL 03/08/2023]",
+              "options": [
+                "(a) Tapi",
+                "(b) Beas",
+                "(c) Palar",
+                "(d) Bhavani"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Tapi\nExplanation:- Tapi (724 km): Origin - Multai (Betul district, MP, Satpura ranges). Flows through MP, Maharashtra, and Gujarat into the Gulf of Khambhat through a rift valley."
+            },
+            {
+              "id": 15,
+              "question": "Which river originates from the southern part of Devarayanadurga hill in Tumkur district, and flows for about 221 km before joining Kaveri? [SSC CHSL 04/08/2023]",
+              "options": [
+                "(a) Shimsha river",
+                "(b) Girna river",
+                "(c) Ghataprabha river",
+                "(d) Waghur river"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Shimsha river\nExplanation:- Shimsha, which is a tributary of Kaveri, originates from the southern part of Devarayanadurga hill in Tumkur district of Karnataka."
+            },
+            {
+              "id": 16,
+              "question": "Which of the following rivers originates near Sihawa in Raipur district of Chhattisgarh, flows through Odisha, and eventually empties into the Bay of Bengal? [SSC CHSL 17/08/2023]",
+              "options": [
+                "(a) Mahanadi",
+                "(b) Krishna",
+                "(c) Godavari",
+                "(d) Cauvery"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Mahanadi\nExplanation:- Mahanadi (850 km) originates near Sihawa in Chhattisgarh, flows through Odisha, and empties into the Bay of Bengal. Hirakud dam is built on it.\nTributaries - Seonath, Hasdeo, Mand, Ib, Ong, Tel, Jonk."
+            },
+            {
+              "id": 17,
+              "question": "Which of the following states is NOT a part of the Tapi Basin? [SSC CGL 14/07/2023]",
+              "options": [
+                "(a) Rajasthan",
+                "(b) Maharashtra",
+                "(c) Madhya Pradesh",
+                "(d) Gujarat"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Rajasthan\nExplanation:- The Tapi basin extends over Madhya Pradesh, Maharashtra, and Gujarat. Rajasthan is not part of the Tapi basin."
+            },
+            {
+              "id": 18,
+              "question": "Which group of rivers is a part of the peninsular drainage system? [SSC CGL 17/07/2023]",
+              "options": [
+                "(a) Gandak and Ghaghra",
+                "(b) Mahanadi and Godavari",
+                "(c) Ganga and Yamuna",
+                "(d) Damodar and Sarda"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Mahanadi and Godavari\nExplanation:- Mahanadi and Godavari are part of the peninsular drainage system."
+            },
+            {
+              "id": 19,
+              "question": "Which of the following rivers does NOT flow in Kerala State? [SSC CGL 26/07/2023]",
+              "options": [
+                "(a) Bharathapuzha",
+                "(b) Periyar",
+                "(c) Pamba",
+                "(d) Penner"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Penner\nExplanation:- Penner (Pennar / Pinakini) originates in Nandi Hills (Chikkaballapur district, Karnataka) and flows through Andhra Pradesh into the Bay of Bengal.\nBharathapuzha, Periyar, and Pamba flow in Kerala."
+            },
+            {
+              "id": 20,
+              "question": "What is the name of the branch of river Godavari that joins the Bay of Bengal flowing through the Yanam enclave of the union territory of Puducherry? [SSC CGL 20/07/2023]",
+              "options": [
+                "(a) Kapila",
+                "(b) Indravati",
+                "(c) Gautami",
+                "(d) Bhavani"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Gautami\nExplanation:- Gautami (Gautami Godavari) is the branch/distributary of river Godavari that flows through the Yanam enclave of Puducherry into the Bay of Bengal."
+            },
+            {
+              "id": 21,
+              "question": "Which of the following is NOT a tributary of the Godavari river? [SSC CGL 21/07/2023]",
+              "options": [
+                "(a) Mahi",
+                "(b) Pranhita",
+                "(c) Manjra",
+                "(d) Purna"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Mahi\nExplanation:- Mahi is an independent west-flowing river that originates in the Vindhya range (MP), flows through Rajasthan and Gujarat, and drains into the Gulf of Khambhat. Mahi crosses the Tropic of Cancer twice.\nPranhita, Manjra, and Purna are tributaries of the Godavari."
+            },
+            {
+              "id": 22,
+              "question": "Which river is the third largest in the peninsula of India and the largest river of Odisha state? [SSC MTS 03/05/2023]",
+              "options": [
+                "(a) Godavari",
+                "(b) Mahanadi",
+                "(c) Krishna",
+                "(d) Narmada"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Mahanadi\nExplanation:- Mahanadi is the largest river of Odisha state and the third largest east-flowing peninsular river after Godavari and Krishna."
+            },
+            {
+              "id": 23,
+              "question": "Which is a major tributary of Bhagirathi river? [SSC MTS 18/05/2023]",
+              "options": [
+                "(a) Bhilangna",
+                "(b) Dhauliganga",
+                "(c) Pindar",
+                "(d) Bishenganga"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Bhilangna\nExplanation:- Bhilangna (originating from Khatling glacier) is the major tributary of the Bhagirathi river (they meet near Tehri Dam). Dhauliganga and Pindar are tributaries of the Alaknanda."
+            },
+            {
+              "id": 24,
+              "question": "Jabalpur is located on the banks of which of the following rivers? [SSC CHSL 10/03/2023]",
+              "options": [
+                "(a) Ganga",
+                "(b) Godavari",
+                "(c) Chambal",
+                "(d) Narmada"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Narmada\nExplanation:- Jabalpur (Madhya Pradesh) is located on the banks of the Narmada river (famous for Dhuandhar Falls and Bhedaghat marble rocks)."
+            },
+            {
+              "id": 25,
+              "question": "Which of the following is not an important river of Malwa plateau? [SSC CHSL 10/03/2023]",
+              "options": [
+                "(a) Chambal river",
+                "(b) Mahanadi river",
+                "(c) Ken river",
+                "(d) Betwa river"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Mahanadi river\nExplanation:- Mahanadi originates from Sihawa hills in Chhattisgarh and is not a river of the Malwa plateau."
+            },
+            {
+              "id": 26,
+              "question": "Which of the following is NOT a tributary of river Kaveri? [SSC CHSL 13/03/2023]",
+              "options": [
+                "(a) Musi",
+                "(b) Bhavani",
+                "(c) Hemavati",
+                "(d) Kabini"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Musi\nExplanation:- Musi is a tributary of the Krishna river (Hyderabad is situated on the banks of Musi), whereas Bhavani, Hemavati, and Kabini are tributaries of the Kaveri."
+            },
+            {
+              "id": 27,
+              "question": "Which of the following pairs of \"river - tributary\" is correct? [SSC CHSL 15/03/2023]\nI. Tapi - Manjra\nII. Krishna - Ghatprabha",
+              "options": [
+                "(a) Neither I nor II",
+                "(b) Only II",
+                "(c) Only I",
+                "(d) Both I and II"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Only II\nExplanation:- Manjra is a tributary of Godavari (not Tapi), while Ghataprabha is a tributary of Krishna."
+            },
+            {
+              "id": 28,
+              "question": "Which among the following is a river that originates in the Western Ghats? [SSC CHSL 16/03/2023]",
+              "options": [
+                "(a) Narmada",
+                "(b) Luni",
+                "(c) Banas",
+                "(d) Mandovi"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Mandovi\nExplanation:- Mandovi (Mahadayi) originates in the Western Ghats (Bhimgad, Belagavi district, Karnataka) and is called the 'Lifeline of Goa'. Panaji is located on its banks."
+            },
+            {
+              "id": 29,
+              "question": "Tapi river basin extends over the state of ________. [SSC CHSL 17/03/2023]",
+              "options": [
+                "(a) Chhattisgarh",
+                "(b) Tamil Nadu",
+                "(c) Karnataka",
+                "(d) Maharashtra"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Maharashtra\nExplanation:- The Tapi river basin extends over Madhya Pradesh, Maharashtra, and Gujarat."
+            },
+            {
+              "id": 30,
+              "question": "The decommissioned Havelock Bridge has been built over which of the following rivers? [SSC CPO 09/11/2022]",
+              "options": [
+                "(a) Cauvery",
+                "(b) Mahanadi",
+                "(c) Krishna",
+                "(d) Godavari"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Godavari\nExplanation:- The decommissioned Havelock Bridge (in Rajahmundry, Andhra Pradesh) was built over the Godavari river."
+            },
+            {
+              "id": 31,
+              "question": "Which river basin covers an area of 65,145 km², of which about 80% lies in Maharashtra? [SSC CHSL 27/05/2022]",
+              "options": [
+                "(a) Krishna",
+                "(b) Narmada",
+                "(c) Godavari",
+                "(d) Tapi"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Tapi (Note: PDF solution key prints typo (C) Godavari, whereas Tapi basin has an area of 65,145 km² of which ~80% lies in Maharashtra; Godavari basin is 3,12,812 km² of which ~48.6% lies in Maharashtra)\nExplanation:- The Tapi river basin covers an area of 65,145 km², of which about 80% lies in Maharashtra (the remaining part lies in Madhya Pradesh and Gujarat)."
+            },
+            {
+              "id": 32,
+              "question": "In ancient times, which river was also known as 'Ponni' in Tamil, which is the fourth largest river flowing in the southeast direction through the states of Karnataka and Tamil Nadu? [SSC CHSL 02/06/2022]",
+              "options": [
+                "(a) Kaveri River",
+                "(b) Satluj River",
+                "(c) Ravi River",
+                "(d) Tapi River"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Kaveri River\nExplanation:- Kaveri was known as 'Ponni' in Tamil. It flows in a southeast direction through Karnataka and Tamil Nadu. The Grand Anicut (Kallanai) dam was built across the Kaveri river by the Chola king Karikala Chola."
+            },
+            {
+              "id": 33,
+              "question": "Which of the following rivers flows into the Bay of Bengal? [SSC MTS 07/10/2021]",
+              "options": [
+                "(a) Narmada",
+                "(b) Mahanadi",
+                "(c) Tapi",
+                "(d) Indus"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Mahanadi\nExplanation:- Mahanadi flows into the Bay of Bengal while Narmada, Tapi, and Indus flow into the Arabian Sea."
+            },
+            {
+              "id": 34,
+              "question": "About 50% of the ________ Basin lies in Maharashtra. [SSC MTS 07/10/2021]",
+              "options": [
+                "(a) Godavari",
+                "(b) Kaveri",
+                "(c) Mahanadi",
+                "(d) Narmada"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Godavari\nExplanation:- About 50% (48.6%) of the Godavari river basin lies in Maharashtra."
+            },
+            {
+              "id": 35,
+              "question": "Which Indian state is the source of the rivers Brahmani, Kharkai, and Subarnarekha? [SSC MTS 26/10/2021]",
+              "options": [
+                "(a) Madhya Pradesh",
+                "(b) Bihar",
+                "(c) Jharkhand",
+                "(d) Uttar Pradesh"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Jharkhand\nExplanation:- Rivers like Brahmani (via South Koel and Sankh), Kharkai, and Subarnarekha have their source in Jharkhand. Kharkai is the major tributary of Subarnarekha (they meet at Jamshedpur)."
+            },
+            {
+              "id": 36,
+              "question": "Which of the following states has the largest catchment area of Godavari Basin? [SSC MTS 20/10/2021]",
+              "options": [
+                "(a) Karnataka",
+                "(b) Maharashtra",
+                "(c) Madhya Pradesh",
+                "(d) Telangana"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Maharashtra\nExplanation:- Maharashtra has the largest catchment area (~48.6%) of the Godavari Basin."
+            },
+            {
+              "id": 37,
+              "question": "What is the name of the river formed by the confluence of Sankh River and South Koel River at Vedvyas in Odisha? [SSC CGL 16/08/2021]",
+              "options": [
+                "(a) Brahmani",
+                "(b) Subarnarekha",
+                "(c) Pennar",
+                "(d) Sabarmati"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Brahmani\nExplanation:- Brahmani is formed by the confluence of the Sankh and South Koel rivers at Vedvyas near Rourkela in Odisha."
+            }
+          ]
         }
       ]
     }
