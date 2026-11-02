@@ -43732,6 +43732,240 @@
               "solutionHinglish": "Ans (a) Arunachal Pradesh\nExplanation:- Sirki waterfall is situated near Pasighat in Arunachal Pradesh."
             }
           ]
+        },
+        {
+          "id": "t_1793612397233",
+          "name": "Dams, Lakes and Waterfalls - LEVEL II",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Match List I with List II and select the correct answer using the code given below the lists: [CDS I 2022]\nList I (Lake) — List II (State)\na. Kaliveli — 1. Sikkim\nb. Khajjiar — 2. Kerala\nc. Khecheopalri — 3. Himachal Pradesh\nd. Vembanad — 4. Tamil Nadu",
+              "options": [
+                "(a) a-2, b-1, c-3, d-4",
+                "(b) a-2, b-3, c-1, d-4",
+                "(c) a-4, b-1, c-3, d-2",
+                "(d) a-4, b-3, c-1, d-2"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) a-4, b-3, c-1, d-2\nExplanation:- Kaliveli - Tamil Nadu (4); Khajjiar - Himachal Pradesh (3); Khecheopalri - Sikkim (1); Vembanad - Kerala (2)."
+            },
+            {
+              "id": 2,
+              "question": "Match List I with List II and select the correct answer using the code given below the lists: [CDS I 2022]\nList I (Waterfall) — List II (State)\na. Barkana — 1. Tamil Nadu\nb. Dudhsagar — 2. Odisha\nc. Duduma — 3. Karnataka\nd. Kiliyur — 4. Goa",
+              "options": [
+                "(a) a-3, b-2, c-4, d-1",
+                "(b) a-3, b-4, c-2, d-1",
+                "(c) a-1, b-4, c-2, d-3",
+                "(d) a-1, b-2, c-4, d-3"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) a-3, b-4, c-2, d-1 (Note: Barkana falls is on Seetha river in Agumbe, Karnataka (3); Dudhsagar is in Goa (4); Duduma is in Odisha (2); Kiliyur is in Shervaroyan hills, Tamil Nadu (1); PDF key prints (C))\nExplanation:- Barkana - Karnataka (3); Dudhsagar - Goa (4); Duduma - Odisha (2); Kiliyur - Tamil Nadu (1)."
+            },
+            {
+              "id": 3,
+              "question": "In which one of the following States/UT, is the Lake Tsomgo located? [CDS II 2022]",
+              "options": [
+                "(a) Ladakh",
+                "(b) Himachal Pradesh",
+                "(c) Sikkim",
+                "(d) Uttarakhand"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Sikkim\nExplanation:- Lake Tsomgo (Changu Lake), Cholamu (Tso Lhamo) lake, and Gurudongmar lake are located in Sikkim."
+            },
+            {
+              "id": 4,
+              "question": "Rani told her friends that last year she did boating in four different lakes, namely, Loktak, Barapani, Kolleru and Pulicat. Which of the following States did she visit? [CDS I 2023]",
+              "options": [
+                "(a) Manipur, Tamil Nadu, Meghalaya, Kerala",
+                "(b) Manipur, Meghalaya, Andhra Pradesh, Tamil Nadu",
+                "(c) Mizoram, Tamil Nadu, Assam, Kerala",
+                "(d) Mizoram, Assam, Andhra Pradesh, Tamil Nadu"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Manipur, Meghalaya, Andhra Pradesh, Tamil Nadu\nExplanation:- Loktak Lake - Manipur; Barapani (Umiam) Lake - Meghalaya; Kolleru Lake - Andhra Pradesh; Pulicat Lake - Andhra Pradesh / Tamil Nadu border."
+            },
+            {
+              "id": 5,
+              "question": "Anasagar Lake is located in which one of the following States? [CAPF 2022]",
+              "options": [
+                "(a) Gujarat",
+                "(b) Uttarakhand",
+                "(c) Rajasthan",
+                "(d) Karnataka"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Rajasthan\nExplanation:- Anasagar lake is an artificial lake located in Ajmer, Rajasthan."
+            },
+            {
+              "id": 6,
+              "question": "Which of the following soil formation process takes place in Phumdis (floating fields) in Loktak Lake of Manipur? [CAPF 2023]",
+              "options": [
+                "(a) Laterization",
+                "(b) Podzolization",
+                "(c) Gleization",
+                "(d) Calcification"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Gleization\nExplanation:- Gleization - it is the soil formation process that occurs in waterlogged or poorly drained anaerobic environments (like Phumdis in Loktak Lake).\nLaterization - leaching of silica in hot and humid tropical climates leaving iron and aluminium oxides.\nPodzolization - leaching of iron/aluminium/organic matter in cold humid (Taiga) climates.\nCalcification - accumulation of calcium carbonate in arid/semi-arid regions."
+            },
+            {
+              "id": 7,
+              "question": "Which one of the following is a crater lake in India? [NDA II 2021]",
+              "options": [
+                "(a) Lonar Lake",
+                "(b) Sambhar Lake",
+                "(c) Chilika Lake",
+                "(d) Vembanad Lake"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Lonar Lake\nExplanation:- Lonar lake (Buldhana district, Maharashtra) is a crater lake in India."
+            },
+            {
+              "id": 8,
+              "question": "Match List I with List II and select the correct answer using the code given below the lists: [NDA II 2021]\nList I (Dam) — List II (State)\na. Hirakud — 1. Gujarat\nb. Panchet — 2. Bihar\nc. Kosi — 3. Odisha\nd. Ukai — 4. Jharkhand",
+              "options": [
+                "(a) a-3, b-4, c-2, d-1",
+                "(b) a-3, b-2, c-4, d-1",
+                "(c) a-1, b-2, c-4, d-3",
+                "(d) a-1, b-4, c-2, d-3"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) a-3, b-4, c-2, d-1\nExplanation:- Hirakud - Odisha (3); Panchet (on Damodar river) - Jharkhand (4); Kosi - Bihar (2); Ukai (on Tapi river) - Gujarat (1).\nDamodar Valley Project (1948, India's first multipurpose river valley project, modelled on Tennessee Valley Authority of USA): Tilaiya and Maithon dams (Barakar river), Konar dam (Konar river), Panchet dam (Damodar river)."
+            },
+            {
+              "id": 9,
+              "question": "Consider the following statements:\n1. The Sharavati river creates Jog Falls.\n2. The Brahmani river is formed by the confluence of the Kosi and Sankh rivers.\n3. The Tamraparni is a river of Tirunelveli district of Tamil Nadu.\nHow many of the above statements is/are correct? [NDA II 2022]",
+              "options": [
+                "(a) 1",
+                "(b) 2",
+                "(c) 3",
+                "(d) None"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) 2\nExplanation:- Statements 1 and 3 are correct:\n1. Sharavati river creates Jog Falls.\n2. Brahmani river is formed by the confluence of the South Koel (not Kosi) and Sankh rivers.\n3. Tamirabarani (Tamraparni) river flows through Tirunelveli district of Tamil Nadu."
+            },
+            {
+              "id": 10,
+              "question": "In which one of the following states 'Roopkund' lake is located? [NDA II 2023]",
+              "options": [
+                "(a) Kerala",
+                "(b) Manipur",
+                "(c) Himachal Pradesh",
+                "(d) Uttarakhand"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Uttarakhand\nExplanation:- Roopkund lake ('Mystery Lake' or 'Skeleton Lake') is a high-altitude glacial lake located in Chamoli district of Uttarakhand."
+            },
+            {
+              "id": 11,
+              "question": "The 420 MW Phukot Karnali Hydro Electric Project is situated in [NDA II 2023]",
+              "options": [
+                "(a) Thailand",
+                "(b) Indonesia",
+                "(c) Nepal",
+                "(d) Bhutan"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Nepal\nExplanation:- The 480/420 MW Phukot Karnali Hydro Electric Project is situated on the Karnali river in Nepal (developed in partnership with NHPC India)."
+            },
+            {
+              "id": 12,
+              "question": "Match List I with List II and select the correct answer using the code given below the lists: [NDA II 2024]\nList I (Hydroelectric Power Plant) — List II (State)\na. Doyang — 1. Assam\nb. Gomuti — 2. Arunachal Pradesh\nc. Kapili — 3. Tripura\nd. Ranganadi — 4. Nagaland",
+              "options": [
+                "(a) a-4, b-3, c-2, d-1",
+                "(b) a-4, b-3, c-1, d-2",
+                "(c) a-1, b-2, c-3, d-4",
+                "(d) a-1, b-3, c-2, d-4"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) a-4, b-3, c-1, d-2 (Note: PDF solution table lists Doyang - Nagaland (4), Gomuti/Gumti - Tripura (3), Kapili/Kopili - Assam (1), Ranganadi - Arunachal Pradesh (2))\nExplanation:- Doyang - Nagaland (4); Gumti (Gomuti) - Tripura (3); Kopili (Kapili) - Assam (1); Ranganadi - Arunachal Pradesh (2)."
+            },
+            {
+              "id": 13,
+              "question": "In deep ponds and lakes, which one of the following vertical zones receives least light penetration? [GEOSCIENTIST 2023]",
+              "options": [
+                "(a) Surface",
+                "(b) Littoral zone",
+                "(c) Limnetic zone",
+                "(d) Profundal zone"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Profundal zone\nExplanation:- Vertical Zones of a Lake:\nLittoral zone - shallow, near-shore zone where light reaches the bottom.\nLimnetic zone - open, well-lit surface water away from shore.\nProfundal zone - deep, dark aphotic zone below the range of effective light penetration."
+            },
+            {
+              "id": 14,
+              "question": "Which one of the following is a lagoon? [GEOSCIENTIST 2023]",
+              "options": [
+                "(a) Pulicat",
+                "(b) Deepor Beel",
+                "(c) Kolleru",
+                "(d) Gohna"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Pulicat\nExplanation:- Pulicat (on the Andhra Pradesh-Tamil Nadu border, separated from the Bay of Bengal by Sriharikota barrier island) is a brackish water lagoon."
+            },
+            {
+              "id": 15,
+              "question": "Which of the following pairs is/are not correctly matched?\nRamsar site — State\n1. Kolleru lake — Telangana\n2. Satkosia gorge — Odisha\n3. Kanjli lake — Punjab\n4. Pala wetland — Mizoram\nSelect the answer using the code given below. [GEOSCIENTIST 2024]",
+              "options": [
+                "(a) 1 only",
+                "(b) 1 and 2",
+                "(c) 2 and 3",
+                "(d) 4 only"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) 1 only\nExplanation:- Kolleru lake is located in Andhra Pradesh (not Telangana). Satkosia gorge - Odisha, Kanjli lake - Punjab, Pala wetland - Mizoram are all correctly matched."
+            },
+            {
+              "id": 16,
+              "question": "With reference to India, Didwana, Kuchaman, Sargol and Khatu are the names of: [IAS 2021]",
+              "options": [
+                "(a) Glaciers",
+                "(b) Mangrove areas",
+                "(c) Ramsar sites",
+                "(d) Saline lakes"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Saline lakes\nExplanation:- Didwana, Kuchaman, Sargol, and Khatu are the names of inland saline lakes (playas) in Rajasthan."
+            },
+            {
+              "id": 17,
+              "question": "Consider the following pairs:\nWetland/Lake — Location\n1. Hokera Wetland — Punjab\n2. Renuka Wetland — Himachal Pradesh\n3. Rudrasagar Lake — Tripura\n4. Sasthamkotta Lake — Tamil Nadu\nHow many pairs given above are correctly matched? [IAS 2022]",
+              "options": [
+                "(a) Only one pair",
+                "(b) Only two pairs",
+                "(c) Only three pairs",
+                "(d) All four pairs"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Only two pairs\nExplanation:- Pairs 2 and 3 are correctly matched:\n1. Hokera Wetland - Jammu & Kashmir\n2. Renuka Wetland - Himachal Pradesh (smallest Ramsar site in India)\n3. Rudrasagar Lake - Tripura\n4. Sasthamkotta Lake - Kerala"
+            },
+            {
+              "id": 18,
+              "question": "Consider the following pairs:\nReservoirs — States\n1. Ghataprabha — Telangana\n2. Gandhi Sagar — Madhya Pradesh\n3. Indira Sagar — Andhra Pradesh\n4. Maithon — Chhattisgarh\nHow many pairs given above are not correctly matched? [IAS 2022]",
+              "options": [
+                "(a) Only one pair",
+                "(b) Only two pairs",
+                "(c) Only three pairs",
+                "(d) All four pairs"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Only three pairs\nExplanation:- Pairs 1, 3, and 4 are NOT correctly matched:\n1. Ghataprabha reservoir - Karnataka\n2. Gandhi Sagar reservoir (Chambal river) - Madhya Pradesh (Correct)\n3. Indira Sagar reservoir (Narmada river) - Madhya Pradesh\n4. Maithon reservoir (Barakar river) - Jharkhand"
+            },
+            {
+              "id": 19,
+              "question": "Consider the following information:\nWaterfall — Region — River\n1. Dhuandhar — Malwa — Narmada\n2. Hundru — Chota Nagpur — Subarnarekha\n3. Gersoppa — Western Ghats — Netravati\nIn how many of the above rows is the given information correctly matched? [IAS 2024]",
+              "options": [
+                "(a) Only one",
+                "(b) Only two",
+                "(c) All three",
+                "(d) None"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Only one (Note: PDF solution key prints (B) Only two; per UPSC official key only Row 2 is completely correct as Dhuandhar is in Bhedaghat/Jabalpur Mahakoshal region on Narmada, not Malwa, and Gersoppa is on Sharavati river, not Netravati)\nExplanation:- 1. Dhuandhar waterfall - Jabalpur (Baghelkhand/Mahakoshal, not Malwa) - Narmada river.\n2. Hundru waterfall - Chota Nagpur - Subarnarekha river (Correct).\n3. Gersoppa (Jog) waterfall - Western Ghats - Sharavati river (not Netravati)."
+            }
+          ]
         }
       ]
     }
