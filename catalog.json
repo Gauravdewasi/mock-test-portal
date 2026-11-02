@@ -40438,6 +40438,276 @@
               "solutionHinglish": "Ans (b) Itanagar (Note: PDF solution text says Itanagar (Arunachal Pradesh) with typo letter (C) in key; Itanagar is Option B)\nExplanation:- Itanagar (Arunachal Pradesh) is located 530 metres above the sea level between 93° East longitude and 27° North latitude."
             }
           ]
+        },
+        {
+          "id": "t_1793610450281",
+          "name": "India and It's Location - LEVEL II",
+          "questions": [
+            {
+              "id": 1,
+              "question": "India's territorial limit extends towards the sea up to [CDS I 2021]",
+              "options": [
+                "(a) 10 nautical miles",
+                "(b) 12 nautical miles",
+                "(c) 14 nautical miles",
+                "(d) 15 nautical miles"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) 12 nautical miles\nExplanation:- India's territorial limit extends towards sea up to 12 nautical miles (~22.2 km) (1 nm = 1.852 km).\nContiguous zone - 24 nautical miles, Exclusive Economic Zone (EEZ) - 200 nautical miles."
+            },
+            {
+              "id": 2,
+              "question": "Which one of the following longitudes is the standard meridian of India? [CDS I 2021]",
+              "options": [
+                "(a) 83°30' E",
+                "(b) 82°30' E",
+                "(c) 82°30' W",
+                "(d) 83°30' W"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) 82°30' E\nExplanation:- 82°30' E is the standard meridian of India. It is 5.5 hours ahead of GMT."
+            },
+            {
+              "id": 3,
+              "question": "Which of the following statements is/are correct with respect to Time Zone in India?\n1. There is one standard time for the whole country.\n2. Andaman and Nicobar Islands and Lakshadweep Islands have different Time Zones.\n3. Indian Standard Time (IST) is five and half hours behind GMT.\nSelect the correct answer using the code given below: [CDS II 2021]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) 1 and 2 only",
+                "(d) 1 and 3 only"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) 1 only\nExplanation:- India has only one time zone i.e. 82°30' E which is known as Indian Standard Time (IST). It is 5.5 hours ahead of GMT not behind."
+            },
+            {
+              "id": 4,
+              "question": "M wants to visit a place in a Union Territory, which is located at 34° N and 77° E. Which one of the following Union Territories must he have planned to visit? [CDS II 2021]",
+              "options": [
+                "(a) Andaman and Nicobar Islands",
+                "(b) Lakshadweep",
+                "(c) Puducherry",
+                "(d) Ladakh"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Ladakh\nExplanation:- Ladakh (Leh) is located at 34° N and 77° E."
+            },
+            {
+              "id": 5,
+              "question": "Identify the State on the basis of the following characteristics:\n1. Tropic of Cancer passes through the State.\n2. The State has more north-south extension.\n3. The State has international border with Bangladesh and Myanmar.\nSelect the correct answer using the code given below: [CDS II 2021]",
+              "options": [
+                "(a) Tripura",
+                "(b) Mizoram",
+                "(c) Nagaland",
+                "(d) Manipur"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Mizoram\nExplanation:- Mizoram is the state that fulfils all the given characteristics (Tropic of Cancer passes through it, it has north-south extension, and shares borders with both Bangladesh and Myanmar)."
+            },
+            {
+              "id": 6,
+              "question": "Consider the following clues about a State of India:\n1. It is known as 'land of red river and blue hills'.\n2. It contains three of the six physiographic divisions of India.\n3. It covers about 2.39 percent of total areas of the country.\nIdentify the State on the basis of the given clues. [CDS I 2023]",
+              "options": [
+                "(a) Karnataka",
+                "(b) Andhra Pradesh",
+                "(c) Assam",
+                "(d) Chhattisgarh"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Assam\nExplanation:- Assam is known as 'land of red river (due to Brahmaputra) and blue hills'. It contains three physiographic divisions of India and covers 2.39% of total area of the country.\nDo you know that Majuli island situated in Brahmaputra river is the largest riverine island in the world?"
+            },
+            {
+              "id": 7,
+              "question": "The Tropic of Cancer passes through how many coastal and landlocked States of India, respectively? [CDS I 2023]",
+              "options": [
+                "(a) 1 and 7",
+                "(b) 2 and 6",
+                "(c) 2 and 5",
+                "(d) 3 and 5"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) 2 and 6\nExplanation:- Tropic of Cancer (23.5° N) passes through 8 states of India - Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram. Gujarat and West Bengal (2) are the coastal states while the other 6 are landlocked states."
+            },
+            {
+              "id": 8,
+              "question": "Which one of the following Indian States has the longest coastline? [CDS I 2023]",
+              "options": [
+                "(a) Tamil Nadu",
+                "(b) Gujarat",
+                "(c) Maharashtra",
+                "(d) Andhra Pradesh"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Gujarat\nExplanation:- Gujarat has the longest coastline (1,600 km) among Indian states. UT having longest coastline - Andaman & Nicobar (1962 km). Shortest coastline - Goa."
+            },
+            {
+              "id": 9,
+              "question": "Which one among the following States has the longest extension in north-south direction? [CDS I 2023]",
+              "options": [
+                "(a) Jharkhand",
+                "(b) Telangana",
+                "(c) Odisha",
+                "(d) Chhattisgarh"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Chhattisgarh\nExplanation:- Chhattisgarh is the state with longest north-south extension among the given options."
+            },
+            {
+              "id": 10,
+              "question": "Which of the following sets of states shares boundary with Telangana? [CDS I 2023]",
+              "options": [
+                "(a) Odisha, Andhra Pradesh, Karnataka, Maharashtra",
+                "(b) Chhattisgarh, Andhra Pradesh, Karnataka, Madhya Pradesh",
+                "(c) Odisha, Andhra Pradesh, Karnataka, Madhya Pradesh",
+                "(d) Chhattisgarh, Andhra Pradesh, Karnataka, Maharashtra"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Chhattisgarh, Andhra Pradesh, Karnataka, Maharashtra\nExplanation:- Chhattisgarh, Andhra Pradesh, Karnataka, and Maharashtra share boundaries with Telangana."
+            },
+            {
+              "id": 11,
+              "question": "Which one among the following State capitals is closest to the Equator? [CDS II 2023]",
+              "options": [
+                "(a) Hyderabad",
+                "(b) Bhubaneswar",
+                "(c) Panaji",
+                "(d) Mumbai"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Panaji\nExplanation:- Among the given options, Panaji (Goa, ~15.49° N) is closest to the equator."
+            },
+            {
+              "id": 12,
+              "question": "Which of the following sets of Indian States are landlocked and do not have an international boundary? [CAPF 2022]",
+              "options": [
+                "(a) Andhra Pradesh, Chhattisgarh, Haryana, Jharkhand and Madhya Pradesh",
+                "(b) Chhattisgarh, Haryana, Jharkhand, Madhya Pradesh and Telangana",
+                "(c) Chhattisgarh, Haryana, Himachal Pradesh, Madhya Pradesh and Telangana",
+                "(d) Andhra Pradesh, Chhattisgarh, Haryana, Himachal Pradesh and Madhya Pradesh"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Chhattisgarh, Haryana, Jharkhand, Madhya Pradesh and Telangana\nExplanation:- Chhattisgarh, Haryana, Jharkhand, Madhya Pradesh and Telangana are the 5 Indian states that are completely landlocked and do not share an international boundary."
+            },
+            {
+              "id": 13,
+              "question": "The Tropic of Cancer does not pass through which of the following groups of States? [CBI 2023]",
+              "options": [
+                "(a) Gujarat, West Bengal, Nagaland",
+                "(b) Rajasthan, Jharkhand, Mizoram",
+                "(c) Gujarat, Chhattisgarh, Tripura",
+                "(d) Madhya Pradesh, Jharkhand, Mizoram"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Gujarat, West Bengal, Nagaland\nExplanation:- Tropic of Cancer (23.5° N) passes through 8 states of India - Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram. It does not pass through Nagaland."
+            },
+            {
+              "id": 14,
+              "question": "Which one among the following is the northernmost located city of India? [CISF AC 2021]",
+              "options": [
+                "(a) Patna",
+                "(b) Kolkata",
+                "(c) Guwahati",
+                "(d) Kohima"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Guwahati\nExplanation:- Among the given options, Guwahati (~26.14° N) is the northernmost located city (Patna ~25.59° N, Kohima ~25.67° N, Kolkata ~22.57° N)."
+            },
+            {
+              "id": 15,
+              "question": "Which one of the following States does not make a boundary with Chhattisgarh? [CISF AC 2022]",
+              "options": [
+                "(a) Jharkhand",
+                "(b) Bihar",
+                "(c) Odisha",
+                "(d) Telangana"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Bihar\nExplanation:- Among the given options, Bihar doesn't share a boundary with Chhattisgarh."
+            },
+            {
+              "id": 16,
+              "question": "Union Territories of 'Dadra and Nagar Haveli' and 'Daman and Diu' were merged together in January 2020. Which one of the following cities was made capital of the merged Union Territory? [CBI 2023]",
+              "options": [
+                "(a) Dadra",
+                "(b) Diu",
+                "(c) Daman",
+                "(d) Silvassa"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Daman\nExplanation:- Daman is the capital of Dadra and Nagar Haveli and Daman and Diu.\nTotal UTs in India - 8 (Delhi, Chandigarh, Ladakh, Jammu & Kashmir, Puducherry, Dadra and Nagar Haveli and Daman and Diu, Lakshadweep, Andaman & Nicobar)."
+            },
+            {
+              "id": 17,
+              "question": "Which one among the following States in India shares a boundary with the most number of States? [CISF AC 2024]",
+              "options": [
+                "(a) Uttar Pradesh",
+                "(b) Telangana",
+                "(c) Chhattisgarh",
+                "(d) Assam"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Uttar Pradesh\nExplanation:- State sharing boundary with maximum number of states - Uttar Pradesh (with 8 states and 1 UT).\nState sharing border with least number of states - Sikkim (with West Bengal), Meghalaya (with Assam)."
+            },
+            {
+              "id": 18,
+              "question": "Which one among the following cities in India is located at the Northernmost latitude? [CISF AC 2024]",
+              "options": [
+                "(a) Sri Ganganagar",
+                "(b) Nainital",
+                "(c) Gangtok",
+                "(d) Itanagar"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Sri Ganganagar\nExplanation:- Among the given options, Sri Ganganagar (Rajasthan, ~29.9° N) is located at the northernmost latitude."
+            },
+            {
+              "id": 19,
+              "question": "The Tropic of Cancer does not pass through which one of the following States? [NDA II 2021]",
+              "options": [
+                "(a) Manipur",
+                "(b) West Bengal",
+                "(c) Gujarat",
+                "(d) Jharkhand"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Manipur\nExplanation:- Tropic of Cancer (23.5° N) passes through 8 states of India - Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram. It does not pass through Manipur."
+            },
+            {
+              "id": 20,
+              "question": "Which one of the following is correct in respect of the total number of States and Union Territories in India? [NDA II 2021]",
+              "options": [
+                "(a) 28 States and 8 Union Territories",
+                "(b) 27 States and 9 Union Territories",
+                "(c) 30 States and 6 Union Territories",
+                "(d) 29 States and 7 Union Territories"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) 28 States and 8 Union Territories\nExplanation:- India has 28 states and 8 UTs."
+            },
+            {
+              "id": 21,
+              "question": "Which one among the following is the northernmost geographical location? [NDA I 2023]",
+              "options": [
+                "(a) New Delhi",
+                "(b) Kathmandu",
+                "(c) Thimphu",
+                "(d) Dhaka"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) New Delhi\nExplanation:- Among the given options, New Delhi (~28.6° N) is the northernmost geographical location (Kathmandu ~27.7° N, Thimphu ~27.47° N, Dhaka ~23.8° N)."
+            },
+            {
+              "id": 22,
+              "question": "Which one among the following states was NOT impacted by the Land Boundary Agreement Treaty between India and Bangladesh (2015)? [NDA II 2023]",
+              "options": [
+                "(a) West Bengal",
+                "(b) Assam",
+                "(c) Tripura",
+                "(d) Arunachal Pradesh"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Arunachal Pradesh\nExplanation:- The Land Boundary Agreement Treaty between India and Bangladesh demarcated boundary in states sharing border with Bangladesh (West Bengal, Assam, Meghalaya, and Tripura). So Arunachal Pradesh wasn't impacted by this treaty."
+            }
+          ]
         }
       ]
     }
