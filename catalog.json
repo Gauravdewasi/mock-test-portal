@@ -41170,6 +41170,72 @@
               "solutionHinglish": "Ans (a) Sri Lanka\nExplanation:- Pidurutalagala (Mt. Pedro) is the highest mountain peak in Sri Lanka."
             }
           ]
+        },
+        {
+          "id": "t_1793610523070",
+          "name": "Himalayas - LEVEL II",
+          "questions": [
+            {
+              "id": 1,
+              "question": "The Kumaon Himalayas lie between: [GEOSCIENTIST 2023]",
+              "options": [
+                "(a) Indus River and Satluj River",
+                "(b) Satluj River and Kali River",
+                "(c) Chenab River and Satluj River",
+                "(d) Bhagirathi River and Alaknanda River"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Satluj River and Kali River\nExplanation:- Regional divisions of Himalayas:\nPunjab Himalayas - between Indus and Sutlej.\nKumaon Himalayas - between Sutlej and Kali.\nNepal Himalayas - between Kali and Teesta.\nAssam Himalayas - between Teesta and Brahmaputra."
+            },
+            {
+              "id": 2,
+              "question": "Which of the following statements about river valleys is/are correct?\n1. Kullu Valley is an example of strike valley.\n2. Kangra Valley is a transverse valley.\n3. Narmada flows in a rift valley.\nSelect the correct answer using the code given below. [GEOSCIENTIST 2023]",
+              "options": [
+                "(a) 1 and 2",
+                "(b) 2 and 3",
+                "(c) 2 only",
+                "(d) 3 only"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) 3 only\nExplanation:- Strike valley is the valley that develops parallel to the strike of the underlying rock strata.\nTransverse valley is the valley that cuts across a ridge or mountain range, generally running at right angle to the main mountain chain.\nRift valley is a lowland region that forms when the tectonic plates move apart.\nKullu valley is a transverse valley which is formed when the Beas river cuts through the Himalayas. Kangra valley is a strike valley. Narmada flows in a rift valley between Vindhya and Satpura ranges."
+            },
+            {
+              "id": 3,
+              "question": "Consider the following pairs:\nPeak — Mountains\n1. Namcha Barwa — Garhwal Himalaya\n2. Nanda Devi — Kumaon Himalaya\n3. Nokrek — Sikkim Himalaya\nWhich of the pairs given above is/are correctly matched? [IAS 2022]",
+              "options": [
+                "(a) 1 and 2",
+                "(b) 2 only",
+                "(c) 1 and 3",
+                "(d) 3 only"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) 2 only (Note: PDF solution key prints typo (D) 3 only, while explanation notes Namcha Barwa is in Arunachal Himalaya, Nanda Devi is in Garhwal/Kumaon Uttarakhand Himalaya, and Nokrek is the highest peak of Garo hills in Meghalaya)\nExplanation:- Namcha Barwa is in Arunachal/Assam Himalaya (Tibet). Nanda Devi is in Kumaon/Garhwal Himalayas (Uttarakhand). Nokrek is the highest peak of Garo hills in Meghalaya (Meghalaya Plateau, not Sikkim Himalaya)."
+            },
+            {
+              "id": 4,
+              "question": "Consider the following statements:\n1. Amarkantak Hills are at the confluence of Vindhya and Sahyadri Ranges.\n2. Biligirirangan Hills constitute the easternmost part of Satpura Range.\n3. Seshachalam Hills constitute the southernmost part of Western Ghats.\nHow many of the statements given above are correct? [IAS 2023]",
+              "options": [
+                "(a) Only one",
+                "(b) Only two",
+                "(c) All three",
+                "(d) None"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) None\nExplanation:- Amarkantak hills are at the confluence of Vindhya and Satpura ranges. It is the origin of Narmada, Mahanadi and Son. Biligirirangan hills (BR hills) aren't part of Satpura range (they link Western and Eastern Ghats in Karnataka). Seshachalam hills (Tirumala hills) are part of Eastern Ghats."
+            },
+            {
+              "id": 5,
+              "question": "Consider the following information:\nRegion — Name of the mountain range — Type of mountain\n1. Central Asia — Vosges — Fold mountain\n2. Europe — Alps — Block mountain\n3. North America — Appalachians — Fold mountain\n4. South America — Andes — Fold mountain\nIn how many of the above rows is the given information correctly matched? [IAS 2024]",
+              "options": [
+                "(a) Only one",
+                "(b) Only two",
+                "(c) Only three",
+                "(d) All four"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Only two\nExplanation:- Rows 3 and 4 are correctly matched:\n1. France (Europe) — Vosges — Block mountain\n2. Europe — Alps — Fold mountain (young)\n3. North America — Appalachians — Fold mountain (old)\n4. South America — Andes — Fold mountain (young)"
+            }
+          ]
         }
       ]
     }
