@@ -41566,6 +41566,48 @@
               "solutionHinglish": "Ans (d) Meghalaya plateau\nExplanation:- Garo, Khasi and Jaintia hills are subdivisions of the Meghalaya plateau."
             }
           ]
+        },
+        {
+          "id": "t_1793610582225",
+          "name": "Peninsular Plateau - LEVEL II",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which one of the following is a part of Deccan Plateau? [CAPF 2022]",
+              "options": [
+                "(a) Aravalli Hills",
+                "(b) Karbi Anglong Hills",
+                "(c) Shivalik Hills",
+                "(d) Vindhyan Hills"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Karbi Anglong Hills\nExplanation:- Karbi Anglong hills are an extension/part of the Deccan (Peninsular) plateau in the northeast, separated from Chota Nagpur plateau by the Malda gap."
+            },
+            {
+              "id": 2,
+              "question": "In India, rigid and stable elevated lands, denuded rocks and series of scarps are the features of which of the following? [NDA I 2022]",
+              "options": [
+                "(a) Northern mountains",
+                "(b) Peninsular plateau",
+                "(c) Northern plains",
+                "(d) Coastal plains"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Peninsular plateau\nExplanation:- Rigid and stable elevated lands, denuded rocks and series of scarps are the features of Peninsular plateau."
+            },
+            {
+              "id": 3,
+              "question": "Consider the following statements about physical features of India:\n1. The southern point of the Peninsular Plateau is formed by the Nilgiri Hills where the Eastern and the Western Ghats meet.\n2. The Cardamom Hills may be regarded as a continuation of the Eastern Ghats.\nWhich of the statements given above is/are correct? [NDA II 2023]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) Both 1 and 2",
+                "(d) Neither 1 nor 2"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) 1 only\nExplanation:- Nilgiri hills are the meeting point of Western and Eastern Ghats. The Cardamom hills are a continuation/extension of the Western Ghats (not Eastern Ghats)."
+            }
+          ]
         }
       ]
     }
