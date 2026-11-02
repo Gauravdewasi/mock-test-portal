@@ -35379,6 +35379,252 @@
               "solutionHinglish": "Ans (c)\nExplanation:- Agar interrogative positive hai toh assertive negative banega, interrogative mein matlab hai 'kya koi bina mutual respect aur understanding ke peacefully reh sakta hai', toh assertive hoga ki 'koi bina mutual respect aur understanding ke peacefully nahi reh sakta', isliye 'No one can live peacefully without mutual respect and understanding' wala option C sahi hoga."
             }
           ]
+        },
+        {
+          "id": "t_1793638581532",
+          "name": "TRANSFORMATION - Exclamatory & Assertive",
+          "questions": [
+            {
+              "id": 1,
+              "question": "What a magnificent palace the king has built near the river!",
+              "options": [
+                "(a) The king built a very magnificent palace near the river.",
+                "(b) The palace built by the king near the river is magnificent.",
+                "(c) The king has built a very magnificent palace near the river.",
+                "(d) The king is building a magnificent palace near the river."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Exclamatory se assertive mein change karte waqt 'how, what' ki intensity ko maintain rakhne ke liye 'very' adverb ka use karte hai aur noun ho toh adjective ka use karte hai, isliye 'the king has built a very magnificent palace near the river' wala option C sahi hoga. option A mein tense ka use galat hai."
+            },
+            {
+              "id": 2,
+              "question": "How beautifully the young dancer performed in front of the audience last night!",
+              "options": [
+                "(a) The dancer performed beautifully in front of the audience last night.",
+                "(b) The dancer performed very beautifully in front of the audience last night.",
+                "(c) The dancer is performing beautifully in front of the audience last night.",
+                "(d) The dancer will perform tonight."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Exclamatory se assertive mein change karte waqt 'how, what' ki intensity ko maintain rakhne ke liye 'very' adverb ka use karte, isliye 'performed very beautifully' wala option B sahi hoga."
+            },
+            {
+              "id": 3,
+              "question": "What an exciting cricket match we watched at the stadium yesterday evening!",
+              "options": [
+                "(a) We watched a cricket match yesterday.",
+                "(b) We were watching a very exciting cricket match at the stadium yesterday evening.",
+                "(c) We watched an exciting cricket match at the stadium yesterday evening.",
+                "(d) We watched a very exciting cricket match at the stadium yesterday evening."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Exclamatory se assertive mein change karte waqt 'how, what' ki intensity ko maintain rakhne ke liye 'very' adverb ka use karte, isliye option D sahi hoga kyunki 'watched a very exciting match' isme intensity badhaane wala word aa raha hai.\nNote:- change karte waqt tense same rehna chaiye."
+            },
+            {
+              "id": 4,
+              "question": "How cleverly the thief escaped from the police despite tight security!",
+              "options": [
+                "(a) The thief escaped cleverly from the police despite tight security.",
+                "(b) The thief escaped very cleverly from the police despite tight security.",
+                "(c) The thief was escaping very cleverly from the police despite tight security.",
+                "(d) The thief escaped cleverly."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Exclamatory se assertive mein change karte waqt 'how, what' ki intensity ko maintain rakhne ke liye 'very' adverb ka use karte, isliye option B sahi hoga kyunki 'escaped very cleverly' isme intensity badhaane wala word aa raha hai. option C mein tense galat hai."
+            },
+            {
+              "id": 5,
+              "question": "What a wonderful speech the leader delivered at the national conference!",
+              "options": [
+                "(a) The leader delivered a wonderful speech at the national conference.",
+                "(b) The leader delivered a wonderful speech.",
+                "(c) The speech delivered by the leader was wonderful.",
+                "(d) The leader delivered a very wonderful speech at the national conference."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Exclamatory se assertive mein change karte waqt 'how, what' ki intensity ko maintain rakhne ke liye 'very' adverb ka use karte, isliye 'delivered a very wonderful speech' wala option D sahi hoga."
+            },
+            {
+              "id": 6,
+              "question": "How quickly the rescue team reached the accident site during the storm!",
+              "options": [
+                "(a) The rescue team reached the accident site.",
+                "(b) The rescue team reached the accident site quickly during the storm.",
+                "(c) The rescue team reached the accident site very quickly during the storm.",
+                "(d) The rescue team is reaching the accident site during the storm."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Exclamatory se assertive mein change karte waqt 'how, what' ki intensity ko maintain rakhne ke liye 'very' adverb ka use karte, isliye 'the accident site very quickly' wala option C sahi hoga."
+            },
+            {
+              "id": 7,
+              "question": "How kind of you to help me in this difficult time!",
+              "options": [
+                "(a) You are how kind to help me in this difficult time.",
+                "(b) It is very kind of you to help me in this difficult time.",
+                "(c) You are very kind person because you helped me.",
+                "(d) It was kind of you to help me in this difficult time."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Exclamatory se assertive mein change karte waqt 'how, what' ki intensity ko maintain rakhne ke liye 'very' adverb ka use karte, aur exclamatory mein subject aur verb nahi hai, isliye 'it is, it was' subject ka use karenge, option D galat hoga kyunki 'it was kind' mein 'very' nahi hai aur aisa 'present, past' ka koi hint nahi hai, isliye 'it is very kind of you' wala option B sahi hoga."
+            },
+            {
+              "id": 8,
+              "question": "Hurray! We have won the match.",
+              "options": [
+                "(a) It is nice that we won the match.",
+                "(b) It is a matter of joy that we have won the match.",
+                "(c) We have finally won the match.",
+                "(d) It is good to know that we won the match."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Exclamatory se assertive mein jaate waqt 'hurrah!' ko 'it is a matter of joy' mein change karte hai, kyunki 'hurrah' ka matlab 'khushi ki baat', isliye 'it is a matter of joy' wala option B sahi hoga."
+            },
+            {
+              "id": 9,
+              "question": "Alas! His father died yesterday.",
+              "options": [
+                "(a) I am sad that his father died yesterday.",
+                "(b) I am sad because his father died yesterday.",
+                "(c) It is extremely sad that his father died yesterday.",
+                "(d) He is sad because his father dies yesterday."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Exclamatory se assertive mein jaate waqt 'Alas!' ko 'it is extremely sad' mein change karte hai, kyunki 'Alas' ka matlab 'dukh ki baat hona', isliye 'It is extremely sad that his father died yesterday' wala option C sahi hoga."
+            },
+            {
+              "id": 10,
+              "question": "This is a very interesting movie.",
+              "options": [
+                "(a) What an interesting movie this is!",
+                "(b) How an interesting movie this is!",
+                "(c) Hurray! It is an interesting movie.",
+                "(d) Wow! We liked the movie."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Assertive mein 'this is a very interesting movie' likha hai, toh exclamatory mein 'what an interesting movie' se aaya hoga, isliye option A sahi hoga. 'how' ke baad 'noun, pronoun' interrogative mein aate hai, aur exclamatory mein 'how' ke baad 'adjective' aate hai, isliye option B galat hoga."
+            },
+            {
+              "id": 11,
+              "question": "These delivery agents live a very miserable life.",
+              "options": [
+                "(a) How a miserable life these delivery agents live!",
+                "(b) What a miserable life these delivery agents live!",
+                "(c) How can these delivery agents live a miserable life!",
+                "(d) What a miserable life these delivery agents lived!"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- 'how' ke baad 'noun, pronoun' yaa 'verb' interrogative mein aate hai, aur exclamatory mein 'how' ke baad 'adjective' aate hai, isliye option A aur C galat honge. Assertive mein 'live' present tense likha hai, toh exclamatory mein bhi present tense 'live' hoga, isliye option D galat hoga aur option B sahi hoga"
+            },
+            {
+              "id": 12,
+              "question": "If only he had told me his problems earlier!",
+              "options": [
+                "(a) I wish he has told me his problems earlier.",
+                "(b) I wish he had told me his problems earlier.",
+                "(c) I wish he told me his problems earlier.",
+                "(d) I wish he could tell me his problems earlier."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Exclamatory mein 'would that, oh that, if only' ho toh, assertive mein 'I wish' mein change hota hai, kyunki yeh word 'imagination' ko dikhaate hai, aur imaginary ke liye 'v2 yaa had+v3' ka use hota hai, isliye 'I wish he had told me his problems earlier' wala option B sahi hoga."
+            },
+            {
+              "id": 13,
+              "question": "This question is really stupid.",
+              "options": [
+                "(a) How stupid this question is!",
+                "(b) Wow what a stupid question!",
+                "(c) I don't think that it is a valid question.",
+                "(d) How dare you ask this question?"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Option B galat hoga kyunki isme 'this' nahi hai aur 'wow' aur 'what' dono sath galat honge, baaki exclamatory mein change karna hai, lekin option C aur D exclamatory nahi hai. isliye assertive mein likhi baat 'how stupid this question is!' exclamatory sentence se aayi hogi, isliye option A sahi hoga."
+            },
+            {
+              "id": 14,
+              "question": "All the members are dancing very gracefully.",
+              "options": [
+                "(a) What a graceful dance all the members are showing!",
+                "(b) How gracefully are all the members dancing!",
+                "(c) How gracefully all the members are dancing!",
+                "(d) Wow they have danced gracefully!"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Option B galat hoga kyunki helping verb subject se pehle interrogative mein aati hai. option D bhi galat hoga kyunki isme tense perfect tense ka use kara hai. option A bhi galat hoga kyunki 'are dancing' ka 'are showing' kar diya, assertive se exclamatory chaiye hai, isliye 'How gracefully all the members are dancing!' wala option C sahi hoga."
+            },
+            {
+              "id": 15,
+              "question": "If only I had wings!",
+              "options": [
+                "(a) I wish I had wings.",
+                "(b) I wish I had had wings.",
+                "(c) I wish I have wings.",
+                "(d) I had wish I had wings."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Exclamatory mein 'would that, oh that, if only' ho toh, assertive mein 'I wish' mein change hota hai, kyunki yeh word 'imagination' ko dikhaate hai, aur imaginary ke liye 'v2 yaa had+v3' ka use hota hai, kyunki exclamatory mein 'v2' hai, isliye 'I wish I had wings' wala option A sahi hoga."
+            },
+            {
+              "id": 16,
+              "question": "Would that I could find my lost watch!",
+              "options": [
+                "(a) I want to find my lost watch.",
+                "(b) I would like if I find my lost watch.",
+                "(c) I wish I could find my lost watch.",
+                "(d) I wish I can find my lost watch."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Exclamatory mein 'would that, oh that, if only' ho toh, assertive mein 'I wish' mein change hota hai, kyunki yeh word 'imagination' ko dikhaate hai, aur exclamatory mein 'I could' hai, isliye 'I wish I could find my lost watch' wala option C sahi hoga."
+            },
+            {
+              "id": 17,
+              "question": "Bravo! You have topped the exam.",
+              "options": [
+                "(a) It is a matter of praise that you have topped the exam.",
+                "(b) I like that you have topped the exam.",
+                "(c) You have topped the exam because you studied hard.",
+                "(d) What a performance you gave in the exam."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Exclamatory se assertive mein jaate waqt 'Bravo!' ko 'it is a matter of praise' mein change karte hai, kyunki 'bravo' ka matlab 'tareef karna', isliye 'It is a matter of praise that you have topped the exam' wala option A sahi hoga."
+            },
+            {
+              "id": 18,
+              "question": "How beautifully the garden was decorated for the wedding ceremony!",
+              "options": [
+                "(a) The garden was decorated beautifully for the wedding ceremony.",
+                "(b) The garden was decorated very beautifully for the wedding ceremony.",
+                "(c) The garden was decorated for the wedding ceremony.",
+                "(d) The garden is decorated."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Exclamatory se assertive mein change karte waqt 'how, what' ki intensity ko maintain rakhne ke liye 'very' adverb ka use karte, isliye option B 'was decorated very beautifully' wala option B sahi hoga."
+            },
+            {
+              "id": 19,
+              "question": "A very terrible storm destroyed the small village near the coast.",
+              "options": [
+                "(a) How a terrible storm destroyed the small village near the coast!",
+                "(b) Why a terrible storm destroyed the small village near the coast!",
+                "(c) What a terrible storm destroyed the small village near the coast!",
+                "(d) The village was destroyed by a very terrible storm!"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- 'how' ke baad 'noun, pronoun' yaa 'verb' interrogative mein aate hai, aur exclamatory mein 'how' ke baad 'adjective' aate hai, isliye option A galat hoga, option D mein exclamatory wala koi word nahi hai isliye galat hai. option B mein 'why' ka use galat hai, isliye 'what a terrible storm' wala option C sahi hoga."
+            },
+            {
+              "id": 20,
+              "question": "What a player he was!",
+              "options": [
+                "(a) He was a great player.",
+                "(b) I liked that player a lot.",
+                "(c) He was a very famous player of his time.",
+                "(d) He was a player of importance."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Exclamatory se assertive mein change karte waqt 'how, what' ki intensity ko maintain rakhne ke liye 'very' adverb ka use karte aur noun ho toh adjective ka use karte hai, isliye 'he was a great player' wala option A sahi hoga. option B meaning galat hai, option C mein 'famous player' kar diya. Option D mein 'player of importance' galat hai."
+            }
+          ]
         }
       ]
     },
