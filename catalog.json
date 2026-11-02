@@ -35344,6 +35344,276 @@
               "solutionHinglish": "Ans (c) Earth, Mercury, Mars, Venus\nExplanation:- Terrestrial planets - Mercury, Venus, Earth, Mars\nJovian planets - Jupiter, Saturn, Uranus, Neptune"
             }
           ]
+        },
+        {
+          "id": "t_1793609851323",
+          "name": "Latitude Longitude Rotation Revolution - LEVEL I",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Geoid is the ________ of the Earth. [SSC CHSL 01/07/2024]",
+              "options": [
+                "(a) Orbit",
+                "(b) Shape",
+                "(c) Colour",
+                "(d) Axis"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Shape\nExplanation:- The shape of Earth is Geoid/Oblate spheroid (flat from top and bottom and bulges at centre).\nReason for geoid shape - more centrifugal force at equator due to rotation.\n2 types of forces act on a revolving body - Centripetal force (towards the centre) and Centrifugal force (away from centre)."
+            },
+            {
+              "id": 2,
+              "question": "Which of the following statements is INCORRECT regarding the Coriolis force? [SSC CHSL 02/07/2024]",
+              "options": [
+                "(a) It deflects the wind to the right in the north and left in the south.",
+                "(b) It is absent at the equator.",
+                "(c) Deflection is less when the wind is high.",
+                "(d) It is directly proportional to the angle of altitude."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Deflection is less when the wind is high\nExplanation:- Coriolis force is the apparent force experienced due to rotation of Earth. It deflects the wind to the right in the NH and to the left in the SH. It is max at poles and absent at equator. It is directly proportional to the speed of wind.\nGeostrophic winds - winds which blow parallel to isobars due to balance of Coriolis force and pressure gradient."
+            },
+            {
+              "id": 3,
+              "question": "Which is the Standard Meridian of India? [SSC CHSL 05/07/2024]",
+              "options": [
+                "(a) 83°30' E",
+                "(b) 82°30' E",
+                "(c) 81°30' E",
+                "(d) 84°40' E"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) 82°30' E\nExplanation:- Meridian (longitude) is the imaginary vertical lines running from North to South. It is the angular distance of a place from prime meridian. Distance between meridians - max at equator (111.32 km) and least at poles. Total meridians = 360.\nImportant meridians - Prime meridian/GMT (0°) - passes through Greenwich, London; International Date Line (180°).\nGMT passes through 8 countries - UK, France, Spain, Algeria, Mali, Burkina Faso, Togo, Ghana (TRICK - BSF GAMe in TOGO Kingdom).\nMoving from W to E on IDL - day gained and date lost.\nDo you know that all longitudes are great circles (largest circle which can be drawn on a sphere dividing it into two equal halves) but only 1 latitude (equator) is a great circle?\nTropic of Cancer and Indian Standard Meridian intersect each other at Koriya district in Chhattisgarh."
+            },
+            {
+              "id": 4,
+              "question": "Which of the following statement/statements is/are true regarding the light year? [SSC CHSL 27/06/2024]\n1. Light year is a unit of distance.\n2. Light year is a unit of time.\n3. A light year is the distance that light travels in one Earth year.\n4. Light year is the measurement of light intensity.",
+              "options": [
+                "(a) Only 1 and 3 are correct",
+                "(b) Only 1 and 2 are correct",
+                "(c) Only 1 is correct",
+                "(d) Only 2 is correct"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Only 1 and 3 are correct\nExplanation:- Light year (9.46 × 10^12 km) is the distance travelled by light in 1 Earth year. Hence, it is a unit of distance.\n1 Parsec = 3.26 light years."
+            },
+            {
+              "id": 5,
+              "question": "Perihelion is when Earth is ________. [SSC PHASE XII 24/07/2024]",
+              "options": [
+                "(a) Farthest from the sun",
+                "(b) Under the sun",
+                "(c) Nearest to the sun",
+                "(d) Above the sun"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Nearest to the Sun\nExplanation:- Perihelion (3 January) - Earth is nearest to the Sun (147.5 mn km)\nAphelion (4 July) - Earth is farthest from the Sun (152.5 mn km)\nDistance between Sun and Earth (avg) - 150 mn km\nPerigee - moon closest to Earth; Apogee - moon farthest from Earth."
+            },
+            {
+              "id": 6,
+              "question": "What makes countries near the equator hotter than those which are away from the equator? [SSC JE 06/02/2024]",
+              "options": [
+                "(a) The equator is near the earth's core.",
+                "(b) The equator is a hot line.",
+                "(c) Areas near the equator have more volcanoes.",
+                "(d) Areas near the equator receive direct and more sunlight."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Areas near the equator receive direct and more sunlight.\nExplanation:- Equator (0° latitude) divides the Earth in two equal halves - NH and SH.\nLatitudes - imaginary horizontal lines running East to West. It is the angular distance of a place from equator.\n1° latitude = 111 km. Total latitudes = 181. Distance between each latitude is same.\nImportant latitudes - 0° - Equator, 23.5° N - Tropic of Cancer, 23.5° S - Tropic of Capricorn, 66.5° N - Arctic circle, 66.5° S - Antarctic circle.\nDo you know that the direct sunlight only falls between 23.5° N and 23.5° S. Beyond these, only slant rays fall?"
+            },
+            {
+              "id": 7,
+              "question": "What is the radius of the Earth? [SSC CHSL 09/03/2023]",
+              "options": [
+                "(a) 7456 km",
+                "(b) 6371 km",
+                "(c) 5619 km",
+                "(d) 4728 km"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) 6371 km\nExplanation:- Equatorial radius = 6378 km, Polar radius = 6357 km, Mean radius = 6371 km.\nEquatorial circumference = 40,075 km, Polar circumference = 40,007 km, Mean circumference = 40,040 km.\nEquatorial speed > Polar speed, Equatorial radii > Polar radii, Equatorial circumference > Polar circumference."
+            },
+            {
+              "id": 8,
+              "question": "Which among the following is not a type of solar eclipse? [SSC CHSL 15/03/2023]",
+              "options": [
+                "(a) Annular",
+                "(b) Partial",
+                "(c) Penumbral",
+                "(d) Total"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Penumbral\nExplanation:- Solar Eclipse - moon is between Sun and Earth and blocks the sunlight. Occurs during New moon (amavasya). It is of 3 types - total, annular, partial.\nLunar Eclipse - earth is between Sun and moon and blocks the sunlight. Occurs during Full moon (purnima).\nBlue moon is when there are 2 purnima in one month.\nLunar eclipse + perigee = bigger moon (super moon)."
+            },
+            {
+              "id": 9,
+              "question": "Which of the following statements regarding the moon is correct? [SSC CPO 11/11/2022]\nI. The size of the illuminated part of the moon visible from the Earth increases each day after the new moon day.\nII. After the full moon day, the sunlit part of the moon visible from the Earth decreases in size every day.",
+              "options": [
+                "(a) Both I and II",
+                "(b) Only I",
+                "(c) Neither I nor II",
+                "(d) Only II"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Both I and II\nExplanation:- Full moon (purnima) - moon appears as a full circle. New moon (amavasya) - moon is invisible.\nAfter purnima, illuminated part of moon decreases (waning phase) each day and in nearly 15 days it becomes invisible thereby causing amavasya."
+            },
+            {
+              "id": 10,
+              "question": "During the phenomenon of aphelion, the approximate distance between the Earth and the Sun is: [SSC CHSL 12/10/2020]",
+              "options": [
+                "(a) 137 million km",
+                "(b) 152 million km",
+                "(c) 147 million km",
+                "(d) 142 million km"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) 152 million km\nExplanation:- Perihelion (3 January) - Earth is nearest to the Sun (147.5 mn km)\nAphelion (4 July) - Earth is farthest from the Sun (152.5 mn km)"
+            },
+            {
+              "id": 11,
+              "question": "How many degrees does the Earth rotate about its own axis in one hour? [SSC CGL 06/03/2020]",
+              "options": [
+                "(a) 10",
+                "(b) 20",
+                "(c) 24",
+                "(d) 15"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) 15\nExplanation:- Each hour, Earth rotates about 15° and hence in 24 hours it completes one rotation (24 × 15° = 360°).\nMoving 15° East from prime meridian - time increases by 1 hour\nMoving 15° West from prime meridian - time decreases by 1 hour\nRotation causes day and night while revolution and tilt cause change in seasons."
+            },
+            {
+              "id": 12,
+              "question": "Which of the following sets of statements are correct about the Inter-Tropical Convergence Zone (ITCZ)? [SSC CPO 05/10/2023]\nI. The ITCZ is a broad trough of low pressure in equatorial latitudes.\nII. This is where the northeast and the southeast trade winds converge.\nIII. The ITCZ is the equatorial trough normally positioned about 5°N of the equator and remains there throughout the year.\nIV. The ITCZ moves over to the plane of Ganga in Summer.",
+              "options": [
+                "(a) Only I and III",
+                "(b) I, II and III",
+                "(c) Only II and III",
+                "(d) I, II and IV"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) I, II and IV\nExplanation:- ITCZ (doldrum) is a low pressure belt between 10° N and 10° S. It is a zone of convergence of airmass. It moves north and south with the apparent shift of Sun.\nCell - representation of general circulation of atmosphere. 3 cells - Hadley cell, Ferrel cell, Polar cell."
+            },
+            {
+              "id": 13,
+              "question": "During October-November, the apparent movement of the sun is towards the ________. [SSC MTS 18/05/2023]",
+              "options": [
+                "(a) North",
+                "(b) North-East",
+                "(c) North-West",
+                "(d) South"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) South\nExplanation:- During October-November, the apparent movement of the Sun is towards the South because during this time, Earth is tilted away from the Sun in NH and towards the Sun in SH.\nEarth is tilted at 23.5° on its axis and 66.5° on its orbital plane.\nSummer solstice - 21 June, Winter solstice - 22 December."
+            },
+            {
+              "id": 14,
+              "question": "On which of the following two dates does the equinox fall? [SSC CHSL 15/03/2023]",
+              "options": [
+                "(a) 21 June and 23 September",
+                "(b) 21 March and 21 June",
+                "(c) 21 March and 23 September",
+                "(d) 23 September and 22 December"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) 21 March and 23 September\nExplanation:- Equinox - sunlight fall vertically on equator, so equal day and night. Vernal/Spring equinox - 21 March, Autumnal/fall equinox - 23 September."
+            },
+            {
+              "id": 15,
+              "question": "What is the zone between the Arctic Circle and North Pole called? [SSC CHSL 21/03/2023]",
+              "options": [
+                "(a) Torrid zone",
+                "(b) Frigid zone",
+                "(c) North temperate zone",
+                "(d) South temperate zone"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Frigid zone\nExplanation:- Frigid zone - 66.5° N - 90° N and 66.5° S - 90° S\nTorrid zone - 23.5° N - 23.5° S\nTemperate zone - 23.5° N - 66.5° N and 23.5° S - 66.5° S"
+            },
+            {
+              "id": 16,
+              "question": "1° latitude is equal to approximately ________ km. [SSC CHSL 16/10/2020]",
+              "options": [
+                "(a) 111",
+                "(b) 145",
+                "(c) 133",
+                "(d) 122"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) 111 km\nExplanation:- 1° latitude = 111 km"
+            },
+            {
+              "id": 17,
+              "question": "Lines joining locations at equal travel time from a common center are called: [SSC CHSL 21/10/2020]",
+              "options": [
+                "(a) Isohalines",
+                "(b) Isochrones",
+                "(c) Isobar",
+                "(d) Isobronts"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Isochrones\nExplanation:- Isochrones - line joining locations at equal travel time\nIsohalines - line joining places of same salinity\nIsobar - line joining places of same atmospheric pressure\nIsobronts - line joining places where thunderstorms are in a specific phase at a specific time\nIsohyets - line joining places with same amount of rainfall\nIsonephs - line joining places with same amount of cloud cover\nIsobaths - line joining places with same depth below water"
+            },
+            {
+              "id": 18,
+              "question": "All parallel circles from the Equator to the poles are known as [SSC CHSL 26/10/2020]",
+              "options": [
+                "(a) Parallels of Latitude",
+                "(b) Arctic Circle",
+                "(c) Tropic of Cancer",
+                "(d) Antarctic Circle"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Parallels of Latitude\nExplanation:- See solution 6. Arctic circle - 66.5° N, Antarctic circle - 66.5° S, Tropic of Cancer - 23.5° N, Tropic of Capricorn - 23.5° S.\nDo you know that longitudes intersect each other at North and South poles whereas latitudes don't intersect each other?"
+            },
+            {
+              "id": 19,
+              "question": "Which country has the most time zones in the world? [SSC MTS 13/10/2021]",
+              "options": [
+                "(a) France",
+                "(b) United States of America",
+                "(c) Russia",
+                "(d) United Kingdom"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) France\nExplanation:- France has 13 time zones due to its overseas territories.\nRussia - 11, USA - 6, UK - 1.\nIndia has only 1 time zone i.e. 82°30' E."
+            },
+            {
+              "id": 20,
+              "question": "Which of the following pressure belts is known as the horse latitude? [SSC CHSL 13/03/2023]",
+              "options": [
+                "(a) Equatorial Low Pressure",
+                "(b) Sub-Polar Low Pressure",
+                "(c) High Pressure",
+                "(d) Subtropical High Pressure"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Subtropical High Pressure\nExplanation:- Pressure belts are of 4 types - Equatorial low pressure belt, Subtropical high pressure belt (30° N and 30° S), Subpolar low pressure belt (60° N and 60° S) and Polar high pressure belt (80-90° N and 80-90° S).\nDo you know that major hot deserts in the NH are located between 20°-30° N because of subtropical high pressure (the subsiding air is warm and dry)?"
+            },
+            {
+              "id": 21,
+              "question": "On which day of the year is the earth farthest from the sun, at a position called aphelion? [SSC CHSL 19/10/2020]",
+              "options": [
+                "(a) 19 August",
+                "(b) 23 October",
+                "(c) 12 May",
+                "(d) 4 July"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) 4 July\nExplanation:- Perihelion (3 January) - Earth is nearest to the Sun (147.5 mn km)\nAphelion (4 July) - Earth is farthest from the Sun (152.5 mn km)"
+            },
+            {
+              "id": 22,
+              "question": "When does the entire earth experience equal days and nights? [SSC CGL 04/03/2020]",
+              "options": [
+                "(a) Days of winter solstice",
+                "(b) Days of summer solstice",
+                "(c) At orbital plane",
+                "(d) Day of equinox"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Day of equinox\nExplanation:- Equinox - sunlight fall vertically on equator, so equal day and night. Vernal/Spring equinox - 21 March, Autumnal/fall equinox - 23 September."
+            }
+          ]
         }
       ]
     }
