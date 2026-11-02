@@ -35625,6 +35625,252 @@
               "solutionHinglish": "Ans (a)\nExplanation:- Exclamatory se assertive mein change karte waqt 'how, what' ki intensity ko maintain rakhne ke liye 'very' adverb ka use karte aur noun ho toh adjective ka use karte hai, isliye 'he was a great player' wala option A sahi hoga. option B meaning galat hai, option C mein 'famous player' kar diya. Option D mein 'player of importance' galat hai."
             }
           ]
+        },
+        {
+          "id": "t_1793638597352",
+          "name": "TRANSFORMATION - Simple to Complex",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Hearing the sudden announcement, the passengers rushed towards the boarding gate.",
+              "options": [
+                "(a) When the passengers heard the sudden announcement, they rushed towards the boarding gate.",
+                "(b) After hearing the sudden announcement, the passengers rushed towards the boarding gate.",
+                "(c) The passengers rushed towards the boarding gate and heard the announcement.",
+                "(d) The passengers heard the sudden announcement so they rushed towards the boarding gate."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Simple to complex mein change karte waqt subordinate conjunction ka use karte hai, agar present participle diya ho, toh complex mein change karte waqt 'since, as, when' conjunction ka use karte hai, isliye 'When the passengers heard the sudden announcement, they rushed towards the boarding gate' wala option A sahi hoga.\nNote:- meaning se bhi simple to complex change kar sakte hai."
+            },
+            {
+              "id": 2,
+              "question": "Completing the training programme successfully, she applied for a higher managerial position.",
+              "options": [
+                "(a) After completing the training programme successfully, she applied for a higher position.",
+                "(b) As she completed the training programme successfully, she applied for a higher managerial position.",
+                "(c) She completed the training programme successfully and applied for a higher position.",
+                "(d) She completed the training programme successfully and then applied for a higher position."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Simple to complex mein subordinate conjunction ka use karte hai, agar present participle diya ho toh complex mein change karte waqt 'since, as, when' subordinate conjunction ka use karte hai, isliye 'as she completed' wala option B sahi hoga.\nNote:- meaning se bhi simple to complex change kar sakte hai. 'as' conjunction ka matlab 'jab' bhi hota hai."
+            },
+            {
+              "id": 3,
+              "question": "Being exhausted after the long journey, the travellers decided to rest at a nearby lodge.",
+              "options": [
+                "(a) As the travellers were exhausted after the long journey, they decided to rest at a nearby lodge.",
+                "(b) The travellers were exhausted after the long journey when they decided to rest at a nearby lodge.",
+                "(c) The travellers were exhausted after the long journey and they decided to rest at a nearby lodge.",
+                "(d) When exhausted the travellers after the long journey decided to rest?"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- 'being' yahan present participle hai, aur isliye complex mein change karte waqt 'since, as, when' subordinate conjunction ka use karenge, simple sentence ka meaning hai 'kyunki wo thake hue the, isliye unhone decide kiya rest karne ka', aur wahi same meaning complex mein 'as the travelers were exhausted' wala option A se aa raha hai, isliye option A sahi hoga.\nNote:- meaning se bhi simple to complex change kar sakte hai."
+            },
+            {
+              "id": 4,
+              "question": "Being unfamiliar with the software, the employees required additional training.",
+              "options": [
+                "(a) The employees were unfamiliar with the software, so they required additional training.",
+                "(b) Since the employees were unfamiliar with the software, they required additional training.",
+                "(c) Since being unfamiliar with the software, employees required training.",
+                "(d) The employees required training when unfamiliar with the software."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Kyunki 'being' yahan present participle hai, isliye complex mein change karte waqt 'since, as, when' subordinate conjunction ka use karenge. option C mein 'since' ke baad clause nahi ban raha, isliye galat hoga. simple sentence ka matlab hai 'kyunki familiar nahi the software se, isliye employee ko additional training required hai', toh same simple wala meaning option B se aa raha hai, isliye option B sahi hoga."
+            },
+            {
+              "id": 5,
+              "question": "The box was too heavy to be lifted by a single worker.",
+              "options": [
+                "(a) The box was so heavy that a single worker could not lift it.",
+                "(b) The box was so heavy that a single worker cannot lift it.",
+                "(c) The box was very heavy so that a single worker could not lift it.",
+                "(d) The box was too heavy and a single worker could not lift it."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Simple to complex mein 'too....to' wala structure 'so.....that' mein change hota hai, kyunki simple mein 'the box was' past tense ka use kiya hai, isliye complex mein change karte waqt dono clause mein past tense prefer karenge, isliye 'The box was so heavy that a single worker could not lift it' wala option A sahi hoga.\nNote:- meaning se bhi simple to complex change kar sakte hai."
+            },
+            {
+              "id": 6,
+              "question": "She was too nervous to speak during the interview.",
+              "options": [
+                "(a) She was too nervous and she could not speak during the interview.",
+                "(b) She was very nervous so that she could not speak during the interview.",
+                "(c) She was so nervous that she cannot speak during the interview.",
+                "(d) She was so nervous that she could not speak during the interview."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Simple to complex mein 'too....to' wala structure 'so.....that' mein change hota hai, kyunki simple mein 'she was' past tense ka use kiya hai, isliye complex mein change karte waqt dono clause mein past tense prefer karenge, isliye 'She was so nervous that she could not speak during the interview' wala option D sahi hoga.\nNote:- meaning se bhi simple to complex change kar sakte hai."
+            },
+            {
+              "id": 7,
+              "question": "The government launched awareness campaigns to reduce traffic accidents.",
+              "options": [
+                "(a) The government launched awareness campaigns when traffic accidents reduced.",
+                "(b) The government launched awareness campaigns and traffic accidents reduced.",
+                "(c) The government launched awareness campaigns so that traffic accidents could be reduced",
+                "(d) The government launched awareness campaigns so traffic accidents reduced."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Simple sentence mein 'to reduce' infinitive 'why' ka reply hai, toh complex mein 'so that' (taaki) waali conjunction lagake banate hai, isliye 'so that accidents could be reduced' wala option C sahi hoga.\nNote:- meaning se bhi simple to complex change kar sakte hai."
+            },
+            {
+              "id": 8,
+              "question": "She saved money to support her higher education abroad.",
+              "options": [
+                "(a) She saved money because she supported her higher education abroad.",
+                "(b) She saved money so that she could support her higher education abroad.",
+                "(c) She saved money when supporting her higher education abroad.",
+                "(d) She saved money but she supported her higher education abroad."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:-Simple sentence mein 'to support' infinitive 'why' ka reply hai, toh complex mein 'so that' (taaki) waali conjunction lagake banate hai, isliye 'so that she could support' wala option B sahi hoga.\nNote:- meaning se bhi simple to complex change kar sakte hai."
+            },
+            {
+              "id": 9,
+              "question": "Despite facing financial difficulties, the company continued its expansion.",
+              "options": [
+                "(a) Though the company faced financial difficulties, it continued its expansion.",
+                "(b) Because the company faced financial difficulties, it continued expansion.",
+                "(c) The company continued expansion when facing financial difficulties.",
+                "(d) The company faced financial difficulties, but it continued expansion."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Simple sentence mein agar 'despite, in spite of' diya ho, toh complex mein 'though, although' conjunction se banate hai, isliye 'though the company faced' wala option A sahi hoga.\nNote:- meaning se bhi simple to complex change kar sakte hai."
+            },
+            {
+              "id": 10,
+              "question": "Despite being inexperienced, the candidate handled the interview confidently.",
+              "options": [
+                "(a) The candidate handled the interview confidently since he was inexperienced.",
+                "(b) Because the candidate was inexperienced, he handled the interview confidently.",
+                "(c) The candidate handled the interview confidently, but he was inexperienced.",
+                "(d) Although the candidate was inexperienced, he handled the interview confidently."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Simple sentence mein agar 'despite, in spite of' diya ho, toh complex mein 'though, although' conjunction se banate hai, isliye 'although the candidate was inexperienced' wala option D sahi hoga.\nNote:- meaning se bhi simple to complex change kar sakte hai."
+            },
+            {
+              "id": 11,
+              "question": "Because of heavy rainfall, the match was postponed indefinitely.",
+              "options": [
+                "(a) Since it rained heavily, the match was postponed indefinitely.",
+                "(b) When it rained heavily, the match was postponed indefinitely?",
+                "(c) Because the rain is heavy, the match will be postponed indefinitely.",
+                "(d) It rained heavily, and the match was postponed indefinitely."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Simple sentence mein agar 'because of' preposition di ho, toh complex mein 'since, as, because' conjunction se banate hai, isliye 'since it rained heavily' wala option A sahi hoga.\nNote:- meaning se bhi simple to complex change kar sakte hai."
+            },
+            {
+              "id": 12,
+              "question": "Because of his dedication, he gained the trust of his colleagues.",
+              "options": [
+                "(a) When he was dedicated, he gained the trust of his colleagues?",
+                "(b) Since he was dedicated, he gained the trust of his colleagues.",
+                "(c) He was dedicated, and he gained the trust of his colleagues.",
+                "(d) He was dedicated, and so he gained the trust of his colleagues."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Simple sentence mein agar 'because of' preposition di ho, toh complex mein 'since, as, because' conjunction se banate hai, isliye 'since he was dedicated' wala option B sahi hoga.\nNote:- meaning se bhi simple to complex change kar sakte hai."
+            },
+            {
+              "id": 13,
+              "question": "I noticed a child crying near the entrance of the hospital.",
+              "options": [
+                "(a) I noticed a child who was crying near the entrance of the hospital.",
+                "(b) I noticed a child because he was crying near the entrance of the hospital.",
+                "(c) I noticed a child which was crying near the entrance of the hospital.",
+                "(d) I noticed a child and he was crying near the entrance of the hospital."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Simple sentence mein agar 'noun (object) + present participle' diya ho, toh complex mein 'noun (object) + object ke according relative pronoun + relative pronoun ke according verb' structure se banta hai, 'child' human being hoga aur human being ke liye 'who, whom' relative pronoun ka use karte hai, isliye 'a child who was crying' wala option A sahi hoga.\nNote:- meaning se bhi simple to complex change kar sakte hai."
+            },
+            {
+              "id": 14,
+              "question": "She saw a man running towards the burning building.",
+              "options": [
+                "(a) She saw a man so he was running towards the burning building.",
+                "(b) She saw a man as was running towards the burning building.",
+                "(c) She saw a man which was running towards the burning building.",
+                "(d) She saw a man who was running towards the burning building."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Simple sentence mein agar 'noun (object) + present participle' diya ho, toh complex mein 'noun (object) + object ke according relative pronoun + relative pronoun ke according verb' structure se banta hai, 'man' human being hoga aur human being ke liye 'who, whom' relative pronoun ka use karte hai, isliye 'a man who was running' wala option D sahi hoga.\nNote:- meaning se bhi simple to complex change kar sakte hai."
+            },
+            {
+              "id": 15,
+              "question": "Without following the safety instructions, the workers risk serious injuries.",
+              "options": [
+                "(a) If the workers do not follow the safety instructions, they risk serious injuries.",
+                "(b) The workers do not follow the safety instructions, and they risk serious injuries.",
+                "(c) Because the workers do not follow the safety instructions, they risk serious injuries.",
+                "(d) The workers do not follow the safety instructions, yet they risk serious injuries."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Simple sentence ke starting mein agar 'without' diya ho, toh complex mein 'if / in case' subordinate conjunction se banate hai, isliye 'if the workers do not follow the safety instructions' wala option A sahi hoga.\nNote:- meaning se bhi simple to complex change kar sakte hai."
+            },
+            {
+              "id": 16,
+              "question": "Without adequate preparation, the team cannot perform effectively.",
+              "options": [
+                "(a) The team does not have adequate preparation, and it cannot perform effectively.",
+                "(b) The team does not have adequate preparation, but it cannot perform effectively.",
+                "(c) Because the team does not have adequate preparation, it cannot perform effectively.",
+                "(d) If the team does not have adequate preparation, it cannot perform effectively."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Simple sentence ke starting mein agar 'without' diya ho, toh complex mein 'if / in case' subordinate conjunction se banate hai, isliye 'if the team does not have adequate preparation' wala option D sahi hoga.\nNote:- meaning se bhi simple to complex change kar sakte hai."
+            },
+            {
+              "id": 17,
+              "question": "She received the phone call at the time of attending an important meeting.",
+              "options": [
+                "(a) She received the phone call when she was attending an important meeting.",
+                "(b) She received the phone call because she was attending an important meeting.",
+                "(c) She received the phone call and she was attending an important meeting.",
+                "(d) She received the phone call but she was attending an important meeting."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Simple sentence mein agar 'at the time' structure diya ho, toh complex mein 'when, while' subordinate conjunction se banate hai, isliye 'She received the phone call when she was attending an important meeting' wala option A sahi hoga.\nNote:- meaning se bhi simple to complex change kar sakte hai."
+            },
+            {
+              "id": 18,
+              "question": "The power went out at the time of conducting the online examination.",
+              "options": [
+                "(a) The power went out and the online examination was being conducted.",
+                "(b) The power went out because the online examination was being conducted.",
+                "(c) The power went out during the conduction of the online examination.",
+                "(d) The power went out when the online examination was being conducted."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Simple sentence mein agar 'at the time' structure diya ho, toh complex mein 'when, while' subordinate conjunction se banate hai, isliye 'The power went out when the online examination was being conducted' wala option D sahi hoga.\nNote:- meaning se bhi simple to complex change kar sakte hai."
+            },
+            {
+              "id": 19,
+              "question": "It was a magnificent monument.",
+              "options": [
+                "(a) The monument was magnificent when I saw it.",
+                "(b) It was a monument and it was magnificent.",
+                "(c) It was a monument which was magnificent.",
+                "(d) It was a monument because it was magnificent."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Simple sentence mein agar noun ke liye 'adjective' diya ho toh, complex mein 'that/which' relative pronoun se clause banate hai, isliye 'it was a monument which was magnificent' wala option C sahi hoga.\nNote:- meaning se bhi simple to complex change kar sakte hai."
+            },
+            {
+              "id": 20,
+              "question": "She bought a comfortable chair.",
+              "options": [
+                "(a) She bought a chair which was comfortable.",
+                "(b) She bought a chair because it was comfortable.",
+                "(c) She bought a chair, and it was comfortable.",
+                "(d) She bought a chair although it was uncomfortable."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Simple sentence mein agar noun ke liye 'adjective' diya ho toh, complex mein 'that/which' relative pronoun se clause banate hai, isliye 'She bought a chair which was comfortable' wala option A sahi hoga.\nNote:- meaning se bhi simple to complex change kar sakte hai."
+            }
+          ]
         }
       ]
     },
