@@ -42304,6 +42304,396 @@
               "solutionHinglish": "Ans (a) Infiltration\nExplanation:- The process of seepage of water into the ground is called Infiltration."
             }
           ]
+        },
+        {
+          "id": "t_1793610750825",
+          "name": "River System - LEVEL II",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which one of the following tributaries of river Indus feeds the canal system of the Bhakra Nangal Project? [CDS I 2021]",
+              "options": [
+                "(a) Chenab",
+                "(b) Satluj",
+                "(c) Ravi",
+                "(d) Jhelum"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Satluj\nExplanation:- Satluj is a tributary of Indus. It feeds the Bhakra Nangal project."
+            },
+            {
+              "id": 2,
+              "question": "When the rivers discharge their waters from all directions into a lake or depression, the pattern is known as: [CDS I 2021]",
+              "options": [
+                "(a) Trellis",
+                "(b) Dendritic",
+                "(c) Radial",
+                "(d) Centripetal"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Centripetal\nExplanation:- Different Drainage Patterns:\nDendritic - resembles the branches of a tree\nTrellis - tributaries join at right angles\nRadial - rivers originate from a central peak and flow outwards (e.g., Amarkantak plateau)\nCentripetal - rivers drain from all directions into a central lake or depression."
+            },
+            {
+              "id": 3,
+              "question": "D performs her train journey by the shortest route from Bengaluru to New Delhi. Which one of the following rivers will she not cross while performing the journey? [CDS II 2021]",
+              "options": [
+                "(a) Narmada",
+                "(b) Yamuna",
+                "(c) Godavari",
+                "(d) Krishna"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Yamuna\nExplanation:- Travelling from Bengaluru to New Delhi by the shortest train route crosses Krishna, Godavari, and Narmada, and reaches New Delhi (located west of the Yamuna) without crossing the Yamuna river."
+            },
+            {
+              "id": 4,
+              "question": "Match List-I with List-II and select the correct answer using the code given below the lists: [CDS II 2022]\nList-I (Drainage Pattern of River) — List-II (Feature)\na. Insequent — 1. Whose direction of flow is controlled by the rock structure\nb. Consequent — 2. No apparent reason why it follows the path it takes\nc. Subsequent — 3. Flow in the same direction as the consequent stream but at a lower level\nd. Resequent — 4. Whose course is determined by the original slope of the land",
+              "options": [
+                "(a) a-2, b-1, c-4, d-3",
+                "(b) a-2, b-4, c-1, d-3",
+                "(c) a-3, b-4, c-1, d-2",
+                "(d) a-3, b-1, c-4, d-2"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) a-2, b-4, c-1, d-3\nExplanation:- Insequent - no apparent reason why it follows the path it takes (2); Consequent - course is determined by the original slope of the land (4); Subsequent - direction of flow is controlled by rock structure/weak strata (1); Resequent - flows in the same direction as the consequent stream but at a lower level/later stage (3)."
+            },
+            {
+              "id": 5,
+              "question": "Which one of the following is a tributary of Barak River in Manipur? [CDS II 2022]",
+              "options": [
+                "(a) Dhaleswari",
+                "(b) Subansiri",
+                "(c) Dhansiri",
+                "(d) Manas"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Dhaleswari\nExplanation:- Dhaleswari (Tlawng) is a tributary of Barak river, whereas Subansiri, Dhansiri, and Manas are tributaries of the Brahmaputra."
+            },
+            {
+              "id": 6,
+              "question": "Indus river basin is extended up to [CDS I 2023]",
+              "options": [
+                "(a) Ladakh, Jammu and Kashmir, Himachal Pradesh, Punjab",
+                "(b) Ladakh, Jammu and Kashmir, Punjab, Haryana",
+                "(c) Ladakh, Jammu and Kashmir, Punjab, Haryana, Rajasthan",
+                "(d) Ladakh, Jammu and Kashmir, Himachal Pradesh, Punjab, Haryana, Rajasthan"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Ladakh, Jammu and Kashmir, Himachal Pradesh, Punjab, Haryana, Rajasthan\nExplanation:- In India, the Indus river basin extends across Ladakh, Jammu & Kashmir, Himachal Pradesh, Punjab, Haryana, and Rajasthan."
+            },
+            {
+              "id": 7,
+              "question": "What will be the correct sequence of cities on the bank of river Ganga if someone moves from west to east? [CDS I 2023]",
+              "options": [
+                "(a) Prayagraj, Kanpur, Bhagalpur, Patna",
+                "(b) Prayagraj, Kanpur, Patna, Bhagalpur",
+                "(c) Kanpur, Prayagraj, Bhagalpur, Patna",
+                "(d) Kanpur, Prayagraj, Patna, Bhagalpur"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Kanpur, Prayagraj, Patna, Bhagalpur\nExplanation:- Cities located on Ganga's banks from West to East - Kanpur -> Prayagraj -> Varanasi -> Patna -> Bhagalpur."
+            },
+            {
+              "id": 8,
+              "question": "Identify the type of drainage pattern on the basis of the given characteristics:\n1. It represents the most common pattern of streams and their tributaries.\n2. It occurs in areas of uniform rock type and regular slope.\n3. A map, or aerial photograph, shows a pattern like the veins on a leaf - smaller streams join the main stream at an acute angle.\nSelect the correct answer. [CDS I 2024]",
+              "options": [
+                "(a) Dendritic",
+                "(b) Radial",
+                "(c) Trellis",
+                "(d) Centripetal"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Dendritic\nExplanation:- Dendritic drainage pattern resembles the branches of a tree or veins on a leaf and is the most common drainage pattern."
+            },
+            {
+              "id": 9,
+              "question": "Which one of the following is not a desert river? [CAPF 2021]",
+              "options": [
+                "(a) Barak",
+                "(b) Rupen",
+                "(c) Banas",
+                "(d) Machchhu"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Barak\nExplanation:- Barak is not a desert river; it flows through Northeast India (Manipur, Mizoram, Assam) into Bangladesh. Rupen, West Banas, and Machchhu drain into the Rann of Kutch."
+            },
+            {
+              "id": 10,
+              "question": "Match List-I with List-II and select the correct answer using the code given below the lists: [CAPF 2021]\nList-I (Tributary) — List-II (River)\na. Sutlej — 1. Yamuna\nb. Kosi — 2. Brahmaputra\nc. Teesta — 3. Ganga\nd. Chambal — 4. Indus",
+              "options": [
+                "(a) a-1, b-3, c-2, d-4",
+                "(b) a-1, b-2, c-3, d-4",
+                "(c) a-4, b-3, c-2, d-1",
+                "(d) a-4, b-2, c-3, d-1"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) a-4, b-3, c-2, d-1\nExplanation:- Sutlej - tributary of Indus (4); Kosi - tributary of Ganga (3); Teesta - tributary of Brahmaputra (2); Chambal - tributary of Yamuna (1)."
+            },
+            {
+              "id": 11,
+              "question": "Which one of the following is a tributary of the Brahmaputra River? [CAPF 2022]",
+              "options": [
+                "(a) Ghaggar",
+                "(b) Mahi",
+                "(c) Kosi",
+                "(d) Manas"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Manas\nExplanation:- Manas is a right-bank tributary of the Brahmaputra river."
+            },
+            {
+              "id": 12,
+              "question": "Ganga water is being shared at Farakka with which one of the following countries? [CAPF 2022]",
+              "options": [
+                "(a) Nepal",
+                "(b) Bhutan",
+                "(c) Bangladesh",
+                "(d) Myanmar"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Bangladesh\nExplanation:- The Farakka treaty (1996) regulates the sharing of Ganga water between India and Bangladesh."
+            },
+            {
+              "id": 13,
+              "question": "Match List-I with List-II and select the correct answer using the code given below the lists: [CBI 2023]\nList-I (River) — List-II (Tributary)\na. Indus — 1. Seti\nb. Ghaghra — 2. Dhansiri\nc. Brahmaputra — 3. Bhavani\nd. Kaveri — 4. Nubra",
+              "options": [
+                "(a) a-3, b-1, c-2, d-4",
+                "(b) a-4, b-1, c-2, d-3",
+                "(c) a-3, b-2, c-1, d-4",
+                "(d) a-4, b-2, c-1, d-3"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) a-4, b-1, c-2, d-3\nExplanation:- Indus - Nubra (4); Ghaghra - Seti (1); Brahmaputra - Dhansiri (2); Kaveri - Bhavani (3)."
+            },
+            {
+              "id": 14,
+              "question": "In the context of the Indus Water Treaty, 1960, water of which one of the following rivers was not allocated to India for its exclusive use? [CBI 2023]",
+              "options": [
+                "(a) Ravi",
+                "(b) Chenab",
+                "(c) Sutlej",
+                "(d) Beas"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Chenab\nExplanation:- Under the Indus Water Treaty (1960), the Eastern Rivers (Ravi, Beas, Sutlej) were allocated to India, while the Western Rivers (Indus, Jhelum, Chenab) were allocated primarily to Pakistan."
+            },
+            {
+              "id": 15,
+              "question": "In which one of the following rivers is the Majuli river island situated? [CISF AC 2021]",
+              "options": [
+                "(a) Ganga",
+                "(b) Godavari",
+                "(c) Brahmaputra",
+                "(d) Kaveri"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Brahmaputra\nExplanation:- Majuli island (Assam) located in the Brahmaputra river is the largest riverine island in the world."
+            },
+            {
+              "id": 16,
+              "question": "Which one among the following is the place of confluence of the rivers Alaknanda and Bhagirathi? [CISF AC 2021]",
+              "options": [
+                "(a) Vishnuprayag",
+                "(b) Karnaprayag",
+                "(c) Devprayag",
+                "(d) Rudraprayag"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Devprayag\nExplanation:- Alaknanda and Bhagirathi meet at Devprayag to form the river Ganga."
+            },
+            {
+              "id": 17,
+              "question": "Which one of the following rivers flows through the Shipki La Pass? [CISF AC 2022]",
+              "options": [
+                "(a) Ravi",
+                "(b) Jhelum",
+                "(c) Beas",
+                "(d) Sutlej"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Sutlej\nExplanation:- Satluj originates near Rakas lake in Tibet and enters India (Himachal Pradesh) through the Shipki La pass."
+            },
+            {
+              "id": 18,
+              "question": "Which one of the following states is part of the Ganga Basin? [CISF AC 2023]",
+              "options": [
+                "(a) Himachal Pradesh",
+                "(b) Sikkim",
+                "(c) Assam",
+                "(d) Odisha"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Himachal Pradesh\nExplanation:- States/UTs part of the Ganga basin - Uttarakhand, Uttar Pradesh, Madhya Pradesh, Rajasthan, Haryana, Himachal Pradesh (via Yamuna/Tons tributaries), Chhattisgarh, Jharkhand, Bihar, West Bengal, and Delhi."
+            },
+            {
+              "id": 19,
+              "question": "It was alleged that the river became dead after its mouth was closed, restricting its free flow in 1950. The entire river bed was converted into a dumping ground for garbage and solid and liquid waste. The National Green Tribunal has recently directed the State Government to revive the dead river by earmarking a dedicated fund for the purpose. Identify the river: [CISF AC 2023]",
+              "options": [
+                "(a) Vamsadhara river",
+                "(b) Sukapaika river",
+                "(c) Musi river",
+                "(d) Ulhas river"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Sukapaika river\nExplanation:- The statement refers to the Sukapaika river, a distributary of the Mahanadi river in Odisha."
+            },
+            {
+              "id": 20,
+              "question": "Which one among the following is not a west-flowing river? [CISF AC 2024]",
+              "options": [
+                "(a) Mahi",
+                "(b) Banas",
+                "(c) Luni",
+                "(d) Sabarmati"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Banas\nExplanation:- Banas (East Banas in Rajasthan) flows northeastwards and joins the Chambal river (part of the east-flowing Ganga system), whereas Mahi, Luni, and Sabarmati are west-flowing rivers."
+            },
+            {
+              "id": 21,
+              "question": "River Beas, flowing from Himachal and Punjab, joins the river [NDA I 2021]",
+              "options": [
+                "(a) Indus",
+                "(b) Sutlej",
+                "(c) Chenab",
+                "(d) Ravi"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Sutlej\nExplanation:- River Beas joins the Sutlej river at Harike in Punjab."
+            },
+            {
+              "id": 22,
+              "question": "Which one of the following rivers is not a tributary of river Brahmaputra? [NDA I 2021]",
+              "options": [
+                "(a) River Manas",
+                "(b) River Kameng",
+                "(c) River Mahananda",
+                "(d) River Subansiri"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) River Mahananda\nExplanation:- Mahananda is the easternmost left-bank tributary of the Ganga river, whereas Manas, Kameng, and Subansiri are tributaries of the Brahmaputra."
+            },
+            {
+              "id": 23,
+              "question": "Consider the following statements about a river:\nThis river originates in the Hindu Kush mountain range and flows into Hamoun wetlands after covering a long stretch of about 1,100 km. There have been serious conflicts between two neighbouring nations regarding the sharing of water from this river. Identify the river from the following: [NDA II 2023]",
+              "options": [
+                "(a) Mekong",
+                "(b) Tarim",
+                "(c) Indus",
+                "(d) Helmand"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Helmand\nExplanation:- Helmand is the longest river of Afghanistan, originating in the Hindu Kush mountains and flowing into the Hamoun wetlands on the Afghanistan-Iran border."
+            },
+            {
+              "id": 24,
+              "question": "Which of the following statements regarding the given rivers is/are correct?\n1. Tsangpo crosses over into India under the name of Dihang.\n2. Godavari has the second largest river basin covering about 10 percent of the area of India.\n3. Rivers Chambal and Betwa are the important tributaries of river Ganga which join river Ganga directly in Uttar Pradesh.\nSelect the answer using the code given below: [NDA I 2024]",
+              "options": [
+                "(a) 1 only",
+                "(b) 1 and 2 only",
+                "(c) 2 and 3 only",
+                "(d) 1, 2 and 3"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) 1 and 2 only\nExplanation:- Yarlung Tsangpo enters India (Arunachal Pradesh) under the name of Siang/Dihang. Godavari has the second largest river basin in India (~10% of total area) after Ganga. Chambal and Betwa are tributaries of the Yamuna (not joining Ganga directly)."
+            },
+            {
+              "id": 25,
+              "question": "Consider the following facts of the rivers of the Indus system:\n1. The Satluj originates in Tibet where it is known as Langchen Khambab.\n2. The Satluj is a classic example of an antecedent river.\n3. The Jhelum is the largest tributary of the Indus System.\nSelect the answer using the code given below: [NDA II 2024]",
+              "options": [
+                "(a) 2 only",
+                "(b) 3 only",
+                "(c) 1 and 2",
+                "(d) 2 and 3"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) 1 and 2\nExplanation:- Satluj originates in Tibet near Rakas lake where it is known as Langchen Khambab (elephant-mouthed river) and is a classic example of an antecedent river. Chenab is the largest tributary of the Indus system while Satluj is the longest tributary."
+            },
+            {
+              "id": 26,
+              "question": "Consider the following statements regarding River Brahmaputra:\n1. It rises in Tibet, near Lake Mansarovar.\n2. It takes a \"U\" turn near Namcha Barwa and enters India through a gorge.\nWhich of the statements given above is/are correct? [NDA II 2024]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) Both 1 and 2",
+                "(d) Neither 1 nor 2"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Both 1 and 2\nExplanation:- Brahmaputra river rises in Tibet near Mansarovar lake (Chemayungdung glacier). It takes a U-turn at Namcha Barwa due to syntaxial bending of the Himalayas and enters India through a deep gorge."
+            },
+            {
+              "id": 27,
+              "question": "Which one of the following States of India has the largest area under ravines? [GEOSCIENTIST 2023]",
+              "options": [
+                "(a) Uttar Pradesh",
+                "(b) Himachal Pradesh",
+                "(c) Punjab",
+                "(d) Gujarat"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Uttar Pradesh\nExplanation:- Among the given options, Uttar Pradesh (along with Madhya Pradesh and Rajasthan in the Chambal-Yamuna belt) has the largest area under ravines."
+            },
+            {
+              "id": 28,
+              "question": "With reference to the Indus river system, of the following four rivers, three of them pour into one of them which joins the Indus directly. Among the following, which one is such a river that joins the Indus directly? [IAS 2021]",
+              "options": [
+                "(a) Chenab",
+                "(b) Jhelum",
+                "(c) Ravi",
+                "(d) Sutlej"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Sutlej\nExplanation:- As per UPSC official key and PDF solution: Sutlej receives the waters of Jhelum, Chenab, Ravi, and Beas (via Panjnad) and joins the Indus directly at Mithankot."
+            },
+            {
+              "id": 29,
+              "question": "Consider the following statements:\n1. Jhelum River passes through Wular Lake.\n2. Krishna River directly feeds Kolleru Lake.\n3. Meandering of Gandak River formed Kanwar Lake.\nHow many of the statements given above are correct? [IAS 2023]",
+              "options": [
+                "(a) Only one",
+                "(b) Only two",
+                "(c) All three",
+                "(d) None"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Only two\nExplanation:- Statements 1 and 3 are correct:\n1. Jhelum river passes through Wular Lake.\n2. Krishna river does not directly feed Kolleru Lake (Kolleru lies between Krishna and Godavari deltas and is fed by Budameru and Tammileru streams).\n3. Kanwar Lake (Kabartal) in Bihar is an oxbow lake formed by the meandering of Gandak/Burhi Gandak river."
+            },
+            {
+              "id": 30,
+              "question": "With reference to the Himalayan rivers joining the Ganga downstream of Prayagraj from West to East, which one of the following sequences is correct? [IAS 2024]",
+              "options": [
+                "(a) Ghaghara - Gomati - Gandak - Kosi",
+                "(b) Gomati - Ghaghara - Gandak - Kosi",
+                "(c) Ghaghara - Gomati - Kosi - Gandak",
+                "(d) Gomati - Ghaghara - Kosi - Gandak"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Gomati - Ghaghara - Gandak - Kosi\nExplanation:- Left-bank tributaries joining Ganga downstream of Prayagraj from West to East: Gomti (near Saidpur/Ghazipur) -> Ghaghara (near Chhapra) -> Gandak (near Hajipur/Patna) -> Kosi (near Kursela/Katihar)."
+            },
+            {
+              "id": 31,
+              "question": "Which statements about the Indus Water Treaty are correct?\n1. The term 'Eastern Rivers' means the Sutlej, the Beas, and the Ravi taken together.\n2. The term 'Western Rivers' means the Indus, the Jhelum, and the Chenab taken together.\nCode: [CDS I 2025]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) Both 1 and 2",
+                "(d) Neither 1 nor 2"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Both 1 and 2\nExplanation:- Under the Indus Water Treaty (1960), Eastern Rivers are Ravi, Beas, and Sutlej (allocated to India), and Western Rivers are Indus, Jhelum, and Chenab (allocated largely to Pakistan)."
+            },
+            {
+              "id": 32,
+              "question": "Which tributary of the Indus River does not originate in the Himalayas? [CDS I 2025]",
+              "options": [
+                "(a) Gilgit",
+                "(b) Gomal",
+                "(c) Hunza",
+                "(d) Zaskar"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Gomal\nExplanation:- Gomal river is a right-bank tributary of the Indus that originates in the Sulaiman/Hindu Kush ranges (Afghanistan/Pakistan), not in the Himalayas."
+            }
+          ]
         }
       ]
     }
