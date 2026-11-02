@@ -35133,6 +35133,252 @@
               "solutionHinglish": "Ans (a)\nExplanation: Affirmative se negative jaate waqt meaning same rehna chaiye, toh option A sahi hoga kyunki iska matlab 'poor villagers kabhi bhi ungrateful nahi hote' matlab 'wo humesha grateful rehte hai' joki same meaning hai affirmative wala. Isliye 'The poor villagers are never ungrateful for the help they receive from charitable people' wala option A sahi hoga."
             }
           ]
+        },
+        {
+          "id": "t_1793638508023",
+          "name": "TRANSFORMATION - Interrogative & Assertive",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Is he not the best player in the team?",
+              "options": [
+                "(a) He is not the best player in the team.",
+                "(b) He is the best player in the team.",
+                "(c) He was the best player in the team.",
+                "(d) He may be the best player in the team."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation: Interrogative se assertive mein closest meaning aane chaiye, agar interrogative negative hoga toh assertive positive banega, isliye 'he is the best player in the team' option B sahi hoga. tense mein koi change nhi hoga.\nNote:- interrogative mein kahi gayi baat ko aisa maana hai ki saamne waale ko iss baat ka pata hai, tabhi assertive mein change ho payega."
+            },
+            {
+              "id": 2,
+              "question": "Can anyone deny the importance of education in modern society?",
+              "options": [
+                "(a) Everyone can deny the importance of education.",
+                "(b) No one can deny the importance of education.",
+                "(c) Some people can deny the importance of education.",
+                "(d) Few can deny the importance of education."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Agar interrogative positive hai toh assertive negative banega, interrogative ka matlab 'kya koi deny kar sakta hai importance of education ko' toh assertive mein hoga 'koi nahi kar sakta deny', isliye 'no one can deny the importance of education' option B sahi hoga.\nNote:- interrogative mein kahi gayi baat ko aisa maana hai ki saamne waale ko iss baat ka pata hai, tabhi assertive mein change ho payega."
+            },
+            {
+              "id": 3,
+              "question": "Who does not admire a brave and honest person?",
+              "options": [
+                "(a) No one admires a brave and honest person.",
+                "(b) Everyone admires a brave and honest person.",
+                "(c) Some admire a brave and honest person.",
+                "(d) Few admire a brave and honest person."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Agar interrogative negative hai toh assertive positive banega, aur 'who' assertive mein 'everyone' mein change hoga, interrogative ka matlab hai 'kon admire nahi karta brave person ko' toh assertive mein matlab hoga 'har koi admire karta hai brave person ko', isliye 'Everyone admires a brave and honest person' option B sahi hoga."
+            },
+            {
+              "id": 4,
+              "question": "Is this the right way to treat your younger brother?",
+              "options": [
+                "(a) This is the right way to treat your younger brother.",
+                "(b) This is not the right way to treat your younger brother.",
+                "(c) This may be the right way to treat your younger brother.",
+                "(d) This was the right way to treat your younger brother."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Agar interrogative positive hai toh assertive negative banega, interrogative ka matlab 'kya yeh sahi tarika chote bhai ko treat karne ka', toh assertive mein matlab hoga 'yeh sahi tarika nahi hai treat karne ka', isliye 'This is not the right way to treat your younger brother' option B sahi hoga."
+            },
+            {
+              "id": 5,
+              "question": "Did she not complete the assignment on time yesterday?",
+              "options": [
+                "(a) She did not complete the assignment on time yesterday.",
+                "(b) She completed the assignment on time yesterday.",
+                "(c) She was completing the assignment on time yesterday.",
+                "(d) She will complete the assignment on time yesterday"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Agar interrogative negative hai toh assertive positive banega, interrogative mein matlab hai 'kya usne kal assignment complete nahi kiya tha', toh assertive mein matlab hoga 'kal usne assignment complete kar diya tha', isliye 'She completed the assignment on time yesterday' option B sahi hoga."
+            },
+            {
+              "id": 6,
+              "question": "Can we ever forget the sacrifices of our freedom fighters?",
+              "options": [
+                "(a) We can forget the sacrifices of our freedom fighters.",
+                "(b) We may forget the sacrifices of our freedom fighters.",
+                "(c) We cannot forget the sacrifices of our freedom fighters.",
+                "(d) We should forget the sacrifices of our freedom fighters."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Agar interrogative positive hai toh assertive negative banega, interrogative ka matlab 'kya hum kabhi bhool sakte hai freedom fighters ke sacrifices ko', toh assertive mein matlab hoga 'hum nahi bhool sakte freedom fighters ke sacrifices ko', isliye 'We cannot forget the sacrifices of our freedom fighters' option C sahi hoga."
+            },
+            {
+              "id": 7,
+              "question": "Who can solve such a complicated problem without proper training?",
+              "options": [
+                "(a) Everyone can solve it such a complicated problem without proper training.",
+                "(b) Someone can solve it such a complicated problem without proper training.",
+                "(c) Few can solve it such a complicated problem without proper training.",
+                "(d) No one can solve such a complicated problem without proper training."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Agar interrogative positive hai toh assertive negative banega, kyunki interrogative positive hai isliye 'who' 'no one' mein change hoga, interrogative mein matlab hai 'without proper training ke kon solve kar sakta hai aisa complicated problem', toh assertive mein matlab hoga 'koi solve nahi kar sakta complicated problem bina proper training ke', isliye 'No one can solve such a complicated problem without proper training' option D sahi hoga."
+            },
+            {
+              "id": 8,
+              "question": "He is a man of great courage and determination.",
+              "options": [
+                "(a) Is he not a man of great courage and determination?",
+                "(b) Is he a man of courage and determination?",
+                "(c) Wasn't he a man of courage and determination?",
+                "(d) He may be a man of courage and determination?"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Agar assertive positive hai toh interrogative negative hoga, agar assertive mein aisa kaha ki 'wo great courage aur determination wala aadmi hai', toh interrogative mein aise kahenge 'kya wo great courage aur determination wala aadmi nahi hai?', isliye 'Is he not a man of great courage and determination?' wala option A sahi hoga."
+            },
+            {
+              "id": 9,
+              "question": "You realize the seriousness of the situation now.",
+              "options": [
+                "(a) Do you not realize the seriousness of the situation now?",
+                "(b) You do not realize the seriousness of the situation now?",
+                "(c) Did you realize the seriousness of the situation now?",
+                "(d) Do you realize the seriousness of the situation now?"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Agar assertive positive hai toh interrogative negative hoga, agar assertive mein aisa kaha 'ab aapko situation ki seriousness ka ehsas ho gaya hai', toh interrogative mein aisa kaha hoga 'kya ab aapko situation ki seriousness ka ehsaas nhi ho raha hai?', isliye 'Do you not realize the seriousness of the situation now?' wala option A sahi hoga."
+            },
+            {
+              "id": 10,
+              "question": "Is there anything more valuable than time in a person's life?",
+              "options": [
+                "(a) Something is more valuable than time in a person's life.",
+                "(b) Nothing is more valuable than time in a person's life.",
+                "(c) Everything is more valuable than time in a person's life.",
+                "(d) Time is not valuable in a person's life."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Agar interrogative positive hai toh assertive negative banega, interrogative ka matlab hai 'kya samay se jyada aur koi valuable cheez hai kisi ki life mein' toh assertive mein matlab hoga 'samay se koi valuable cheez nahi kisi ki life mein', isliye 'Nothing is more valuable than time in a person's life' option B sahi hoga."
+            },
+            {
+              "id": 11,
+              "question": "No one can question the honesty of that respected judge.",
+              "options": [
+                "(a) Can everyone question the honesty of that respected judge?",
+                "(b) Can someone question the honesty of that respected judge?",
+                "(c) Can anyone question the honesty of that respected judge?",
+                "(d) Few can question the honesty of that respected judge?"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Agar assertive negative hai toh interrogative positive hoga, assertive ka matlab hai 'koi nahi hai jo uss respected judge ki honesty pe sawal utthaye', toh interrogative mein kaha hoga 'kya koi sawal uttha sakta hai respected judge ki honesty pe', isliye 'Can anyone question the honesty of that respected judge?' wala option C sahi hoga."
+            },
+            {
+              "id": 12,
+              "question": "Who does not wish to live a happy and peaceful life?",
+              "options": [
+                "(a) No one wishes to live a happy and peaceful life.",
+                "(b) Everyone wishes to live a happy and peaceful life.",
+                "(c) Some wish to live happily.",
+                "(d) Few wish to live peacefully."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Agar interrogative negative hai toh assertive positive banega, interrogative mein matlab 'aisa kon nahi hai jo happy aur peaceful life nahi jeena chahta', toh assertive mein matlab hoga 'har koi chahta hai ki wo happy aur peaceful life jiye', isliye 'Everyone wishes to live a happy and peaceful life' wala option B sahi hoga."
+            },
+            {
+              "id": 13,
+              "question": "Is this not the most beautiful painting in the gallery?",
+              "options": [
+                "(a) This is the most beautiful painting in the gallery.",
+                "(b) This is not the most beautiful painting in the gallery.",
+                "(c) This was the most beautiful painting in the gallery.",
+                "(d) This may be beautiful in the gallery."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Agar interrogative negative hai toh assertive positive banega, interrogative mein matlab 'kya yeh sabse acchi painting nahi hai', toh assertive mein matlab hoga 'yeh sabse acchi painting hai iss gallery ki', isliye 'This is the most beautiful painting in the gallery' wala option A sahi hoga."
+            },
+            {
+              "id": 14,
+              "question": "He helped you when you were in trouble last year.",
+              "options": [
+                "(a) Did he help you when you were in trouble last year?",
+                "(b) Did he not help you when you were in trouble last year?",
+                "(c) Was he helping you when you were in trouble last year?",
+                "(d) Will he help you when you were in trouble last year?"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Agar assertive positive hai toh interrogative negative hoga, assertive ka matlab hai 'usne tumhari madad ki thi jab tum musibat mein the', toh interrogative mein matlab hoga 'kya usne tumhari madad nahi ki thi jab tum musibat mein the', isliye 'Did he not help you when you were in trouble last year?' wala option B sahi hoga."
+            },
+            {
+              "id": 15,
+              "question": "Can we survive without clean drinking water for long?",
+              "options": [
+                "(a) We can survive without clean drinking water for long.",
+                "(b) We may survive without clean drinking water for long.",
+                "(c) We cannot survive without clean drinking water for long.",
+                "(d) We should survive without clean drinking water for long."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Agar interrogative positive hai toh assertive negative banega, interrogative mein matlab hai 'kya hum survive kar payenge bina saaf paani ke', toh assertive mein matlab hoga 'hum survive nahi kar payenge bina saaf paani ke jyada der tak', isliye 'We cannot survive without clean drinking water for long' wala option C sahi hoga."
+            },
+            {
+              "id": 16,
+              "question": "Who can deny the fact that hard work leads to success?",
+              "options": [
+                "(a) Everyone can deny the fact that hard work leads to success.",
+                "(b) Some can deny the fact that hard work leads to success.",
+                "(c) Few can deny the fact that hard work leads to success.",
+                "(d) No one can deny the fact that hard work leads to success."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Agar interrogative positive hai toh assertive negative banega, interrogative mein matlab hai 'yeh fact kon deny karega ki hard work se success milti hai', toh assertive mein matlab hoga 'yeh fact koi deny nahi kar sakta ki hard work se success milti hai', isliye 'No one can deny the fact that hard work leads to success' wala option D sahi hoga."
+            },
+            {
+              "id": 17,
+              "question": "He is the most hardworking employee in the office.",
+              "options": [
+                "(a) He is the most hardworking employee in the office.",
+                "(b) Is he the most hardworking employee in the office?",
+                "(c) Is he not the most hardworking employee in the office?",
+                "(d) Does he be the most hardworking employee in the office?"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Agar assertive positive hai toh interrogative negative hoga, assertive ka matlab hai 'wo hardworking employee hai office mein', toh interrogative mein hoga 'kya wo hard working employee nahi hai office mein', isliye 'Is he not the most hardworking employee in the office?' wala option C sahi hoga."
+            },
+            {
+              "id": 18,
+              "question": "Do they not respect their teachers and elders?",
+              "options": [
+                "(a) They never disrespect their teachers and elders.",
+                "(b) They do not respect their teachers.",
+                "(c) They respected their teachers.",
+                "(d) They will respect their teachers."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Agar interrogative negative hai toh assertive positive banega, interrogative mein matlab hai 'kya wo respect nahi karte elders aur teachers ki', toh assertive mein 'wo kabhi disrespect nahi karte elders aur teachers ki', isliye 'They never disrespect their teachers and elders' wala option A sahi hoga. option C mein past tense kar diya."
+            },
+            {
+              "id": 19,
+              "question": "Is there any better place to relax than your own home?",
+              "options": [
+                "(a) There is a better place than your own home to relax.",
+                "(b) Nothing is better than your own home to relax.",
+                "(c) Everything is better than your own home to relax.",
+                "(d) Home is not good to relax"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Agar interrogative positive hai toh assertive negative banega, interrogative mein matlab hai 'kya isse aur acchi jagah hai relax karne ke liye', toh assertive mein hoga 'khudke ghar ke alawa aur koi acchi jagah nahi hai', isliye 'Nothing is better than your own home to relax' wala option B sahi hoga."
+            },
+            {
+              "id": 20,
+              "question": "Can anyone live peacefully without mutual respect and understanding?",
+              "options": [
+                "(a) Everyone can live peacefully without mutual respect and understanding.",
+                "(b) Some can live peacefully without mutual respect and understanding.",
+                "(c) No one can live peacefully without mutual respect and understanding.",
+                "(d) Few can live peacefully without mutual respect and understanding."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Agar interrogative positive hai toh assertive negative banega, interrogative mein matlab hai 'kya koi bina mutual respect aur understanding ke peacefully reh sakta hai', toh assertive hoga ki 'koi bina mutual respect aur understanding ke peacefully nahi reh sakta', isliye 'No one can live peacefully without mutual respect and understanding' wala option C sahi hoga."
+            }
+          ]
         }
       ]
     },
