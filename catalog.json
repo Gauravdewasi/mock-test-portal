@@ -34665,6 +34665,228 @@
               "solutionHinglish": "Ans. (b) Deferred\nExplanation: Sentence Vocab based hai isme Options mein diye gaye Words ka Meaning pata hona chahiye taaki sahi Option Fill kiya ja sake. Yhan Bola gya hai ki \"Humare club ki annual meeting ko agle mahine tak _______ kar diya gaya hai.\" iss Sentence ke Context ke according hum Option(b) Deferred ko Fill karenge kyuki \"Deferred\" ka Meaning hota hai \"kisi cheez ko kuch samay ke liye aage badha dena / postpone karna\", jo meeting ke delay hone ko sahi tarah express karta hai. Baaki options ke Meaning hai: Dragged - kheechna / ghaseetna, Disrupted - badha padna / rukavat aana kisi cheez mein, Deranged - pagal / avyavasthit."
             }
           ]
+        },
+        {
+          "id": "t_1793638474257",
+          "name": "TRANSFORMATION - Change Of Degree Of Adjective",
+          "questions": [
+            {
+              "id": 1,
+              "question": "This painting is the most beautiful creation in the entire gallery.\n(Change into positive degree)",
+              "options": [
+                "(a) This painting is one of the most beautiful creations in the gallery.",
+                "(b) No other painting in the gallery is as beautiful as this one.",
+                "(c) This painting is more beautiful than many other paintings in the gallery.",
+                "(d) This painting is beautiful in the gallery"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Sentence ko positive degree adjective mein change karna hai, toh superlative wala meaning positive degree mein 'no other + as beautiful as (simile)' se banta hai, isliye 'no other painting in the gallery is as beautiful as this one' wala option B sahi hoga.\nNote:- meaning se bhi solve kar sakte hai"
+            },
+            {
+              "id": 2,
+              "question": "Mount Everest is higher than any other mountain in the world.\n(Change into superlative degree)",
+              "options": [
+                "(a) Mount Everest is one of the highest mountains in the world.",
+                "(b) Mount Everest is higher than most other mountains in the world.",
+                "(c) Very few mountains are higher than Mount Everest.",
+                "(d) Mount Everest is the highest mountain in the world."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Sentence ko comparative se superlative mein change karna hai, toh comparative mein 'higher than any other mountain' yeh superlative wala meaning he deta hai, aur superlative degree 'the highest mountain' hoga, isliye 'Mount Everest is the highest mountain in the world' wala option D sahi hoga. option A galat hoga kyunki 'one of the highest mountains' se galat meaning ayega.\nNote:- meaning se bhi solve kar sakte hai"
+            },
+            {
+              "id": 3,
+              "question": "No other festival is as popular as Diwali in India.\n(Change into superlative degree)",
+              "options": [
+                "(a) Diwali is one of the most popular festivals in India.",
+                "(b) Diwali is the most popular festival in India.",
+                "(c) Diwali is more popular than most festivals in India.",
+                "(d) Few festivals are as popular as Diwali."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation: Positive degree se superlative mein change karna hai, toh 'no other' ke sath 'simile' likha ho toh superlative wala meaning aata hai, aur superlative mein change bhi karna hai, isliye 'Diwali is the most popular festival in india' wala option B sahi hoga. option A galat hoga kyunki 'one of the' wala structure selection ke case mein use hota hai.\nNote:- meaning se bhi solve kar sakte hai."
+            },
+            {
+              "id": 4,
+              "question": "The Pacific Ocean is larger than all other oceans.\n(Change into superlative degree)",
+              "options": [
+                "(a) The Pacific Ocean is one of the largest oceans.",
+                "(b) The Pacific Ocean is the largest ocean.",
+                "(c) Very few oceans are as large as the Pacific Ocean.",
+                "(d) The Pacific Ocean is larger than most oceans"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Sentence ko comparative se superlative mein change karna hai, toh 'comparative degree ke sath all/any other' likha ho toh superlative wala meaning aata hai, aur superlative mein change bhi karna hai, isliye 'the pacific ocean is the largest ocean' wala option B sahi hoga.\nNote:- meaning se bhi solve kar sakte hai"
+            },
+            {
+              "id": 5,
+              "question": "No other invention is as useful as electricity.\n(Change into superlative degree)",
+              "options": [
+                "(a) Electricity is one of the most useful inventions.",
+                "(b) Electricity is the most useful invention.",
+                "(c) Electricity is more useful than many other inventions.",
+                "(d) Electricity is useful among all inventions."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation: Positive degree se superlative mein change karna hai, toh 'no other' ke sath 'simile' likha ho toh superlative wala meaning aata hai, aur superlative mein change bhi karna hai, 'Electricity is the most useful invention' wala option B sahi hoga.\nNote:- meaning se bhi solve kar sakte hai"
+            },
+            {
+              "id": 6,
+              "question": "He runs faster than any other athlete in his school.\n(Change into superlative degree)",
+              "options": [
+                "(a) He is the fastest runner in his school.",
+                "(b) He runs faster than most other athletes in his school.",
+                "(c) He is one of the fastest runners in his school.",
+                "(d) Few athletes in his school are as fast as him."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Comparative se superlative mein change karna hai, toh 'comparative degree ke sath all/any other' likha ho toh superlative wala meaning aata hai, aur superlative mein change bhi karna hai, isliye 'He is the fastest runner in his school' wala option A sahi hoga.\nNote:- meaning se bhi solve kar sakte hai"
+            },
+            {
+              "id": 7,
+              "question": "Riya is wiser than many other students in her class.\n(Change into positive degree)",
+              "options": [
+                "(a) Few students in her class are as wise as Riya.",
+                "(b) Riya is the wisest student in her class.",
+                "(c) Riya is as wise as every student in her class.",
+                "(d) No student in her class is wiser than Riya"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Comparative ko positive mein change karna hai, agar comparative degree ke sath 'most other/many other' likha ho toh positive mein 'very few/few + simile' mein change hoga, isliye 'few students in her class are as wise as Riya' wala option A sahi hoga.\nNote:- meaning se bhi solve kar sakte hai"
+            },
+            {
+              "id": 8,
+              "question": "The Amazon River is longer than most other rivers in the world.\n(Change into superlative degree)",
+              "options": [
+                "(a) The Amazon River is the longest river in the world.",
+                "(b) The Amazon River is one of the longest rivers in the world.",
+                "(c) No river is longer than the Amazon River.",
+                "(d) Very few rivers are shorter than the Amazon River."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Comparative se superlative mein change karna hai, toh 'comparative degree ke sath 'most other/many other' likha ho toh superlative mein 'one of the + superlative degree' mein change hoga, isliye 'The Amazon river is one of the longest rivers in the world' wala option B sahi hoga.\nNote:- meaning se bhi solve kar sakte hai"
+            },
+            {
+              "id": 9,
+              "question": "Very few leaders are as respected as Mahatma Gandhi in history.\n(Change into comparative degree)",
+              "options": [
+                "(a) Mahatma Gandhi was the most respected leader in history.",
+                "(b) Mahatma Gandhi was respected more than all leaders in history.",
+                "(c) Mahatma Gandhi was less respected than most leaders in history.",
+                "(d) Mahatma Gandhi was more respected than most other leaders in history."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Positive se comparative mein change karna hai, toh positive mein 'very few/few + simile' ka structure ho toh comparative mein 'comparative degree ke sath most other/many other' se banta hai, isliye 'Mahatma Gandhi was more respected than most other leaders in history' wala option D sahi hoga.\nNote:- meaning se bhi solve kar sakte hai"
+            },
+            {
+              "id": 10,
+              "question": "He is more hardworking than many other students in the college.\n(Change into positive degree)",
+              "options": [
+                "(a) Few students in the college are as hardworking as he is.",
+                "(b) No student is as hardworking as he is.",
+                "(c) He is the most hardworking student in the college.",
+                "(d) He is one of the most hardworking students in the college."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Comparative ko positive mein change karna hai, agar comparative degree ke sath 'most other/many other' likha ho toh positive mein 'very few/few + simile' se banta hai, isliye 'Few students in the college are as hardworking as he is' wala option A sahi hoga.\nNote:- meaning se bhi solve kar sakte hai"
+            },
+            {
+              "id": 11,
+              "question": "Few writers in the world are as influential as Shakespeare.\n(Change into comparative degree)",
+              "options": [
+                "(a) Shakespeare is one of the most influential writers in the world.",
+                "(b) Shakespeare is the most influential writer in the world.",
+                "(c) Shakespeare is more influential than most other writers in the world.",
+                "(d) Shakespeare is as influential as every writer in the world."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Positive se comparative mein change karna hai, toh positive mein 'very few/few + simile' ka structure ho toh comparative mein 'comparative degree ke sath most other/many other' se banta hai, isliye 'Shakespeare is more influential than most other writers in the world' wala option C sahi hoga.\nNote:- meaning se bhi solve kar sakte hai"
+            },
+            {
+              "id": 12,
+              "question": "The Sahara Desert is one of the hottest places on earth.\n(Change into comparative degree)",
+              "options": [
+                "(a) The Sahara Desert is hotter than most other places on earth.",
+                "(b) The Sahara Desert is hotter than every other place on earth.",
+                "(c) No desert is hotter than the Sahara Desert.",
+                "(d) The Sahara Desert is the hottest place on earth."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Superlative se comparative mein change karna hai, toh superlative mein 'one of' ke baad superlative degree ho, toh comparative mein 'comparative degree ke sath most other/many other' se banta hai, isliye 'the Sahara desert is hotter than most other places on earth' wala option A sahi hoga.\nNote:- meaning se bhi solve kar sakte hai"
+            },
+            {
+              "id": 13,
+              "question": "The library is more peaceful than the crowded market outside.\n(Change into Positive Degree)",
+              "options": [
+                "(a) The crowded market is more peaceful than the library is.",
+                "(b) The crowded market is not so peaceful as the library is.",
+                "(c) The crowded market is as peaceful as the library is.",
+                "(d) The library is as noisy as the crowded market is."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- comparative se positive jaana hai toh iss structure mein 'than' ke right side subject ko positive mein starting mein likhenge aur 'not' lagake 'simile' laga denge, isliye 'The crowded market is not so peaceful as the library is' wala option B sahi hoga.\nNote:- meaning se bhi solve kar sakte hai"
+            },
+            {
+              "id": 14,
+              "question": "The movie was not so interesting as the novel written on the same story.\n(Change into Comparative Degree)",
+              "options": [
+                "(a) The novel was more interesting than the movie was.",
+                "(b) The movie was more interesting than the novel was.",
+                "(c) The novel was not more interesting than the movie was.",
+                "(d) The novel and the movie were equally interesting."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Positive se Comparative mein jaana hai toh iss structure mein 'not + simile' ke structure ko comparative mein comparative degree mein change kar denge aur 'the movie was' comparative mein comparative degree ke baad ayega, isliye 'the novel was more interesting than the movie was' wala option A sahi hoga.\nNote:- meaning se bhi solve kar sakte hai"
+            },
+            {
+              "id": 15,
+              "question": "This mountain trail is more difficult to climb than the one we attempted last year.\n(Change into Positive Degree)",
+              "options": [
+                "(a) The trail we attempted last year is as difficult as this one is.",
+                "(b) The trail we attempted last year is more difficult than this one is.",
+                "(c) The trail we attempted last year is the most difficult.",
+                "(d) The trail we attempted last year is not so difficult to climb as this one is."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- comparative se positive jaana hai toh iss structure mein 'than' ke right side subject ko positive mein starting mein likhenge aur 'not' lagake 'simile' laga denge, isliye 'The trail we attempted last year is not so difficult to climb as this one is' wala option D sahi hoga.\nNote:- meaning se bhi solve kar sakte hai"
+            },
+            {
+              "id": 16,
+              "question": "The village pond is as deep as the nearby river in summer.\n(Change into Comparative Degree)",
+              "options": [
+                "(a) The nearby river is not deeper than the village pond in summer.",
+                "(b) The nearby river is deeper than the village pond in summer.",
+                "(c) The nearby river is less deep than the village pond in summer.",
+                "(d) The village pond is deeper than the nearby river in summer"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation: Iss structure mein agar positive se comparative jaana ho toh 'simile' lagi aur 'not' naa laga ho toh comparative mein 'not + comparative degree' mein change karenge, aur subjects palat denge, isliye 'The nearby river is not deeper than the village pond in summer' wala option A sahi hoga.\nNote:- meaning se bhi solve kar sakte hai."
+            },
+            {
+              "id": 17,
+              "question": "The food served at this restaurant is not so delicious as the food served at that hotel.\n(Change into Comparative Degree)",
+              "options": [
+                "(a) The food served at this restaurant is more delicious than the food served at that hotel.",
+                "(b) The food served at both places is equally delicious.",
+                "(c) The food served at that hotel is more delicious than the food served at this restaurant.",
+                "(d) The food served at this restaurant is not delicious at all."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Iss structure mein agar positive se comparative jaana ho toh, 'not + simile' waale structure ko positive mein comparative degree mein change karenge, aur subject palat denge, isliye 'The food served at that hotel is more delicious than the food served at this restaurant' wala option C sahi hoga..\nNote:- meaning se bhi solve kar sakte hai."
+            },
+            {
+              "id": 18,
+              "question": "The park near my house is not so large as the city stadium.\n(Change into Comparative Degree)",
+              "options": [
+                "(a) The city stadium is larger than the park near my house.",
+                "(b) The park near my house is larger than the city stadium.",
+                "(c) Both the park and the city stadium are equally large.",
+                "(d) The park near my house is not larger than the city stadium."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Iss structure mein agar positive se comparative jaana ho toh, 'not + simile' waale structure ko positive mein comparative degree mein change karenge, aur subject palat denge, isliye 'The city stadium is larger than the park near my house' wala option A sahi hoga.\nNote:- meaning se bhi solve kar sakte hai."
+            }
+          ]
         }
       ]
     },
