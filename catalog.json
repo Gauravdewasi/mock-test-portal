@@ -39718,6 +39718,324 @@
               "solutionHinglish": "Ans (a) Jaisalmer\nExplanation:- Jaisalmer (located in the Thar desert interior) has the maximum temperature difference between day and night from the given options due to continentality and sandy terrain."
             }
           ]
+        },
+        {
+          "id": "t_1793610388610",
+          "name": "Winds, Cyclones and Ocean Currents - LEVEL II",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which one of the following statements about the Coriolis force is not correct? [CDS I 2021]",
+              "options": [
+                "(a) It is maximum at the Poles.",
+                "(b) It is absent at the Equator.",
+                "(c) It deflects the wind to the right direction in the southern hemisphere.",
+                "(d) It deflects the wind to the right direction in the northern hemisphere."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) It deflects the wind to the right direction in the southern hemisphere.\nExplanation:- Coriolis force is the apparent force caused by the Earth's rotation. It deflects the wind to the right in the Northern Hemisphere and to the left in the Southern Hemisphere. It is absent at equator and is maximum at poles. Coriolis force increases with increase in wind velocity."
+            },
+            {
+              "id": 2,
+              "question": "Isohalines are lines joining equal: [CDS I 2022]",
+              "options": [
+                "(a) Temperature",
+                "(b) Pressure",
+                "(c) Rainfall",
+                "(d) Salinity"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Salinity\nExplanation:- Isohaline - imaginary line on map connecting places of equal salinity.\nIsotherm - equal temperature; Isobar - equal pressure; Isohyets - equal rainfall; Isobath - same depth; Isohel - same sunshine; Isoneph - same cloudiness."
+            },
+            {
+              "id": 3,
+              "question": "Which one of the following land surfaces has the highest albedo? [CDS I 2022]",
+              "options": [
+                "(a) A snow covered mountain",
+                "(b) A barren rocky piedmont surface",
+                "(c) A sandy desert",
+                "(d) A mangrove forest"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) A snow covered mountain\nExplanation:- Albedo is the proportion of sunlight that a surface can reflect back into space. Snow covered areas have the highest albedo and can reflect up to 70-90% of insolation.\nVenus has the highest albedo among all the planets while Mercury has the lowest albedo."
+            },
+            {
+              "id": 4,
+              "question": "Which one of the following do not influence the ocean currents? [CDS II 2022]",
+              "options": [
+                "(a) Heating by solar energy",
+                "(b) Wind",
+                "(c) Gravitational pull by Sun and Moon",
+                "(d) Coriolis force"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Gravitational pull by Sun and Moon\nExplanation:- Gravitational pull by Sun and Moon causes Tides. Causes of ocean currents are Heating by solar energy, Wind, Gravity (of Earth), Density difference, Coriolis force, and Coastline of continents."
+            },
+            {
+              "id": 5,
+              "question": "The speed of the wind is measured by [CAPF 2021]",
+              "options": [
+                "(a) Wind vane",
+                "(b) Wind rose",
+                "(c) Barometer",
+                "(d) Anemometer"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Anemometer\nExplanation:- Anemometer - an instrument used to measure wind speed.\nBarometer - an instrument used to measure atmospheric pressure.\nWind vane / weather vane - an instrument used to measure wind direction.\nWind rose - a circular chart that displays frequency and direction of winds at a particular location."
+            },
+            {
+              "id": 6,
+              "question": "Trough and ridge are [CAPF 2022]",
+              "options": [
+                "(a) Elongated area of low pressure and of high pressure respectively.",
+                "(b) Elongated areas of low pressure.",
+                "(c) Elongated areas of high pressure.",
+                "(d) Elongated area of high pressure and of low pressure respectively."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Elongated area of low pressure and of high pressure respectively.\nExplanation:- Trough is an elongated area of low pressure and ridge is an elongated area of high pressure."
+            },
+            {
+              "id": 7,
+              "question": "Which one of the following is not correct? [CAPF 2022]",
+              "options": [
+                "(a) The Gulf Stream is a warm ocean current.",
+                "(b) The North Atlantic Drift is a warm ocean current.",
+                "(c) The Labrador Current is a cold ocean current.",
+                "(d) The California Current is a warm ocean current."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) The California Current is a warm ocean current.\nExplanation:- The California Current is a cold ocean current.\nWarm ocean currents - Gulf stream, North Atlantic Drift, Alaska, Brazil, Norwegian, Agulhas, Mozambique, Kuroshio, East Australian Drift.\nCold ocean currents - Benguela, Peru, Greenland, Oyashio, Labrador, Falkland, West Australian Drift, Canary, California."
+            },
+            {
+              "id": 8,
+              "question": "Match List I with List II and select the correct answer using the code given below the lists: [CDS I 2021]\nList I — List II\na. Cyclones — 1. Western Australia\nb. Hurricanes — 2. South China Sea\nc. Typhoons — 3. Indian Ocean\nd. Willy-willies — 4. Atlantic Ocean",
+              "options": [
+                "(a) a-3, b-2, c-4, d-1",
+                "(b) a-3, b-4, c-2, d-1",
+                "(c) a-1, b-4, c-2, d-3",
+                "(d) a-1, b-2, c-4, d-3"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) a-3, b-4, c-2, d-1\nExplanation:- Cyclones - Indian Ocean; Hurricanes - Atlantic Ocean; Typhoons - South China Sea / Western Pacific; Willy-willies - Western Australia."
+            },
+            {
+              "id": 9,
+              "question": "Match List I with List II and select the correct answer using the code given below the lists: [CAPF 2024]\nList I (Ocean Current) — List II (Location)\na. Kuroshio Current — 1. Antarctic Ocean\nb. Agulhas Current — 2. Pacific Ocean\nc. East Wind Drift — 3. Atlantic Ocean\nd. Antilles Current — 4. Indian Ocean",
+              "options": [
+                "(a) a-3, b-4, c-1, d-2",
+                "(b) a-3, b-1, c-4, d-2",
+                "(c) a-2, b-1, c-4, d-3",
+                "(d) a-2, b-4, c-1, d-3"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) a-2, b-4, c-1, d-3\nExplanation:- Kuroshio Current - Pacific Ocean; Agulhas Current - Indian Ocean; East Wind Drift - Antarctic Ocean; Antilles Current - Atlantic Ocean."
+            },
+            {
+              "id": 10,
+              "question": "Consider the following characteristics of a type of wind:\n1. They occur at upper levels in the atmosphere.\n2. They are subjected to two forces, a pressure gradient force and the Coriolis force.\n3. When the forces balance, air moves at right angles to the pressure gradient, parallel to the isobars.\nIdentify the type of wind on the basis of the given characteristics: [CAPF 2024]",
+              "options": [
+                "(a) Jet Stream",
+                "(b) Geostrophic Wind",
+                "(c) Westerlies",
+                "(d) Easterlies"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Geostrophic Wind\nExplanation:- Geostrophic winds are the winds that blow parallel to isobars when the pressure gradient force and Coriolis force are in balance. They occur in the upper atmosphere (free from surface friction)."
+            },
+            {
+              "id": 11,
+              "question": "Which one of the following is not the characteristic feature of 'El Nino' phenomenon impacting the Indian monsoon? [CBI 2023]",
+              "options": [
+                "(a) It replaces the cold Peruvian current.",
+                "(b) Appearance of cold current in East Pacific region.",
+                "(c) Results in reduction of planktons.",
+                "(d) Results in drought or weak monsoon in India."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Appearance of cold current in East Pacific region.\nExplanation:- El-Nino is the occasional development of warm ocean surface waters along the Eastern Pacific ocean (coast of Peru), replacing the cold Peruvian (Humboldt) current.\nLa-Nina is the accumulation of cold water in the central and eastern Pacific ocean."
+            },
+            {
+              "id": 12,
+              "question": "Which of the following relating to the formation of tropical cyclone is/are correct?\n1. Large sea surface with temperature above 27°C.\n2. Presence of Coriolis force.\n3. Upper convergence over the sea level system.\nSelect the correct answer using the code given below. [CBI 2023]",
+              "options": [
+                "(a) 1 and 2",
+                "(b) 1 and 3",
+                "(c) 2 and 3",
+                "(d) 3 only"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) 1 and 2\nExplanation:- Conditions favourable for the formation of tropical cyclones are :- Large sea surface temperature (>27°C), Presence of Coriolis force, A pre-existing low-pressure area, Low vertical wind shear, and Upper-level divergence (not upper convergence)."
+            },
+            {
+              "id": 13,
+              "question": "Which one of the following is not a 'cold ocean current'? [CBI 2023]",
+              "options": [
+                "(a) Benguela Current",
+                "(b) Canary Current",
+                "(c) Falkland Current",
+                "(d) Kuroshio Current"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Kuroshio Current\nExplanation:- Kuroshio Current is a warm ocean current in the North Pacific Ocean."
+            },
+            {
+              "id": 14,
+              "question": "Consider the following statements about anticyclones:\n1. Anticyclones are high pressure systems.\n2. Air in the centre of the system must be subsiding.\n3. Anticyclones are characterized by converging winds.\nHow many of the above statements is/are correct? [NDA II 2023]",
+              "options": [
+                "(a) 1",
+                "(b) 2",
+                "(c) 3",
+                "(d) None"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) 2\nExplanation:- Statements 1 and 2 are correct. Anticyclones are high pressure systems and air in the centre of the system is subsiding. In anticyclones, air moves outwards (diverging, not converging) from the high pressure centre."
+            },
+            {
+              "id": 15,
+              "question": "Which one of the following is not a cold current? [NDA I 2023]",
+              "options": [
+                "(a) Western Australian Current",
+                "(b) Eastern Australian Current",
+                "(c) Benguela Current",
+                "(d) Peru Current"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Eastern Australian Current\nExplanation:- Eastern Australian Current is a warm ocean current, whereas Western Australian, Benguela and Peru currents are cold ocean currents."
+            },
+            {
+              "id": 16,
+              "question": "Which of the following statements regarding 'cyclones and anticyclones' is/are correct?\n1. In the Northern Hemisphere, cyclones rotate counter clockwise and anticyclones rotate clockwise.\n2. Cyclones are often associated with cloudy or rainy weather, whereas anticyclones are often associated with fair weather.\n3. In the Southern Hemisphere, the cyclonic spiral will be clockwise because the Coriolis force acts to the left.\nSelect the answer using the code given below: [NDA I 2024]",
+              "options": [
+                "(a) 1 only",
+                "(b) 1 and 2 only",
+                "(c) 2 and 3 only",
+                "(d) 1, 2 and 3"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) 1, 2 and 3\nExplanation:- Direction of cyclone - anticlockwise in northern hemisphere and clockwise in southern hemisphere (anticyclone is the opposite). Coriolis force acts to the right in the northern hemisphere and to the left in the southern hemisphere."
+            },
+            {
+              "id": 17,
+              "question": "Which of the following statements regarding the World Climate Types and their relation with Inter Tropical Convergence Zone (ITCZ) is/are correct?\n1. Tropical Wet Climate is one of the world's rainiest due to the dominance of the ITCZ over it.\n2. Tropical Savanna Climate experiences a distinctive alternation of wet and dry seasons, caused chiefly by the seasonal shift in latitude of the subtropical highs and ITCZ.\n3. The Tropical Monsoonal Climate experiences heavy rainfall as a consequence of the nearness of the ITCZ for much of the year.\nSelect the answer using the code given below: [NDA I 2024]",
+              "options": [
+                "(a) 1 only",
+                "(b) 1 and 2 only",
+                "(c) 2 and 3 only",
+                "(d) 1, 2 and 3"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) 1, 2 and 3\nExplanation:- All three statements are correct regarding Tropical Wet, Tropical Savanna, and Tropical Monsoonal climates in relation to the ITCZ."
+            },
+            {
+              "id": 18,
+              "question": "Which of the following statements regarding tropical cyclones is/are correct?\n1. These storms develop during the summer and autumn in every tropical ocean except the South Atlantic and eastern South Pacific Oceans.\n2. Tropical cyclones that occur in the North Atlantic and eastern North Pacific Oceans are known as typhoons.\n3. Tropical cyclones that occur in the Indian and South Pacific Oceans are called cyclones.\nSelect the answer using the code given below: [NDA I 2024]",
+              "options": [
+                "(a) 3 only",
+                "(b) 1 and 2 only",
+                "(c) 1 and 3 only",
+                "(d) 1, 2 and 3"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) 1 and 3 only\nExplanation:- Tropical cyclones are rare in South Atlantic ocean and eastern South Pacific ocean due to cool waters. Tropical cyclones are called hurricanes (not typhoons) in the North Atlantic and eastern North Pacific oceans, typhoons in the western North Pacific, and cyclones in the Indian and South Pacific oceans."
+            },
+            {
+              "id": 19,
+              "question": "Where is the Coriolis Effect the largest? [NDA II 2024]",
+              "options": [
+                "(a) At the Equator",
+                "(b) At the Tropic of Capricorn and Tropic of Cancer",
+                "(c) At the North Pole",
+                "(d) At 45 degree latitude in each hemisphere"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) At the North Pole\nExplanation:- Coriolis force is absent at the equator and is maximum at the poles (North Pole and South Pole)."
+            },
+            {
+              "id": 20,
+              "question": "Which one among the following local winds is NOT related to Mediterranean Sea? [NDA II 2024]",
+              "options": [
+                "(a) Harmattan",
+                "(b) Khamsin",
+                "(c) Sirocco",
+                "(d) Mistral"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Harmattan\nExplanation:- Harmattan (Doctor wind) blows from the Sahara Desert over West Africa into the Gulf of Guinea and isn't directly a Mediterranean wind, whereas Sirocco, Khamsin, and Mistral blow across the Mediterranean Sea."
+            },
+            {
+              "id": 21,
+              "question": "Which one among the following statements with reference to Benguela current is NOT correct? [NDA II 2024]",
+              "options": [
+                "(a) It influences the climate of the West coast of North Africa.",
+                "(b) It is a cold current.",
+                "(c) Its direction is from South to North.",
+                "(d) It flows in the Atlantic Ocean."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) It influences the climate of the West coast of North Africa.\nExplanation:- Benguela current is a cold ocean current in the South Atlantic Ocean. It influences the climate of the West coast of Southern Africa (not North Africa; Canary current flows along North Africa). Its direction is from south to north."
+            },
+            {
+              "id": 22,
+              "question": "With reference to \"Coriolis force\", which of the following statements is/are correct?\n1. It increases with increase in wind velocity.\n2. It is maximum at the poles and is absent at the equator.\nSelect the answer using the code given below: [IAS 2024]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) Both 1 and 2",
+                "(d) Neither 1 nor 2"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Both 1 and 2\nExplanation:- Coriolis force is the apparent force caused by the Earth's rotation. It is directly proportional to wind velocity and the sine of latitude (absent at equator, maximum at poles)."
+            },
+            {
+              "id": 23,
+              "question": "Which one of the following results due to the 'edge effect' between cold and warm ocean waters? [GEOSCIENTIST 2022]",
+              "options": [
+                "(a) Development of dense phyto-planktons rich in diatoms.",
+                "(b) Decrease in fish population in the area.",
+                "(c) Decrease in mussel population in the area.",
+                "(d) Decrease in primary productivity of the area."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Development of dense phyto-planktons rich in diatoms.\nExplanation:- When warm and cold ocean waters meet, nutrient mixing leads to the development of dense phytoplankton rich in diatoms, supporting rich fishing grounds."
+            },
+            {
+              "id": 24,
+              "question": "What is the correct ascending order of salts in seawater?\n1. Magnesium Chloride\n2. Calcium Carbonate\n3. Calcium Sulphate\nCode: [CDS I 2025]",
+              "options": [
+                "(a) 3, 1, 2",
+                "(b) 1, 3, 2",
+                "(c) 1, 2, 3",
+                "(d) 2, 3, 1"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) 2, 3, 1 (Note: PDF solution key prints (C) 1, 2, 3 while the explanation text explicitly writes: Ascending order of salts in seawater - Calcium Carbonate < Calcium Sulphate < Magnesium Chloride)\nExplanation:- Ascending order of salts in seawater - Calcium Carbonate (2) < Calcium Sulphate (3) < Magnesium Chloride (1) < Sodium Chloride."
+            },
+            {
+              "id": 25,
+              "question": "Which of the following is/are cold ocean current/currents?\n1. Alaska Current\n2. North Atlantic Drift\n3. West Wind Drift\nSelect the answer using the code given below: [NDA I 2025]",
+              "options": [
+                "(a) 1 only",
+                "(b) 1 and 2",
+                "(c) 2 and 3",
+                "(d) 3 only"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) 3 only\nExplanation:- West Wind Drift (Antarctic Circumpolar Current) is a cold ocean current, while Alaska Current and North Atlantic Drift are warm ocean currents."
+            },
+            {
+              "id": 26,
+              "question": "Which of the following statements with reference to Coriolis force is/are correct?\n1. Coriolis force acts perpendicular to the pressure gradient force.\n2. At the equator, the Coriolis force is zero and the wind blows perpendicular to the isobars.\nSelect the answer using the code given below: [NDA I 2025]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) Both 1 and 2",
+                "(d) Neither 1 nor 2"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Both 1 and 2\nExplanation:- Coriolis force acts perpendicular to the pressure gradient force. At the equator, the Coriolis force is zero and the wind blows perpendicular to the isobars directly along the pressure gradient."
+            }
+          ]
         }
       ]
     }
