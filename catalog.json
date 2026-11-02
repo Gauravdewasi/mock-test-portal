@@ -34887,6 +34887,252 @@
               "solutionHinglish": "Ans (a)\nExplanation:- Iss structure mein agar positive se comparative jaana ho toh, 'not + simile' waale structure ko positive mein comparative degree mein change karenge, aur subject palat denge, isliye 'The city stadium is larger than the park near my house' wala option A sahi hoga.\nNote:- meaning se bhi solve kar sakte hai."
             }
           ]
+        },
+        {
+          "id": "t_1793638493428",
+          "name": "TRANSFORMATION - Affirmative & Negative",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Affirmative: He always speaks the truth in every situation.\n(Change into negative)",
+              "options": [
+                "(a) He does not always tell the truth in every situation.",
+                "(b) He does not tell lies in difficult situations.",
+                "(c) He sometimes tells lies in every situation.",
+                "(d) He never tells lies in any situation."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Affirmative se negative jaate waqt meaning same rehna chaiye, isliye 'always speaks the truth' ko negative mein 'never tells lies' mein change karenge, isliye 'he never tells lies in any situation' wala option D sahi hoga.\nNote:- meaning se bhi solve kar sakte hai."
+            },
+            {
+              "id": 2,
+              "question": "Affirmative: Everybody in the village admired the bravery of the young soldier.\n(Change into negative)",
+              "options": [
+                "(a) Nobody in the village admired the cowardice of the young soldier.",
+                "(b) Nobody in the village failed to admire the bravery of the young soldier.",
+                "(c) Nobody in the village respected the bravery of the young soldier.",
+                "(d) Nobody in the village was afraid of the young soldier."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Affirmative se negative jaate waqt meaning same rehna chaiye, isliye 'everybody/everyone/all/every' ko 'nobody/none/no one + opposite word' mein change karenge, isliye 'Nobody in the village failed to admire the bravery of the young soldier' wala option B sahi hoga.\nNote:- meaning se bhi solve kar sakte hai."
+            },
+            {
+              "id": 3,
+              "question": "Affirmative: Only hard-working students succeed in competitive examinations.\n(Change into negative)",
+              "options": [
+                "(a) None but hard-working students succeed in competitive examinations.",
+                "(b) No student can succeed in competitive examinations.",
+                "(c) None but careless students succeed in competitive examinations.",
+                "(d) Every student can succeed in competitive examinations."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Affirmative se negative mein 'only/alone' ko negative mein 'none but' mein change karenge, isliye 'None but hard-working students succeed in competitive examinations' wala option A sahi hoga. option C mein 'careless students' se meaning galat hoga.\nNote:- meaning se bhi solve kar sakte hai."
+            },
+            {
+              "id": 4,
+              "question": "Affirmative: He must obey the rules of the institution without any excuse.\n(Change into negative)",
+              "options": [
+                "(a) He must not obey the rules of the institution without any excuse.",
+                "(b) He cannot obey the rules of the institution without any excuse.",
+                "(c) He cannot but obey the rules of the institution without any excuse.",
+                "(d) He should disobey the rules of the institution without any excuse."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Affirmative se negative change karne mein meaning same rehna chaiye, isliye 'must' ko 'cannot but' mein change karenge, isliye 'He cannot but obey the rules of the institution without any excuse' wala option C sahi hoga.\nNote:- meaning se bhi solve kar sakte hai."
+            },
+            {
+              "id": 5,
+              "question": "Affirmative: As soon as the teacher entered the classroom, the students stood up in respect.\n(Change into negative)",
+              "options": [
+                "(a) The students never stood up in respect for the teacher.",
+                "(b) The teacher never entered the classroom before the students stood up.",
+                "(c) No sooner did the teacher enter the classroom than the students stood up in respect.",
+                "(d) No sooner did the students stand up than the teacher entered the classroom."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Affirmative se negative change karne mein meaning same rehna chaiye, isliye 'as soon as' ko 'no sooner.....than' mein change karenge, sentence mein kehna tha ki jaise he teacher aayi waise he student khade ho gaye, isliye 'No sooner did the teacher enter the classroom than the students stood up in respect' wala option C sahi hoga.\nNote:- meaning se bhi solve kar sakte hai."
+            },
+            {
+              "id": 6,
+              "question": "Affirmative: Both honesty and hard work are essential for achieving success in life.\n(Change into negative)",
+              "options": [
+                "(a) Not only honesty as well as hard work is essential for success in life.",
+                "(b) Neither honesty nor hard work is essential for achieving success in life.",
+                "(c) Not honesty but laziness is essential for success in life.",
+                "(d) Not only honesty but also hard work is essential for achieving success in life."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Affirmative se negative change karne mein meaning same rehna chaiye, isliye 'both...and' ko 'not only..... but also' mein change karenge, isliye 'Not only honesty but also hard work is essential for achieving success in life' wala option D sahi hoga.\nNote:- meaning se bhi solve kar sakte hai."
+            },
+            {
+              "id": 7,
+              "question": "Negative: She never deserts her friends during difficult times.\n(Change into affirmative)",
+              "options": [
+                "(a) She supports her friends during difficult times.",
+                "(b) She has supported her friends during difficult times.",
+                "(c) She always supports her friends during difficult times.",
+                "(d) She sometimes supports her friends during difficult times."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Negative se affirmative meaning same chaiye, isliye 'never deserts' ko affirmative mein 'always + opposite word' mein change karenge, isliye 'She always supports her friends during difficult times' wala option C sahi hoga. option A bhi ho sakta hai lekin 'never' ki wazah se affirmative mein 'always' wala prefer karenge, agar option C nahi hota toh option A mark karna padta.\nNote:- meaning se bhi solve kar sakte hai."
+            },
+            {
+              "id": 8,
+              "question": "Affirmative: The boy is too weak to lift the heavy box placed in the corner of the room.\n(Change into negative)",
+              "options": [
+                "(a) The boy is so weak that he must lift the heavy box placed in the corner of the room.",
+                "(b) The boy is so weak that he cannot lift the heavy box placed in the corner of the room.",
+                "(c) The boy is not weak enough to lift the heavy box placed in the corner of the room.",
+                "(d) The boy is never too weak to lift the heavy box placed in the corner of the room."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Affirmative se negative change karne mein meaning same rehna chaiye, isliye 'too...to' ko 'so.....that.....not' mein change karenge, isliye 'so weak that he cannot lift' wala option B sahi hoga.\nNote:- meaning se bhi solve kar sakte hai."
+            },
+            {
+              "id": 9,
+              "question": "Affirmative: All the participants gave their best performance in the cultural program.\n(Change into negative)",
+              "options": [
+                "(a) Not a single participant failed to give his best performance in the cultural program.",
+                "(b) No participant gave his best performance in the cultural program.",
+                "(c) None of the participants gave a performance in the cultural program.",
+                "(d) Some participants failed to give their best performance in the cultural program."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Affirmative se negative jaate waqt meaning same rehna chaiye, toh option A sahi hoga kyunki iska matlab hai 'ek bhi participant aisa nahi tha jo fail hua best performance dene mein', toh iska same matlab wahi ki 'sabne best performance di', isliye 'Not a single participant failed to give his best performance in the cultural program' option A sahi hoga."
+            },
+            {
+              "id": 10,
+              "question": "Affirmative: He has already completed the assignment.\n(Change into negative)",
+              "options": [
+                "(a) He has not left the assignment incomplete.",
+                "(b) He has not completed the assignment yet.",
+                "(c) He has never completed the assignment given by the teacher.",
+                "(d) He has not already completed the assignment."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Affirmative se negative jaate waqt meaning same rehna chaiye, toh option A sahi hoga kyunki iska matlab hai 'usne assignment ko incomplete nahi choda' matlab 'assignment complete kiya hai' jo ki same affirmative wala meaning hai, isliye 'He has not left the assignment incomplete' wala option A sahi hoga."
+            },
+            {
+              "id": 11,
+              "question": "Negative: Nobody disrespects her because of her kind nature and helpful attitude.\n(Change into Affirmative)",
+              "options": [
+                "(a) Everybody disrespects her because of her kind nature and helpful attitude.",
+                "(b) Everybody does not disrespect her because of her kind nature and helpful attitude.",
+                "(c) Everybody respects her because of her kind nature and helpful attitude.",
+                "(d) All of them respects her because of her kind nature and helpful attitude."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Negative se affirmative jaate waqt meaning same rehna chaiye, toh option C sahi hoga kyunki iska matlab 'har koi uski respect karta hai' matlab 'koi bhi usko disrespect nahi karte' jo ki same negative wala meaning hai, isliye 'Everybody respects her because of her kind nature and helpful attitude' wala option C sahi hoga."
+            },
+            {
+              "id": 12,
+              "question": "Affirmative: Everybody knows that honesty is the best policy in life.\n(Change into negative)",
+              "options": [
+                "(a) Nobody is ignorant of the fact that honesty is the best policy in life.",
+                "(b) Nobody knows that honesty is the best policy in life.",
+                "(c) Everybody ignores that honesty is the best policy in life.",
+                "(d) Everybody believes dishonesty is the best policy in life."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Affirmative se negative jaate waqt meaning same rehna chaiye, toh option A sahi hoga kyunki iska matlab 'iss fact se koi anjaan nahi hai ki honesty best policy hai' matlab 'har koi janta hai honesty best policy' jo ki same affirmative wala meaning hai, isliye 'Nobody is ignorant of the fact that honesty is the best policy in life' wala option A sahi hoga."
+            },
+            {
+              "id": 13,
+              "question": "Affirmative: He can achieve success in life with determination and hard work.\n(Change into negative)",
+              "options": [
+                "(a) He cannot be determined to achieve success in life",
+                "(b) He cannot achieve success in life with determination and hard work.",
+                "(c) He can fail in life with determination and hard work.",
+                "(d) He cannot achieve success in life without determination and hard work."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Affirmative se negative jaate waqt meaning same rehna chaiye, toh option D sahi hoga kyunki iska matlab 'wo success nahi achieve kar sakta bina determination aur hard work ke' matlab 'wo success achieve kar sakta hai determination aur hard work se' joki same meaning hai affirmative wala, isliye 'He cannot achieve success in life without determination and hard work' wala option D sahi hoga."
+            },
+            {
+              "id": 14,
+              "question": "Negative: No sooner the thief saw the policeman than he started running.\n(Change into Affirmative)",
+              "options": [
+                "(a) The thief saw the policeman and started running.",
+                "(b) When the policeman saw the thief, he started running.",
+                "(c) As soon as the thief saw the policeman, he started running.",
+                "(d) Both the thief and the policeman saw each other and started running"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Negative se affirmative jaate waqt meaning same rehna chaiye, option A, B aur C teeno ke meaning almost same hai, lekin 'no sooner....than' ka matlab dono ke beech time ka gap nahi tha, aur same wahi meaning 'as soon as' se aata hai, isliye teeno mein se best 'As soon as the thief saw the policeman, he started running' option C hoga."
+            },
+            {
+              "id": 15,
+              "question": "Negative: She is so weak that she can't climb the stairs.\n(Change into Affirmative)",
+              "options": [
+                "(a) She is not so weak that she can't climb the stairs.",
+                "(b) She is never weak that she can't climb the stairs.",
+                "(c) She is too weak to climb the stairs.",
+                "(d) She does not need any help to climb the stairs."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Negative se affirmative jaate waqt meaning same rehna chaiye, toh option C sahi hoga kyunki iska matlab 'wo stairs chadne ke liye bahut kamjor hai' matlab 'wo itni kamjor hai ki stairs nahi chad sakti' joki same negative wala meaning hai, isliye 'She is too weak to climb the stairs' wala option C sahi hoga."
+            },
+            {
+              "id": 16,
+              "question": "Affirmative: Only the brave can face such dangerous challenges in life.\n(Change into negative)",
+              "options": [
+                "(a) No one can face such dangerous challenges in life.",
+                "(b) None but the cowardly can face such dangerous challenges in life.",
+                "(c) None but the weak can face such dangerous challenges in life.",
+                "(d) None but the brave can face such dangerous challenges in life."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Affirmative se negative jaate waqt meaning same rehna chaiye, toh option D sahi hoga kyunki iska matlab 'koi nahi sirf brave face kar sakta hai', matlab 'sirf brave face kar sakte hai' jo ki same affirmative wala meaning hai, isliye 'None but the brave can face such dangerous challenges in life' wala option D sahi hoga."
+            },
+            {
+              "id": 17,
+              "question": "Negative: You cannot qualify the exam without studying hard.\n(Change into Affirmative)",
+              "options": [
+                "(a) You can qualify the exam without studying hard.",
+                "(b) You can qualify the exam only by studying hard.",
+                "(c) You can not fail the exam without studying hard.",
+                "(d) You may qualify the exam if you study hard."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Negative se affirmative jaate waqt meaning same rehna chaiye, toh option B sahi hoga kyunki iska matlab 'sirf hard study karke tum exam qualify kar sakte hai' matlab 'tum qualify nahi kar sakte exam bina hard study ke' jo ki same negative wala meaning hai, isliye 'You can qualify the exam only by studying hard' wala option B sahi hoga."
+            },
+            {
+              "id": 18,
+              "question": "Affirmative: All men are mortal by the law of nature.\n(Change into negative)",
+              "options": [
+                "(a) Some men are immortal by the law of nature.",
+                "(b) No man is mortal by the law of nature.",
+                "(c) No man is immortal by the law of nature.",
+                "(d) Every man is immortal by the law of nature."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Affirmative se negative jaate waqt meaning same rehna chaiye, toh option C sahi hoga kyunki iska matlab 'koi bhi aadmi immortal nahi hai' matlab 'har koi mortal hai', joki same meaning hai affirmative wala isliye 'No man is immortal by the law of nature' wala option C sahi hoga. 'mortal' ka matlab 'jo mar jaaye', 'immortal' ka matlab 'jo mare nahi'"
+            },
+            {
+              "id": 19,
+              "question": "Negative: He never neglects to do his duty sincerely and faithfully.\n(Change into Affirmative)",
+              "options": [
+                "(a) He sometimes avoids doing his duty sincerely and faithfully.",
+                "(b) He never tries to do his duty sincerely and faithfully.",
+                "(c) He always tries to do his duty sincerely and faithfully.",
+                "(d) He never finishes his duty sincerely and faithfully."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Negative se affirmative jaate waqt meaning same rehna chaiye, toh option C sahi hoga kyunki iska matlab 'wo humesha try karta hai apni duty sincerely aur faithfully karne ke liye' matlab 'wo kabhi neglect nahi karta apni duty ko sincerely aur faithfully karne ke liye' joki same negative wala meaning hai, isliye 'He always tries to do his duty sincerely and faithfully' wala option C sahi hoga."
+            },
+            {
+              "id": 20,
+              "question": "Affirmative: The poor villagers are always grateful for the help they receive from charitable people.\n(Change into negative)",
+              "options": [
+                "(a) The poor villagers are never ungrateful for the help they receive from charitable people.",
+                "(b) The poor villagers are not grateful for the help they receive from charitable people.",
+                "(c) The poor villagers are never grateful for the help they receive from charitable people.",
+                "(d) The poor villagers are sometimes ungrateful for the help they receive from charitable people."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation: Affirmative se negative jaate waqt meaning same rehna chaiye, toh option A sahi hoga kyunki iska matlab 'poor villagers kabhi bhi ungrateful nahi hote' matlab 'wo humesha grateful rehte hai' joki same meaning hai affirmative wala. Isliye 'The poor villagers are never ungrateful for the help they receive from charitable people' wala option A sahi hoga."
+            }
+          ]
         }
       ]
     },
