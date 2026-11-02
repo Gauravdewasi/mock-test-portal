@@ -36291,6 +36291,228 @@
               "solutionHinglish": "Ans (b)\nExplanation:- Agar simple sentence mein 'for' likha ho, aur iske pehle result likha ho aur iske baad kaaran (cause) likha ho, toh compound mein cause ko 'so, and therefore' conjunction se jodke result likhte hai, toh compound to simple mein reverse ho jayega, isliye 'The organization entrusted the engineer with projects for his precision' wala option B sahi hoga.\nNote:- meaning se bhi change kar sakte hai"
             }
           ]
+        },
+        {
+          "id": "t_1793638682055",
+          "name": "TRANSFORMATION - Compound & Complex",
+          "questions": [
+            {
+              "id": 1,
+              "question": "The policy appeared controversial, but the regulatory board approved it after careful review.",
+              "options": [
+                "(a) Because the policy appeared controversial, the regulatory board approved it after careful review.",
+                "(b) The policy appeared controversial and the regulatory board approved it after careful review.",
+                "(c) Although the policy appeared controversial, the regulatory board approved it after careful review.",
+                "(d) The policy appeared controversial while the regulatory board approved it after careful review."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Compound mein contradiction wala meaning 'but, yet' conjunction se aata hai, aur complex mein 'though, although' se aata hai, aur compound se complex mein meaning same rahe, isliye 'Although the policy appeared controversial, the regulatory board approved it after careful review' wala option C sahi hoga."
+            },
+            {
+              "id": 2,
+              "question": "The investigation was prolonged, yet the audit committee maintained complete transparency.",
+              "options": [
+                "(a) Though the investigation was prolonged, the audit committee maintained complete transparency.",
+                "(b) Because the investigation was prolonged, the audit committee maintained complete transparency.",
+                "(c) The investigation was prolonged while the audit committee maintained complete transparency.",
+                "(d) The investigation was prolonged and the audit committee maintained complete transparency."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Compound mein contradiction wala meaning 'but, yet' conjunction se aata hai, aur complex mein 'though, although' se aata hai, aur compound se complex mein meaning same rahe, isliye 'Though the investigation was prolonged' wala option A sahi hoga."
+            },
+            {
+              "id": 3,
+              "question": "Although the device encountered repeated calibration errors, the engineers restored its functionality.",
+              "options": [
+                "(a) The device encountered repeated calibration errors while the engineers restored its functionality.",
+                "(b) The device encountered repeated calibration errors but the engineers restored its functionality.",
+                "(c) Because the device encountered repeated calibration errors, the engineers restored its functionality.",
+                "(d) The device encountered repeated calibration errors and the engineers restored its functionality."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Sentence mein 'although' se pata chal raha ki complex hai, toh compound mein same meaning aur contradiction 'but, yet' se ayega, isliye 'The device encountered repeated calibration errors but the engineers restored its functionality' wala option B sahi hoga."
+            },
+            {
+              "id": 4,
+              "question": "Follow the prescribed safety checklist, or unexpected operational hazards may occur.",
+              "options": [
+                "(a) The prescribed safety checklist is followed while unexpected operational hazards occur.",
+                "(b) Follow the prescribed safety checklist and unexpected operational hazards may occur.",
+                "(c) Unless the prescribed safety checklist is followed, unexpected operational hazards may occur.",
+                "(d) Because the prescribed safety checklist is followed, unexpected operational hazards may occur."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Compound mein agar 'or (warna)' wala meaning aaye, toh complex mein meaning same rakhne ke liye 'if....not, unless, lest.....should' se banayenge, isliye 'Unless the prescribed safety checklist is followed, unexpected operational hazards may occur' wala option C sahi hoga."
+            },
+            {
+              "id": 5,
+              "question": "Accelerate the evacuation process, or critical delays could worsen the emergency situation.",
+              "options": [
+                "(a) Accelerate the evacuation process lest critical delays should worsen the emergency situation.",
+                "(b) The evacuation process is accelerated although critical delays worsen the emergency situation.",
+                "(c) The evacuation process is accelerated, so critical delays worsen the emergency situation.",
+                "(d) The evacuation process is accelerated and critical delays worsen the emergency situation."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation: Compound mein agar 'or (warna)' wala meaning aaye, toh complex mein meaning same rakhne ke liye 'if....not, unless, lest.....should' se banayenge, isliye 'Accelerate the evacuation process lest critical delays should worsen the emergency situation' wala option A sahi hoga."
+            },
+            {
+              "id": 6,
+              "question": "If the financial projections are not reassessed carefully, the organization may face severe budgetary constraints.",
+              "options": [
+                "(a) The financial projections are not reassessed and the organization may face constraints.",
+                "(b) Reassess the financial projections carefully, or the organization may face severe budgetary constraints.",
+                "(c) The financial projections are not reassessed so that the organization may face constraints.",
+                "(d) The financial projections are not reassessed while the organization faces constraints."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Sentence mein 'if......not' se pata chal raha ki complex hai, agar complex mein 'if......not, unless, lest...should' aaya hai, toh iska matlab compound mein 'or (warna)' waali conjunction se bana hoga, toh complex to compound jaana hai, isliye 'Reassess the financial projections carefully, or the organization may face severe budgetary constraints' wala option B sahi hoga."
+            },
+            {
+              "id": 7,
+              "question": "Enhance employee engagement initiatives, and overall workplace productivity will improve.",
+              "options": [
+                "(a) If employee engagement initiatives are enhanced, overall workplace productivity will improve.",
+                "(b) Employee engagement initiatives are enhanced, so overall workplace productivity improves.",
+                "(c) Because employee engagement initiatives are enhanced, overall workplace productivity improves.",
+                "(d) Employee engagement initiatives are enhanced and overall workplace productivity improves."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Jab compound mein 'and' conjunction 'reason' 'result' ko joda ho, toh complex mein meaning same rakhne ke liye 'if' conjunction se banayenge, isliye 'If employee engagement initiatives are enhanced, overall workplace productivity will improve' wala option A sahi hoga."
+            },
+            {
+              "id": 8,
+              "question": "Invest in advanced analytics tools, and decision-making accuracy will increase across departments.",
+              "options": [
+                "(a) Advanced analytics tools are invested in so that decision-making accuracy increases.",
+                "(b) If advanced analytics tools are invested in, decision-making accuracy will increase across departments.",
+                "(c) Advanced analytics tools are invested in and decision-making accuracy increases.",
+                "(d) Because analytics tools are invested in, decision-making accuracy increases."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Jab compound mein 'and' conjunction 'reason' 'result' ko joda ho, toh complex mein meaning same rakhne ke liye 'if' conjunction se banayenge, isliye 'If advanced analytics tools are invested in, decision-making accuracy will increase across departments' wala option B sahi hoga."
+            },
+            {
+              "id": 9,
+              "question": "If the management implements transparent policies, employee trust will strengthen.",
+              "options": [
+                "(a) Because management implements transparent policies, employee trust strengthens.",
+                "(b) The management implements transparent policies while employee trust strengthens.",
+                "(c) The management implements transparent policies and employee trust will strengthen.",
+                "(d) The management implements transparent policies but employee trust strengthens."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Complex mein 'if' conjunction se 'reason' 'result' ko bataya hai, toh compound mein 'and' conjunction se 'reason' 'result' ko jodke aaya hoga, isliye complex to compound same meaning 'The management implements transparent policies and employee trust will strengthen' wala option C sahi hoga."
+            },
+            {
+              "id": 10,
+              "question": "The emergency alarm sounded, and the evacuation procedure was initiated immediately.",
+              "options": [
+                "(a) The emergency alarm sounded although evacuation procedure was initiated immediately.",
+                "(b) If the emergency alarm sounded, evacuation procedure was initiated immediately.",
+                "(c) The emergency alarm sounded and evacuation procedure was initiated immediately.",
+                "(d) As soon as the emergency alarm sounded, the evacuation procedure was initiated immediately."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Jab compound mein 'and' conjunction lagake time ki baat ho, matlab 'jaise he kuch hua, yeh karna pada' iss type ka meaning aaye, toh complex mein 'when, as soon as' conjunction se banayenge, isliye 'As soon as the emergency alarm sounded, the evacuation procedure was initiated immediately' wala option D sahi hoga."
+            },
+            {
+              "id": 11,
+              "question": "The inspection team arrived at the facility and began conducting detailed safety assessments.",
+              "options": [
+                "(a) The inspection team arrived at the facility although they began conducting detailed safety assessments.",
+                "(b) When the inspection team arrived at the facility, they began conducting detailed safety assessments.",
+                "(c) Not only the inspection team arrived at the facility but also began conducting detailed safety assessments.",
+                "(d) The inspection team arrived at the facility, so began conducting detailed safety assessments."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation:- Jab compound mein 'and' conjunction lagake time ki baat ho, matlab 'jaise he kuch hua, yeh karna pada' iss type ka meaning aaye, toh complex mein 'when, as soon as' conjunction se banayenge, isliye 'When the inspection team arrived at the facility, they began conducting detailed safety assessments' wala option B sahi hoga."
+            },
+            {
+              "id": 12,
+              "question": "When the data verification process concluded successfully, the report was released to stakeholders.",
+              "options": [
+                "(a) The data verification process concluded successfully but the report was released to stakeholders.",
+                "(b) Because the data verification process concluded successfully, the report was released to stakeholders.",
+                "(c) The data verification process concluded successfully and the report was released to stakeholders.",
+                "(d) After concluding the data verification process successfully, the report was released to stakeholders."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Sentence mein 'when' conjunction se pata chal raha ki complex hai, aur iska meaning hai 'jaise he verification khatam hua, report release ho gayi', toh time ki baat ho rahi, joki same meaning compound mein 'and' conjunction se aata hai, isliye 'The data verification process concluded successfully and the report was released to stakeholders' wala option C sahi hoga."
+            },
+            {
+              "id": 13,
+              "question": "I met a consultant and he specializes in international trade regulations.",
+              "options": [
+                "(a) I met a consultant who specializes in international trade regulations.",
+                "(b) I met a consultant although he specializes in international trade regulations.",
+                "(c) I met a consultant and he specializes in international trade regulations.",
+                "(d) Because he specializes in international trade regulations, I met him."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Compound mein jab first clause ke noun ke liye dusra clause likha jaaye aur dono ko 'and' conjunction se joda jaaye, toh complex mein first clause ke noun ke liye adjectival clause banake likhte hai, isliye 'I met a consultant who specializes in international trade regulations' wala option A sahi hoga."
+            },
+            {
+              "id": 14,
+              "question": "The committee selected a candidate and she demonstrated exceptional leadership potential.",
+              "options": [
+                "(a) The committee selected a candidate although she demonstrated leadership potential.",
+                "(b) She demonstrated exceptional leadership potential, so the committee selected her.",
+                "(c) The committee selected a candidate who demonstrated exceptional leadership potential.",
+                "(d) The committee selected a candidate and she demonstrated leadership potential."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c)\nExplanation:- Compound mein jab first clause ke noun ke liye dusra clause likha jaaye aur dono ko 'and' conjunction se joda jaaye, toh complex mein first clause ke noun ke liye adjectival clause banake likhte hai, isliye 'The committee selected a candidate who demonstrated exceptional leadership potential' wala option C sahi hoga."
+            },
+            {
+              "id": 15,
+              "question": "The organization recruited a professional who possesses extensive experience in crisis management.",
+              "options": [
+                "(a) The organization recruited a professional, and he possesses extensive experience in crisis management.",
+                "(b) The organization recruited a professional, so he possesses extensive experience in crisis management.",
+                "(c) The organization recruited a professional because he possesses extensive experience in crisis management.",
+                "(d) The organization recruited a professional while he possesses extensive experience in crisis management."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a)\nExplanation:- Jab complex mein first clause mein noun ke liye adjectival clause likha toh, compound mein 'and' se do clauses judke aaya hoga, isliye 'The organization recruited a professional, and he possesses extensive experience in crisis management' wala option A sahi hoga."
+            },
+            {
+              "id": 16,
+              "question": "The network congestion was very severe, and therefore online services became temporarily unavailable.",
+              "options": [
+                "(a) The network congestion was very severe, so online services became temporarily unavailable.",
+                "(b) The network congestion was very severe, but online services became temporarily unavailable.",
+                "(c) Online services became temporarily unavailable when the network congestion was very severe.",
+                "(d) The network congestion was so severe that online services became temporarily unavailable."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Agar compound mein 'very' ke sath 'and so/hence/therefore' likha ho toh, complex 'so.....that' conjunction se banayenge, isliye 'The network congestion was so severe that online services became temporarily unavailable' wala option D sahi hoga."
+            },
+            {
+              "id": 17,
+              "question": "The workload was very demanding, so employees experienced considerable professional burnout.",
+              "options": [
+                "(a) The workload was very demanding, and employees experienced considerable professional burnout.",
+                "(b) Since the workload was very demanding, employees experienced considerable professional burnout.",
+                "(c) Because of the demanding workload, employees experienced considerable professional burnout.",
+                "(d) Employees experienced considerable professional burnout when the workload was very demanding."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b)\nExplanation: Compound mein matlab hai 'workload demanding tha, isliye employees ne experience kiya burnout ko', toh option A galat hoga kyunki complex mein 'and' conjunction ka use nahi hota. Option C bhi galat hoga kyunki isme koi conjunction nahi hai 'because of' preposition hoti hai. compound mein matlab hai 'workload demanding tha, isliye employee ne experience kiya burnout' aur same compound wala meaning option B mein aa raha hai 'kyunki workload demanding tha, employees ne experience kiya burnout ko', isliye option B sahi hoga."
+            },
+            {
+              "id": 18,
+              "question": "The auditorium was so overcrowded that several participants remained standing throughout the conference.",
+              "options": [
+                "(a) The auditorium was overcrowded while participants remained standing throughout the conference.",
+                "(b) Since the auditorium was overcrowded, several participants remained standing throughout the conference.",
+                "(c) Because of the overcrowded auditorium, participants remained standing throughout the conference.",
+                "(d) The auditorium was overcrowded and therefore several participants remained standing throughout the conference."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d)\nExplanation:- Agar compound mein 'very' ke sath 'and so/hence/therefore' likha ho toh, complex 'so.....that' conjunction se banate hai, toh complex to compound mein reverse ho jayega, isliye 'was overcrowded and therefore several participants' wala option D sahi hoga."
+            }
+          ]
         }
       ]
     },
