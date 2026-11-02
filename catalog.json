@@ -36478,6 +36478,264 @@
               "solutionHinglish": "Ans (b) Seismogram\nExplanation:- Seismogram is the record obtained by the measurement of an earthquake while Seismograph is the instrument that records an earthquake."
             }
           ]
+        },
+        {
+          "id": "t_1793609968610",
+          "name": "Earth Interior and Plate Tectonics - LEVEL II",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which one of the following statements about primary waves of earthquakes is not correct? [CDS I 2021]",
+              "options": [
+                "(a) They are similar to sound waves.",
+                "(b) They can travel only through solid materials.",
+                "(c) They travel through gaseous, liquid and solid materials.",
+                "(d) They move faster and are the first to arrive at the surface."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) They can travel only through solid materials\nExplanation:- See solution of question 5 (level 1). P-waves can travel through solid, liquid and gaseous materials, whereas S-waves can travel only through solid materials."
+            },
+            {
+              "id": 2,
+              "question": "The extent of damage caused by earthquake is not influenced by which one of the following? [CDS II 2021]",
+              "options": [
+                "(a) Strength of earthquake",
+                "(b) Population density",
+                "(c) Type of building",
+                "(d) Climate of the area"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Climate of the area\nExplanation:- Climate of the area doesn't affect the extent of damage of earthquake.\nFactors affecting damage of Earthquake :- Strength - more magnitude, more damage; Population density - more density, more damage to life and property; Type of building - if building is earthquake resistant then damage is less."
+            },
+            {
+              "id": 3,
+              "question": "Which one of the following is the other term used for 'Focus' in relation with an earthquake? [CDS II 2022]",
+              "options": [
+                "(a) Hypocentre",
+                "(b) Epicentre",
+                "(c) Isocentre",
+                "(d) Principal Point"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Hypocentre\nExplanation:- Focus of earthquake is also known as Hypocentre."
+            },
+            {
+              "id": 4,
+              "question": "Convection currents, which move the tectonic plates, are found in which layer of the earth? [CAPF 2021]",
+              "options": [
+                "(a) Crust",
+                "(b) Mantle",
+                "(c) Outer core",
+                "(d) Inner core"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Mantle\nExplanation:- Convectional currents are found in mantle.\nConvectional Current Theory - by Arthur Holmes (1930s), movement of magma in the Earth's mantle causes tectonic plates to move."
+            },
+            {
+              "id": 5,
+              "question": "Subduction zone with reference to plate tectonics is associated with which of the following plate boundaries?\n1. Convergent boundaries\n2. Divergent boundaries\nSelect the correct answer using the code given below. [CBI 2023]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) Both 1 and 2",
+                "(d) Neither 1 nor 2"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) 1 only\nExplanation:- At convergent plate boundaries, denser oceanic crust goes beneath lighter continental crust creating a zone called as Subduction zone."
+            },
+            {
+              "id": 6,
+              "question": "Consider the following statements with respect to earthquakes:\n1. The point on the surface nearest to the focus is called epicentre.\n2. The point where energy is released is called hypocentre.\nWhich of the statements given above is/are correct? [CBI 2023]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) Both 1 and 2",
+                "(d) Neither 1 nor 2"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Both 1 and 2\nExplanation:- Hypocentre/Focus - place from where energy is released first.\nEpicentre - point on the surface nearest to the focus."
+            },
+            {
+              "id": 7,
+              "question": "Point of Origin of Earthquake Wave is known as: [NDA I 2021]",
+              "options": [
+                "(a) Epicentre",
+                "(b) Focus",
+                "(c) Photosphere",
+                "(d) Seismic Zone"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Focus\nExplanation:- Focus (hypocentre) is the point of origin of Earthquake wave.\nPhotosphere - visible layer of Sun, made of plasma\nSeismic zone - geographical area where earthquakes are likely to occur, also called as earthquake belt."
+            },
+            {
+              "id": 8,
+              "question": "Advantage(s) of tectonic activity in Iceland include(s):\n1. Source of natural geothermal energy\n2. Creation of new land\n3. Attraction of tourists\nSelect the correct answer using the code given below: [NDA I 2021]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 and 3 only",
+                "(c) 1 and 3 only",
+                "(d) 1, 2 and 3"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) 1 and 3 only\nExplanation:- Advantages of tectonic activity in Iceland include source of natural geothermal energy and attraction of tourists."
+            },
+            {
+              "id": 9,
+              "question": "Which one of the following is not a minor plate? [NDA I 2021]",
+              "options": [
+                "(a) Cocos Plate",
+                "(b) Nazca Plate",
+                "(c) Caroline Plate",
+                "(d) Antarctic Plate"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Antarctic Plate\nExplanation:- Antarctic plate is a major plate with others being North American, South American, African, Eurasian, Pacific, Indo-Australian (total - 7)."
+            },
+            {
+              "id": 10,
+              "question": "Which one of the following best describes the Lithosphere? [NDA II 2021]",
+              "options": [
+                "(a) Upper and lower mantle",
+                "(b) Crust and core",
+                "(c) Crust and upper mantle",
+                "(d) Lower mantle and core"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Crust and upper mantle\nExplanation:- Lithosphere (10-200 km) - crust + upper solid mantle."
+            },
+            {
+              "id": 11,
+              "question": "Which one of the following 'discontinuities' separates the Earth's crust from the mantle? [NDA II 2022]",
+              "options": [
+                "(a) Gutenberg",
+                "(b) Mohorovicic",
+                "(c) Conrad",
+                "(d) Repetti"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Mohorovicic\nExplanation:- See solution of question 13 (level 1)."
+            },
+            {
+              "id": 12,
+              "question": "Which one of the following statements about earthquake waves is not correct? [NDA II 2022]",
+              "options": [
+                "(a) P waves move faster and are the first to arrive at the surface.",
+                "(b) P waves can travel through gaseous, liquid and solid materials.",
+                "(c) Seismographs located beyond 145° from epicentre can record the arrival of P waves.",
+                "(d) P waves have maximum area covered under its shadow zone."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) P waves have maximum area covered under its shadow zone. (Note: PDF solution key prints (C), while explanation notes S-waves have a larger shadow zone beyond 103° whereas P-waves shadow zone is between 103° and 142°)\nExplanation:- Shadow zone - area on Earth's surface where seismograph can't detect direct P-waves or S-waves.\nShadow zone of P-waves - b/w 103° and 142°; shadow zone of S-waves - beyond 103°.\nThus zone between 103° and 142° is shadow zone for both P-waves and S-waves."
+            },
+            {
+              "id": 13,
+              "question": "Which of the following statements is/are correct?\n1. The Earth's crust is brittle in nature.\n2. The mean thickness of the oceanic crust is 15 km, whereas that of the continental crust is around 30 km.\nSelect the correct answer using the code given below. [NDA II 2022]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) Both 1 and 2",
+                "(d) Neither 1 nor 2"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) 1 only\nExplanation:- Crust - brittle; Mantle - upper part solid, rest - semi molten; Core - outer core - liquid, inner core - solid.\nThe mean thickness of the oceanic crust is 5-10 km and not 15 km while that of the continental crust is 30 km."
+            },
+            {
+              "id": 14,
+              "question": "Which one of the following is found in the innermost part of the Earth? [NDA I 2023]",
+              "options": [
+                "(a) Conrad discontinuity",
+                "(b) Moho discontinuity",
+                "(c) Guttenberg discontinuity",
+                "(d) Lehmann discontinuity"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Lehmann discontinuity\nExplanation:- See solution of question 13 (level 1). Lehmann discontinuity (5200 km) separates the outer core and inner core."
+            },
+            {
+              "id": 15,
+              "question": "Which of the following statements is/are correct?\n1. Hypocenter is the point on the surface of the Earth, nearest to the focus.\n2. Velocity of earthquake waves is higher in denser materials.\n3. P waves move faster and are the first to arrive at the surface of the Earth.\nSelect the correct answer using the code given below: [NDA I 2023]",
+              "options": [
+                "(a) 1 and 2",
+                "(b) 2 and 3",
+                "(c) 1 and 3",
+                "(d) 3 only"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) 2 and 3\nExplanation:- Hypocentre (focus) is the point within the Earth from where the seismic waves originate while Epicentre is the point on the surface of the Earth, nearest to the focus.\nVelocity of earthquake waves - Solid > Liquid > Gas.\nP waves move faster than S waves and are the first to arrive at the surface of the Earth."
+            },
+            {
+              "id": 16,
+              "question": "Which of the following statements regarding Earth's internal structure is/are correct?\n1. The oceanic crust is heavier than the continental crust.\n2. Most of the Earth's internal heat is contained within the mantle.\n3. Large convective cells in the crust circulate heat and drive plate-tectonic processes.\nSelect the answer using the code given below: [NDA I 2024]",
+              "options": [
+                "(a) 3 only",
+                "(b) 1 and 2 only",
+                "(c) 2 and 3 only",
+                "(d) 1, 2 and 3"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) 1 and 2 only\nExplanation:- Oceanic crust is denser and heavier than the continental crust.\nMost of the Earth's internal heat is contained within the mantle due to radioactive decay.\nLarge convective cells are present in mantle and not crust that drives plate tectonics."
+            },
+            {
+              "id": 17,
+              "question": "Which of the following statements regarding earthquakes is/are correct?\n1. The point on the Earth's surface directly above the focus is called the epicentre of the earthquake.\n2. Earthquakes generate Primary and Secondary waves that radiate outward from the earthquake focus.\n3. Deep-focus earthquakes are likely to cause more damage than shallow-focus earthquakes.\nSelect the answer using the code given below: [NDA I 2024]",
+              "options": [
+                "(a) 1 only",
+                "(b) 1 and 2 only",
+                "(c) 2 and 3 only",
+                "(d) 1, 2 and 3"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) 1 and 2 only\nExplanation:- See solution of question 5 (level 1).\nEarthquakes based on the depth of the focus :-\nDeep focus earthquake - occurs along the Benioff zone (subduction zone), less damaging (as the energy dissipates till the wave reaches on surface).\nShallow focus earthquake - aka 'crustal earthquake', depth < 70 km, more damaging (as whole energy is directed towards a small area)."
+            },
+            {
+              "id": 18,
+              "question": "Which one of the following is the thinnest layer of the Earth? [GEOSCIENTIST 2024]",
+              "options": [
+                "(a) Inner Core",
+                "(b) Outer Core",
+                "(c) Mantle",
+                "(d) Crust"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Crust\nExplanation:- Crust is the thinnest layer of the Earth.\nLayers according to volume and mass - Crust < Core < Mantle."
+            },
+            {
+              "id": 19,
+              "question": "Consider the following statements:\n1. In a seismograph, P waves are recorded earlier than S waves.\n2. In P waves, the individual particles vibrate to and fro in the direction of wave propagation whereas in S waves, the particles vibrate up and down at right angles to the direction of wave propagation.\nWhich of the statements given above is/are correct? [IAS 2023]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) Both 1 and 2",
+                "(d) Neither 1 nor 2"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Both 1 and 2\nExplanation:- See solution of question 5 (level 1)."
+            },
+            {
+              "id": 20,
+              "question": "Which statements about Secondary waves (S-Waves) in earthquakes are correct?\n1. They create troughs and crests in the material they pass through.\n2. Their vibration direction is perpendicular to the wave direction in the vertical plane.\nCode: [CDS I 2025]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) Both 1 and 2",
+                "(d) Neither 1 nor 2"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Both 1 and 2\nExplanation:- SEISMIC WAVES:\nBody Waves - Primary waves - longitudinal, create compression and rarefaction, resembles sound waves; Secondary waves - transverse, create crest and trough, vibrate perpendicular to the wave direction.\nSurface Waves - cause more destruction."
+            },
+            {
+              "id": 21,
+              "question": "Which of the following statements with reference to L-Wave or Long Wave generated by an earthquake is/are correct? [NDA I 2025]\n1. They follow the Earth's circumference.\n2. They travel at more or less at a constant rate.",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) Both 1 and 2",
+                "(d) Neither 1 nor 2"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) 1 only\nExplanation:- L-waves are surface waves and hence they follow the Earth's circumference.\nThey don't travel at constant rate as their speed depends on the properties of the material they pass through."
+            }
+          ]
         }
       ]
     }
