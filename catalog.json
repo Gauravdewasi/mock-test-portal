@@ -37786,6 +37786,420 @@
               "solutionHinglish": "Ans (b) Weathering\nExplanation:- See solution of question 14 (level 1)."
             }
           ]
+        },
+        {
+          "id": "t_1793610220316",
+          "name": "Geomorphology and Landforms - LEVEL II",
+          "questions": [
+            {
+              "id": 1,
+              "question": "An avalanche is a type of which one of the following disasters? [CDS II 2021]",
+              "options": [
+                "(a) Atmospheric",
+                "(b) Terrestrial",
+                "(c) Aquatic",
+                "(d) Biological"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Terrestrial\nExplanation:- Avalanche is the rapid flow of snow down the slope. Hence, it is a terrestrial disaster.\nMass movement/mass wasting is the movement of unconsolidated soil, sand, rocks etc. along a slope under the influence of gravity. It may include creep, flow, slide, fall."
+            },
+            {
+              "id": 2,
+              "question": "A peripediment in a desert or semi-desert region is also known as: [CDS I 2022]",
+              "options": [
+                "(a) Inselberg",
+                "(b) Zeugen",
+                "(c) Bajada",
+                "(d) Playa"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Bajada\nExplanation:- Bajadas (peripediment) are moderately sloping depositional plains located between pediments and playa. Several alluvial fans merge to form bajada."
+            },
+            {
+              "id": 3,
+              "question": "'Pingos' are associated with which one of the following processes? [CDS II 2022]",
+              "options": [
+                "(a) Glacial",
+                "(b) Periglacial",
+                "(c) Aeolian",
+                "(d) Fluvial"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Periglacial\nExplanation:- Pingos are dome-shaped hills formed in permafrost and are associated with periglacial process (freeze-thaw cycle).\nPermafrost - it is any ground that remains completely frozen for at least 2 years.\nFreeze-thaw cycle - it refers to the process where water, trapped in the pores or cracks of a material like concrete or rock, freezes and expands, then thaws, causing potential damage due to the repeated pressure exerted on the material."
+            },
+            {
+              "id": 4,
+              "question": "Which one of the following processes leads to expansion of certain minerals as they take up water, causing additional stress in the rock? [CDS II 2022]",
+              "options": [
+                "(a) Hydrolysis",
+                "(b) Hydration",
+                "(c) Oxidation",
+                "(d) Carbonation"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Hydration\nExplanation:- Hydration is a type of chemical weathering in which minerals in rock absorb water molecules thereby increasing their volume and causing additional stress in the rock.\nHydrolysis - chemical breakdown of a compound due to reaction with water.\nOxidation - process of absorption of oxygen and release of hydrogen.\nCarbonation - process of dissolving CO2 into a liquid."
+            },
+            {
+              "id": 5,
+              "question": "Which one of the following landforms is/are formed by wind erosion? [CDS II 2023]",
+              "options": [
+                "(a) Cirque",
+                "(b) Stack",
+                "(c) Zeugen",
+                "(d) Stack and Zeugen both"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Zeugen\nExplanation:- Zeugen - A table shaped area of rock found in arid and semi-arid areas formed when the more resistant rock is reduced at a slower rate than softer rocks around it.\nCirque - It is a hollow basin cut into a mountain ridge. It has a steep-sided slope on three sides, an open end on one side and a flat bottom. It is a glacial landform.\nTarn lake - It is a mountain lake or pool which is formed from cirque when ice melts.\nStack - When a portion of sea arch collapses, the remaining column-like structure is called stack. It is a marine erosional landform."
+            },
+            {
+              "id": 6,
+              "question": "Which of the following statements regarding barrier islands is/are correct?\n1. These are small chain of sand islands that form offshore, far from the coast.\n2. Lagoons or shallower marshes separate the barrier islands from the mainland.\n3. Such locations are hazardous for settlements because they are easily swept away by storms and hurricanes.\nSelect the correct answer using the code given below. [CDS I 2024]",
+              "options": [
+                "(a) 1 only",
+                "(b) 1 and 2 only",
+                "(c) 2 and 3 only",
+                "(d) 1, 2 and 3"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) 2 and 3 only\nExplanation:- Barrier islands run parallel to shore and are separated from it by a lagoon or shallower marshes. They are easily swept away by storms and hurricanes, hence they are hazardous for settlements.\nDo you know that the Great Barrier Reef of the NE coast of Australia is the world's largest barrier reef?\nDifferent names of cyclones: Hurricane (Atlantic ocean), Willy-Willy (Australia), Typhoon (Western Pacific/South China sea), Cyclone (Indian ocean)."
+            },
+            {
+              "id": 7,
+              "question": "Which of the following statements regarding river meanders is/are correct?\n1. It is a U-shaped bend in a river.\n2. An extremely tight meander is called a gooseneck; it is likely to become a cutoff, or oxbow lake, after a flood.\n3. Tectonic uplift can cause a river to continue downcutting along its meandering course, producing incised or entrenched meanders.\nSelect the correct answer using the code given below. [CDS I 2024]",
+              "options": [
+                "(a) 1 only",
+                "(b) 1 and 2 only",
+                "(c) 2 and 3 only",
+                "(d) 1, 2 and 3"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) 1, 2 and 3\nExplanation:- Meander is a U-shaped curve or loop in the course of a river channel. An extremely tight meander is called a gooseneck. Tectonic uplift can cause river to continue downcutting producing incised or entrenched meanders.\nOxbow lake - sometimes, the outer curve of a meander gets accentuated to such an extent that the inner ends of the loop come close enough to get disconnected from the main channel and exist as independent water body called oxbow lake."
+            },
+            {
+              "id": 8,
+              "question": "The heaviest rocks, which are rolled along the river bed in river transport, comes under which type of load? [CAPF 2021]",
+              "options": [
+                "(a) Solution load",
+                "(b) Suspension load",
+                "(c) Saltation load",
+                "(d) Traction load"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Traction load\nExplanation:- Solution load - minerals get dissolved in water and then river carries them\nSuspension load - fine, light minerals get carried away by water\nSaltation load - small pebbles and stones are carried by water\nTraction load - large boulders and rocks are rolled and carried by water"
+            },
+            {
+              "id": 9,
+              "question": "In the course of a river, in time, which one of the following features is formed when the old meander is closed off by deposition? [CAPF 2021]",
+              "options": [
+                "(a) Pothole",
+                "(b) Levee",
+                "(c) Oxbow lake",
+                "(d) Flood plain"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Oxbow lake\nExplanation:- When the old meander is cut off from the main river channel due to deposition, it leads to formation of an oxbow lake.\nPotholes - small cylindrical depressions in the rocky bed generally found at the foot of waterfall."
+            },
+            {
+              "id": 10,
+              "question": "Caves, arches, stacks and stumps are the landscape features of which one of the following? [CAPF 2021]",
+              "options": [
+                "(a) River",
+                "(b) Wave",
+                "(c) Limestone",
+                "(d) Wind"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Wave\nExplanation:- Landforms created by sea waves:\nErosional - Cliff, Cave, Stack, Arch, Stump\nDepositional - Beach, Dune, Bar, Barrier, Spit"
+            },
+            {
+              "id": 11,
+              "question": "Which one of the following is not a type of chemical weathering? [CAPF 2021]",
+              "options": [
+                "(a) Carbonation solution",
+                "(b) Salt crystal growth",
+                "(c) Hydrolysis",
+                "(d) Oxidation"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Salt crystal growth\nExplanation:- Chemical weathering is the erosion or disintegration of rocks caused by chemical reactions.\nTypes of chemical weathering - carbonation, hydrolysis, oxidation, reduction and solution. Salt crystal growth is a type of physical/mechanical weathering."
+            },
+            {
+              "id": 12,
+              "question": "Solifluction is a geomorphic process involving a special type of soil flow that is noticed in [CAPF 2022]",
+              "options": [
+                "(a) Desert regions",
+                "(b) Karst regions",
+                "(c) Permafrost regions",
+                "(d) Savanna regions"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Permafrost regions\nExplanation:- Solifluction is noticed in regions that are covered with snow (permafrost).\nGeomorphic process - changes in configuration of Earth.\nEndogenetic - Diastrophism (Orogenic - mountain building, Epeirogenic - continent building) and Sudden movements (Earthquakes and Volcanoes).\nExogenetic - Weathering (physical, chemical, biological) and Erosion (ice, water, sea, wind).\nDo you know that the ultimate source for all exogenic forces is Sun while the sources of endogenic forces are radioactive decay, primordial heat, tidal friction?"
+            },
+            {
+              "id": 13,
+              "question": "Consider the following statements about Barchans:\n1. These landforms are found in Thar desert in India.\n2. The windward side has concave slope with maximum height at the centre.\n3. Two ends of the barchan are called horns.\nWhich of the statements given above is/are correct? [CAPF 2023]",
+              "options": [
+                "(a) 1 and 2 only",
+                "(b) 2 and 3 only",
+                "(c) 1 and 3 only",
+                "(d) 3 only"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) 1 and 3 only\nExplanation:- Barchans are crescent shaped dunes found in desert areas. The windward side is convex (gently sloping) whereas the leeward side is concave with maximum height at the centre. Two ends of barchans are called horns and they point in the direction the wind blows."
+            },
+            {
+              "id": 14,
+              "question": "Which one among the following statements about 'Drumlin' is correct? [CAPF 2023]",
+              "options": [
+                "(a) It is a streamlined hill moulded in glacial drift on the till plains.",
+                "(b) It is a city located in central Europe.",
+                "(c) It is a river.",
+                "(d) It is a narrow road in Tibet."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) It is a streamlined hill moulded in glacial drift on the till plains.\nExplanation:- Drumlin is a glacial depositional landform which is like an inverted-boat. It gives the indication of direction of glacier movement."
+            },
+            {
+              "id": 15,
+              "question": "Where does podzolization take place? [CAPF 2024]",
+              "options": [
+                "(a) Regions in high middle latitudes",
+                "(b) Coastal regions in lower latitudes",
+                "(c) Regions with hot and humid climate",
+                "(d) Regions having arid climate"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Regions in high middle latitudes\nExplanation:- Podzolization - Soil formation process where iron, aluminium and organic matter are leached from topsoil and accumulate in the deeper horizons thereby making topsoil light coloured and subsoil dark coloured. It is common in cold climates where precipitation exceeds evaporation.\nDifferent horizons of soil - O (organic layer), A (top soil), B (sub soil), C (parent rock)."
+            },
+            {
+              "id": 16,
+              "question": "Basket-of-eggs topography is related to [NDA I 2021]",
+              "options": [
+                "(a) Drumlins",
+                "(b) Eskers",
+                "(c) Cirques",
+                "(d) Moraines"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Drumlins (Note: PDF solution text prints (D) Moraines while describing inverted boat-like clusters of Drumlins)\nExplanation:- Drumlins are generally found in clusters and due to their inverted boat like appearance, they look like the basket of eggs.\nEsker - it is a long, winding ridge made of sand and gravel formed by rivers that flow under glaciers."
+            },
+            {
+              "id": 17,
+              "question": "The process whereby certain minerals absorb water, expand and change is called as [NDA I 2021]",
+              "options": [
+                "(a) Hydration",
+                "(b) Oxidation",
+                "(c) Hydrolysis",
+                "(d) Carbonation"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Hydration\nExplanation:- Hydration is a type of chemical weathering in which minerals in rock absorb water molecules thereby increasing their volume and causing additional stress in the rock."
+            },
+            {
+              "id": 18,
+              "question": "Which one of the following features is the result of erosion and deposition work of a river? [NDA II 2021]",
+              "options": [
+                "(a) Pothole",
+                "(b) Oxbow lake",
+                "(c) Levee",
+                "(d) Rapid"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Oxbow lake\nExplanation:- Oxbow lake is the result of erosion and deposition work of a river."
+            },
+            {
+              "id": 19,
+              "question": "Fine-grained bed of ephemeral lake in a desert is also known as [NDA II 2021]",
+              "options": [
+                "(a) Playa",
+                "(b) Oasis",
+                "(c) Drumlin",
+                "(d) Natural levee"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Playa\nExplanation:- Playas are flat-bottomed, shallow depressions, often found in arid and semi-arid regions, that periodically fill with water after heavy rainfall, forming temporary lakes that then dry up, leaving behind a salt-encrusted or alkali flat called salinas."
+            },
+            {
+              "id": 20,
+              "question": "Consider the following statements:\n1. Rocks do not remain in their original form for long and undergo transformation.\n2. Transformation of rocks is caused by weathering, erosion and metamorphic action.\nWhich of the statements given above is/are correct? [NDA I 2022]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) Both 1 and 2",
+                "(d) Neither 1 nor 2"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Both 1 and 2\nExplanation:- Rocks don't remain in their original form for long and undergo transformation through rock cycle. This transformation is caused by weathering, erosion and metamorphic action."
+            },
+            {
+              "id": 21,
+              "question": "Which one of the following is likely to be the most prevalent form of weathering in hot-tropical desert areas? [NDA I 2022]",
+              "options": [
+                "(a) Mechanical",
+                "(b) Chemical",
+                "(c) Biological",
+                "(d) Leaching"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Mechanical\nExplanation:- Mechanical weathering is likely to be the most prevalent form of weathering in hot-tropical deserts due to high diurnal range of temperature."
+            },
+            {
+              "id": 22,
+              "question": "Consider the following features about a geographical phenomenon:\n1. Torrents of snow and ice roaring down a steep mountain side.\n2. It is hazardous to skiers and mountaineers.\n3. It involves a mix of falling, rolling, sliding and flowing of materials.\nWhich of the following phenomena can be identified with the above features? [NDA I 2022]",
+              "options": [
+                "(a) Slump and earthflow",
+                "(b) Avalanche",
+                "(c) Landslide",
+                "(d) Rockslide"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Avalanche\nExplanation:- Avalanche is the rapid flow of snow down the slope. It involves a mix of falling, rolling, sliding and flowing of materials generally snow. It is hazardous to skiers and mountaineers."
+            },
+            {
+              "id": 23,
+              "question": "While travelling to a hilly region, you notice a massive boulder, which was loosened by heavy rains and moved downhill. This has resulted due to which of the following processes?\n1. Mass wasting\n2. Erosion\n3. Weathering\nSelect the correct answer using the code given below. [NDA I 2022]",
+              "options": [
+                "(a) 1 only",
+                "(b) 1 and 2 only",
+                "(c) 2 and 3 only",
+                "(d) 1, 2 and 3"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) 1, 2 and 3\nExplanation:- Mass wasting - It is the movement of rocks, soil and debris down a slope due to gravity.\nErosion - Wearing away of landscape by agents like water, wind, ice. It is an ex-situ process.\nWeathering - It is the breaking up of rocks on the Earth's surface. It is an in-situ process."
+            },
+            {
+              "id": 24,
+              "question": "If you want to observe moraines, eskers and outwash plains, which one of the following Union Territories you may have to visit? [NDA I 2022]",
+              "options": [
+                "(a) Andaman and Nicobar Islands",
+                "(b) Lakshadweep",
+                "(c) Puducherry",
+                "(d) Ladakh"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Ladakh\nExplanation:- The given landforms are glacial landforms. Hence, Ladakh is the only place from the options where they will be found."
+            },
+            {
+              "id": 25,
+              "question": "Which of the following statements in respect of landslides are correct?\n1. These occur only on gentle slopes during rain.\n2. They generally occur in clay-rich soil.\n3. Earthquakes trigger landslides.\nSelect the correct answer using the code given below. [NDA I 2022]",
+              "options": [
+                "(a) 1 and 2 only",
+                "(b) 1 and 3 only",
+                "(c) 2 and 3 only",
+                "(d) 1, 2 and 3"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) 2 and 3 only\nExplanation:- Landslide is the movement of rock, soil and debris down the slope. It is a type of mass wasting. The factors responsible for landslides are rainfall, snowmelt, changes in water level, stream erosion, changes in groundwater, earthquakes, volcanic activity etc. Landslides generally occur in clay-rich soil and on steep slopes."
+            },
+            {
+              "id": 26,
+              "question": "The process of 'Podzolization' is predominantly found in: [NDA I 2023]",
+              "options": [
+                "(a) Equatorial forest",
+                "(b) Monsoon forest",
+                "(c) Taiga forest",
+                "(d) Mediterranean forest"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Taiga forest\nExplanation:- Podzolization - Soil formation process where iron, aluminium and organic matter are leached from topsoil and accumulate in the deeper horizons thereby making topsoil light coloured and subsoil dark coloured. It is common in cold climates (Taiga/boreal forests) where precipitation exceeds evaporation."
+            },
+            {
+              "id": 27,
+              "question": "Which of the following statements regarding Barchan is/are correct?\n1. It is a crescent shaped mound of sand, which is deposited by the wind blowing constantly from one direction in a desert.\n2. The windward side has a convex steep slope with maximum height at the centre.\n3. Two ends of Barchan are called horns and point opposite to the direction the wind blows.\nSelect the answer using the code given below: [NDA I 2024]",
+              "options": [
+                "(a) 1 only",
+                "(b) 1 and 2 only",
+                "(c) 2 and 3 only",
+                "(d) 1, 2 and 3"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) 1 only\nExplanation:- Barchans are crescent shaped dunes found in desert areas. The windward side is convex (gently sloping) whereas the leeward side is concave (steep) with maximum height at the centre. Two ends of barchans are called horns and they point in the direction the wind blows."
+            },
+            {
+              "id": 28,
+              "question": "The lowest part of most bolsons is occupied by a landform called playa. Which category of landform formation does it represent? [NDA II 2024]",
+              "options": [
+                "(a) Fluvial landforms",
+                "(b) Arid landforms",
+                "(c) Glacial landforms",
+                "(d) Periglacial landforms"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Arid landforms\nExplanation:- Playa is a water-associated arid landform. Playas are flat-bottomed, shallow depressions, often found in arid and semi-arid regions, that periodically fill with water after heavy rainfall, forming temporary lakes that then dry up, leaving behind a salt-encrusted or alkali flat called salinas."
+            },
+            {
+              "id": 29,
+              "question": "Which one among the following processes is NOT part of chemical weathering? [NDA II 2024]",
+              "options": [
+                "(a) Solution",
+                "(b) Hydration",
+                "(c) Reduction",
+                "(d) Thawing"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Thawing\nExplanation:- Solution, hydration, reduction are part of chemical weathering while thawing is a part of mechanical weathering."
+            },
+            {
+              "id": 30,
+              "question": "Which one of the following is a gravity transported soil? [GEOSCIENTIST 2023]",
+              "options": [
+                "(a) Alluvial",
+                "(b) Eolian",
+                "(c) Colluvial",
+                "(d) Glacial"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Colluvial\nExplanation:- Colluvial soil is formed when parent material is transported down the slope by gravity. Hence, it is a gravity transported soil.\nEolian/Aeolian soil is formed when transportation and deposition take place due to wind, especially in arid and semi-arid regions."
+            },
+            {
+              "id": 31,
+              "question": "What is 'duff'? [GEOSCIENTIST 2023]",
+              "options": [
+                "(a) Partially decomposed litter",
+                "(b) Weathered rock",
+                "(c) Muddy puddle",
+                "(d) Carcass of a dead animal"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Partially decomposed litter\nExplanation:- 'Duff' is partially decomposed litter like leaves, twigs, branches that accumulates on the forest floor."
+            },
+            {
+              "id": 32,
+              "question": "Rapid Weathering, mass wasting, erosion and transportation are indicators of which one of the following processes? [NDA I 2022]",
+              "options": [
+                "(a) Denudation",
+                "(b) Endogenetic process",
+                "(c) Diastrophism",
+                "(d) Mountain building"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Denudation\nExplanation:- All the exogenic forces are collectively called as Denudation (weathering, erosion, transportation and mass movements)."
+            },
+            {
+              "id": 33,
+              "question": "Which statements about Salt Weathering are correct?\n1. Salt crystallisation is the most effective weathering process.\n2. Salt crystal growth is more effective on sedimentary rocks than igneous rocks.\nCode: [CDS I 2025]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) Both 1 and 2",
+                "(d) Neither 1 nor 2"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) 2 only\nExplanation:- Salt weathering is a type of mechanical weathering caused by the growth of salt crystals in the pores or cracks of rocks.\nSalt crystal growth is more effective on sedimentary rocks than igneous rocks because sedimentary rocks are more porous and permeable, allowing saltwater to infiltrate."
+            },
+            {
+              "id": 34,
+              "question": "Which of the following is/are the applied forces in mechanical weathering process?\n1. Gravitational force\n2. Expansion force\n3. Force due to water pressure\nSelect the answer using the code given below: [NDA I 2025]",
+              "options": [
+                "(a) 1 only",
+                "(b) 1 and 2 only",
+                "(c) 2 and 3 only",
+                "(d) 1, 2 and 3"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) 1, 2 and 3\nExplanation:- Mechanical weathering is a process where rocks break down into smaller pieces without changing their chemical composition.\nKey forces responsible for mechanical weathering are water pressure, ice, temperature changes, wind, gravitational force, expansion force etc."
+            }
+          ]
         }
       ]
     }
