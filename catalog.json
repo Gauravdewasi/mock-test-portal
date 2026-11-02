@@ -43144,6 +43144,72 @@
               "solutionHinglish": "Ans (a) Brahmani\nExplanation:- Brahmani is formed by the confluence of the Sankh and South Koel rivers at Vedvyas near Rourkela in Odisha."
             }
           ]
+        },
+        {
+          "id": "t_1793612081876",
+          "name": "Peninsular Rivers - LEVEL II",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which of the following is/are east flowing rivers in India?\n1. Palar\n2. Periyar\n3. Pennar\n4. Kalinadi\nSelect the answer using the code given below: [NDA II 2024]",
+              "options": [
+                "(a) 1 only",
+                "(b) 1 and 3",
+                "(c) 2 and 4",
+                "(d) 4 only"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) 1 and 3\nExplanation:- Palar and Pennar are east-flowing rivers (draining into the Bay of Bengal), while Periyar (Kerala) and Kalinadi (Karnataka) are west-flowing rivers (draining into the Arabian Sea)."
+            },
+            {
+              "id": 2,
+              "question": "Which of the following tributaries is/are correctly matched with the Deccan Rivers? [NDA II 2024]\nTributary — River\n1. Bhavani — Krishna\n2. Kabini — Kaveri\n3. Manjra — Godavari\n4. Bhima — Mahanadi\nSelect the answer using the code given below:",
+              "options": [
+                "(a) 1 and 2",
+                "(b) 2 and 3",
+                "(c) 1 and 3",
+                "(d) 3 and 4"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) 2 and 3\nExplanation:- Bhavani - Kaveri; Kabini - Kaveri (2 is correct); Manjra - Godavari (3 is correct); Bhima - Krishna."
+            },
+            {
+              "id": 3,
+              "question": "Which one of the following is a tributary of Krishna River? [GEOSCIENTIST 2023]",
+              "options": [
+                "(a) Harangi",
+                "(b) Hiran",
+                "(c) Purna",
+                "(d) Munneru"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Munneru\nExplanation:- Munneru is a left-bank tributary of the Krishna river in Telangana and Andhra Pradesh. (Harangi is a tributary of Kaveri; Hiran is a tributary of Narmada; Purna is a tributary of Godavari/Tapi)."
+            },
+            {
+              "id": 4,
+              "question": "Consider the following rivers:\n1. Brahmani\n2. Nagavali\n3. Subarnarekha\n4. Vamsadhara\nWhich of the above rise from the Eastern Ghats? [IAS 2021]",
+              "options": [
+                "(a) 1 and 2",
+                "(b) 2 and 4",
+                "(c) 3 and 4",
+                "(d) 1 and 3"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) 2 and 4\nExplanation:- Nagavali and Vamsadhara rise from the Eastern Ghats in Odisha, whereas Brahmani and Subarnarekha originate in the Chota Nagpur Plateau (Jharkhand)."
+            },
+            {
+              "id": 5,
+              "question": "Gandikota canyon of South India was created by which one of the following rivers? [IAS 2022]",
+              "options": [
+                "(a) Cauvery",
+                "(b) Manjira",
+                "(c) Pennar",
+                "(d) Tungabhadra"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Pennar\nExplanation:- Gandikota canyon (known as the Grand Canyon of India, in Kadapa district of Andhra Pradesh) was created by the Pennar river cutting through the Erramala hills."
+            }
+          ]
         }
       ]
     }
