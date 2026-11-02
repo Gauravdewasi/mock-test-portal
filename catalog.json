@@ -41236,6 +41236,336 @@
               "solutionHinglish": "Ans (b) Only two\nExplanation:- Rows 3 and 4 are correctly matched:\n1. France (Europe) — Vosges — Block mountain\n2. Europe — Alps — Fold mountain (young)\n3. North America — Appalachians — Fold mountain (old)\n4. South America — Andes — Fold mountain (young)"
             }
           ]
+        },
+        {
+          "id": "t_1793610553067",
+          "name": "Peninsular Plateau - LEVEL I",
+          "questions": [
+            {
+              "id": 1,
+              "question": "The Malwa Plateau is located in which of the following states? [SSC JE 06/06/2024]",
+              "options": [
+                "(a) Karnataka",
+                "(b) Tamil Nadu",
+                "(c) Jharkhand",
+                "(d) Madhya Pradesh"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Madhya Pradesh\nExplanation:- Malwa plateau is located in the states of Gujarat, Rajasthan and MP. It is made up of lava (basaltic rock). Rivers flowing through Malwa plateau - Chambal, Betwa, Sindh, Ken. Malwa plateau is covered by Black soil (good for cotton cultivation) and it is wider in the east and narrower in the west."
+            },
+            {
+              "id": 2,
+              "question": "The Palamu plateau is located in which of the following states? [SSC JE 07/06/2024]",
+              "options": [
+                "(a) Telangana",
+                "(b) Jharkhand",
+                "(c) Karnataka",
+                "(d) West Bengal"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Jharkhand\nExplanation:- Palamu plateau is located in Jharkhand."
+            },
+            {
+              "id": 3,
+              "question": "In which of the following regions of India is the Mundari language spoken? [SSC CHSL 16/03/2023]",
+              "options": [
+                "(a) Chota-Nagpur plateau",
+                "(b) Malwa plateau",
+                "(c) Thar desert",
+                "(d) Baghelkhand"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Chota-Nagpur plateau\nExplanation:- Mundari language is spoken in the region of Chota-Nagpur plateau which spreads across Jharkhand, West Bengal, Odisha and Bihar. This region is home to Munda tribe which speaks Mundari language.\nChota Nagpur plateau (Ruhr of India) - famous for minerals. 3 important plateaus - Ranchi plateau, Hazaribagh plateau and Koderma plateau. Highest peak - Parasnath (1365 m). Jaduguda mines - famous for Uranium. River flowing through rift valley - Damodar river."
+            },
+            {
+              "id": 4,
+              "question": "In which direction is the general elevation of the peninsular plateau of India? [SSC CHSL 10/07/2024]",
+              "options": [
+                "(a) From North to South",
+                "(b) From South to North",
+                "(c) From West to East",
+                "(d) From East to West"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) From West to East\nExplanation:- Peninsular plateau is a tableland composed of old, crystalline, igneous and metamorphic rocks. Its general elevation is from west to east as indicated by the flow of majority of rivers. Average height of peninsular plateau - 600-900 m. Largest plateau of India - Deccan plateau."
+            },
+            {
+              "id": 5,
+              "question": "The peninsular plateau of India was a part of which continent earlier? [SSC CHSL 01/07/2024]",
+              "options": [
+                "(a) Africa",
+                "(b) South America",
+                "(c) North America",
+                "(d) Europe"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Africa\nExplanation:- The peninsular plateau was a part of Gondwanaland which included regions of Africa, South America, Australia, Antarctica and India.\nThe peninsular plateau can be divided into three broad groups - The Deccan Plateau, The Central Highlands, The Northeastern Plateau.\nCentral Highlands - north of Narmada river, covered by Vindhya, Satpura to the south and Aravali to the NW.\nMain plateaus - Malwa plateau (western side), Chota Nagpur plateau (eastern side)."
+            },
+            {
+              "id": 6,
+              "question": "The Deccan Plateau is a ________ landmass that lies to the south of the river Narmada. [SSC CHSL 03/07/2024]",
+              "options": [
+                "(a) hexagonal",
+                "(b) quadrilateral",
+                "(c) rectangular",
+                "(d) triangular"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) triangular\nExplanation:- Deccan plateau is a triangular landmass lying south of Narmada. Northern border - Satpura, Eastern border - Mahadev, Kaimur, Maikal range; Northeast boundary - Rajmahal hills. Extension of Deccan plateau in Northeast - Meghalaya plateau (Garo, Khasi, Jaintia hills), Karbi Anglong plateau and North Cachar hills (Assam).\nMalda fault / Malda gap separated Deccan plateau from Meghalaya / Karbi Anglong plateau.\nDo you know that Cherrapunji, Mawsynram (highest rainfall in India), Shillong are located in the Khasi hills?"
+            },
+            {
+              "id": 7,
+              "question": "The Western Ghats and the Eastern Ghats meet at which of the following places in southern India? [SSC CHSL 02/08/2023]",
+              "options": [
+                "(a) Nilgiri Hills",
+                "(b) Satpura Hills",
+                "(c) Nallamala Hills",
+                "(d) Mahendragiri Hills"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Nilgiri Hills\nExplanation:- Western Ghats and Eastern Ghats meet at Nilgiri hills.\nWestern Ghats - continuous, higher than eastern ghats, stretch from Tapi to south of Nilgiri hills, highest peak - Anaimudi (Anamalai hills, Kerala, 2695 m), 2nd highest peak - Doddabetta (2637 m, on Nilgiri hills, Ooty is here), southernmost hills - Cardamom hills.\nEastern Ghats - discontinuous, irregular, stretched from Mahanadi valley to Nilgiri, highest peak - Mahendragiri (1501 m) / Jindhagada (1690 m), Shevroy and Javadi hills are located to the southeast of it."
+            },
+            {
+              "id": 8,
+              "question": "The Shevaroy Hills are located in which state of India? [SSC CGL 27/07/2023]",
+              "options": [
+                "(a) Chhattisgarh",
+                "(b) Odisha",
+                "(c) Tamil Nadu",
+                "(d) Rajasthan"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Tamil Nadu\nExplanation:- Shevaroy hills are located in Tamil Nadu. They are part of Eastern Ghats.\nNagari hills - Andhra Pradesh. Nilachal hills (Kamakhya temple) - Guwahati.\nOther hills of Eastern Ghats - Ramgarh hills, Odisha hills, Northern Circars, Nallamala hills, Velikonda hills, Palkonda hills, Nagari hills, Javadi hills, Shevaroy hills, Pachamalai hills, Sirumalai hills, Palani hills, Varushanad hills."
+            },
+            {
+              "id": 9,
+              "question": "Which among the following is the highest peak of West Bengal? [SSC MTS 12/05/2023]",
+              "options": [
+                "(a) Saramati",
+                "(b) Sandakphu",
+                "(c) Doddabetta",
+                "(d) Deomali"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Sandakphu\nExplanation:- Sandakphu peak is the highest peak of West Bengal, located in the district of Darjeeling.\nHighest peak of MP - Dhupgarh (located on Mahadeo hills).\nHighest peak of Aravali - Guru Shikhar (1722 m, situated in Mt. Abu hills).\nDo you know that Pachmarhi hills are also known as 'Queen of Satpura'?"
+            },
+            {
+              "id": 10,
+              "question": "The rock shelters of Bhimbetka are in the foothills of which mountains? [SSC MTS 16/06/2023]",
+              "options": [
+                "(a) Zaskar",
+                "(b) Pir Panjal",
+                "(c) Satpura",
+                "(d) Vindhyan"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Vindhyan\nExplanation:- The rock shelters of Bhimbetka are in the foothills of Vindhyan range.\nVindhya - elevation 400-600 m, highest peak - Sadbhawna Shikhar / Kalumar peak / Goodwill peak (752 m). Panna (MP) - famous for diamonds."
+            },
+            {
+              "id": 11,
+              "question": "Which among the following peaks is the highest peak of Jharkhand? [SSC CHSL 10/03/2023]",
+              "options": [
+                "(a) Kangto",
+                "(b) Girnar",
+                "(c) Anamudi",
+                "(d) Parasnath"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Parasnath\nExplanation:- The highest peak of Jharkhand is Parasnath (1365 m, named after 23rd Jain Tirthankara).\nParasnath is a part of Chota Nagpur plateau."
+            },
+            {
+              "id": 12,
+              "question": "Which of the following statements is NOT correct? [SSC CHSL 10/03/2023]",
+              "options": [
+                "(a) Mahendragiri is the highest peak in the Eastern Ghats.",
+                "(b) The height of the Western Ghats progressively decreases from north to south.",
+                "(c) The Western Ghats cause orographic rain.",
+                "(d) The Eastern Ghats stretch from the Mahanadi Valley to the Nilgiris in the south."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) The height of the Western Ghats progressively decreases from north to south.\nExplanation:- The height of Western Ghats progressively increases from north to south.\nWestern Ghats cause orographic rainfall.\nEastern Ghats stretch from the Mahanadi valley to the Nilgiri in the south.\nPasses - Bhorghat: Mumbai to Pune, Thalghat: Mumbai to Nashik, Palghat/Palakkad gap: Annamalai to Nilgiri."
+            },
+            {
+              "id": 13,
+              "question": "Dhinodhar Hills is located in which Indian state/Union Territory? [SSC CHSL 09/03/2023]",
+              "options": [
+                "(a) Andaman and Nicobar Islands",
+                "(b) Maharashtra",
+                "(c) Gujarat",
+                "(d) West Bengal"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Gujarat\nExplanation:- Dhinodhar hills are located in Gujarat (Kutch). Shatrunjaya hills are also located in Gujarat."
+            },
+            {
+              "id": 14,
+              "question": "Kalsubai peak is located in which of the following Indian states? [SSC CHSL 08/07/2024]",
+              "options": [
+                "(a) Madhya Pradesh",
+                "(b) Maharashtra",
+                "(c) Andhra Pradesh",
+                "(d) Himachal Pradesh"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Maharashtra\nExplanation:- Kalsubai peak is located in Maharashtra and is the highest peak of Maharashtra (1646 m)."
+            },
+            {
+              "id": 15,
+              "question": "In which of the following Indian states will you find the Netarhat Mountains, also called 'Queen of Chotanagpur'? [SSC CGL 13/04/2022]",
+              "options": [
+                "(a) West Bengal",
+                "(b) Jharkhand",
+                "(c) Odisha",
+                "(d) Chhattisgarh"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Jharkhand\nExplanation:- Netarhat mountains also known as 'Queen of Chotanagpur' is a hill station in Jharkhand."
+            },
+            {
+              "id": 16,
+              "question": "Which of the following is a mountain peak that rises above the surrounding peaks at the mountainous border of the Indian state of Nagaland and the Sagaing region of Myanmar? [SSC MTS 26/10/2021]",
+              "options": [
+                "(a) Mount Kalsubai",
+                "(b) Mount Doddabetta",
+                "(c) Mount Saramati",
+                "(d) Mount Dhupgarh"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Mount Saramati\nExplanation:- Mount Saramati rises above the surrounding peaks at the border of Nagaland and Sagaing region of Myanmar.\nDo you know that Andaman & Nicobar islands are an extension of Arakan Yoma hills of Myanmar?"
+            },
+            {
+              "id": 17,
+              "question": "Which of the following hills is situated in Assam? [SSC CHSL 15/04/2021]",
+              "options": [
+                "(a) Aravali Hills",
+                "(b) Karbi Anglong Hills",
+                "(c) Javadi Hills",
+                "(d) Shevaroy Hills"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Karbi Anglong Hills\nExplanation:- Karbi Anglong hills are situated in Assam. North Cachar hills - extension of Deccan plateau."
+            },
+            {
+              "id": 18,
+              "question": "In which of the following states is the Shatrunjaya Hills located? [SSC CHSL 10/08/2021]",
+              "options": [
+                "(a) Gujarat",
+                "(b) Andhra Pradesh",
+                "(c) Madhya Pradesh",
+                "(d) Karnataka"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Gujarat\nExplanation:- Shatrunjaya hills are located in Gujarat (Palitana, Bhavnagar district). Highest peak of Gujarat is Mt. Girnar (1117 m) located in Junagadh district."
+            },
+            {
+              "id": 19,
+              "question": "Borra Caves are situated on the East Coast of India in which of the following hills? [SSC CGL 03/03/2020]",
+              "options": [
+                "(a) Nallamala Hills",
+                "(b) Horsley Hills",
+                "(c) Nagari Hills",
+                "(d) Ananthagiri Hills"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Ananthagiri Hills\nExplanation:- Borra caves are located in Ananthagiri hills in Araku valley of Andhra Pradesh."
+            },
+            {
+              "id": 20,
+              "question": "Choose the correct statements about the Western Ghats. [SSC CPO 29/06/2024]\nI. The height of the Western Ghats progressively increases from north to south.\nII. Mahendragiri is the highest peak in the Western Ghats.\nIII. The Western Ghats are higher than the Eastern Ghats.\nIV. The height of the Western Ghats progressively decreases from north to south.",
+              "options": [
+                "(a) I and III",
+                "(b) II, III and IV",
+                "(c) Only III and IV",
+                "(d) I and II"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) I and III\nExplanation:- Western Ghats - Height increases from north to south. Height is more than the Eastern Ghats.\nMahendragiri is a peak of Eastern Ghats, not of Western Ghats (Anaimudi is the highest peak of Western Ghats)."
+            },
+            {
+              "id": 21,
+              "question": "Which of the following is the longest Highway Tunnel in India (as of 2022)? [SSC CPO 28/06/2024]",
+              "options": [
+                "(a) Pir Panjal Tunnel",
+                "(b) Jawahar Tunnel",
+                "(c) Atal Tunnel",
+                "(d) Karbude Tunnel"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Atal Tunnel\nExplanation:- Atal tunnel (earlier known as Rohtang tunnel) is the longest (9.02 km) highway tunnel of India above 10,000 ft. It connects Manali to Lahaul and Spiti valley.\nDr. Shyama Prasad Mukherjee tunnel (Chenani-Nashri tunnel) is a 9.28 km road tunnel in J&K.\nJawahar tunnel (Banihal pass) connects Jammu and Srinagar."
+            },
+            {
+              "id": 22,
+              "question": "Which of the following is NOT a subdivision of the Meghalaya plateau? [SSC CHSL 07/08/2023]",
+              "options": [
+                "(a) Khasi",
+                "(b) Jaintia",
+                "(c) Garo",
+                "(d) Dhansiri"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Dhansiri\nExplanation:- Meghalaya plateau is subdivided into Garo, Khasi and Jaintia hills. Dhansiri is a river (tributary of Brahmaputra)."
+            },
+            {
+              "id": 23,
+              "question": "Which of the following Indian states is NOT covered by the Deccan Plateau? [SSC CHSL 08/08/2023]",
+              "options": [
+                "(a) Telangana",
+                "(b) Maharashtra",
+                "(c) Andhra Pradesh",
+                "(d) Madhya Pradesh"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Madhya Pradesh\nExplanation:- Deccan plateau spreads across the states of Telangana, Maharashtra, Karnataka, Kerala, Andhra Pradesh, Tamil Nadu (south of Narmada river), whereas Madhya Pradesh lies mainly in the Central Highlands (Malwa Plateau)."
+            },
+            {
+              "id": 24,
+              "question": "Which of the following is a mountain pass in the Pir Panjal range at a maximum altitude of 2832 meters that connects the Kashmir Valley in the Union Territory of Jammu and Kashmir with the Outer Himalayas and the plains in the south? [SSC CHSL 26/05/2022]",
+              "options": [
+                "(a) Mana Pass",
+                "(b) Banihal Pass",
+                "(c) Bara-Lacha Pass",
+                "(d) ZojiLa Pass"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Banihal Pass\nExplanation:- Banihal pass is a mountain pass in the Pir Panjal range at an altitude of 2832 m that connects Kashmir valley with outer Himalayas and the plains in the south.\nLipu Lekh pass - Uttarakhand, at the tri-junction of India, Nepal and China.\nRohtang pass - connects Kullu valley with Lahaul and Spiti.\nMana pass - Uttarakhand to Tibet.\nBara-Lacha La pass - connects Lahaul and Spiti to Leh.\nZoji La pass - connects Srinagar (Kashmir) to Leh."
+            },
+            {
+              "id": 25,
+              "question": "Which of the following statements is NOT true about plateaus? [SSC MTS 11/10/2021]",
+              "options": [
+                "(a) The Deccan plateau is one of the oldest plateaus in India.",
+                "(b) A plateau is an elevated flat land.",
+                "(c) Plateaus are rich in mineral deposits.",
+                "(d) The Marwar plateau is the highest plateau in the world."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) The Marwar plateau is the highest plateau in the world.\nExplanation:- A plateau is a flat, elevated landform that rises sharply above the surrounding area. Plateaus are rich in mineral deposits. Deccan plateau is one of the oldest plateaus in India. Tibetan plateau is the highest plateau in the world."
+            },
+            {
+              "id": 26,
+              "question": "Which of the following mountain passes is situated in the state of Uttarakhand? [SSC CHSL 11/08/2021]",
+              "options": [
+                "(a) Nathu La Pass",
+                "(b) Baralacha La Pass",
+                "(c) Bomdi La Pass",
+                "(d) Mangsha Dhura Pass"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Mangsha Dhura Pass\nExplanation:- Mangsha Dhura pass is located in Uttarakhand and connects Uttarakhand to Tibet.\nNathu La Pass - Sikkim, Baralacha La pass - Himachal Pradesh, Bomdi La pass - Arunachal Pradesh."
+            },
+            {
+              "id": 27,
+              "question": "The Garo, Khasi and Jaintia hills are a subdivision of: [SSC STENOGRAPHER 13/10/2023]",
+              "options": [
+                "(a) Assam valley",
+                "(b) Barak basin",
+                "(c) Surma basin",
+                "(d) Meghalaya plateau"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Meghalaya plateau\nExplanation:- Garo, Khasi and Jaintia hills are subdivisions of the Meghalaya plateau."
+            }
+          ]
         }
       ]
     }
