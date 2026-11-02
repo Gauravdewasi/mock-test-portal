@@ -36100,6 +36100,384 @@
               "solutionHinglish": "Ans (d) Tropic of Capricorn\nExplanation:- During Summer Solstice in the Northern Hemisphere (21 June), the Sun is directly overhead at the Tropic of Cancer (23.5° N), so the Tropic of Capricorn (23.5° S) is farthest among the given options and receives the Sun's rays at the minimum angle."
             }
           ]
+        },
+        {
+          "id": "t_1793609936376",
+          "name": "Earth Interior and Plate Tectonics - LEVEL I",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which of the following is the scientific discipline concerned with the description and classification of the Earth's topographic features? [SSC CHSL 26/06/2023]",
+              "options": [
+                "(a) Geomorphology",
+                "(b) Acarology",
+                "(c) Ethology",
+                "(d) Meteorology"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Geomorphology\nExplanation:- Geomorphology - scientific discipline concerned with the study of Earth's topographic features.\nAcarology - scientific study of ticks and mites (arachnids)\nEthology - scientific study of animal behaviour\nMeteorology - study of atmosphere, atmospheric phenomena and its effect on weather."
+            },
+            {
+              "id": 2,
+              "question": "Who is known as the Father of Geology? [SSC CGL 13/12/2022]",
+              "options": [
+                "(a) John Butler",
+                "(b) Alfred Wegener",
+                "(c) James Hutton",
+                "(d) Art Smith"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) James Hutton\nExplanation:- James Hutton is called the Father of Geology.\nAlfred Wegener gave the theory of Continental drift in 1912 (continents move over a period of time and once were part of a single landmass called Pangea surrounded by a water body called Panthalassa).\nDo you know that the continental drift was first discovered by Abraham Ortelius?\nAbraham Ortelius proposed that Europe, Africa and America have been located side by side and Antonio Pellegrini drew the map."
+            },
+            {
+              "id": 3,
+              "question": "The forces which act in the interior of the earth are called ________. [SSC MTS 03/05/2023]",
+              "options": [
+                "(a) gravitational forces",
+                "(b) frictional forces",
+                "(c) endogenic forces",
+                "(d) exogenic forces"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Endogenic forces\nExplanation:- Endogenic forces - the force generated within the Earth crust. 2 types - slow movement (diastrophism - 2 types: Epeirogenic/Continent building radial movement and Orogenic/Mountain building - tangential movement) and sudden movement.\nExogenic forces - the forces which derive their energy from the Earth's exterior. They result in wearing down and hence called Land Wearing forces.\nGravitational force - universal force of attraction acting between two objects.\nFrictional force - the force that resists motion when two bodies are in contact with each other."
+            },
+            {
+              "id": 4,
+              "question": "The highly viscous, mechanically-weak and ductile region of Earth's upper mantle is called: [SSC PHASE XII 2024]",
+              "options": [
+                "(a) Exosphere",
+                "(b) Asthenosphere",
+                "(c) Lithosphere",
+                "(d) Mesosphere"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Asthenosphere\nExplanation:- Asthenosphere (80-200 km) - portion of Mantle (below solid mantle), highly viscous, mechanically weak, ductile, density higher than crust.\nLithosphere (10-200 km) - crust + upper solid mantle.\nMesosphere and Exosphere are layers of Earth's atmosphere with others being Troposphere, Stratosphere, Thermosphere."
+            },
+            {
+              "id": 5,
+              "question": "The point on the surface, nearest to the focus of the earthquake, is called ________. [SSC MTS 20/06/2023]",
+              "options": [
+                "(a) hypocentre",
+                "(b) epicenter",
+                "(c) centripiece",
+                "(d) semi centre"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Epicentre\nExplanation:- Earthquake is the sudden release of energy along the fault line in the form of waves (seismic waves).\nHypocentre/Focus - place from where energy is released first\nEpicentre - point on the surface nearest to the focus\nSeismic waves are of 2 types -\nBody waves - P waves - travels faster (7-8 km/sec), first to reach on surface, longitudinal (compression and rarefaction), speed - solid > liquid > gas, resemble sound waves; S waves - slower (4-6 km/sec), transverse (crest and trough), can only travel through solid.\nSurface/Love/Rayleigh waves - when body waves interact with surface, causes more destruction."
+            },
+            {
+              "id": 6,
+              "question": "The ________ is responsible for Earth's magnetic field. [SSC CHSL 16/10/2020]",
+              "options": [
+                "(a) inner core",
+                "(b) mantle",
+                "(c) outer core",
+                "(d) crust"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Outer core\nExplanation:- Internal structure of earth:\nCrust (5-70 km) - SiAl, 2 divisions - Continental (land part of crust, thick and lighter, 30 km, made of granite) and Oceanic (water part of crust, thin and dense, 5 km, made of basalt).\nMantle (2900 km) - SiMa, 2 divisions - upper mantle and lower mantle, top layer - solid.\nCore - NiFe, 2 divisions - outer core (1300 km, liquid form, shows magnetic properties) and inner core (220 km, solid form).\nIncreasing order of mass and volume - Crust < Core < Mantle.\nComposition of Earth's crust - O (46.4%), Si (28%), Al (8%, most abundant metal in crust), Fe (5%, 2nd most abundant)."
+            },
+            {
+              "id": 7,
+              "question": "Earth's core is mainly made up of ________? [SSC CGL 05/12/2022]",
+              "options": [
+                "(a) Nickel and Copper",
+                "(b) Nickel and Alumina",
+                "(c) Nickel and Iron",
+                "(d) Nickel and Magnesium"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Nickel and Iron\nExplanation:- Core - Nickel and Iron (NiFe), Mantle - Silica and Magnesium (SiMa), Crust - Silica and Aluminium (SiAl)."
+            },
+            {
+              "id": 8,
+              "question": "Which outside layer of the Earth is less dense, thick, and andesitic to granite composition? [SSC CHSL 30/05/2022]",
+              "options": [
+                "(a) Oceanic Crust",
+                "(b) Mantle",
+                "(c) Continental Crust",
+                "(d) Outer core"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Continental Crust\nExplanation:- Continental crust is less dense, thick and made up of granite.\nOceanic crust is dense, thin and made up of basalt (ocean main salt hota so oceanic crust basalt se bani)."
+            },
+            {
+              "id": 9,
+              "question": "The crust is the Earth's outermost layer that is less than ________ percent of Earth by mass, with oceanic crust and continental crust often consisting of more felsic rocks. [SSC CGL 13/12/2022]",
+              "options": [
+                "(a) 5",
+                "(b) 1",
+                "(c) 2",
+                "(d) 10"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) 1\nExplanation:- Share of Earth's layers -\nBy volume - Crust (1%), Mantle (84%), Core (15%)\nBy mass - Crust (1%), Mantle (68%), Core (31%)"
+            },
+            {
+              "id": 10,
+              "question": "In the 1930s, which of the following theories was propounded by Arthur Holmes about the mantle? [SSC CHSL 11/08/2023]",
+              "options": [
+                "(a) Theory of Faunal Succession",
+                "(b) Slab Pull Theory",
+                "(c) Convectional Current Theory",
+                "(d) Theory of Faulting"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Convectional Current Theory\nExplanation:- Convectional Current Theory - by Arthur Holmes (1930s), movement of magma in the Earth's mantle causes tectonic plates to move.\nSlab pull theory - it states that the sinking of denser oceanic plate into the mantle drives plate tectonics."
+            },
+            {
+              "id": 11,
+              "question": "What is the name of the seventh most abundant metal in the earth's crust, which is derived from the medieval Latin word 'Kalium'? [SSC MTS 01/09/2023]",
+              "options": [
+                "(a) Aluminium",
+                "(b) Magnesium",
+                "(c) Calcium",
+                "(d) Potassium"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Potassium\nExplanation:- Most abundant elements of Earth's crust - Oxygen > Silicon > Aluminium > Iron > Calcium > Sodium > Potassium > Magnesium.\nMost abundant elements of the Earth - Iron > Oxygen > Silicon > Magnesium (TRICK - IOS)."
+            },
+            {
+              "id": 12,
+              "question": "How thick is the lithosphere? [SSC CGL 03/12/2022]",
+              "options": [
+                "(a) 25 to 45 km",
+                "(b) 10 to 25 km",
+                "(c) 10 to 200 km",
+                "(d) 5 to 10 km"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) 10 to 200 km\nExplanation:- Lithosphere (10-200 km) - crust + upper solid mantle."
+            },
+            {
+              "id": 13,
+              "question": "The Mohorovicic (Moho) discontinuity separates? [SSC MTS 13/09/2023]",
+              "options": [
+                "(a) Earth's lithosphere and asthenosphere",
+                "(b) Earth's atmosphere and hydrosphere",
+                "(c) Earth's crust and the inner core",
+                "(d) Earth's crust and the mantle"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Earth's crust and the mantle\nExplanation:- Discontinuity is the transition zone between Earth's layers which is marked by change in physical or chemical properties.\nConrad discontinuity (45 km) - b/w outer and inner crust\nMoho discontinuity (100 km) - b/w Crust and Mantle\nRepetti discontinuity (700 km) - b/w outer and inner mantle\nGutenberg discontinuity (2900 km) - b/w Mantle and Core\nLehmann discontinuity (5200 km) - b/w outer and inner core\nTRICK - Come Moho Re Guten Leh"
+            },
+            {
+              "id": 14,
+              "question": "The layer of earth that separates the crust from the core is: [SSC CGL 27/07/2023]",
+              "options": [
+                "(a) Stratosphere",
+                "(b) Country",
+                "(c) Mantle",
+                "(d) Magma layer"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Mantle\nExplanation:- Mantle separates crust from core."
+            },
+            {
+              "id": 15,
+              "question": "Which of the following is the correct match between column-A and column-B? [SSC STENOGRAPHER 12/10/2023]\nColumn-A (Elements in earth crust) — Column-B (Total % in earth crust)\ni. Oxygen — a. 8%\nii. Silicon — b. 28%\niii. Aluminum — c. 47%\niv. Iron — d. 5%",
+              "options": [
+                "(a) i-a, ii-b, iii-c, iv-d",
+                "(b) i-c, ii-a, iii-b, iv-d",
+                "(c) i-c, ii-b, iii-a, iv-d",
+                "(d) i-b, ii-a, iii-c, iv-d"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) i-c, ii-b, iii-a, iv-d\nExplanation:- Composition of Earth's crust - O (46.4% ~ 47%), Si (28%), Al (8%, most abundant metal in crust), Fe (5%, 2nd most abundant)."
+            },
+            {
+              "id": 16,
+              "question": "What is the correct sequence of layers of Earth from the outside of the planet to the inside? [SSC CGL 19/07/2023]",
+              "options": [
+                "(a) Mantle (outermost) - Core - Crust (innermost)",
+                "(b) Crust (outermost) - Mantle - Core (innermost)",
+                "(c) Core (outermost) - Mantle - Crust (innermost)",
+                "(d) Crust (outermost) - Core - Mantle (innermost)"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Crust (outermost) - Mantle - Core (innermost)\nExplanation:- Crust is the outermost layer. Then comes the mantle and core is the innermost layer of Earth."
+            },
+            {
+              "id": 17,
+              "question": "Identify whether the given statements about an earthquake are correct or incorrect. [SSC CPO 26/06/2024]\nStatement 1: When the stress on the edge overcomes the friction, there is an earthquake that releases energy in waves that travel through Earth's crust and causes the shaking that we feel.\nStatement 2: An earthquake cannot be identified as a foreshock until after a larger earthquake in the same area occurs.",
+              "options": [
+                "(a) Both Statements 1 and 2 are incorrect",
+                "(b) Only Statement 2 is correct",
+                "(c) Both Statements 1 and 2 are correct",
+                "(d) Only Statement 1 is correct"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Both Statements 1 and 2 are correct\nExplanation:- See solution of question 5 (level 1).\nA mild earthquake preceding a violent shaking movement of an earthquake is called Foreshock.\nA mild earthquake succeeding a violent shaking movement of an earthquake is called Aftershock."
+            },
+            {
+              "id": 18,
+              "question": "Which of the following is NOT one of the major tectonic plates of the earth? [SSC CPO 10/11/2022]",
+              "options": [
+                "(a) Nazca plate",
+                "(b) Pacific plate",
+                "(c) Africa with the eastern Atlantic floor plate",
+                "(d) India - Australia - New Zealand plate"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Nazca plate\nExplanation:- Tectonic plate is a massive, irregularly shaped slab of solid rock that floats on asthenosphere.\n2 types of tectonic plates - Major (7 - North American, South American, African, Eurasian, Pacific, Indo-Australian, Antarctic) and Minor (Nazca, Cocos, Philippine, Caribbean)."
+            },
+            {
+              "id": 19,
+              "question": "The plate movements on earth are classified into ________ types. [SSC MTS 12/07/2022]",
+              "options": [
+                "(a) three",
+                "(b) two",
+                "(c) five",
+                "(d) six"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Three\nExplanation:- Tectonic plates move on the asthenosphere. Their movements can be of following 3 types :-\nConvergent - plates move towards each other, denser one subducts, subduction zone created, destruction of crust (destructive plate boundary).\nDivergent - plates move apart, formation of new crust (constructive plate boundary).\nTransform - plates slide along each other, neither creation nor destruction of crust (conservative plate boundary).\nDo you know that convectional currents created in mantle are responsible for plate movements?"
+            },
+            {
+              "id": 20,
+              "question": "India is divided into how many earthquake zones (seismic zones)? [SSC CHSL 19/03/2020]",
+              "options": [
+                "(a) 2",
+                "(b) 4",
+                "(c) 5",
+                "(d) 6"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) 4\nExplanation:- India is divided into 4 seismic zones which are - zone II (least active), zone III, zone IV, zone V (most active).\nDo you know that India faced one of the most destructive earthquake of magnitude 7.7 in Bhuj in 2001?\nPacific Ring of Fire - present at the boundary of Pacific ocean, 75% volcano and 90% earthquakes occur here."
+            },
+            {
+              "id": 21,
+              "question": "Which among the following occur when two tectonic plates are moving past each other with different speeds? [SSC MTS 19/05/2023]",
+              "options": [
+                "(a) Drought",
+                "(b) Earthquake",
+                "(c) Hurricane",
+                "(d) Blizzard"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Earthquake\nExplanation:- When two tectonic plates move past each other (transform plate boundary), it results in an earthquake.\nMid oceanic ridge - formed due to divergent plate boundary.\nHimalaya - formed due to convergent plate boundary."
+            },
+            {
+              "id": 22,
+              "question": "Which of the following earthquake waves are longitudinal waves? [SSC CHSL 20/03/2023]",
+              "options": [
+                "(a) L waves",
+                "(b) P waves",
+                "(c) N waves",
+                "(d) S waves"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) P waves\nExplanation:- See solution of question 5 (level 1).\nShadow zone of S-waves is larger than that of P-waves.\nScales to measure earthquake - Richter scale - measures magnitude (0-10), limitless scale; Mercalli scale - measures intensity (1-12)."
+            },
+            {
+              "id": 23,
+              "question": "Which of the following earthquake waves are surface waves? [SSC CHSL 13/03/2023]",
+              "options": [
+                "(a) P waves",
+                "(b) L waves",
+                "(c) S waves",
+                "(d) M waves"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) L waves\nExplanation:- L waves/Rayleigh waves are surface waves."
+            },
+            {
+              "id": 24,
+              "question": "Which of the following is considered as small earthquakes in underground caves and mines which are caused by the seismic waves produced by the eruption of rock on the surface? [SSC MTS 27/06/2023]",
+              "options": [
+                "(a) Explosion earthquake",
+                "(b) Collapse earthquake",
+                "(c) Reservoir induced earthquakes",
+                "(d) Volcanic earthquake"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Collapse earthquake\nExplanation:- Types of Earthquakes:\nCollapse earthquake - small earthquake that occurs when the roof of underground mine or caverns collapse\nExplosion earthquake - earthquake caused by detonation of a chemical or nuclear device\nTectonic earthquake - earthquake caused by Earth's tectonic plates\nVolcanic earthquakes - earthquakes caused by volcanic eruption\nReservoir induced earthquake - earthquake caused by construction of huge reservoirs"
+            },
+            {
+              "id": 25,
+              "question": "Movement of fault lines can cause: [SSC CPO 09/11/2022]",
+              "options": [
+                "(a) a flood",
+                "(b) sudden rain",
+                "(c) an earthquake",
+                "(d) a storm"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) An earthquake\nExplanation:- Movement of fault lines can cause an earthquake."
+            },
+            {
+              "id": 26,
+              "question": "The equipment used to record the intensity of an earthquake is ________. [SSC JE 07/06/2024]",
+              "options": [
+                "(a) pyrometer",
+                "(b) barometer",
+                "(c) calorimeter",
+                "(d) Seismograph"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Seismograph\nExplanation:- Seismograph is an instrument that records an earthquake.\nPyrometer - used to measure high temperatures\nBarometer - used to measure atmospheric pressure\nCalorimeter - used to measure amount of heat released or absorbed during a chemical or physical reaction"
+            },
+            {
+              "id": 27,
+              "question": "The theory of plate tectonics proposes that the earth's lithosphere is divided into ________ major and some minor plates. [SSC CGL 13/12/2022]",
+              "options": [
+                "(a) 7",
+                "(b) 6",
+                "(c) 12",
+                "(d) 16"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) 7\nExplanation:- See solution of question 18 (level 1).\nTheory of Plate Tectonics - McKenzie and Parker (1967), Earth's outermost layer is made up of tectonic plates that move over mantle."
+            },
+            {
+              "id": 28,
+              "question": "In 1962, who published 'The History of Ocean Basins', which outlined the theory of how tectonic plates could move, later called 'sea floor spreading'? [SSC PHASE XII 25/06/2024]",
+              "options": [
+                "(a) Louis Bauer",
+                "(b) Harry Hammond Hess",
+                "(c) Alfred Wegener",
+                "(d) George Edward Backus"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Harry Hammond Hess\nExplanation:- Harry Hammond Hess - gave theory of Sea Floor Spreading (1962).\nSea Floor Spreading - the process by which new oceanic crust is formed at mid-oceanic ridges and spreads outwards, pushing older crust away from the ridge. The age of rocks increases as you move away from the mid-ocean ridge.\nMid-oceanic ridge in Atlantic ocean is the longest mountain on Earth (2nd longest - Andes mountain)."
+            },
+            {
+              "id": 29,
+              "question": "Which of the following statements is best related to the 'Pacific Ring of Fire'? [SSC MTS 14/09/2023]",
+              "options": [
+                "(a) Known for thermal power stations",
+                "(b) Known for volcano and earthquakes",
+                "(c) Known for only glacial formations",
+                "(d) Known for tropical rainforests"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Known for volcano and earthquakes\nExplanation:- Pacific Ring of Fire - present at the boundary of Pacific ocean, 75% volcano and 90% earthquakes occur here."
+            },
+            {
+              "id": 30,
+              "question": "If an earthquake happens at the seafloor and one tectonic plate dips under another, this will most probably lead to a natural disaster known as: [SSC JE 05/06/2024]",
+              "options": [
+                "(a) Tornado",
+                "(b) Tsunami",
+                "(c) Cyclone",
+                "(d) Typhoon"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Tsunami\nExplanation:- When an earthquake happens at the seafloor, it can lead to Tsunami (Japanese term meaning 'harbour wave').\nOther effects of Earthquake :- Soil liquefaction, Landslide, Avalanche, Floods, Fire."
+            },
+            {
+              "id": 31,
+              "question": "The record obtained by the measurement of an earthquake is called a: [SSC PHASE XII 25/06/2024]",
+              "options": [
+                "(a) seismology",
+                "(b) Seismogram",
+                "(c) seismograph",
+                "(d) seismic wave"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Seismogram\nExplanation:- Seismogram is the record obtained by the measurement of an earthquake while Seismograph is the instrument that records an earthquake."
+            }
+          ]
         }
       ]
     }
