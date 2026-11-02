@@ -38506,6 +38506,744 @@
               "solutionHinglish": "Ans (c) September 16\nExplanation:- 16 September is observed as Ozone day (16 September 1987 - Montreal protocol; to phase out CFCs)."
             }
           ]
+        },
+        {
+          "id": "t_1793610305768",
+          "name": "Atmosphere and Water in Atmosphere - LEVEL II",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Ozone layer, which absorbs the ultraviolet radiation, is found in which one of the following layers of the atmosphere? [CDS II 2021]",
+              "options": [
+                "(a) Ionosphere",
+                "(b) Troposphere",
+                "(c) Mesosphere",
+                "(d) Stratosphere"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Stratosphere\nExplanation:- Ozone layer (30-35 km) is found in stratosphere. It absorbs the harmful UV radiations coming from Sun.\nTropospheric ozone is bad for our environment."
+            },
+            {
+              "id": 2,
+              "question": "Which one of the following statements is true with regard to a greenhouse? [CDS II 2022]",
+              "options": [
+                "(a) The shorter wavelength infrared radiations from the Sun can enter into the greenhouse while longer wavelength infrared radiations from the ground and the plants inside the greenhouse cannot pass back out through the glass.",
+                "(b) The shorter wavelength infrared radiations from the Sun can enter into the greenhouse and the longer wavelength infrared radiations from the ground and the plants inside the greenhouse can also pass back out through the glass.",
+                "(c) The shorter wavelength infrared radiations from the Sun cannot enter into the greenhouse while longer wavelength infrared radiations from the ground and the plants inside the greenhouse can pass back out through the glass.",
+                "(d) No infrared radiation can pass through the glass of the greenhouse."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) The shorter wavelength infrared radiations from the Sun can enter into the greenhouse while longer wavelength infrared radiations from the ground and the plants inside the greenhouse cannot pass back out through the glass.\nExplanation:- For short wavelength radiations, greenhouse acts as transparent therefore allowing them to enter while for the long wavelength radiations, greenhouse acts as opaque.\nEarth receives insolation in the form of short wave radiations and gives back heat into space by long wave terrestrial radiations which heat up the atmosphere."
+            },
+            {
+              "id": 3,
+              "question": "Which one of the following is the most important factor for the formulation of smog? [CDS I 2022]",
+              "options": [
+                "(a) Long winter nights.",
+                "(b) Formation of an 'inversion lid'.",
+                "(c) Presence of many air pollutant resources.",
+                "(d) Rapid fall in temperature with increasing height above the sea level."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Formation of an 'inversion lid'\nExplanation:- Smog (smoke + fog) is a type of air pollution and is formed when pollutants react with sunlight and atmospheric conditions. Formation of inversion lid is crucial for smog. An inversion lid is formed when warm air traps the cooler air below it, preventing vertical air movement and dispersion of pollutants."
+            },
+            {
+              "id": 4,
+              "question": "Which of the following statements about inversion of temperature is/are correct?\n1. Temperature increases with increasing altitude.\n2. A long winter night with clear skies is an ideal situation.\n3. It is a short term phenomenon and is common all over the globe except at the poles.\nSelect the correct answer using the code given below: [CDS II 2022]",
+              "options": [
+                "(a) 1 and 2 only",
+                "(b) 2 and 3 only",
+                "(c) 1 only",
+                "(d) 1, 2 and 3"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) 1 and 2 only\nExplanation:- Temperature inversion - air temperature rises with altitude.\nFavourable conditions - long winter night, still air, clear cloudless sky.\nAt poles, temperature inversion is common throughout the year because of continuous loss of heat from the surface and minimal absorption of solar radiation by the surface."
+            },
+            {
+              "id": 5,
+              "question": "Match List I with List II and select the correct answer using the code given below the lists: [CDS II 2022]\nList I (Cloud Form) — List II (Characteristic)\na. Cirrus — 1. Storm clouds\nb. Cumulus — 2. High fog \"Low Ceiling\"\nc. Nimbostratus — 3. Fair-weather clouds\nd. Stratus — 4. Entirely of ice particles",
+              "options": [
+                "(a) a-2, b-1, c-3, d-4",
+                "(b) a-2, b-3, c-1, d-4",
+                "(c) a-4, b-3, c-1, d-2",
+                "(d) a-4, b-1, c-3, d-2"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) a-4, b-3, c-1, d-2\nExplanation:- Cirrus clouds - entirely made of ice particles; Cumulus clouds - fair-weather clouds; Nimbostratus clouds - storm clouds; Stratus clouds - high fog \"low ceiling\".\nHalo - ring of light seen around Sun or moon when light is reflected or refracted by the ice particles. Cirrostratus clouds form halos."
+            },
+            {
+              "id": 6,
+              "question": "Consider the following characteristics of a cloud type:\n1. They are born through convection.\n2. Only cloud type that can produce hail, thunder and lightning.\n3. They are large cauliflower-shaped towers, often 'anvil tops'.\nIdentify the type of cloud on the basis of the given characteristics. [CDS I 2023]",
+              "options": [
+                "(a) Stratocumulus",
+                "(b) Cumulonimbus",
+                "(c) Cirrocumulus",
+                "(d) Nimbostratus"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Cumulonimbus\nExplanation:- Cumulonimbus clouds (thunder clouds) can produce hail, thunder and lightning. They are born through convection and have extreme vertical development. They are also called as 'anvil tops'."
+            },
+            {
+              "id": 7,
+              "question": "Consider the following statements about clouds:\n1. Two major forms of clouds are stratiform and cumuliform.\n2. According to the altitude, clouds are classified as high clouds, middle clouds and low clouds.\n3. Stratus, nimbostratus and stratocumulus are types of high clouds.\n4. Clouds having nimbo attached to their name produce precipitation.\nWhich of the statements given above are correct? [CDS II 2023]",
+              "options": [
+                "(a) 1 and 2 only",
+                "(b) 1, 2 and 4",
+                "(c) 2 and 4 only",
+                "(d) 1, 3 and 4"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) 1, 2 and 4\nExplanation:- Two major forms of clouds are stratiform and cumuliform. Clouds are of three types according to height - high clouds, middle clouds and low clouds. Clouds with 'nimbo' in their name produce precipitation. Stratus, nimbostratus and stratocumulus are types of low clouds not high clouds."
+            },
+            {
+              "id": 8,
+              "question": "Consider the following statements on 'Fog':\n1. Fog is simply a cloud that forms close to the ground.\n2. Radiation fog is associated with radiation cooling of the land at night.\n3. Advection fog forms when moisture is blown over a cold surface and is chilled by contact.\nWhich of the statements given above are correct? [CDS II 2023]",
+              "options": [
+                "(a) 1 and 2 only",
+                "(b) 2 and 3 only",
+                "(c) 1 and 3 only",
+                "(d) 1, 2 and 3"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) 1, 2 and 3\nExplanation:- Fog - Tiny water droplets or ice crystals suspended near the surface. It is simply a cloud that forms close to the ground.\nRadiation fog - forms when the ground cools at night causing the air near the surface to cool as well, reaching its dew point and forming fog.\nAdvection fog - forms when warm, moist air moves horizontally over a colder surface, causing the air to cool and condense into fog."
+            },
+            {
+              "id": 9,
+              "question": "Which of the following is the correct order of clouds in ascending order (lowest to highest) of height from surface?\n1. Cirrocumulus\n2. Nimbostratus\n3. Cirrus\n4. Altostratus\nSelect the correct answer using the code given below: [CDS II 2023]",
+              "options": [
+                "(a) 1, 2, 4, 3",
+                "(b) 2, 4, 3, 1",
+                "(c) 3, 2, 1, 4",
+                "(d) 2, 4, 1, 3"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) 2, 4, 1, 3\nExplanation:- Ascending order from surface: Nimbostratus (2) - Altostratus (4) - Cirrocumulus (1) - Cirrus (3)."
+            },
+            {
+              "id": 10,
+              "question": "Which one of the following is related to global dimming? [CDS I 2024]",
+              "options": [
+                "(a) Fall of atmospheric pressure due to increased particulates.",
+                "(b) Raise of atmospheric pressure due to increased particulates.",
+                "(c) Raise of temperature due to increased particulates.",
+                "(d) Fall of temperature due to increased particulates."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Fall of temperature due to increased particulates.\nExplanation:- Global dimming means the decrease in amount of sunlight reaching the Earth's surface due to increased particulates and aerosols. It can lead to a cooling effect on the planet."
+            },
+            {
+              "id": 11,
+              "question": "Identify the type of cloud on the basis of the given characteristics:\n1. High, thin, puffy white clouds of ice crystals that look like ripples.\n2. They appear between 20000 feet and 40000 feet above the Earth's surface.\n3. One of its types is called a 'mackerel sky' because the clouds resemble large fish scales, especially when they are coloured pink at sunset.\nSelect the correct answer. [CDS I 2024]",
+              "options": [
+                "(a) Altostratus",
+                "(b) Cirrostratus",
+                "(c) Altocumulus",
+                "(d) Cirrocumulus"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Cirrocumulus\nExplanation:- Cirrocumulus clouds are high (20,000-40,000 feet), thin, puffy white clouds of ice crystals that look like ripples.\nMackerel sky is the sky formed with rows of small, white or grey clouds, often resembling the scales of mackerel fish.\nDo you know that cloud cover is measured in Oktas?"
+            },
+            {
+              "id": 12,
+              "question": "Which of the following statements regarding insolation is/are correct?\n1. Insolation is predominantly short-wave radiation, with wavelengths in the range of 0.39 micrometre to 0.76 micrometre.\n2. Insolation is evenly distributed across the Earth because of the Earth's curved surface.\nSelect the correct answer using the code given below. [CDS I 2024]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) Both 1 and 2",
+                "(d) Neither 1 nor 2"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) 1 only\nExplanation:- Insolation or incoming solar radiation is predominantly shortwave radiation having wavelength in the range of 0.39-0.76 micrometre. Insolation is not evenly distributed across the Earth. The equatorial and tropical regions receive more solar radiation than the polar regions."
+            },
+            {
+              "id": 13,
+              "question": "How can one determine the relative humidity on a particular day at a given place? [CDS I 2024]",
+              "options": [
+                "(a) If temperature is given",
+                "(b) If absolute humidity is given",
+                "(c) If both temperature and absolute humidity are given",
+                "(d) If percentage of absolute humidity is given"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) If both temperature and absolute humidity are given\nExplanation:- Humidity refers to the amount of water vapour present in atmosphere.\nAbsolute humidity - actual amount of water vapour in the atmosphere.\nRelative humidity - % of moisture present in atmosphere compared to its full capacity at a given temperature.\nRelative humidity = (Absolute humidity / Max water vapour air can hold at a given temperature) × 100."
+            },
+            {
+              "id": 14,
+              "question": "Which greenhouse gas has the maximum average residence time in atmosphere? [CDS I 2024]",
+              "options": [
+                "(a) CFC",
+                "(b) CH4",
+                "(c) N2O",
+                "(d) Water vapour"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) N2O\nExplanation:- Nitrous oxide (N2O) has the highest average residence time in the atmosphere among the given options, staying for about 121 years.\nDo you know that in terms of trapping ability, Sulphur Hexafluoride (SF6) is the most potent greenhouse gas?"
+            },
+            {
+              "id": 15,
+              "question": "Which one of the following statements is correct with reference to normal lapse rate? [CAPF 2022]",
+              "options": [
+                "(a) Temperature is highest at ground level and decreases with increasing altitude.",
+                "(b) Temperature is lowest at ground level and increases with increasing altitude.",
+                "(c) Temperature remains stable with increasing altitude.",
+                "(d) Temperature first increases with increasing altitude and gradually starts decreasing."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Temperature is highest at ground level and decreases with increasing altitude.\nExplanation:- Lapse rate - Rate of change of temperature with altitude.\nNormal Lapse Rate - temperature decreases with height (1°C for every 165 m or 6.5°C for every 1 km)."
+            },
+            {
+              "id": 16,
+              "question": "Which one is the most abundant of all the elements on Earth? [CAPF 2023]",
+              "options": [
+                "(a) Silicon",
+                "(b) Aluminium",
+                "(c) Carbon",
+                "(d) Oxygen"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Oxygen\nExplanation:- Most abundant elements of Earth's crust - Oxygen (46.6%) > Silicon (27.7%) > Aluminium (8.1%) > Iron (5%).\nAluminium is the most abundant metal in the Earth's crust."
+            },
+            {
+              "id": 17,
+              "question": "The depletion in atmospheric ozone layer in last century was due to: [CAPF 2023]",
+              "options": [
+                "(a) chlorofluorocarbon",
+                "(b) carbon monoxide",
+                "(c) methane",
+                "(d) pesticides"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) chlorofluorocarbon\nExplanation:- CFCs (Chlorofluorocarbons) are man-made compounds containing chlorine, fluorine and carbon. They are used as refrigerants, solvents and aerosol propellants. They are responsible for ozone layer depletion."
+            },
+            {
+              "id": 18,
+              "question": "Consider the following statements regarding the temperature of the Earth's surface:\n1. The temperature of a surface is determined by net radiation.\n2. Net radiation produces a radiant energy flow that can heat or cool a surface.\n3. Net radiation balance is usually positive during the daytime and negative during night time.\n4. Soil surface loses energy as temperature increases during the daytime.\nWhich of the statements given above are correct? [CAPF 2024]",
+              "options": [
+                "(a) 1 and 2 only",
+                "(b) 3 and 4 only",
+                "(c) 1, 2 and 3 only",
+                "(d) 1, 2, 3 and 4"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) 1, 2 and 3 only\nExplanation:- The temperature of a surface is determined by net radiation (Incoming radiation - outgoing radiation). Net radiation is positive during day as incoming radiation is more than outgoing radiation and vice-versa during night. Net radiation produces a radiant energy flow that can heat (if net radiation is +ve) or cool (if net radiation is -ve) a surface. Soil surface gains energy during daytime as temperature is more."
+            },
+            {
+              "id": 19,
+              "question": "Which one of the following statement with reference to hailstones is NOT correct? [CAPF 2024]",
+              "options": [
+                "(a) Their formation usually occurs during the monsoon season.",
+                "(b) They are associated with dense cumulonimbus clouds.",
+                "(c) Rain that forms in the warmer, upper layer solidifies into tiny ice pellets or hailstones in the lower, subfreezing layer.",
+                "(d) Hailstones have multiple, concentric layers of ice."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Their formation usually occurs during the monsoon season.\nExplanation:- Hailstones are associated with cumulonimbus clouds. They can form during different seasons (especially pre-monsoon/spring thunderstorms, not specifically in monsoon). They have multiple, concentric layers of ice. Rain solidifies as it passes through subfreezing layers of atmosphere."
+            },
+            {
+              "id": 20,
+              "question": "Which of the following is not among the conditions ideal for inversion of temperature? [CBI 2023]",
+              "options": [
+                "(a) A long winter night",
+                "(b) Clear skies",
+                "(c) Still air",
+                "(d) Low air pressure near the ground surface"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Low air pressure near the ground surface\nExplanation:- Temperature inversion - air temperature rises with altitude.\nFavourable conditions - long winter night, still air, clear cloudless sky."
+            },
+            {
+              "id": 21,
+              "question": "Which one of the following is not a factor that causes variations in 'Insolation'? [CBI 2023]",
+              "options": [
+                "(a) Rotation of the Earth on its axis",
+                "(b) Angle of inclination of the Sun's rays",
+                "(c) Length of the day",
+                "(d) Vegetation cover on the Earth's surface"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Vegetation cover on the Earth's surface\nExplanation:- Factors affecting insolation - Transparency of atmosphere, Length of the day, Tilt of Earth / Angle of inclination of Sun's rays, Rotation of Earth on its axis, Position of Earth, Latitude, Altitude."
+            },
+            {
+              "id": 22,
+              "question": "The main constituents of atmospheric air are Oxygen (O2) and Nitrogen (N2). The composition of O2 and N2 is approximately: [CISF AC 2022]",
+              "options": [
+                "(a) 29% and 70% respectively",
+                "(b) 23% and 76% respectively",
+                "(c) 21% and 78% respectively",
+                "(d) 19% and 80% respectively"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) 21% and 78% respectively\nExplanation:- Composition of gases in Earth's atmosphere: N2 (78%) > O2 (21%) > Ar (0.9%) > CO2 (0.036%) > Neon > Helium > Methane > Krypton > Hydrogen."
+            },
+            {
+              "id": 23,
+              "question": "Which one of the following factors does not affect the distribution of groundwater? [NDA II 2021]",
+              "options": [
+                "(a) Amount of precipitation",
+                "(b) Rate of evaporation",
+                "(c) Ability of the ground surface to allow water to infiltrate into the groundwater system",
+                "(d) Distance from the sea"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Distance from the sea\nExplanation:- Factors affecting distribution of groundwater - precipitation, evaporation, ability of surface to absorb water etc.\nDistance from sea doesn't directly affect the distribution of groundwater."
+            },
+            {
+              "id": 24,
+              "question": "Which one of the following is not a form of condensation? [NDA I 2021]",
+              "options": [
+                "(a) Dew",
+                "(b) Fog",
+                "(c) Frost",
+                "(d) Sleet"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Sleet\nExplanation:- Sleet is liquid water that freezes before hitting the ground (a form of precipitation). Hence, it isn't a form of condensation.\nDifferent forms of condensation - Dew, Fog, Mist, Frost, Clouds."
+            },
+            {
+              "id": 25,
+              "question": "Which one of the following clouds is a rain-bearing cloud? [NDA I 2021]",
+              "options": [
+                "(a) Cumulus cloud",
+                "(b) Stratus cloud",
+                "(c) Nimbus cloud",
+                "(d) Cirrus cloud"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Nimbus cloud\nExplanation:- Nimbus are rain bearing clouds."
+            },
+            {
+              "id": 26,
+              "question": "The composition of gases in exosphere is [NDA I 2021]",
+              "options": [
+                "(a) Helium and Hydrogen",
+                "(b) Neon and Oxygen",
+                "(c) Neon and Hydrogen",
+                "(d) Helium and Neon"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Helium and Hydrogen\nExplanation:- In exosphere, the main gases present are light gases like hydrogen and helium.\nDo you know that Oxygen is almost negligible beyond the height of 120 km. Similarly, CO2 and water vapour are found only upto 90 km from the Earth's surface?"
+            },
+            {
+              "id": 27,
+              "question": "Which one of the following is the correct sequence of layers as we move from the Earth's surface upwards? [NDA II 2021]",
+              "options": [
+                "(a) Troposphere, Stratosphere, Thermosphere, Mesosphere",
+                "(b) Troposphere, Stratosphere, Mesosphere, Thermosphere",
+                "(c) Thermosphere, Mesosphere, Stratosphere, Troposphere",
+                "(d) Stratosphere, Mesosphere, Troposphere, Thermosphere"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Troposphere, Stratosphere, Mesosphere, Thermosphere\nExplanation:- Layers of atmosphere - Troposphere, Stratosphere, Mesosphere, Thermosphere, Exosphere."
+            },
+            {
+              "id": 28,
+              "question": "The Earth's atmosphere is mainly heated by which one of the following? [NDA II 2021]",
+              "options": [
+                "(a) Shortwave solar radiation",
+                "(b) Reflected solar radiation",
+                "(c) Long wave terrestrial radiation",
+                "(d) Scattered solar radiation"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Long wave terrestrial radiation\nExplanation:- Earth receives solar radiation (short wave) and then radiates it back in the form of long wave terrestrial radiation which is absorbed by the atmosphere, therefore heating the Earth's atmosphere."
+            },
+            {
+              "id": 29,
+              "question": "According to the Indian Meteorological Department, which of the following is/are the feature/features of cloudburst?\n1. Heavy precipitation in short period of time in a limited geographical area.\n2. It occurs generally during monsoon period and triggers flash flood and landslides.\nSelect the correct answer using the code given below. [NDA II 2021]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) Both 1 and 2",
+                "(d) Neither 1 nor 2"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Both 1 and 2\nExplanation:- Cloudburst - Heavy precipitation during a short period of time over a limited area. According to Indian Meteorological Department (IMD), cloudburst is characterised by rainfall exceeding 100 mm/h in an area of 20-30 km².\nHeadquarters of IMD - Mausam Bhawan (New Delhi)."
+            },
+            {
+              "id": 30,
+              "question": "Snow, sleet and hail are the forms of: [NDA II 2021]",
+              "options": [
+                "(a) Precipitation",
+                "(b) Condensation",
+                "(c) Transpiration",
+                "(d) Evaporation"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Precipitation\nExplanation:- Precipitation - any type of water falling from atmosphere to the Earth's surface. Eg. rainfall, snowfall, sleet, hail etc."
+            },
+            {
+              "id": 31,
+              "question": "Which one of the following is not a main greenhouse gas? [NDA I 2023]",
+              "options": [
+                "(a) Water vapour",
+                "(b) Oxygen",
+                "(c) Carbon dioxide",
+                "(d) Methane"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Oxygen\nExplanation:- Oxygen is not a greenhouse gas."
+            },
+            {
+              "id": 32,
+              "question": "Which one of the following is the usual unit of measurement for 'Air Pressure' used in India? [NDA II 2023]",
+              "options": [
+                "(a) Centimeter",
+                "(b) Millibar",
+                "(c) Milligram",
+                "(d) Milliliter"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Millibar\nExplanation:- Millibar is the standard unit of measurement of air pressure. 1 atm = 760 mm of Hg = 1013.25 millibars."
+            },
+            {
+              "id": 33,
+              "question": "In which one of the following layers of the atmosphere all weather phenomenon occur? [NDA II 2023]",
+              "options": [
+                "(a) Mesosphere",
+                "(b) Troposphere",
+                "(c) Thermosphere",
+                "(d) Stratosphere"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Troposphere\nExplanation:- All weather phenomena occur in troposphere which is the lowest layer of atmosphere."
+            },
+            {
+              "id": 34,
+              "question": "Which of the following statements regarding air temperature is/are correct?\n1. The average rate of temperature decrease with height is termed as the environmental temperature lapse rate.\n2. Air temperature is measured at a standard height of 1-2 m (4.0 feet) above the ground surface.\nSelect the answer using the code given below: [NDA I 2024]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) Both 1 and 2",
+                "(d) Neither 1 nor 2"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Both 1 and 2\nExplanation:- Air temperature is measured at a standard height of 1-2 m to avoid the influence of ground heat. Temperature decreases with altitude which is called Lapse Rate (1°C every 165 m)."
+            },
+            {
+              "id": 35,
+              "question": "Which of the following statements regarding 'aurora' is/are correct?\n1. The solar wind upon reaching the Earth's atmosphere is directed towards two magnetic poles and a colourful display of lights is seen in the night sky.\n2. The particles interact with the different gases of the atmosphere and each gas glows with a particular colour.\n3. In April 2023, aurora was captured in the night sky in India by the Indian Astronomical Observatory at Hanle, Ladakh.\nSelect the answer using the code given below: [NDA I 2024]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 and 3 only",
+                "(c) 1 and 3 only",
+                "(d) 1, 2 and 3"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) 1, 2 and 3\nExplanation:- Auroras are colourful display of lights seen in night sky at high latitudes when solar wind is directed towards the magnetic poles (aurora borealis - northern hemisphere, aurora australis - southern hemisphere). Each gas of atmosphere produces different colour. In April 2023, aurora was captured in the night sky in India by Indian Astronomical Observatory at Hanle, Ladakh.\nDo you know that Indian Astronomical Observatory at Hanle, Ladakh is the highest observatory in India?"
+            },
+            {
+              "id": 36,
+              "question": "Which of the following statements regarding humidity is/are correct?\n1. It is a ratio between the actual amount of water vapour present in the atmosphere and the maximum amount it can hold at a given temperature.\n2. When the relative humidity is high, more water evaporates from the skin.\n3. Higher the air temperature lower the relative humidity of the air.\nSelect the answer using the code given below: [NDA I 2024]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 and 3 only",
+                "(c) 1 and 3 only",
+                "(d) 1, 2 and 3"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) 1 and 3 only\nExplanation:- Relative humidity - percentage of moisture present in atmosphere compared to its full capacity.\nRelative humidity = (Absolute humidity / Max water vapour air can hold at a given temperature) × 100.\nHigh relative humidity means air already contains high amount of water and hence can't absorb more water from sources like sweat. Water evaporates more from the skin when the relative humidity is less.\nRelative humidity is inversely related to the temperature as hot air can absorb more water vapour."
+            },
+            {
+              "id": 37,
+              "question": "Consider the following statements regarding 'fronts':\n1. The movement of a front causes a slow change in weather in the area over which it moves.\n2. Cold fronts are associated with thunderstorms.\n3. Warm front is the boundary between an advancing mass of warm air where it is overriding and rising above a mass of colder air.\nWhich of the statements given above is/are correct? [NDA I 2024]",
+              "options": [
+                "(a) 1 only",
+                "(b) 1 and 2 only",
+                "(c) 2 and 3 only",
+                "(d) 1, 2 and 3"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) 1, 2 and 3 (Note: Cold fronts cause abrupt weather changes while warm fronts cause gradual changes; PDF solution key gives (D))\nExplanation:- Front is a 3-D boundary zone between two converging air masses with different physical properties (temperature, humidity, density).\nProcess of formation of front - Frontogenesis; Process of dissipation of front - Frontolysis.\nTYPES OF FRONT:\nStationary Front - When two air masses are unable to push against each other.\nCold Front - When cold air mass replaces a warm air mass by pushing into it. It is associated with thunderstorms.\nWarm Front - When warm air mass moves over cold air mass. It is associated with gradual change in weather and precipitation.\nOccluded Front - When cold air mass overtakes a warm air mass and goes underneath it."
+            },
+            {
+              "id": 38,
+              "question": "Which of the following statements regarding clouds is/are correct?\n1. Clouds are classified on the basis of altitude and their form.\n2. According to altitude they are classified as High, Middle and Low clouds.\n3. Stratus, Nimbostratus and Stratocumulus are high clouds.\nSelect the answer using the code given below: [NDA I 2024]",
+              "options": [
+                "(a) 1 only",
+                "(b) 1 and 2 only",
+                "(c) 2 and 3 only",
+                "(d) 1, 2 and 3"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) 1 and 2 only\nExplanation:- Clouds are classified on the basis of altitude and form. According to altitude, they are classified as high, middle and low clouds and according to form they are classified as stratiform and cumuliform. Stratus, Nimbostratus and Stratocumulus are low clouds."
+            },
+            {
+              "id": 39,
+              "question": "Which one of the following important greenhouse gases is not considered to be largely changed in its amount due to human activities? [GEOSCIENTIST 2022]",
+              "options": [
+                "(a) Water vapour",
+                "(b) Carbon dioxide",
+                "(c) Chlorofluorocarbon",
+                "(d) Methane"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Water vapour\nExplanation:- Water vapour is the most abundant greenhouse gas but its amount isn't directly changed due to human activities."
+            },
+            {
+              "id": 40,
+              "question": "The incident solar radiation is trapped by constituents of the atmosphere and reflects it partly towards the Earth as: [GEOSCIENTIST 2022]",
+              "options": [
+                "(a) Microwaves",
+                "(b) Thermal infrared rays",
+                "(c) Ultraviolet rays",
+                "(d) Shortwave radiation"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Thermal infrared rays (Note: PDF key prints (D) Shortwave radiation, while explanation notes Earth radiates back heat in the form of long wave or infrared radiation)\nExplanation:- Earth receives insolation in the form of shortwave radiation and gives back heat into space in the form of long wave or thermal infrared radiation."
+            },
+            {
+              "id": 41,
+              "question": "The ultraviolet solar radiations are largely absorbed by: [GEOSCIENTIST 2022]",
+              "options": [
+                "(a) Carbon dioxide and Nitrogen",
+                "(b) Oxygen and Carbon dioxide",
+                "(c) Oxygen and Ozone",
+                "(d) Nitrogen and Ozone"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Oxygen and Ozone\nExplanation:- Oxygen and Ozone absorb the UV radiation coming from Sun."
+            },
+            {
+              "id": 42,
+              "question": "The most significant variable gases in the atmosphere are: [GEOSCIENTIST 2022]",
+              "options": [
+                "(a) Oxygen and Carbon dioxide",
+                "(b) Carbon dioxide and Nitrogen",
+                "(c) Water vapour and Carbon dioxide",
+                "(d) Water vapour and Oxygen"
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Water vapour and Carbon dioxide\nExplanation:- Variable gases are those gases which are present in small and variable amounts. These include CO2, CH4, water vapour, ozone etc."
+            },
+            {
+              "id": 43,
+              "question": "Which one of the following is not correct in the context of the 'greenhouse effect'? [GEOSCIENTIST 2022]",
+              "options": [
+                "(a) Nitrogen and oxygen are poor absorbers of shortwave solar radiation.",
+                "(b) Clouds are poor absorbers of the Earth radiation.",
+                "(c) The most Earth radiation that escapes to space is in a narrow band from 8-13 micrometres.",
+                "(d) More than 70% of the atmospheric radiant energy is directed back to the surface."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Clouds are poor absorbers of the Earth radiation.\nExplanation:- Nitrogen and oxygen are considered poor absorbers of shortwave radiation.\nClouds are poor absorbers of incoming short wave radiation, but excellent absorbers of outgoing long wave radiations (Earth radiation).\nThe most Earth radiation that escapes to space is in a narrow band from 8-13 micrometres. It is called Atmospheric window.\nMore than 70% of the atmospheric radiant energy is directed back to the surface by atmosphere which is called Greenhouse effect."
+            },
+            {
+              "id": 44,
+              "question": "Which one of the following is not correct in the context of daytime heating experienced on the Earth? [GEOSCIENTIST 2022]",
+              "options": [
+                "(a) The highest daytime temperatures usually occur several hours after the time of maximum solar input.",
+                "(b) Equilibrium between incoming and outgoing radiation occurs about an hour and a half after sunset.",
+                "(c) The extent of daily lag in maximum temperature varies.",
+                "(d) Presence of vegetation cover reduces the maximum temperature."
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Equilibrium between incoming and outgoing radiation occurs about an hour and a half after sunset.\nExplanation:- The highest daytime temperatures usually occur several hours after the time of maximum solar input as Earth takes some time to absorb and reradiate heat (equilibrium occurs around mid-to-late afternoon, before sunset).\nThe extent of daily lag in temperature varies depending on factors like solar radiation, heat absorption, atmospheric conditions etc.\nPresence of vegetation cover reduces the maximum temperature."
+            },
+            {
+              "id": 45,
+              "question": "Dew point temperature represents that: [GEOSCIENTIST 2022]",
+              "options": [
+                "(a) Thin layer of air near the ground surface has become cold enough to condensate.",
+                "(b) There is thorough mixing of air.",
+                "(c) Evaporation has exceeded condensation.",
+                "(d) The night temperature is warm."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Thin layer of air near the ground surface has become cold enough to condensate.\nExplanation:- Dew point - it is the temperature at which air becomes saturated and can hold no more water."
+            },
+            {
+              "id": 46,
+              "question": "Which one of the following greenhouse gases is man-made? [GEOSCIENTIST 2022]",
+              "options": [
+                "(a) Carbon dioxide",
+                "(b) Chlorofluorocarbon",
+                "(c) Methane",
+                "(d) Nitrous oxide"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Chlorofluorocarbon\nExplanation:- CFCs (Chlorofluorocarbons) are man-made compounds containing chlorine, fluorine and carbon. They are used as refrigerants, solvents and aerosol propellants. They are responsible for ozone layer depletion."
+            },
+            {
+              "id": 47,
+              "question": "As compared to natural greenhouse effect, the enhanced greenhouse effect refers to increase in average surface temperature of the Earth due to: [GEOSCIENTIST 2022]",
+              "options": [
+                "(a) volcanic activity",
+                "(b) warm ocean currents",
+                "(c) sunspot activity",
+                "(d) anthropogenic activities"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) anthropogenic activities\nExplanation:- Enhanced greenhouse effect means amplification of greenhouse effect due to increase in greenhouse gases by human (anthropogenic) activities."
+            },
+            {
+              "id": 48,
+              "question": "The uplift mechanism that takes place when lighter warm moist air mass rises after encountering a colder and denser air mass causes ________. [GEOSCIENTIST 2023]",
+              "options": [
+                "(a) convectional precipitation",
+                "(b) frontal precipitation",
+                "(c) cyclonic precipitation",
+                "(d) orogenic precipitation"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) frontal precipitation\nExplanation:- When lighter warm moist air mass rises after encountering a colder and denser air mass, it is called a front and the related precipitation is known as Frontal precipitation."
+            },
+            {
+              "id": 49,
+              "question": "In which sphere of the atmosphere is harmful ultraviolet (UV) radiation from the Sun absorbed? [GEOSCIENTIST 2024]",
+              "options": [
+                "(a) Mesosphere",
+                "(b) Thermosphere",
+                "(c) Troposphere",
+                "(d) Stratosphere"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Stratosphere\nExplanation:- Ozone layer is present in stratosphere which absorbs the harmful UV radiation."
+            },
+            {
+              "id": 50,
+              "question": "Consider the following combinations of lapse rate in relation to atmospheric region:\n1. Troposphere: Negative lapse rate\n2. Stratosphere: Negative lapse rate\n3. Mesosphere: Negative lapse rate\n4. Thermosphere: Positive lapse rate\nHow many of the combinations given above is/are correct? [GEOSCIENTIST 2024]",
+              "options": [
+                "(a) 1",
+                "(b) 2",
+                "(c) 3",
+                "(d) 4"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) 1\nExplanation:- Lapse Rate - It is the rate of change in temperature with altitude. Lapse rate is +ve when temperature decreases with height, zero when temperature remains constant and -ve when temperature increases with height.\nTroposphere - +ve lapse rate, Stratosphere - -ve lapse rate (Only 2 is correct), Mesosphere - +ve lapse rate, Thermosphere - -ve lapse rate."
+            },
+            {
+              "id": 51,
+              "question": "With reference to the water on the planet Earth, consider the following statements:\n1. The amount of water in the rivers and lakes is more than the amount of groundwater.\n2. The amount of water in polar ice caps and glaciers is more than the amount of groundwater.\nWhich of the statements given above is/are correct? [IAS 2021]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) Both 1 and 2",
+                "(d) Neither 1 nor 2"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) 2 only\nExplanation:- 97.2% water on Earth is saline and 2.8% is fresh water. This 2.8% is comprised of ice caps/glaciers (2%), ground water (0.68%), lakes (0.4%), atmosphere, rivers. Fresh water as a whole is composed of ice caps/glaciers (68.7%), groundwater (30.1%)."
+            },
+            {
+              "id": 52,
+              "question": "Consider the following statements:\n1. High clouds primarily reflect solar radiation and cool the surface of the Earth.\n2. Low clouds have a high absorption of infrared radiation emanating from the Earth's surface and thus cause a warming effect.\nWhich of the statements given above is/are correct? [IAS 2022]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) Both 1 and 2",
+                "(d) Neither 1 nor 2"
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Neither 1 nor 2\nExplanation:- High clouds are thin (albedo 25-30%) so they let through most of the incoming solar radiation and trap outgoing long wave radiation (warming effect). Low clouds are thick clouds (albedo 70-80%) and hence they reflect more insolation and thus have a net cooling effect.\nAlbedo is the percentage of light reflected by a surface. Highest albedo - fresh ice/snow."
+            },
+            {
+              "id": 53,
+              "question": "With reference to the Earth's atmosphere, which one of the following statements is correct? [IAS 2023]",
+              "options": [
+                "(a) The total amount of insolation received at the equator is roughly about 10 times of that received at the poles.",
+                "(b) Infrared rays constitute roughly two-thirds of insolation.",
+                "(c) Infrared waves are largely absorbed by water vapour that is concentrated in the lower atmosphere.",
+                "(d) Infrared waves are a part of visible spectrum of electromagnetic waves of solar radiation."
+              ],
+              "correctAnswer": 2,
+              "solutionHinglish": "Ans (c) Infrared waves are largely absorbed by water vapour that is concentrated in the lower atmosphere.\nExplanation:- The total amount of insolation received at the equator is roughly 4 times (not 10 times) that received at poles.\nInfrared waves are absorbed by water vapour that acts as a greenhouse gas in the lower atmosphere.\nInfrared waves aren't a part of visible spectrum because they have higher wavelength than the visible spectrum.\nDescending order of wavelength of electromagnetic spectrum - Radio waves > Microwave > Infrared > Visible > UV > X-rays > Gamma rays (TRICK - Raging Martians Invaded Venus Using X-ray Guns)."
+            },
+            {
+              "id": 54,
+              "question": "With reference to \"water vapour\", which of the following statements is/are correct?\n1. It is a gas, the amount of which decreases with altitude.\n2. Its percentage is maximum at the poles.\nSelect the answer using the code given below: [IAS 2024]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) Both 1 and 2",
+                "(d) Neither 1 nor 2"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) 1 only\nExplanation:- Water vapour is a gas and its concentration decreases with altitude.\nThe percentage of water vapour is minimum at the poles and deserts (<1%) and maximum in the warm and wet tropics (up to 4%)."
+            },
+            {
+              "id": 55,
+              "question": "Consider the following statements:\nStatement-I: Rainfall is one of the reasons for weathering of rocks.\nStatement-II: Rain water contains carbon dioxide in solution.\nStatement-III: Rain water contains atmospheric oxygen.\nWhich one of the following is correct in respect of the above statements? [IAS 2024]",
+              "options": [
+                "(a) Both Statement-II and Statement-III are correct and both of them explain Statement-I",
+                "(b) Both Statement-II and Statement-III are correct, but only one of them explains Statement-I",
+                "(c) Only one of the Statements II and III is correct and that explains Statement-I",
+                "(d) Neither Statement-II nor Statement-III is correct"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Both Statement-II and Statement-III are correct and both of them explain Statement-I\nExplanation:- Rainfall is one of the reasons for weathering of rocks (chemical weathering via carbonation and oxidation). Rain water has pH value of 5.6 due to the dissolution of CO2 which forms weak carbonic acid. During rain, dissolved oxygen in rain water also causes oxidation of minerals."
+            },
+            {
+              "id": 56,
+              "question": "Consider the following statements:\nStatement-I: Thickness of the troposphere at the equator is much greater as compared to poles.\nStatement-II: At the equator, heat is transported to great heights by strong convectional currents.\nWhich one of the following is correct in respect of the above statements? [IAS 2024]",
+              "options": [
+                "(a) Both Statement-I and Statement-II are correct and Statement-II explains Statement-I.",
+                "(b) Both Statement-I and Statement-II are correct but Statement-II does not explain Statement-I.",
+                "(c) Statement-I is correct, but Statement-II is incorrect.",
+                "(d) Statement-I is incorrect, but Statement-II is correct."
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) Both Statement-I and Statement-II are correct and Statement-II explains Statement-I.\nExplanation:- Troposphere (height - poles 8 km, equator 18 km, average 13 km) is the lowest layer of atmosphere. The height of troposphere is more at equator because of the heated air that rises to greater heights via strong convectional currents."
+            },
+            {
+              "id": 57,
+              "question": "Consider the following statements:\nStatement-I: The atmosphere is heated more by incoming solar radiation than by terrestrial radiation.\nStatement-II: Carbon dioxide and other greenhouse gases in the atmosphere are good absorbers of long wave radiation.\nWhich one of the following is correct in respect of the above statements? [IAS 2024]",
+              "options": [
+                "(a) Both Statement-I and Statement-II are correct and Statement-II explains Statement-I.",
+                "(b) Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I.",
+                "(c) Statement-I is correct, but Statement-II is incorrect.",
+                "(d) Statement-I is incorrect, but Statement-II is correct."
+              ],
+              "correctAnswer": 3,
+              "solutionHinglish": "Ans (d) Statement-I is incorrect, but Statement-II is correct.\nExplanation:- The atmosphere is primarily heated by outgoing long wave terrestrial radiation. Carbon dioxide and other greenhouse gases in the atmosphere are good absorbers of long wave radiation."
+            },
+            {
+              "id": 58,
+              "question": "Which of the following is/are correct inference/inferences from isothermal maps in the month of January?\n1. The isotherms deviate to the north over the ocean and to the south over the continent.\n2. The presence of cold ocean currents, Gulf Stream and North Atlantic Drift make the North Atlantic Ocean colder and the isotherms bend towards the north.\nSelect the answer using the code given below. [IAS 2024]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) Both 1 and 2",
+                "(d) Neither 1 nor 2"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) 1 only\nExplanation:- Isotherms - lines joining places with same temperature.\nIsotherms deviate to the north over the oceans and to the south over the continent in the month of January as the temperature over the oceans is more compared to continents. The presence of Gulf Stream and North Atlantic Drift, which are warm ocean currents (not cold), make the North Atlantic ocean warmer and the isotherms bend towards the north."
+            },
+            {
+              "id": 59,
+              "question": "Identify the cloud type based on the given characteristics:\n1. Looks like cotton wool.\n2. Exists in patches with a flat base.\n3. Forms at 4-7 km height.\nCode: [CDS I 2025]",
+              "options": [
+                "(a) Cirrus",
+                "(b) Cumulus",
+                "(c) Nimbus",
+                "(d) Stratus"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) Cumulus\nExplanation:- CLOUDS:\nLow Level Clouds - Nimbus (rain bearing, opaque to sunlight, black/dark grey coloured), Stratus (layered clouds).\nCumulus - looks like cotton wool, flat base, 4-7 km height.\nCirrus - high altitude, feathery appearance, doesn't rain."
+            },
+            {
+              "id": 60,
+              "question": "Which statements about Surface inversion of temperature are correct?\n1. It causes instability in the lower atmosphere.\n2. It commonly lasts until sunrise.\nCode: [CDS I 2025]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) Both 1 and 2",
+                "(d) Neither 1 nor 2"
+              ],
+              "correctAnswer": 1,
+              "solutionHinglish": "Ans (b) 2 only\nExplanation:- Temperature Inversion - it is a phenomenon where temperature increases with height.\nConditions favourable for temperature inversion: Long winter nights, Cloudless and clear sky, Dry air near the ground, Slow movement of air, Snow covered ground surface.\nIt leads to stable atmospheric conditions (not instability). It lasts till sunrise and dissipates when the Sun begins to heat the ground."
+            },
+            {
+              "id": 61,
+              "question": "Which of the following statements with reference to Sleet is/are correct?\n1. Sleet is frozen raindrops and refrozen melted snow-water.\n2. It occurs when a layer of air with the temperature below freezing point overlies a warm layer near the ground surface.\nSelect the answer using the code given below: [NDA I 2025]",
+              "options": [
+                "(a) 1 only",
+                "(b) 2 only",
+                "(c) Both 1 and 2",
+                "(d) Neither 1 nor 2"
+              ],
+              "correctAnswer": 0,
+              "solutionHinglish": "Ans (a) 1 only\nExplanation:- Sleet is a form of precipitation composed of small ice pellets (frozen raindrops and refrozen melted snow-water). It forms when a layer of air with temperature above freezing point overlies a subfreezing layer near the ground surface."
+            }
+          ]
         }
       ]
     }
